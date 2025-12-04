@@ -1,0 +1,7674 @@
+# TODO: Translation updated at 2025-11-20 00:47
+
+# game/episode023.rpy:45
+translate german episode023_50a467b4:
+
+    # centered "{=chapter_heading}EPISODE 23{/=chapter_heading}"
+    centered "{=chapter_heading}EPISODE 23{/=chapter_heading}"
+
+# game/episode023.rpy:47
+translate german episode023_84978ca7:
+
+    # "Sitting there in that godforsaken place with Eva in my arms, my presence of mind slowly returned."
+    "Während ich dort an diesem gottverlassenen Ort saß und Eva in meinen Armen hielt, kehrte langsam meine Geistesgegenwart zurück."
+
+# game/episode023.rpy:49
+translate german episode023_aaa89ea0:
+
+    # "I could hear Lilly drawing ragged breaths, still raw from the shock of seeing her sister murdered."
+    "Ich konnte hören, wie Lilly keuchend nach Luft schnappte, noch immer gezeichnet vom Schock, ihre Schwester ermordet gesehen zu haben."
+
+# game/episode023.rpy:51
+translate german episode023_a786f85b:
+
+    # "I could hear Lilly drawing ragged breaths, still raw from the shock of seeing her best friend murdered."
+    "Ich konnte hören, wie Lilly keuchend nach Luft schnappte, noch immer gezeichnet vom Schock, ihre beste Freundin ermordet gesehen zu haben."
+
+# game/episode023.rpy:53
+translate german episode023_087cb114:
+
+    # "An equally profound sadness radiated from Aven."
+    "Von Aven ging eine ebenso tiefe Traurigkeit aus."
+
+# game/episode023.rpy:54
+translate german episode023_921f6b30:
+
+    # "The lights in the room emitted a humming sound and soon I perceived every single mechanical part in the temple, from the air filters to the groan of a generator far below."
+    "Die Lichter im Raum gaben ein summendes Geräusch von sich, und bald nahm ich jedes einzelne mechanische Teil im Tempel wahr, von den Luftfiltern bis zum Stöhnen eines Generators weit unten."
+
+# game/episode023.rpy:55
+translate german episode023_7b25bc72:
+
+    # "A recognition of possibilities started building, some huge reservoir of untapped potential."
+    "Es begann sich ein Bewusstsein für die Möglichkeiten zu entwickeln, ein riesiges Reservoir an ungenutztem Potenzial."
+
+# game/episode023.rpy:57
+translate german episode023_f772a1d1:
+
+    # "As if by instinct, I put a hand on Eva’s chest."
+    "Wie von einem Instinkt geleitet, legte ich eine Hand auf Evas Brust."
+
+# game/episode023.rpy:58
+translate german episode023_58037e89:
+
+    # "I couldn’t feel her heartbeat."
+    "Ich konnte ihren Herzschlag nicht spüren."
+
+# game/episode023.rpy:59
+translate german episode023_4dbad0b0:
+
+    # "Suddenly I became aware of the entirety of her."
+    "Plötzlich wurde mir ihr ganzes Wesen bewusst."
+
+# game/episode023.rpy:62
+translate german episode023_4adc56d0:
+
+    # "I understood what had made her body tick, the chemistry in her cells, the synapses of her brain, the unborn life growing inside her, all of it cut short by our father’s terrible actions."
+    "Ich verstand, was ihren Körper am Laufen hielt, die Chemie in ihren Zellen, die Synapsen ihres Gehirns, das ungeborene Leben, das in ihr heranwuchs – all das wurde durch die schrecklichen Taten unseres Vaters jäh beendet."
+
+# game/episode023.rpy:64
+translate german episode023_a27e6739:
+
+    # "I understood what had made her body tick, the chemistry in her cells, the synapses of her brain, all of it cut short by our father’s terrible actions."
+    "Ich verstand, was ihren Körper am Laufen gehalten hatte, die Chemie in ihren Zellen, die Synapsen ihres Gehirns – all das wurde durch die schrecklichen Taten unseres Vaters jäh beendet."
+
+# game/episode023.rpy:67
+translate german episode023_ad2ec9d7:
+
+    # "I understood what had made her body tick, the chemistry in her cells, the synapses of her brain, the unborn life growing inside her, all of it cut short by my father’s terrible actions."
+    "Ich verstand, was ihren Körper am Laufen hielt, die Chemie in ihren Zellen, die Synapsen ihres Gehirns, das ungeborene Leben, das in ihr heranwuchs – all das wurde durch die schrecklichen Taten meines Vaters jäh beendet."
+
+# game/episode023.rpy:69
+translate german episode023_e8eb20bf:
+
+    # "I understood what had made her body tick, the chemistry in her cells, the synapses of her brain, all of it cut short by my father’s terrible actions."
+    "Ich verstand, was ihren Körper am Laufen hielt, die Chemie in ihren Zellen, die Synapsen ihres Gehirns – all das wurde durch die schrecklichen Taten meines Vaters jäh beendet."
+
+# game/episode023.rpy:70
+translate german episode023_50d75e55:
+
+    # "My heightened senses understood how to undo the damage and I felt I had the power to do so."
+    "Meine geschärften Sinne wussten, wie ich den Schaden wiedergutmachen konnte, und ich spürte, dass ich die Macht dazu hatte."
+
+# game/episode023.rpy:72
+translate german episode023_2cbd4777:
+
+    # "I honed my newfound gift into a focused flow and targeted the unnatural state of my sister’s being."
+    "Ich verfeinerte meine neu entdeckte Gabe zu einem fokussierten Schaffensprozess und nahm den unnatürlichen Zustand meiner Schwester ins Visier."
+
+# game/episode023.rpy:74
+translate german episode023_4ad0eeaa:
+
+    # "I honed my newfound gift into a focused flow and targeted the unnatural state of Eva’s being."
+    "Ich verfeinerte meine neu entdeckte Gabe zu einem fokussierten Flow und nahm den unnatürlichen Zustand von Evas Sein ins Visier."
+
+# game/episode023.rpy:75
+translate german episode023_5b31ef6d:
+
+    # "I willed it not to be."
+    "Ich wollte, dass es nicht geschieht."
+
+# game/episode023.rpy:77
+translate german episode023_37f42bbe:
+
+    # "My power wrought the changes in Eva’s body, beginning the reversal as I had ordained."
+    "Meine Macht bewirkte die Veränderungen in Evas Körper und leitete so die Umkehrung ein, wie ich es verordnet hatte."
+
+# game/episode023.rpy:78
+translate german episode023_9ce12eb0:
+
+    # "My body began to shudder, the process evidently taxing it to the limit."
+    "Mein Körper begann zu zittern, der Vorgang überforderte ihn offensichtlich bis an seine Grenzen."
+
+# game/episode023.rpy:80
+translate german episode023_b0cc1acc:
+
+    # l "[p_name_short], what’s the matter?"
+    l "[p_name_short], was ist los?"
+
+# game/episode023.rpy:81
+translate german episode023_477e053b:
+
+    # l "Are you feeling alright?"
+    l "Geht es dir gut?"
+
+# game/episode023.rpy:82
+translate german episode023_d56f9197:
+
+    # av "[p_name_short]?"
+    av "[p_name_short]?"
+
+# game/episode023.rpy:83
+translate german episode023_b2d7357a:
+
+    # av "Fuck, Lilly, he’s going into cardiac arrest or something."
+    av "Verdammt, Lilly, er kriegt gleich einen Herzstillstand oder so."
+
+# game/episode023.rpy:85
+translate german episode023_f2f4a0cd:
+
+    # "My sisters approached me and Eva, but something held them back."
+    "Meine Schwestern kamen auf mich und Eva zu, aber irgendetwas hielt sie zurück."
+
+# game/episode023.rpy:87
+translate german episode023_a4b5ea9a:
+
+    # "They approached me and Eva, but something held them back."
+    "Sie kamen auf mich und Eva zu, aber irgendetwas hielt sie zurück."
+
+# game/episode023.rpy:89
+translate german episode023_b5e5fd13:
+
+    # "I could still feel the energy flowing inside Eva, nourishing her, restoring her."
+    "Ich konnte immer noch spüren, wie die Energie in Eva floss, sie nährte und regenerierte."
+
+# game/episode023.rpy:92
+translate german episode023_6fee06ca:
+
+    # "Two heartbeats fluttered awake."
+    "Zwei Herzschläge flatterten auf."
+
+# game/episode023.rpy:94
+translate german episode023_00c33222:
+
+    # "A heartbeat fluttered awake."
+    "Ein Herzschlag flatterte auf, als das Herz erwachte."
+
+# game/episode023.rpy:96
+translate german episode023_69c37e86:
+
+    # "Eva’s eyes opened."
+    "Eva öffnete die Augen."
+
+# game/episode023.rpy:97
+translate german episode023_4f2ad2dc:
+
+    # e "[p_name_short]?"
+    e "[p_name_short]?"
+
+# game/episode023.rpy:98
+translate german episode023_17a256a6:
+
+    # e "Where am I?"
+    e "Wo bin ich?"
+
+# game/episode023.rpy:100
+translate german episode023_2561f86c:
+
+    # "My sister lifted her head in confusion."
+    "Meine Schwester hob verwirrt den Kopf."
+
+# game/episode023.rpy:102
+translate german episode023_43d14d10:
+
+    # "Eva lifted her head in confusion."
+    "Eva hob verwirrt den Kopf."
+
+# game/episode023.rpy:104
+translate german episode023_f6ee16aa:
+
+    # "Blackness assaulted my vision again and a searing pain stabbed my brain."
+    "Erneut blendete mich die Dunkelheit und ein stechender Schmerz durchfuhr mein Gehirn."
+
+# game/episode023.rpy:116
+translate german episode023_ca6137ff:
+
+    # "The world faded, and I was gone."
+    "Die Welt verschwand, und ich war fort."
+
+# game/episode023.rpy:125
+translate german episode023_206a724d:
+
+    # woman "Is he going to be okay?"
+    woman "Wird er wieder gesund?"
+
+# game/episode023.rpy:127
+translate german episode023_0a41ec80:
+
+    # man "I don’t know, Lilly, I’ve never dealt with something like this before."
+    man "Ich weiß es nicht, Lilly, ich habe so etwas noch nie erlebt."
+
+# game/episode023.rpy:128
+translate german episode023_b4d01518:
+
+    # woman "I’m going to sit with him."
+    woman "Ich werde mich zu ihm setzen."
+
+# game/episode023.rpy:129
+translate german episode023_dfee7de0:
+
+    # woman "Would talking to him help?"
+    woman "Würde ein Gespräch mit ihm helfen?"
+
+# game/episode023.rpy:130
+translate german episode023_3dc0dc80:
+
+    # man "I’m sure it won’t hurt, but I don’t know if his brain is able to process anything."
+    man "Ich bin mir sicher, dass es nicht schaden wird, aber ich weiß nicht, ob sein Gehirn überhaupt etwas verarbeiten kann."
+
+# game/episode023.rpy:132
+translate german episode023_33a1249c:
+
+    # woman2 "I don’t know, Lilly, the autodoc has never dealt with something like this before."
+    woman2 "Ich weiß es nicht, Lilly, der Autodoc hat noch nie mit so etwas zu tun gehabt."
+
+# game/episode023.rpy:133
+translate german episode023_b4d01518_1:
+
+    # woman "I’m going to sit with him."
+    woman "Ich werde mich zu ihm setzen."
+
+# game/episode023.rpy:134
+translate german episode023_dfee7de0_1:
+
+    # woman "Would talking to him help?"
+    woman "Würde ein Gespräch mit ihm helfen?"
+
+# game/episode023.rpy:135
+translate german episode023_e78c5560:
+
+    # woman2 "I’m sure it won’t hurt, but the autodoc is unable to register any brain functions, so I don’t know if he’s processing anything."
+    woman2 "Ich bin mir sicher, dass es nicht schaden wird, aber der Autodoc kann keine Gehirnfunktionen registrieren, daher weiß ich nicht, ob er irgendetwas verarbeitet."
+
+# game/episode023.rpy:137
+translate german episode023_b8023cbd:
+
+    # "Long silences, voices drifting, the bleeping of machines."
+    "Lange Stille, verhallende Stimmen, das Piepen von Maschinen."
+
+# game/episode023.rpy:139
+translate german episode023_e070a5a6:
+
+    # "The machines blare now, frantic noises, people on the edge."
+    "Die Maschinen dröhnen jetzt, hektische Geräusche, Menschen am Rande des Nervenzusammenbruchs."
+
+# game/episode023.rpy:142
+translate german episode023_f6857490:
+
+    # t "She’s going into cardiac arrest."
+    t "Sie erleidet einen Herzstillstand."
+
+# game/episode023.rpy:143
+translate german episode023_902ff5c5:
+
+    # t "Stand clear."
+    t "Geh beiseite."
+
+# game/episode023.rpy:145
+translate german episode023_54e86ade:
+
+    # "The sound of electricity jolting something awake."
+    "Das Geräusch von Elektrizität, die etwas zum Leben erweckt."
+
+# game/episode023.rpy:146
+translate german episode023_99a4d6a9:
+
+    # na "Is she breathing?"
+    na "Atmet sie?"
+
+# game/episode023.rpy:147
+translate german episode023_b9a5593e:
+
+    # na "Please tell me she’s breathing."
+    na "Bitte sag mir, dass sie atmet."
+
+# game/episode023.rpy:149
+translate german episode023_55e47d2a:
+
+    # t "She is."
+    t "Das ist sie."
+
+# game/episode023.rpy:150
+translate german episode023_b7d7969f:
+
+    # t "Her heart rate is back to normal."
+    t "Ihr Herzschlag hat sich wieder normalisiert."
+
+# game/episode023.rpy:152
+translate german episode023_dab4b6be:
+
+    # na "And the baby’s?"
+    na "Und das Baby?"
+
+# game/episode023.rpy:153
+translate german episode023_7600551b:
+
+    # t "The baby is fine as well."
+    t "Dem Baby geht es auch gut."
+
+# game/episode023.rpy:155
+translate german episode023_e873ff13:
+
+    # av "She’s going into cardiac arrest."
+    av "Sie erleidet einen Herzstillstand."
+
+# game/episode023.rpy:156
+translate german episode023_bec6693c:
+
+    # av "Stand clear."
+    av "Geh beiseite."
+
+# game/episode023.rpy:158
+translate german episode023_54e86ade_1:
+
+    # "The sound of electricity jolting something awake."
+    "Das Geräusch von Elektrizität, die etwas zum Leben erweckt."
+
+# game/episode023.rpy:159
+translate german episode023_99a4d6a9_1:
+
+    # na "Is she breathing?"
+    na "Atmet sie?"
+
+# game/episode023.rpy:160
+translate german episode023_b9a5593e_1:
+
+    # na "Please tell me she’s breathing."
+    na "Bitte sag mir, dass sie atmet."
+
+# game/episode023.rpy:162
+translate german episode023_c7206d08:
+
+    # av "She is."
+    av "Das ist sie."
+
+# game/episode023.rpy:163
+translate german episode023_dd73177f:
+
+    # av "Her heart rate is back to normal."
+    av "Ihr Herzschlag hat sich wieder normalisiert."
+
+# game/episode023.rpy:165
+translate german episode023_dab4b6be_1:
+
+    # na "And the baby’s?"
+    na "Und das Baby?"
+
+# game/episode023.rpy:166
+translate german episode023_5f1883c3:
+
+    # av "The baby seems fine as well."
+    av "Dem Baby scheint es auch gut zu gehen."
+
+# game/episode023.rpy:168
+translate german episode023_9037b864:
+
+    # "Nothingness again."
+    "Wieder nichts."
+
+# game/episode023.rpy:171
+translate german episode023_e06760aa:
+
+    # av "[p_name]?"
+    av "[p_name]?"
+
+# game/episode023.rpy:172
+translate german episode023_d56f9197_1:
+
+    # av "[p_name_short]?"
+    av "[p_name_short]?"
+
+# game/episode023.rpy:174
+translate german episode023_43135cd6:
+
+    # av "This is pointless."
+    av "Das ist sinnlos."
+
+# game/episode023.rpy:175
+translate german episode023_fe614e86:
+
+    # av "I hope you can hear me."
+    av "Ich hoffe, du kannst mich hören."
+
+# game/episode023.rpy:176
+translate german episode023_2c2b82d4:
+
+    # av "This is your fourth week in a coma."
+    av "Du liegst nun schon in der vierten Woche im Koma."
+
+# game/episode023.rpy:177
+translate german episode023_e492c07c:
+
+    # av "We’re still on the Bastard."
+    av "Wir sind immer noch beim Bastard."
+
+# game/episode023.rpy:178
+translate german episode023_ccc1e23e:
+
+    # av "Everyone is doing okay."
+    av "Allen geht es gut."
+
+# game/episode023.rpy:179
+translate german episode023_504ba1fc:
+
+    # av "Even Eva."
+    av "Even Eva."
+
+# game/episode023.rpy:180
+translate german episode023_0c813755:
+
+    # av "She gave us a bit of a scare, but I guess that comes with being resurrected."
+    av "Sie hat uns ganz schön erschreckt, aber ich schätze, das gehört dazu, wenn man wiederaufersteht."
+
+# game/episode023.rpy:182
+translate german episode023_3dea1137:
+
+    # av "Her baby is growing too, she’s already showing a bump."
+    av "Ihr Baby wächst auch, man kann schon einen Bauch sehen."
+
+# game/episode023.rpy:186
+translate german episode023_74d0aef7:
+
+    # av "Anyway, I wanted to tell you something."
+    av "Ich wollte dir eigentlich etwas sagen."
+
+# game/episode023.rpy:187
+translate german episode023_e600bade:
+
+    # av "I guess there’s no other way to say."
+    av "Ich glaube, es gibt keine andere Möglichkeit, es zu sagen."
+
+# game/episode023.rpy:192
+translate german episode023_fd2bc5a2:
+
+    # av "I’m pregnant, [p_name_short]."
+    av "Ich bin schwanger, [p_name_short]."
+
+# game/episode023.rpy:193
+translate german episode023_533d9b7d:
+
+    # av "I found out today and my first instinct was to run to you to tell you."
+    av "Ich habe es heute erfahren und mein erster Impuls war, zu dir zu rennen, um es dir zu erzählen."
+
+# game/episode023.rpy:194
+translate german episode023_963da550:
+
+    # av "Then I remembered you’re not conscious."
+    av "Dann fiel mir ein, dass du nicht bei Bewusstsein bist."
+
+# game/episode023.rpy:196
+translate german episode023_ffcc4b29:
+
+    # av "But I had to tell you."
+    av "Aber ich musste es dir sagen."
+
+# game/episode023.rpy:197
+translate german episode023_105f2beb:
+
+    # av "I’m so happy, [p_name_short]."
+    av "Ich bin so glücklich, [p_name_short]."
+
+# game/episode023.rpy:198
+translate german episode023_1db54005:
+
+    # av "Even with all that’s happened."
+    av "Trotz allem, was passiert ist."
+
+# game/episode023.rpy:199
+translate german episode023_dfb033f0:
+
+    # av "Our little miracle."
+    av "Unser kleines Wunder."
+
+# game/episode023.rpy:201
+translate german episode023_a060a01d:
+
+    # av "Please come back, I can’t bear to live without you."
+    av "Bitte komm zurück, ich kann es nicht ertragen, ohne dich zu leben."
+
+# game/episode023.rpy:203
+translate german episode023_255f1410:
+
+    # av "I miss you, [p_name]."
+    av "Ich vermisse dich, [p_name]."
+
+# game/episode023.rpy:204
+translate german episode023_707e83a7:
+
+    # av "I miss us."
+    av "Ich vermisse uns."
+
+# game/episode023.rpy:205
+translate german episode023_a1f4e997:
+
+    # av "Please come back."
+    av "Bitte komm zurück."
+
+# game/episode023.rpy:209
+translate german episode023_d7edd024:
+
+    # "."
+    "Die"
+
+# game/episode023.rpy:210
+translate german episode023_8dabefc6:
+
+    # ".."
+    "..."
+
+# game/episode023.rpy:211
+translate german episode023_a20cefa7:
+
+    # "..."
+    "..."
+
+# game/episode023.rpy:214
+translate german episode023_c684cc64:
+
+    # na "Hey [p_name_short]."
+    na "Hey [p_name_short]."
+
+# game/episode023.rpy:215
+translate german episode023_e05237f4:
+
+    # na "I just thought I’d keep you company."
+    na "Ich dachte, ich leiste dir einfach Gesellschaft."
+
+# game/episode023.rpy:216
+translate german episode023_9e0263aa:
+
+    # na "We’ve been wandering through space for weeks now."
+    na "Wir irren nun schon seit Wochen durch den Weltraum."
+
+# game/episode023.rpy:217
+translate german episode023_4166e1f2:
+
+    # na "The ship just feels different without you around."
+    na "Ohne dich fühlt sich das Schiff einfach anders an."
+
+# game/episode023.rpy:221
+translate german episode023_3cf8cd82:
+
+    # na "I’m sad all the time."
+    na "Ich bin ständig traurig."
+
+# game/episode023.rpy:222
+translate german episode023_348bbcdd:
+
+    # na "I miss you so much."
+    na "Ich vermisse dich so sehr."
+
+# game/episode023.rpy:225
+translate german episode023_17f3f26e:
+
+    # na "And at the same time I couldn’t be happier."
+    na "Und gleichzeitig könnte ich nicht glücklicher sein."
+
+# game/episode023.rpy:226
+translate german episode023_9b9b6721:
+
+    # na "We did it, [p_name_short]!"
+    na "Wir haben es geschafft, [p_name_short]!"
+
+# game/episode023.rpy:227
+translate german episode023_2c2937b6:
+
+    # na "You’re going to be a father."
+    na "Du wirst Vater."
+
+# game/episode023.rpy:232
+translate german episode023_4867464f:
+
+    # na "I did the test a while ago and Thim confirmed it."
+    na "Ich habe den Test vor einer Weile gemacht und Thim hat es bestätigt."
+
+# game/episode023.rpy:234
+translate german episode023_79376443:
+
+    # na "I did the test a while ago and the autodoc confirms it."
+    na "Ich habe den Test vor einer Weile gemacht und das Autodoc bestätigt es."
+
+# game/episode023.rpy:237
+translate german episode023_94269825:
+
+    # na "I can’t believe I’m going to be a mother again."
+    na "Ich kann es nicht fassen, dass ich wieder Mutter werde."
+
+# game/episode023.rpy:239
+translate german episode023_6b8607aa:
+
+    # na "I can’t believe I’m going to be a mother."
+    na "Ich kann es nicht fassen, dass ich Mutter werde."
+
+# game/episode023.rpy:242
+translate german episode023_864d29cb:
+
+    # na "You’re going to be a busy dad, with Eva pregnant too."
+    na "Du wirst ein vielbeschäftigter Vater sein, zumal Eva auch noch schwanger ist."
+
+# game/episode023.rpy:243
+translate german episode023_f633833d:
+
+    # na "This is such a special moment and I’m sure Eva and I will bond even more as we progress into motherhood."
+    na "Das ist ein ganz besonderer Moment und ich bin mir sicher, dass Eva und ich uns noch enger verbunden fühlen werden, wenn wir Mutter werden."
+
+# game/episode023.rpy:245
+translate german episode023_4f85d7e4:
+
+    # na "But you have to be a part of it too, I simply won’t settle for any less."
+    na "Aber du musst auch dabei sein, ich gebe mich mit weniger einfach nicht zufrieden."
+
+# game/episode023.rpy:248
+translate german episode023_df0db332:
+
+    # na "And I feel so sad I can’t share this happy feeling with you."
+    na "Und ich bin so traurig, dass ich dieses Glücksgefühl nicht mit dir teilen kann."
+
+# game/episode023.rpy:251
+translate german episode023_22415cb2:
+
+    # na "You have to come back to us."
+    na "Du musst zu uns zurückkommen."
+
+# game/episode023.rpy:252
+translate german episode023_ef5691d2:
+
+    # na "Whatever issues there were between us, it’s all moot now."
+    na "Welche Probleme es auch immer zwischen uns gegeben haben mag, sie sind jetzt alle hinfällig."
+
+# game/episode023.rpy:254
+translate german episode023_c75774b3:
+
+    # na "You’re becoming a dad."
+    na "Du wirst Vater."
+
+# game/episode023.rpy:255
+translate german episode023_c59a765b:
+
+    # na "You have your whole life in front of you."
+    na "Du hast dein ganzes Leben noch vor dir."
+
+# game/episode023.rpy:257
+translate german episode023_caccd799:
+
+    # na "Please get well."
+    na "Gute Besserung."
+
+# game/episode023.rpy:258
+translate german episode023_9bf61060:
+
+    # na "I love you with all my heart, [p_name_short]."
+    na "Ich liebe dich von ganzem Herzen, [p_name_short]."
+
+# game/episode023.rpy:262
+translate german episode023_16b8cb94:
+
+    # "Silence."
+    "Schweigen."
+
+# game/episode023.rpy:263
+translate german episode023_a20cefa7_1:
+
+    # "..."
+    "..."
+
+# game/episode023.rpy:266
+translate german episode023_e631b5fd:
+
+    # ra "Hey [p_name_short]."
+    ra "Hey [p_name_short]."
+
+# game/episode023.rpy:267
+translate german episode023_ea773b94:
+
+    # ra "It’s me again."
+    ra "Ich bin\'s wieder."
+
+# game/episode023.rpy:269
+translate german episode023_3339c1ea:
+
+    # ra "We’re taking turns watching over you."
+    ra "Wir passen abwechselnd auf dich auf."
+
+# game/episode023.rpy:271
+translate german episode023_8d8edc4f:
+
+    # ra "Eva is out of the medbay, Thim declared her healthy again."
+    ra "Eva ist aus der Krankenstation entlassen, Thim hat sie wieder für gesund erklärt."
+
+# game/episode023.rpy:273
+translate german episode023_d24114cc:
+
+    # ra "Eva is out of the medbay, the autodoc declared her healthy again. "
+    ra "Eva ist aus der Krankenstation entlassen worden, der Autodoc hat sie wieder für gesund erklärt."
+
+# game/episode023.rpy:275
+translate german episode023_4bc790c8:
+
+    # ra "And she is, she really is."
+    ra "Und das ist sie auch, wirklich."
+
+# game/episode023.rpy:276
+translate german episode023_85f8bd60:
+
+    # ra "It’s a miracle what you did, [p_name_short]."
+    ra "Was du da geschafft hast, ist ein Wunder, [p_name_short]."
+
+# game/episode023.rpy:277
+translate german episode023_48558049:
+
+    # ra "There’s no other word for it."
+    ra "Dafür gibt es kein anderes Wort."
+
+# game/episode023.rpy:279
+translate german episode023_1bd3355a:
+
+    # ra "I miss you so much."
+    ra "Ich vermisse dich so sehr."
+
+# game/episode023.rpy:280
+translate german episode023_6cb3b9c4:
+
+    # ra "I love you, [p_name_short]."
+    ra "Ich liebe dich, [p_name_short]."
+
+# game/episode023.rpy:284
+translate german episode023_47f371d9:
+
+    # "The ship's hum."
+    "Das Brummen des Schiffes."
+
+# game/episode023.rpy:285
+translate german episode023_3a900034:
+
+    # "Footsteps in the corridor."
+    "Schritte im Flur."
+
+# game/episode023.rpy:288
+translate german episode023_4ea42452:
+
+    # l "Hey you."
+    l "Hey du."
+
+# game/episode023.rpy:289
+translate german episode023_50331b85:
+
+    # l "I didn’t come at first."
+    l "Ich bin nicht zuerst gekommen."
+
+# game/episode023.rpy:290
+translate german episode023_0cb810cc:
+
+    # l "Seeing you like this was too painful."
+    l "Dich so zu sehen, war zu schmerzhaft."
+
+# game/episode023.rpy:292
+translate german episode023_a4e36392:
+
+    # l "But Mom, Eva and Aven have stopped by regularly and they say sitting with you helps."
+    l "Aber Mama, Eva und Aven kommen regelmäßig vorbei und sie sagen, dass es hilft, bei dir zu sitzen."
+
+# game/episode023.rpy:294
+translate german episode023_17b5674c:
+
+    # l "But Nadya, Eva and Aven have stopped by regularly and they say sitting with you helps."
+    l "Aber Nadya, Eva und Aven kommen regelmäßig vorbei und sagen, dass es hilft, bei dir zu sitzen."
+
+# game/episode023.rpy:296
+translate german episode023_c9efd4b1:
+
+    # l "So here I am."
+    l "Da bin ich also."
+
+# game/episode023.rpy:297
+translate german episode023_10fa31dd:
+
+    # l "And there you are..."
+    l "Und da bist du ja..."
+
+# game/episode023.rpy:299
+translate german episode023_958a8b8e:
+
+    # l "I feel so lonely, [p_name_short]."
+    l "Ich fühle mich so einsam, [p_name_short]."
+
+# game/episode023.rpy:301
+translate german episode023_d7be8a47:
+
+    # l "I miss my big brother, making me laugh, kissing my tears away."
+    l "Ich vermisse meinen großen Bruder, der mich zum Lachen brachte und mir die Tränen wegküsste."
+
+# game/episode023.rpy:303
+translate german episode023_31ae3b67:
+
+    # l "I miss my friend, making me laugh, kissing my tears away."
+    l "Ich vermisse meine Freundin, die mich zum Lachen brachte und mir die Tränen wegküsste."
+
+# game/episode023.rpy:307
+translate german episode023_b67c7b59:
+
+    # l "My pregnancy is still progressing well, according to Thim."
+    l "Laut Thim verläuft meine Schwangerschaft weiterhin gut."
+
+# game/episode023.rpy:309
+translate german episode023_cd66e0c9:
+
+    # l "My pregnancy is still progressing well, according to the autodoc."
+    l "Laut Autodoc verläuft meine Schwangerschaft weiterhin gut."
+
+# game/episode023.rpy:310
+translate german episode023_4850da8d:
+
+    # l "But part of me can’t really connect to that feeling of joy."
+    l "Aber ein Teil von mir kann dieses Gefühl der Freude nicht wirklich nachempfinden."
+
+# game/episode023.rpy:312
+translate german episode023_10e15144:
+
+    # l "I need you for that, I’m certain."
+    l "Dafür brauche ich dich, da bin ich mir sicher."
+
+# game/episode023.rpy:313
+translate german episode023_5ff5d397:
+
+    # l "Please wake up."
+    l "Bitte wach auf."
+
+# game/episode023.rpy:314
+translate german episode023_fb8dd3e6:
+
+    # l "I love you so much."
+    l "Ich liebe dich so sehr."
+
+# game/episode023.rpy:317
+translate german episode023_8a9ebd1e:
+
+    # l "I know I’ve said some harsh things before."
+    l "Ich weiß, ich habe schon einige harte Dinge gesagt."
+
+# game/episode023.rpy:318
+translate german episode023_80e0f6cb:
+
+    # l "But I don’t want you to die, [p_name_short], I’d be devastated."
+    l "Aber ich will nicht, dass du stirbst, [p_name_short], ich wäre am Boden zerstört."
+
+# game/episode023.rpy:320
+translate german episode023_7e83e846:
+
+    # l "I’m so sorry."
+    l "Es tut mir so leid."
+
+# game/episode023.rpy:323
+translate german episode023_06a002ab:
+
+    # l "I miss my big brother, making me laugh or even just annoy the hell out of me."
+    l "Ich vermisse meinen großen Bruder, der mich zum Lachen brachte oder mich auch einfach nur tierisch nervte."
+
+# game/episode023.rpy:325
+translate german episode023_ab2e3a2a:
+
+    # l "I miss my friend, making me laugh or even just annoy the hell out of me."
+    l "Ich vermisse meine Freundin, die mich zum Lachen brachte oder mich auch einfach nur tierisch nervte."
+
+# game/episode023.rpy:326
+translate german episode023_5ff5d397_1:
+
+    # l "Please wake up."
+    l "Bitte wach auf."
+
+# game/episode023.rpy:328
+translate german episode023_401aa871:
+
+    # "The sounds of someone sobbing."
+    "Das Geräusch von jemandem, der schluchzt."
+
+# game/episode023.rpy:329
+translate german episode023_f86012c4:
+
+    # "Footsteps fading away."
+    "Schritte verklingen."
+
+# game/episode023.rpy:332
+translate german episode023_3c21f4ef:
+
+    # "Doors opening and closing."
+    "Türen öffnen und schließen."
+
+# game/episode023.rpy:333
+translate german episode023_ea9ebd70:
+
+    # "Buzzing of a light somewhere up high."
+    "Irgendwo hoch oben summt ein Licht."
+
+# game/episode023.rpy:336
+translate german episode023_a5a25551:
+
+    # th "Hey."
+    th "Hey."
+
+# game/episode023.rpy:337
+translate german episode023_fd690849:
+
+    # th "So."
+    th "Also."
+
+# game/episode023.rpy:338
+translate german episode023_fc4179be:
+
+    # th "Everyone keeps telling me you benefit from hearing our voices."
+    th "Alle sagen mir immer wieder, dass es dir guttut, unsere Stimmen zu hören."
+
+# game/episode023.rpy:339
+translate german episode023_895e5229:
+
+    # th "Seems weird though, talking to someone who doesn’t say anything back."
+    th "Es wirkt aber seltsam, mit jemandem zu reden, der nichts erwidert."
+
+# game/episode023.rpy:341
+translate german episode023_67d96be9:
+
+    # th "Well, here goes."
+    th "Nun gut, los geht\'s."
+
+# game/episode023.rpy:342
+translate german episode023_d12fa3f5:
+
+    # th "Fuck."
+    th "Verdammt."
+
+# game/episode023.rpy:343
+translate german episode023_523a3303:
+
+    # th "I don’t know what to say."
+    th "Ich weiß nicht, was ich sagen soll."
+
+# game/episode023.rpy:344
+translate german episode023_fbdb606b:
+
+    # th "The whole crew has been devastated by what happened."
+    th "Die gesamte Crew ist von dem Geschehenen zutiefst erschüttert."
+
+# game/episode023.rpy:345
+translate german episode023_560add61:
+
+    # th "Nobody smiles anymore."
+    th "Niemand lächelt mehr."
+
+# game/episode023.rpy:346
+translate german episode023_bd33d187:
+
+    # th "Dinner together is a nightmare, with everybody picking at their food."
+    th "Das gemeinsame Abendessen ist ein Albtraum, jeder pickt nur an seinem Essen herum."
+
+# game/episode023.rpy:349
+translate german episode023_9a4a54ef:
+
+    # th "Eva bursts into tears randomly, but I guess that’s the hormones, so she’s forgiven, considering her pregnancy."
+    th "Eva bricht immer wieder plötzlich in Tränen aus, aber ich schätze, das liegt an den Hormonen, also sei ihr das angesichts ihrer Schwangerschaft verziehen."
+
+# game/episode023.rpy:351
+translate german episode023_83563e05:
+
+    # th "Lilly bursts into tears randomly and I get that she’s sad, but it’s almost likes she’s hormonal or something."
+    th "Lilly bricht immer wieder plötzlich in Tränen aus, und ich verstehe ja, dass sie traurig ist, aber es wirkt fast so, als ob es an ihren Hormonen läge oder so."
+
+# game/episode023.rpy:353
+translate german episode023_5cbae025:
+
+    # th "Aven bursts into tears randomly and I get that she’s sad, but it’s almost likes she’s hormonal or something."
+    th "Aven bricht immer wieder plötzlich in Tränen aus, und ich verstehe ja, dass sie traurig ist, aber es wirkt fast so, als ob es an ihren Hormonen läge oder so."
+
+# game/episode023.rpy:355
+translate german episode023_7144b46a:
+
+    # th "Nadya bursts into tears randomly and I get that she’s sad, but it’s almost likes she’s hormonal or something."
+    th "Nadya bricht immer wieder plötzlich in Tränen aus, und ich verstehe ja, dass sie traurig ist, aber es wirkt fast so, als ob es an ihren Hormonen läge oder so."
+
+# game/episode023.rpy:357
+translate german episode023_e95b0400:
+
+    # th "Céline’s keeping the ship on a slow burn, waiting for things to change."
+    th "Céline hält die Sache langsam am Laufen und wartet darauf, dass sich die Dinge ändern."
+
+# game/episode023.rpy:358
+translate german episode023_a3b083a2:
+
+    # th "It all seems so pointless."
+    th "Es erscheint alles so sinnlos."
+
+# game/episode023.rpy:359
+translate german episode023_11b7423d:
+
+    # th "This is not the first time everybody sat around your bed fearing the worst."
+    th "Das ist nicht das erste Mal, dass alle um dein Bett sitzen und das Schlimmste befürchten."
+
+# game/episode023.rpy:360
+translate german episode023_99d308aa:
+
+    # th "So I guess what I’m trying to tell you is that you have got to stop doing this."
+    th "Also, was ich dir sagen will, ist, dass du damit aufhören musst."
+
+# game/episode023.rpy:362
+translate german episode023_c8063796:
+
+    # th "Shit."
+    th "Scheiße."
+
+# game/episode023.rpy:363
+translate german episode023_1fbdab02:
+
+    # th "That didn’t come out right."
+    th "Das kam nicht richtig rüber."
+
+# game/episode023.rpy:364
+translate german episode023_ca0d3ddf:
+
+    # th "Okay, we miss you, [p_name_short]."
+    th "Okay, wir vermissen dich, [p_name_short]."
+
+# game/episode023.rpy:365
+translate german episode023_3522c826:
+
+    # th "..."
+    th "..."
+
+# game/episode023.rpy:367
+translate german episode023_bebe542c:
+
+    # th "I miss you."
+    th "Ich vermisse dich."
+
+# game/episode023.rpy:368
+translate german episode023_26f5687c:
+
+    # th "Please come back to us...{w} To me."
+    th "Bitte komm zurück zu uns...{w} Zu mir."
+
+# game/episode023.rpy:369
+translate german episode023_a269776b:
+
+    # th "I can’t bear to be without you."
+    th "Ich kann es nicht ertragen, ohne dich zu sein."
+
+# game/episode023.rpy:370
+translate german episode023_847ce0c2:
+
+    # th "Dammit."
+    th "Verdammt!"
+
+# game/episode023.rpy:372
+translate german episode023_98b74e84:
+
+    # th "I was supposed to only say positive things to you."
+    th "Ich sollte dir doch nur Positives sagen."
+
+# game/episode023.rpy:373
+translate german episode023_11c8b72a:
+
+    # th "Positivity speeds up your recovery, or some nonsense."
+    th "Positivität beschleunigt deine Genesung, oder so ein Quatsch."
+
+# game/episode023.rpy:374
+translate german episode023_167c67e3:
+
+    # th "A broken engine doesn’t spring to life just by saying nice things to it, is all I’m saying."
+    th "Ein kaputter Motor erwacht nicht zum Leben, nur weil man ihm nette Dinge sagt, das ist alles, was ich sagen will."
+
+# game/episode023.rpy:375
+translate german episode023_f5fb1262:
+
+    # th "I’m rambling, aren’t I?"
+    th "Ich schweife ab, nicht wahr?"
+
+# game/episode023.rpy:376
+translate german episode023_f1b23641:
+
+    # th "Yeah I am."
+    th "Ja, das bin ich."
+
+# game/episode023.rpy:378
+translate german episode023_78a4f5de:
+
+    # th "I’m going back to the engine room, see if I can get that stupid robot of mine to fall in line."
+    th "Ich gehe zurück in den Maschinenraum und schaue, ob ich meinen blöden Roboter dazu bringen kann, sich zu fügen."
+
+# game/episode023.rpy:379
+translate german episode023_b9314550:
+
+    # th "I’ll be back though, with more cheery words."
+    th "Ich komme aber wieder, mit erfreulicheren Worten."
+
+# game/episode023.rpy:383
+translate german episode023_a611d3b4:
+
+    # "Soft lips brushing my forehead."
+    "Sanfte Lippen streifen meine Stirn."
+
+# game/episode023.rpy:384
+translate german episode023_c5cba793:
+
+    # "Sensation returning."
+    "Die Sensation kehrt zurück."
+
+# game/episode023.rpy:386
+translate german episode023_14444c91:
+
+    # e "Hey you."
+    e "Hey du."
+
+# game/episode023.rpy:387
+translate german episode023_b22fe01b:
+
+    # e "Sorry I haven’t been back to the medbay earlier."
+    e "Tut mir leid, dass ich nicht früher in die Krankenstation zurückgekommen bin."
+
+# game/episode023.rpy:389
+translate german episode023_9b75fadd:
+
+    # e "Thim didn’t want me to put strain on myself."
+    e "Thim wollte nicht, dass ich mich überanstrenge."
+
+# game/episode023.rpy:391
+translate german episode023_0aababed:
+
+    # e "The autodoc advised against putting strain on myself for a good while."
+    e "Der Autodoc riet mir, mich eine ganze Weile nicht zu überanstrengen."
+
+# game/episode023.rpy:392
+translate german episode023_3105ffc8:
+
+    # e "So I’ve only managed some brief visits."
+    e "Also habe ich es bisher nur zu einigen kurzen Besuchen geschafft."
+
+# game/episode023.rpy:393
+translate german episode023_85171774:
+
+    # e "But I’m cleared now, so nobody can tell me to get more rest."
+    e "Aber ich bin jetzt wieder voll einsatzfähig, also kann mir niemand mehr sagen, dass ich mich noch mehr ausruhen soll."
+
+# game/episode023.rpy:394
+translate german episode023_03637b8a:
+
+    # e "I’m so sick of lying in my quarters, wondering how you are."
+    e "Ich habe es so satt, in meinem Quartier zu liegen und mich zu fragen, wie es dir geht."
+
+# game/episode023.rpy:397
+translate german episode023_bf6c16af:
+
+    # e "Thim says you’re doing better, that your body is growing stronger again."
+    e "Thim sagt, es gehe dir besser, dein Körper werde wieder stärker."
+
+# game/episode023.rpy:399
+translate german episode023_1340f194:
+
+    # e "The autodoc reports you’re doing better, that your body is growing stronger again."
+    e "Der Autodoc meldet, dass es dir besser geht und dein Körper wieder stärker wird."
+
+# game/episode023.rpy:400
+translate german episode023_ab0f0137:
+
+    # e "Are you waiting to come back to us, [p_name_short]?"
+    e "Wartest du darauf, zu uns zurückzukommen, [p_name_short]?"
+
+# game/episode023.rpy:402
+translate german episode023_cd30fa3c:
+
+    # e "Because we all need you."
+    e "Weil wir dich alle brauchen."
+
+# game/episode023.rpy:404
+translate german episode023_0184a996:
+
+    # e "I really need you."
+    e "Ich brauche dich wirklich."
+
+# game/episode023.rpy:408
+translate german episode023_67fe222c:
+
+    # e "I can feel our baby inside me, [p_name_short]."
+    e "Ich kann unser Baby in mir spüren, [p_name_short]."
+
+# game/episode023.rpy:409
+translate german episode023_0000a1d8:
+
+    # e "She’s growing fast, I’m already showing."
+    e "Sie wächst schnell, man sieht es mir schon an."
+
+# game/episode023.rpy:410
+translate german episode023_447a6ce7:
+
+    # e "Or he, but I have a feeling it’s a girl."
+    e "Oder er, aber ich habe das Gefühl, es ist ein Mädchen."
+
+# game/episode023.rpy:412
+translate german episode023_4fb8bd9f:
+
+    # e "I wish you could touch me, feel the changes happening to my body."
+    e "Ich wünschte, du könntest mich berühren, die Veränderungen in meinem Körper spüren."
+
+# game/episode023.rpy:413
+translate german episode023_6fa3fa9e:
+
+    # e "Maybe you can."
+    e "Vielleicht kannst du es."
+
+# game/episode023.rpy:414
+translate german episode023_e376bf9d:
+
+    # "Fingers brushing mine, lifting my hand."
+    "Finger streifen meine, heben meine Hand."
+
+# game/episode023.rpy:416
+translate german episode023_5a747b73:
+
+    # "The warm pulsing feel of her skin."
+    "Das warme, pulsierende Gefühl ihrer Haut."
+
+# game/episode023.rpy:417
+translate german episode023_0163ebbd:
+
+    # e "I’ve put your hand on my belly."
+    e "Ich habe deine Hand auf meinen Bauch gelegt."
+
+# game/episode023.rpy:418
+translate german episode023_c6a38cb5:
+
+    # e "I’ve grown quite a lot, [p_name_short]."
+    e "Ich bin ganz schön gewachsen, [p_name_short]."
+
+# game/episode023.rpy:419
+translate german episode023_ddb0cb58:
+
+    # e "Can you feel her?"
+    e "Kannst du sie spüren?"
+
+# game/episode023.rpy:420
+translate german episode023_1d8e5c25:
+
+    # "Warmth."
+    "Wärme."
+
+# game/episode023.rpy:421
+translate german episode023_f18dd332:
+
+    # "Life."
+    "Leben."
+
+# game/episode023.rpy:425
+translate german episode023_823a9bba:
+
+    # e "I want to feel your touch on my skin again, [p_name_short]."
+    e "Ich möchte deine Berührung wieder auf meiner Haut spüren, [p_name_short]."
+
+# game/episode023.rpy:426
+translate german episode023_8ad97236:
+
+    # e "Make love, like we did before."
+    e "Liebt euch, wie wir es früher getan haben."
+
+# game/episode023.rpy:428
+translate german episode023_e376bf9d_1:
+
+    # "Fingers brushing mine, lifting my hand."
+    "Finger streifen meine, heben meine Hand."
+
+# game/episode023.rpy:429
+translate german episode023_5a747b73_1:
+
+    # "The warm pulsing feel of her skin."
+    "Das warme, pulsierende Gefühl ihrer Haut."
+
+# game/episode023.rpy:434
+translate german episode023_925b3b72:
+
+    # "A longing to see her again, so intense it aches."
+    "Die Sehnsucht, sie wiederzusehen, ist so intensiv, dass es schmerzt."
+
+# game/episode023.rpy:436
+translate german episode023_48c7c719:
+
+    # "I willed my eyes open."
+    "Ich zwang mich, die Augen zu öffnen."
+
+# game/episode023.rpy:437
+translate german episode023_f9bf56d7:
+
+    # "They refused."
+    "Sie weigerten sich."
+
+# game/episode023.rpy:438
+translate german episode023_8a5ec9da:
+
+    # "I tried again."
+    "Ich habe es erneut versucht."
+
+# game/episode023.rpy:439
+translate german episode023_c90c16eb:
+
+    # "My fingers fluttered against her."
+    "Meine Finger strichen über ihre Haut."
+
+# game/episode023.rpy:440
+translate german episode023_d50ec2ed:
+
+    # "I could hear her gasp."
+    "Ich konnte sie nach Luft schnappen hören."
+
+# game/episode023.rpy:442
+translate german episode023_d8890e17:
+
+    # e "I think..."
+    e "Glaube ich..."
+
+# game/episode023.rpy:443
+translate german episode023_ce9235e7:
+
+    # e "I think he’s waking up!"
+    e "Ich glaube, er wacht auf!"
+
+# game/episode023.rpy:446
+translate german episode023_54e3b715:
+
+    # e "Thim!"
+    e "Thim!"
+
+# game/episode023.rpy:449
+translate german episode023_d2fd328f:
+
+    # e "Mom!"
+    e "Mama!"
+
+# game/episode023.rpy:451
+translate german episode023_ec7105e8:
+
+    # e "Nadya!"
+    e "Nadya!"
+
+# game/episode023.rpy:453
+translate german episode023_4ef7e8d1:
+
+    # e "Are you coming back to me, [p_name_short]?"
+    e "Kommst du zu mir zurück, [p_name_short]?"
+
+# game/episode023.rpy:454
+translate german episode023_f8203b3d:
+
+    # "I managed to crack my eyes open just a little."
+    "Ich schaffte es, meine Augen einen Spaltbreit zu öffnen."
+
+# game/episode023.rpy:460
+translate german episode023_2be8003b:
+
+    # "My sister slowly came into focus."
+    "Meine Schwester kam langsam in den Fokus."
+
+# game/episode023.rpy:463
+translate german episode023_ba63cf74:
+
+    # "My girlfriend slowly came into focus."
+    "Meine Freundin kam langsam in den Fokus."
+
+# game/episode023.rpy:465
+translate german episode023_7758d504:
+
+    # "My friend slowly came into focus."
+    "Mein Freund wurde langsam scharf sichtbar."
+
+# game/episode023.rpy:466
+translate german episode023_20b0a94d:
+
+    # "Tears streaked her cheeks and her fingers clenched around mine."
+    "Tränen rannen über ihre Wangen und ihre Finger umklammerten meine."
+
+# game/episode023.rpy:467
+translate german episode023_db5ea65b:
+
+    # c "E-Eva?"
+    c "E-Eva?"
+
+# game/episode023.rpy:468
+translate german episode023_1c0fd383:
+
+    # e "You’re back!"
+    e "Du bist zurück!"
+
+# game/episode023.rpy:469
+translate german episode023_7eb48208:
+
+    # e "You’re really back!"
+    e "Du bist wirklich zurück!"
+
+# game/episode023.rpy:471
+translate german episode023_a892813c:
+
+    # "Eva kissed the back of my hand and let her tears flow freely."
+    "Eva küsste meinen Handrücken und ließ ihren Tränen freien Lauf."
+
+# game/episode023.rpy:474
+translate german episode023_10140728:
+
+    # "Thim was hovering in the vicinity, trying to get more readings from the machine I was hooked up to."
+    "Thim hielt sich in der Nähe auf und versuchte, weitere Messwerte von dem Gerät zu erhalten, an das ich angeschlossen war."
+
+# game/episode023.rpy:477
+translate german episode023_b2a0b317:
+
+    # "Nadya was hovering in the vicinity, clearly just as emotional as her daughter."
+    "Nadya hielt sich in der Nähe auf und war offensichtlich genauso emotional wie ihre Tochter."
+
+# game/episode023.rpy:478
+translate german episode023_6114aa79:
+
+    # c "I feel like I’ve been run over by an especially large motorbike."
+    c "Ich fühle mich, als wäre ich von einem besonders großen Motorrad überfahren worden."
+
+# game/episode023.rpy:481
+translate german episode023_7767e07b:
+
+    # t "It was a very close call."
+    t "Das war wirklich knapp."
+
+# game/episode023.rpy:482
+translate german episode023_ac640f8e:
+
+    # t "Whatever you did to Eva must have drained you completely."
+    t "Was auch immer du Eva angetan hast, muss dich völlig ausgelaugt haben."
+
+# game/episode023.rpy:485
+translate german episode023_1166becc:
+
+    # na "It was a very close call, according to the autodoc."
+    na "Laut Autodoc war es eine sehr knappe Angelegenheit."
+
+# game/episode023.rpy:486
+translate german episode023_1a06f493:
+
+    # na "Whatever you did to Eva must have drained you completely."
+    na "Was auch immer du Eva angetan hast, muss dich völlig ausgelaugt haben."
+
+# game/episode023.rpy:489
+translate german episode023_54085e6f:
+
+    # e "You brought the baby and me back to life, [p_name]."
+    e "Du hast das Baby und mich wieder zum Leben erweckt, [p_name]."
+
+# game/episode023.rpy:492
+translate german episode023_54ade9a3:
+
+    # e "You brought me back to life, [p_name]."
+    e "Du hast mich wieder zum Leben erweckt, [p_name]."
+
+# game/episode023.rpy:493
+translate german episode023_7c50079c:
+
+    # c "Yes, that’s the last thing I remember."
+    c "Ja, das ist das Letzte, woran ich mich erinnere."
+
+# game/episode023.rpy:494
+translate german episode023_9919a7ac:
+
+    # c "You were dead and I couldn’t live with that."
+    c "Du warst tot und ich konnte damit nicht leben."
+
+# game/episode023.rpy:497
+translate german episode023_20cef554:
+
+    # t "Most people can’t, but what you did next defies any logical explanation."
+    t "Die meisten Menschen können das nicht, aber was du dann getan hast, entzieht sich jeder logischen Erklärung."
+
+# game/episode023.rpy:500
+translate german episode023_80c27a3a:
+
+    # na "I understand completely, but what you did next defies any logical explanation."
+    na "Ich verstehe das vollkommen, aber was du dann getan hast, entzieht sich jeder logischen Erklärung."
+
+# game/episode023.rpy:505
+translate german episode023_94ae1f61:
+
+    # e "The only thing I remember is that dreadful procedure and then nothing."
+    e "Ich erinnere mich nur noch an diese schreckliche Prozedur und dann an nichts mehr."
+
+# game/episode023.rpy:506
+translate german episode023_c1e58e0b:
+
+    # e "Next thing I open my eyes and I’m with you, unconscious but holding me close."
+    e "Im nächsten Moment öffne ich meine Augen und bin bei dir, bewusstlos, aber du hältst mich fest."
+
+# game/episode023.rpy:507
+translate german episode023_97d79519:
+
+    # c "I don’t know exactly."
+    c "Ich weiß es nicht genau."
+
+# game/episode023.rpy:508
+translate german episode023_e729de63:
+
+    # c "I just became very aware of my surroundings and it was so clear what I needed to do, so I just did it."
+    c "Ich habe meine Umgebung plötzlich sehr bewusst wahrgenommen und es war so klar, was ich tun musste, also habe ich es einfach getan."
+
+# game/episode023.rpy:510
+translate german episode023_dbfa98e7:
+
+    # c "I understood what made your body and the baby’s tick, so I fixed it."
+    c "Ich habe verstanden, was deinen Körper und den des Babys ausmacht, also habe ich es repariert."
+
+# game/episode023.rpy:512
+translate german episode023_8bd39c35:
+
+    # c "I understood what made your body tick, so I fixed it."
+    c "Ich habe verstanden, was deinen Körper antreibt, also habe ich es repariert."
+
+# game/episode023.rpy:515
+translate german episode023_7b8df70e:
+
+    # t "So you fixed it..."
+    t "Du hast es also repariert..."
+
+# game/episode023.rpy:517
+translate german episode023_e56a6a4b:
+
+    # t "Your sister isn’t a broken watch, [p_name]."
+    t "Deine Schwester ist keine kaputte Uhr, [p_name]."
+
+# game/episode023.rpy:519
+translate german episode023_ff455a72:
+
+    # t "Eva isn’t a broken watch, [p_name]."
+    t "Eva ist keine kaputte Uhr, [p_name]."
+
+# game/episode023.rpy:520
+translate german episode023_2ae62dd0:
+
+    # c "Hey, I’ve just come out of a coma, so think of your bedside manner, Doctor T."
+    c "Hey, ich bin gerade erst aus dem Koma erwacht, also denken Sie bitte an Ihr Einfühlungsvermögen, Doktor T."
+
+# game/episode023.rpy:522
+translate german episode023_6680f7bb:
+
+    # t "Well, broken watch or not, whatever you did worked."
+    t "Nun ja, die Uhr ist kaputt oder nicht, was auch immer du getan hast, es hat funktioniert."
+
+# game/episode023.rpy:524
+translate german episode023_c7233ddf:
+
+    # t "Eva and her baby are as healthy as she could be."
+    t "Eva und ihr Baby sind so gesund, wie es nur sein kann."
+
+# game/episode023.rpy:526
+translate german episode023_85127ec1:
+
+    # t "Eva is as healthy as she could be."
+    t "Eva ist so gesund, wie es nur sein kann."
+
+# game/episode023.rpy:529
+translate german episode023_d253377c:
+
+    # na "That sounds too simple, but it worked."
+    na "Das klingt zu einfach, aber es hat funktioniert."
+
+# game/episode023.rpy:532
+translate german episode023_c866ef7b:
+
+    # na "The autodoc tells us that Eva and her baby are as healthy as she could be."
+    na "Der Autodoc teilt uns mit, dass Eva und ihr Baby so gesund sind, wie es nur sein kann."
+
+# game/episode023.rpy:534
+translate german episode023_ea1bb8de:
+
+    # na "The autodoc tells us that Eva is as healthy as she could be."
+    na "Der Autodoc sagt uns, dass Eva so gesund ist, wie es nur sein kann."
+
+# game/episode023.rpy:539
+translate german episode023_92da59e0:
+
+    # e "Could you do it again?"
+    e "Könntest du es bitte noch einmal machen?"
+
+# game/episode023.rpy:540
+translate german episode023_3ea4478f:
+
+    # e "Bring someone back to life, I mean."
+    e "Jemanden wieder zum Leben erwecken, meine ich."
+
+# game/episode023.rpy:541
+translate german episode023_68e69dd0:
+
+    # c "I don’t think so."
+    c "Ich glaube nicht."
+
+# game/episode023.rpy:542
+translate german episode023_b5edda9a:
+
+    # c "This attempt nearly killed me, so I might not be so lucky when there’s a next time."
+    c "Dieser Versuch hätte mich beinahe das Leben gekostet, also habe ich beim nächsten Mal vielleicht nicht so viel Glück."
+
+# game/episode023.rpy:543
+translate german episode023_8ba2bfde:
+
+    # c "That said, the procedure on Petrarch has changed me and I need to find out to what extent when I’m able."
+    c "Allerdings hat mich das Verfahren bei Petrarca verändert, und ich muss herausfinden, in welchem ​​Ausmaß, sobald ich dazu in der Lage bin."
+
+# game/episode023.rpy:544
+translate german episode023_359a4a65:
+
+    # c "Maybe we could set up some tests?"
+    c "Vielleicht könnten wir ein paar Tests durchführen?"
+
+# game/episode023.rpy:547
+translate german episode023_ce641629:
+
+    # t "I think this is far enough as exertion goes."
+    t "Ich glaube, das ist jetzt anstrengend genug."
+
+# game/episode023.rpy:548
+translate german episode023_5b84f2cc:
+
+    # t "You need to rest, [p_name], gather your strength."
+    t "Du musst dich ausruhen, [p_name], um deine Kräfte zu sammeln."
+
+# game/episode023.rpy:550
+translate german episode023_66fb92f5:
+
+    # t "After that you can play guinea pig in any experiment you like to set up."
+    t "Danach kannst du bei jedem beliebigen Experiment als Versuchskaninchen mitwirken."
+
+# game/episode023.rpy:553
+translate german episode023_d0a379ce:
+
+    # na "I think this is far enough as exertion goes."
+    na "Ich glaube, das ist jetzt anstrengend genug."
+
+# game/episode023.rpy:554
+translate german episode023_b07fb92e:
+
+    # na "You need to rest, [p_name], gather your strength."
+    na "Du musst dich ausruhen, [p_name], um deine Kräfte zu sammeln."
+
+# game/episode023.rpy:556
+translate german episode023_e28772d4:
+
+    # na "Any tests will have to be conducted after you’re able to function again."
+    na "Alle Tests müssen durchgeführt werden, nachdem du wieder voll funktionsfähig bist."
+
+# game/episode023.rpy:557
+translate german episode023_5f082dca:
+
+    # c "I’ll be a good patient."
+    c "Ich werde eine brave Patientin sein."
+
+# game/episode023.rpy:558
+translate german episode023_70415271:
+
+    # c "But I want to get back to work as soon as I’m able."
+    c "Aber ich möchte so schnell wie möglich wieder arbeiten gehen."
+
+# game/episode023.rpy:561
+translate german episode023_48e4c222:
+
+    # t "I’ll release you as soon as I deem you fit."
+    t "Ich werde dich freilassen, sobald ich dich für geeignet halte."
+
+# game/episode023.rpy:563
+translate german episode023_c4a7dd92:
+
+    # t "Considering you came out of your coma seemingly unharmed, I think you’ll be up and about in no time."
+    t "Da du scheinbar unversehrt aus dem Koma erwacht bist, denke ich, dass du im Nu wieder auf den Beinen sein wirst."
+
+# game/episode023.rpy:566
+translate german episode023_953b10e5:
+
+    # na "Of course, you’ll be released as soon as the autodoc deems you fit."
+    na "Natürlich werden Sie freigelassen, sobald der Autodoc Sie für geeignet hält."
+
+# game/episode023.rpy:568
+translate german episode023_772e5071:
+
+    # c "One last thing though."
+    c "Noch eine letzte Sache."
+
+# game/episode023.rpy:569
+translate german episode023_1da3ddfb:
+
+    # c "What about Petrarch?"
+    c "Und was ist mit Petrarca?"
+
+# game/episode023.rpy:574
+translate german episode023_063b315a:
+
+    # e "What about it?"
+    e "Was ist damit?"
+
+# game/episode023.rpy:575
+translate german episode023_dd520190:
+
+    # c "We’re nowhere near that planet are we?"
+    c "Wir sind noch weit von diesem Planeten entfernt, oder?"
+
+# game/episode023.rpy:578
+translate german episode023_5d1facfb:
+
+    # t "No, we left that godforsaken place behind a long time ago."
+    t "Nein, diesen gottverlassenen Ort haben wir schon vor langer Zeit hinter uns gelassen."
+
+# game/episode023.rpy:581
+translate german episode023_4aa93a46:
+
+    # na "No, we left that godforsaken place behind a long time ago."
+    na "Nein, diesen gottverlassenen Ort haben wir schon vor langer Zeit hinter uns gelassen."
+
+# game/episode023.rpy:582
+translate german episode023_57a76272:
+
+    # c "Did you destroy everything like we planned?"
+    c "Hast du alles zerstört, wie wir es geplant hatten?"
+
+# game/episode023.rpy:587
+translate german episode023_e7fb7c51:
+
+    # e "Yes, we laid waste to the entire planet."
+    e "Ja, wir haben den gesamten Planeten verwüstet."
+
+# game/episode023.rpy:588
+translate german episode023_d8e67e51:
+
+    # e "When it became clear the Sovereignty wasn’t about to return to the planet’s surface, Thyia headed a team to sabotage any structure the Bastard’s scanners could pick up."
+    e "Als klar wurde, dass die Souveränität nicht auf die Planetenoberfläche zurückkehren würde, leitete Thyia ein Team, um jede Struktur zu sabotieren, die die Scanner des Bastards erfassen konnten."
+
+# game/episode023.rpy:589
+translate german episode023_1e9b3252:
+
+    # e "It took several weeks, but they managed to destroy any computer or record on that planet."
+    e "Es dauerte mehrere Wochen, aber es gelang ihnen, alle Computer und Aufzeichnungen auf diesem Planeten zu zerstören."
+
+# game/episode023.rpy:590
+translate german episode023_53b2c4b4:
+
+    # c "Good, sounds like she salted the earth thoroughly."
+    c "Good, klingt, als hätte sie die Erde gründlich mit Salz bestreut."
+
+# game/episode023.rpy:593
+translate german episode023_8a662f02:
+
+    # t "She sure did."
+    t "Das hat sie ganz bestimmt."
+
+# game/episode023.rpy:594
+translate german episode023_02fa0c61:
+
+    # t "Now rest, [p_name_short]."
+    t "Jetzt ausruhen, [p_name_short]."
+
+# game/episode023.rpy:597
+translate german episode023_6c782f6f:
+
+    # na "She sure did."
+    na "Das hat sie ganz bestimmt."
+
+# game/episode023.rpy:598
+translate german episode023_580b7598:
+
+    # na "Now rest, [p_name_short]."
+    na "Jetzt ausruhen, [p_name_short]."
+
+# game/episode023.rpy:600
+translate german episode023_f70fcf0b:
+
+    # c "I will, thanks Mom."
+    c "Das werde ich, danke Mama."
+
+# game/episode023.rpy:602
+translate german episode023_a86df597:
+
+    # c "I will, thanks."
+    c "Das werde ich, danke."
+
+# game/episode023.rpy:605
+translate german episode023_76375f12:
+
+    # "Thim was right, it didn’t take long for me to recover."
+    "Thim hatte Recht, ich habe mich schnell erholt."
+
+# game/episode023.rpy:607
+translate german episode023_1846d65d:
+
+    # "It didn’t take long for me to recover."
+    "Ich habe mich schnell erholt."
+
+# game/episode023.rpy:609
+translate german episode023_d4f6f6e5:
+
+    # "I was able to walk short distances unaided after a few days."
+    "Nach wenigen Tagen konnte ich kurze Strecken ohne fremde Hilfe zurücklegen."
+
+# game/episode023.rpy:611
+translate german episode023_5c30b688:
+
+    # "When I could roam around the immediate surroundings of the medbay without needing several hours of sleep afterwards, Thim deemed me fit enough for release out of the medbay."
+    "Als ich mich in der unmittelbaren Umgebung der Krankenstation frei bewegen konnte, ohne anschließend mehrere Stunden Schlaf zu benötigen, hielt Thim mich für fit genug, um die Krankenstation zu verlassen."
+
+# game/episode023.rpy:613
+translate german episode023_b1218483:
+
+    # "When I could roam around the immediate surroundings of the medbay without needing several hours of sleep afterwards, the autodoc deemed me fit enough for release out of the medbay."
+    "Als ich mich in der unmittelbaren Umgebung der Krankenstation frei bewegen konnte, ohne anschließend mehrere Stunden Schlaf zu benötigen, befand mich der Autodoc für fit genug, um die Krankenstation zu verlassen."
+
+# game/episode023.rpy:614
+translate german episode023_4e3275c2:
+
+    # "The atmosphere on the ship seemed oddly muted."
+    "Die Atmosphäre auf dem Schiff wirkte seltsam gedämpft."
+
+# game/episode023.rpy:615
+translate german episode023_027009d3:
+
+    # "After our escape from Petrarch, the Iron Bastard had wandered aimlessly through the void, burning minimal amounts of fuel."
+    "Nach unserer Flucht aus Petrarch irrte der Eiserne Bastard ziellos durch die Leere und verbrauchte dabei nur minimale Mengen an Treibstoff."
+
+# game/episode023.rpy:616
+translate german episode023_7c58c16e:
+
+    # "Daily life on the ship appeared to be in stasis, like everybody was waiting for our next move."
+    "Das tägliche Leben an Bord schien stillzustehen, als ob alle auf unseren nächsten Schritt warteten."
+
+# game/episode023.rpy:617
+translate german episode023_ff99f3de:
+
+    # "I had a pretty clear idea of what that would be."
+    "Ich hatte eine ziemlich klare Vorstellung davon, was das sein würde."
+
+# game/episode023.rpy:620
+translate german episode023_cad2c180:
+
+    # "As I was exiting the medbay to take up permanent residence in my quarters again, I ran into Kit, who immediately bundled me up in tight embrace."
+    "Als ich die Krankenstation verließ, um mich wieder dauerhaft in mein Quartier zurückzuziehen, traf ich auf Kit, die mich sofort fest umarmte."
+
+# game/episode023.rpy:621
+translate german episode023_3e68ffdc:
+
+    # ki "He lives!"
+    ki "Er lebt!"
+
+# game/episode023.rpy:622
+translate german episode023_92b6f895:
+
+    # c "You’re not getting rid of me that easily."
+    c "So leicht wirst du mich nicht los."
+
+# game/episode023.rpy:624
+translate german episode023_5f2c73a0:
+
+    # ki "Guess not."
+    ki "Wohl nicht."
+
+# game/episode023.rpy:625
+translate german episode023_f0014524:
+
+    # ki "I was just on my way to visit you."
+    ki "Ich war gerade auf dem Weg zu dir."
+
+# game/episode023.rpy:626
+translate german episode023_77f54146:
+
+    # c "Well, I’m out of the medbay."
+    c "Nun ja, ich bin aus der Krankenstation raus."
+
+# game/episode023.rpy:628
+translate german episode023_4489f01e:
+
+    # c "Thim cleared me."
+    c "Thim hat mich entlastet."
+
+# game/episode023.rpy:630
+translate german episode023_79aebaf4:
+
+    # c "Autodoc cleared me."
+    c "Autodoc hat mich entlastet."
+
+# game/episode023.rpy:631
+translate german episode023_f112e9bd:
+
+    # ki "You’re looking well, considering."
+    ki "Du siehst den Umständen entsprechend gut aus."
+
+# game/episode023.rpy:632
+translate german episode023_dd20ffbf:
+
+    # c "Thanks."
+    c "Danke."
+
+# game/episode023.rpy:634
+translate german episode023_5097a3af:
+
+    # ki "You did put us through a lot though."
+    ki "Du hast uns aber ganz schön zugesetzt."
+
+# game/episode023.rpy:635
+translate german episode023_7d284297:
+
+    # ki "Me especially."
+    ki "Ich ganz besonders."
+
+# game/episode023.rpy:636
+translate german episode023_5cb2f875:
+
+    # c "You?"
+    c "Und du?"
+
+# game/episode023.rpy:638
+translate german episode023_d9af9442:
+
+    # ki "Yeah me."
+    ki "Ja, ich."
+
+# game/episode023.rpy:640
+translate german episode023_1c809045:
+
+    # ki "Have you any idea how hard it is to live on a ship filled with inconsolable women?"
+    ki "Hast du eine Ahnung, wie schwer es ist, auf einem Schiff voller untröstlicher Frauen zu leben?"
+
+# game/episode023.rpy:641
+translate german episode023_53d0d88d:
+
+    # ki "Teary-eyed dinners, girls storming out of emotionally charged crew meetings..."
+    ki "Tränenreiche Abendessen, Mädchen, die aus emotional aufgeladenen Crew-Meetings wütend hinausstürmen..."
+
+# game/episode023.rpy:642
+translate german episode023_24ec7353:
+
+    # c "Wow, yeah, such hardship!"
+    c "Wow, ja, was für eine Härte!"
+
+# game/episode023.rpy:645
+translate german episode023_bdd44f06:
+
+    # ki "And I guess seeing my best friend in a coma after saving his sister also did a number on me."
+    ki "Und ich glaube, dass es mich auch sehr mitgenommen hat, meinen besten Freund im Koma zu sehen, nachdem er seine Schwester gerettet hatte."
+
+# game/episode023.rpy:647
+translate german episode023_b0e9333c:
+
+    # ki "And I guess seeing my best friend in a coma after saving his girlfriend also did a number on me."
+    ki "Und ich glaube, dass es mich auch sehr mitgenommen hat, meinen besten Freund im Koma zu sehen, nachdem er seine Freundin gerettet hatte."
+
+# game/episode023.rpy:649
+translate german episode023_5c193ec7:
+
+    # ki "And I guess seeing my best friend in a coma after saving Eva also did a number on me."
+    ki "Und ich glaube, dass es mich auch sehr mitgenommen hat, meine beste Freundin nach der Rettung von Eva im Koma zu sehen."
+
+# game/episode023.rpy:650
+translate german episode023_14878f71:
+
+    # c "Your concern is touching, as always."
+    c "Deine Anteilnahme ist wie immer rührend."
+
+# game/episode023.rpy:652
+translate german episode023_380ca4f4:
+
+    # ki "Seriously though, man, I’m glad you’re back."
+    ki "Mal im Ernst, Mann, ich bin froh, dass du wieder da bist."
+
+# game/episode023.rpy:653
+translate german episode023_a41dd6b9:
+
+    # ki "Everybody was so shaken up after Petrarch."
+    ki "Nach Petrarca waren alle völlig erschüttert."
+
+# game/episode023.rpy:655
+translate german episode023_c4370bab:
+
+    # ki "Now we can hopefully return to normalcy again."
+    ki "Jetzt können wir hoffentlich wieder zur Normalität zurückkehren."
+
+# game/episode023.rpy:656
+translate german episode023_2e3786a9:
+
+    # c "I think normal went out of the window a long time ago, ever since we hijacked the Enfield."
+    c "Ich glaube, Normalität ist schon lange passé, seit wir die Enfield gekapert haben."
+
+# game/episode023.rpy:658
+translate german episode023_4d4bccc3:
+
+    # ki "I’ll settle for less crazy then, or batshit insane with a smidge of ordinary."
+    ki "Dann wäre ich auch mit weniger Verrücktheit zufrieden, oder mit totalem Wahnsinn mit einem Hauch Normalität."
+
+# game/episode023.rpy:660
+translate german episode023_1f078415:
+
+    # ki "Have you decided what to do?"
+    ki "Hast du dich schon entschieden?"
+
+# game/episode023.rpy:661
+translate german episode023_a0a78da1:
+
+    # c "I was planning on going to my quarters."
+    c "Ich hatte eigentlich vor, mich in mein Quartier zurückzuziehen."
+
+# game/episode023.rpy:663
+translate german episode023_d7db845b:
+
+    # ki "Right, small steps."
+    ki "Genau, kleine Schritte."
+
+# game/episode023.rpy:664
+translate german episode023_a9939298:
+
+    # c "After that we can plan our next moves."
+    c "Danach können wir unsere nächsten Schritte planen."
+
+# game/episode023.rpy:665
+translate german episode023_bb5dea9e:
+
+    # c "My dad is going to pay for what he did to Eva."
+    c "Mein Vater wird für das, was er Eva angetan hat, bezahlen."
+
+# game/episode023.rpy:667
+translate german episode023_0ab58add:
+
+    # ki "Good, as long as we make that fucker bleed slowly."
+    ki "Gut, solange wir den Mistkerl langsam bluten lassen."
+
+# game/episode023.rpy:668
+translate german episode023_6fe62597:
+
+    # c "You can be sure of that."
+    c "Darauf kannst du dir verlassen."
+
+# game/episode023.rpy:669
+translate german episode023_0c0a65b9:
+
+    # ki "Let me know when you’re ready to share your plans, I’ll be ready."
+    ki "Sag mir Bescheid, wenn du bereit bist, mir deine Pläne mitzuteilen, ich bin bereit."
+
+# game/episode023.rpy:670
+translate german episode023_46a18351:
+
+    # c "Thanks, Kit."
+    c "Danke, Kit."
+
+# game/episode023.rpy:672
+translate german episode023_2dd67298:
+
+    # ki "Now, I’ll let you hobble back to your quarters."
+    ki "Jetzt lasse ich dich zurück in deine Unterkunft humpeln."
+
+# game/episode023.rpy:673
+translate german episode023_cb46a39e:
+
+    # c "Considerate as ever."
+    c "Wie immer sehr rücksichtsvoll."
+
+# game/episode023.rpy:675
+translate german episode023_6ef7c8a0:
+
+    # ki "That’s me!"
+    ki "Das bin ich!"
+
+# game/episode023.rpy:710
+translate german ep023_test_79293035:
+
+    # "My mother and Thim were already waiting for me in the medbay."
+    "Meine Mutter und Thim warteten bereits in der Krankenstation auf mich."
+
+# game/episode023.rpy:712
+translate german ep023_test_80c7f2e4:
+
+    # "Nadya and Thim were already waiting for me in the medbay."
+    "Nadya und Thim warteten bereits in der Krankenstation auf mich."
+
+# game/episode023.rpy:716
+translate german ep023_test_6e3e5e9a:
+
+    # "My mother was already waiting for me in the medbay."
+    "Meine Mutter wartete bereits in der Krankenstation auf mich."
+
+# game/episode023.rpy:718
+translate german ep023_test_b2967624:
+
+    # "Nadya was already waiting for me in the medbay."
+    "Nadya wartete bereits in der Krankenstation auf mich."
+
+# game/episode023.rpy:721
+translate german ep023_test_acb5e4a0:
+
+    # t "Ready to be a guinea pig?"
+    t "Bist du bereit, als Versuchskaninchen zu dienen?"
+
+# game/episode023.rpy:722
+translate german ep023_test_1f1e745d:
+
+    # c "Yeah, let’s get this over with."
+    c "Ja, dann lasst es uns hinter uns bringen."
+
+# game/episode023.rpy:723
+translate german ep023_test_da9c1392:
+
+    # "We wanted to recreate the setup from the simulation on Petrarch."
+    "Wir wollten den Aufbau aus der Simulation auf Petrarch nachbilden."
+
+# game/episode023.rpy:724
+translate german ep023_test_6b296f87:
+
+    # "Levitating a small object from a tabletop probably causes the least amount of strain."
+    "Das Schwebenlassen eines kleinen Gegenstands von einer Tischplatte verursacht wahrscheinlich die geringste Belastung."
+
+# game/episode023.rpy:725
+translate german ep023_test_da726db0:
+
+    # "Thim hooked me up to various monitors and indicated I could proceed."
+    "Thim schloss mich an verschiedene Monitore an und signalisierte mir, dass ich fortfahren könne."
+
+# game/episode023.rpy:727
+translate german ep023_test_c858b7d1:
+
+    # na "Stop, as soon as you feel something is wrong."
+    na "Hör sofort auf, sobald du merkst, dass etwas nicht stimmt."
+
+# game/episode023.rpy:728
+translate german ep023_test_50d00926:
+
+    # c "I will, don’t worry."
+    c "Das werde ich, keine Sorge."
+
+# game/episode023.rpy:729
+translate german ep023_test_5a6f5568:
+
+    # t "You don’t want to go all out, just start with something simple."
+    t "Du musst nicht gleich alles auf einmal machen, fang einfach mit etwas Simples an."
+
+# game/episode023.rpy:730
+translate german ep023_test_0157ae03:
+
+    # c "Right, here goes."
+    c "Okay, los geht\'s."
+
+# game/episode023.rpy:733
+translate german ep023_test_5b8a5fe5:
+
+    # na "The autodoc scanning routine has been activated."
+    na "Die automatische Dokumentenscan-Routine wurde aktiviert."
+
+# game/episode023.rpy:734
+translate german ep023_test_3c3e01b2:
+
+    # c "Let’s get this over with."
+    c "Lass uns das hinter uns bringen."
+
+# game/episode023.rpy:735
+translate german ep023_test_da9c1392_1:
+
+    # "We wanted to recreate the setup from the simulation on Petrarch."
+    "Wir wollten den Aufbau aus der Simulation auf Petrarch nachbilden."
+
+# game/episode023.rpy:736
+translate german ep023_test_6b296f87_1:
+
+    # "Levitating a small object from a tabletop probably causes the least amount of strain."
+    "Das Schwebenlassen eines kleinen Gegenstands von einer Tischplatte verursacht wahrscheinlich die geringste Belastung."
+
+# game/episode023.rpy:737
+translate german ep023_test_64395d5e:
+
+    # "Nadya hooked me up to various monitors and indicated I could proceed."
+    "Nadya schloss mich an verschiedene Monitore an und gab mir das Zeichen, dass ich fortfahren könne."
+
+# game/episode023.rpy:739
+translate german ep023_test_c858b7d1_1:
+
+    # na "Stop, as soon as you feel something is wrong."
+    na "Hör sofort auf, sobald du merkst, dass etwas nicht stimmt."
+
+# game/episode023.rpy:740
+translate german ep023_test_50d00926_1:
+
+    # c "I will, don’t worry."
+    c "Das werde ich, keine Sorge."
+
+# game/episode023.rpy:741
+translate german ep023_test_4a5555a9:
+
+    # na "You don’t want to go all out, just start with something simple."
+    na "Du musst nicht gleich alles auf einmal machen, fang einfach mit etwas Simples an."
+
+# game/episode023.rpy:742
+translate german ep023_test_0157ae03_1:
+
+    # c "Right, here goes."
+    c "Okay, los geht\'s."
+
+# game/episode023.rpy:747
+translate german ep023_test_6caff7b4:
+
+    # "I concentrated fully on the object in front of me."
+    "Ich konzentrierte mich voll und ganz auf den Gegenstand vor mir."
+
+# game/episode023.rpy:748
+translate german ep023_test_ab37b875:
+
+    # "Just when I thought nothing would happen, my senses were invaded once more."
+    "Gerade als ich dachte, es würde nichts mehr passieren, wurden meine Sinne erneut überfallen."
+
+# game/episode023.rpy:751
+translate german ep023_test_ec5acb20:
+
+    # "The subtle groans emanating from the Bastard’s hull, the rumble of the engine, Thim’s heartbeat."
+    "Das leise Stöhnen, das aus dem Rumpf der Bastard drang, das Dröhnen des Motors, Thims Herzschlag."
+
+# game/episode023.rpy:753
+translate german ep023_test_68677dd3:
+
+    # "The subtle groans emanating from the Bastard’s hull, the rumble of the engine, the whirring of the autodoc."
+    "Das leise Stöhnen, das aus dem Rumpf der Bastard drang, das Dröhnen des Motors, das Surren des Autodocs."
+
+# game/episode023.rpy:754
+translate german ep023_test_f3189855:
+
+    # "It became clear to me how to manipulate the object in front of me and the energy field surrounding it."
+    "Mir wurde klar, wie ich das Objekt vor mir und das es umgebende Energiefeld manipulieren konnte."
+
+# game/episode023.rpy:755
+translate german ep023_test_5e55cb7c:
+
+    # "I reversed the object’s gravity and made it unstick from the table."
+    "Ich habe die Schwerkraft des Objekts umgekehrt und es so vom Tisch gelöst."
+
+# game/episode023.rpy:758
+translate german ep023_test_42681bc8:
+
+    # "Nadya gasped and I could feel Thim’s disbelieving eyes upon me."
+    "Nadya keuchte auf und ich spürte Thims ungläubigen Blick auf mir."
+
+# game/episode023.rpy:760
+translate german ep023_test_b623a61d:
+
+    # "Nadya gasped."
+    "Nadya schnappte nach Luft."
+
+# game/episode023.rpy:770
+translate german ep023_test_8087ab7e:
+
+    # "The object hovered in front of me, steadily rising."
+    "Das Objekt schwebte vor mir und stieg stetig an."
+
+# game/episode023.rpy:771
+translate german ep023_test_f9d027eb:
+
+    # "It took some effort to do this, but it wasn’t as draining as what I did with Eva."
+    "Es war zwar etwas mühsam, aber nicht so kräftezehrend wie das, was ich mit Eva gemacht habe."
+
+# game/episode023.rpy:786
+translate german ep023_test_e3fb1db2:
+
+    # "When I deposited the object back onto the table, both Nadya and Thim sighed in relief."
+    "Als ich den Gegenstand wieder auf den Tisch stellte, atmeten sowohl Nadya als auch Thim erleichtert auf."
+
+# game/episode023.rpy:788
+translate german ep023_test_8bbc5eea:
+
+    # t "That was amazing."
+    t "Das war fantastisch."
+
+# game/episode023.rpy:789
+translate german ep023_test_b109010e:
+
+    # na "Are you feeling okay?"
+    na "Geht es dir gut?"
+
+# game/episode023.rpy:790
+translate german ep023_test_80d9e044:
+
+    # c "Yes, I feel fine."
+    c "Ja, mir geht es gut."
+
+# game/episode023.rpy:791
+translate german ep023_test_0494ecde:
+
+    # t "The readings show some elevated levels of stress, but nothing major."
+    t "Die Messwerte zeigen einen leicht erhöhten Stresspegel, aber nichts Gravierendes."
+
+# game/episode023.rpy:792
+translate german ep023_test_23b67a34:
+
+    # t "Are you up for one more?"
+    t "Hättest du Lust auf noch eine Runde?"
+
+# game/episode023.rpy:793
+translate german ep023_test_36391c9b:
+
+    # c "Yes, I am."
+    c "Ja, das bin ich."
+
+# game/episode023.rpy:795
+translate german ep023_test_20429a03:
+
+    # "When I deposited the object back onto the table, Nadya sighed in relief."
+    "Als ich den Gegenstand wieder auf den Tisch stellte, atmete Nadya erleichtert auf."
+
+# game/episode023.rpy:797
+translate german ep023_test_b109010e_1:
+
+    # na "Are you feeling okay?"
+    na "Geht es dir gut?"
+
+# game/episode023.rpy:798
+translate german ep023_test_80d9e044_1:
+
+    # c "Yes, I feel fine."
+    c "Ja, mir geht es gut."
+
+# game/episode023.rpy:799
+translate german ep023_test_bb7bbfbb:
+
+    # na "The autodoc readings show some elevated levels of stress, but nothing major."
+    na "Die Autodoc-Messwerte zeigen einen leicht erhöhten Stresspegel, aber nichts Gravierendes."
+
+# game/episode023.rpy:800
+translate german ep023_test_bd7a9d9a:
+
+    # na "Do you want to continue?"
+    na "Möchtest du fortfahren?"
+
+# game/episode023.rpy:801
+translate german ep023_test_8a29e1eb:
+
+    # c "Yes, I do."
+    c "Ja, das tue ich."
+
+# game/episode023.rpy:803
+translate german ep023_test_8709fca3:
+
+    # "I concentrated again."
+    "Ich konzentrierte mich wieder."
+
+# game/episode023.rpy:813
+translate german ep023_test_adfb36f8:
+
+    # "The awareness came more readily now and I had the object floating in seconds."
+    "Das Bewusstsein kam nun schneller und ich hatte den Gegenstand innerhalb von Sekunden schweben."
+
+# game/episode023.rpy:814
+translate german ep023_test_3a9760a2:
+
+    # "I probed the object more fully with my mind."
+    "Ich untersuchte das Objekt eingehender mit meinen Gedanken."
+
+# game/episode023.rpy:816
+translate german ep023_test_f2ea5812:
+
+    # "The elemental composition was very simple."
+    "Die Elementzusammensetzung war sehr einfach."
+
+# game/episode023.rpy:817
+translate german ep023_test_58739b6b:
+
+    # "If I altered just one molecule, the whole structure would fall apart."
+    "Wenn ich nur ein einziges Molekül verändern würde, würde die gesamte Struktur auseinanderfallen."
+
+# game/episode023.rpy:819
+translate german ep023_test_417d7725:
+
+    # "As I attempted to manipulate the material, I could hear the monitors beeping more frantically."
+    "Als ich versuchte, das Material zu bearbeiten, hörte ich die Monitore immer heftiger piepen."
+
+# game/episode023.rpy:821
+translate german ep023_test_51f96539:
+
+    # "Thim shifted, mildly distressed, and I knew he was about to halt the experiment."
+    "Thim rutschte unruhig hin und her, leicht beunruhigt, und ich wusste, dass er im Begriff war, das Experiment abzubrechen."
+
+# game/episode023.rpy:823
+translate german ep023_test_e28ff6b2:
+
+    # "Nadya shifted, mildly distressed, and I knew she was about to halt the experiment."
+    "Nadya rutschte unruhig hin und her, leicht beunruhigt, und ich wusste, dass sie im Begriff war, das Experiment abzubrechen."
+
+# game/episode023.rpy:825
+translate german ep023_test_a2b7306e:
+
+    # "The molecule shifted and the object disintegrated in a puff, right before my eyes."
+    "Das Molekül verschob sich und der Gegenstand zerfiel in einem Wölkchen, direkt vor meinen Augen."
+
+# game/episode023.rpy:826
+translate german ep023_test_b7984cf4:
+
+    # "The monitors stopped their panicked bleeps and my senses returned to normal again."
+    "Die Monitore hörten auf, panisch zu piepen, und meine Sinne kehrten wieder zur Normalität zurück."
+
+# game/episode023.rpy:829
+translate german ep023_test_e30e4d3b:
+
+    # t "How the hell did you do that?"
+    t "Wie zum Teufel hast du das gemacht?"
+
+# game/episode023.rpy:830
+translate german ep023_test_3e5f1b3b:
+
+    # t "Did you just make it explode?"
+    t "Hast du es gerade zur Explosion gebracht?"
+
+# game/episode023.rpy:831
+translate german ep023_test_20b97949:
+
+    # c "Not exactly."
+    c "Nicht ganz."
+
+# game/episode023.rpy:832
+translate german ep023_test_fa64eb67:
+
+    # c "I altered the chemical arrangement of the object, which made it disintegrate."
+    c "Ich habe die chemische Zusammensetzung des Objekts verändert, wodurch es sich auflöste."
+
+# game/episode023.rpy:833
+translate german ep023_test_24d1e609:
+
+    # c "It’s comparable to what I did with Eva, but a lot simpler."
+    c "Es ist vergleichbar mit dem, was ich mit Eva gemacht habe, aber viel einfacher."
+
+# game/episode023.rpy:835
+translate german ep023_test_cd4f8759:
+
+    # t "Wow."
+    t "Wow."
+
+# game/episode023.rpy:837
+translate german ep023_test_1afed75e:
+
+    # na "That was clearly more taxing on you than keeping it afloat."
+    na "Das war eindeutig anstrengender für dich, als es am Laufen zu halten."
+
+# game/episode023.rpy:838
+translate german ep023_test_708cec36:
+
+    # c "It was, but I don’t think the exertion was too much."
+    c "Das war es, aber ich glaube nicht, dass die Anstrengung zu groß war."
+
+# game/episode023.rpy:840
+translate german ep023_test_d1a8620e:
+
+    # t "I agree, but sustained effort might be dangerous."
+    t "Da stimme ich dir zu, aber anhaltende Anstrengung könnte gefährlich sein."
+
+# game/episode023.rpy:841
+translate german ep023_test_88df38a7:
+
+    # c "Agreed."
+    c "Einverstanden."
+
+# game/episode023.rpy:842
+translate german ep023_test_2988f2e3:
+
+    # c "I can feel how much it taxes my body and mind though."
+    c "Ich spüre aber, wie sehr es meinen Körper und Geist belastet."
+
+# game/episode023.rpy:844
+translate german ep023_test_52b59740:
+
+    # t "You can feel the limits?"
+    t "Spürst du die Grenzen?"
+
+# game/episode023.rpy:845
+translate german ep023_test_d4a6775b:
+
+    # c "Yes, I can."
+    c "Ja, das kann ich."
+
+# game/episode023.rpy:846
+translate german ep023_test_ec6655c1:
+
+    # c "With Eva, I purposely ignored those limits and just pushed through."
+    c "Bei Mit Eva habe ich diese Grenzen bewusst ignoriert und einfach durchgehalten."
+
+# game/episode023.rpy:848
+translate german ep023_test_643c45d5:
+
+    # na "But you’re saying you can control this?"
+    na "Aber du sagst, du kannst das kontrollieren?"
+
+# game/episode023.rpy:849
+translate german ep023_test_9a816178:
+
+    # c "I am, yes."
+    c "Ja, das bin ich."
+
+# game/episode023.rpy:850
+translate german ep023_test_7b5cb3d3:
+
+    # c "I might need to practice more and pursue different tactics, but I’m very certain I can prevent a repeat of what happened on Petrarch."
+    c "Ich muss vielleicht noch mehr üben und andere Taktiken ausprobieren, aber ich bin mir sehr sicher, dass ich eine Wiederholung dessen, was auf Petrarca passiert ist, verhindern kann."
+
+# game/episode023.rpy:852
+translate german ep023_test_db27908d:
+
+    # t "I’d suggest you do that."
+    t "Ich würde dir das vorschlagen."
+
+# game/episode023.rpy:854
+translate german ep023_test_5afb9fec:
+
+    # na "Your power can be a formidable weapon, but we don’t want you to burn yourself out."
+    na "Deine Kraft kann eine gewaltige Waffe sein, aber wir wollen nicht, dass du dich dabei verausgabst."
+
+# game/episode023.rpy:855
+translate german ep023_test_8f240135:
+
+    # c "Not going to happen."
+    c "Das wird nicht passieren."
+
+# game/episode023.rpy:856
+translate german ep023_test_a0e0cf09:
+
+    # c "I’ll be sure to train as much as possible."
+    c "Ich werde auf jeden Fall so viel wie möglich trainieren."
+
+# game/episode023.rpy:858
+translate german ep023_test_168fc85f:
+
+    # t "Good."
+    t "Gut."
+
+# game/episode023.rpy:859
+translate german ep023_test_9de9ee7e:
+
+    # t "I want you to come in for regular checkups."
+    t "Ich möchte, dass du regelmäßig zu Kontrolluntersuchungen kommst."
+
+# game/episode023.rpy:861
+translate german ep023_test_7b21fc24:
+
+    # "We talked about utilizing my powers some more, until we each departed for our own quarters."
+    "Wir sprachen noch ein wenig darüber, meine Kräfte einzusetzen, bis wir uns dann jeder in seine eigenen Gemächer zurückzogen."
+
+# game/episode023.rpy:864
+translate german ep023_test_5eb0e449:
+
+    # na "Did you just cause that object to explode?"
+    na "Hast du etwa gerade die Explosion dieses Gegenstands verursacht?"
+
+# game/episode023.rpy:865
+translate german ep023_test_20b97949_1:
+
+    # c "Not exactly."
+    c "Nicht ganz."
+
+# game/episode023.rpy:866
+translate german ep023_test_fa64eb67_1:
+
+    # c "I altered the chemical arrangement of the object, which made it disintegrate."
+    c "Ich habe die chemische Zusammensetzung des Objekts verändert, wodurch es sich auflöste."
+
+# game/episode023.rpy:867
+translate german ep023_test_24d1e609_1:
+
+    # c "It’s comparable to what I did with Eva, but a lot simpler."
+    c "Es ist vergleichbar mit dem, was ich mit Eva gemacht habe, aber viel einfacher."
+
+# game/episode023.rpy:869
+translate german ep023_test_aba140bf:
+
+    # na "That’s amazing, but clearly more taxing on you than keeping it afloat."
+    na "Das ist fantastisch, aber offensichtlich anstrengender für dich, als es am Laufen zu halten."
+
+# game/episode023.rpy:870
+translate german ep023_test_708cec36_1:
+
+    # c "It was, but I don’t think the exertion was too much."
+    c "Das war es, aber ich glaube nicht, dass die Anstrengung zu groß war."
+
+# game/episode023.rpy:872
+translate german ep023_test_b9f4e017:
+
+    # na "I agree, but sustained effort might be dangerous."
+    na "Da stimme ich dir zu, aber anhaltende Anstrengung könnte gefährlich sein."
+
+# game/episode023.rpy:873
+translate german ep023_test_88df38a7_1:
+
+    # c "Agreed."
+    c "Einverstanden."
+
+# game/episode023.rpy:874
+translate german ep023_test_2988f2e3_1:
+
+    # c "I can feel how much it taxes my body and mind though."
+    c "Ich spüre aber, wie sehr es meinen Körper und Geist belastet."
+
+# game/episode023.rpy:876
+translate german ep023_test_f819eaad:
+
+    # na "You can feel the limits?"
+    na "Spürst du die Grenzen?"
+
+# game/episode023.rpy:877
+translate german ep023_test_d4a6775b_1:
+
+    # c "Yes, I can."
+    c "Ja, das kann ich."
+
+# game/episode023.rpy:878
+translate german ep023_test_ec6655c1_1:
+
+    # c "With Eva, I purposely ignored those limits and just pushed through."
+    c "Bei Mit Eva habe ich diese Grenzen bewusst ignoriert und einfach durchgehalten."
+
+# game/episode023.rpy:879
+translate german ep023_test_643c45d5_1:
+
+    # na "But you’re saying you can control this?"
+    na "Aber du sagst, du kannst das kontrollieren?"
+
+# game/episode023.rpy:880
+translate german ep023_test_9a816178_1:
+
+    # c "I am, yes."
+    c "Ja, das bin ich."
+
+# game/episode023.rpy:881
+translate german ep023_test_7b5cb3d3_1:
+
+    # c "I might need to practice more and pursue different tactics, but I’m very certain I can prevent a repeat of what happened on Petrarch."
+    c "Ich muss vielleicht noch mehr üben und andere Taktiken ausprobieren, aber ich bin mir sehr sicher, dass ich eine Wiederholung dessen, was auf Petrarca passiert ist, verhindern kann."
+
+# game/episode023.rpy:883
+translate german ep023_test_5afb9fec_1:
+
+    # na "Your power can be a formidable weapon, but we don’t want you to burn yourself out."
+    na "Deine Kraft kann eine gewaltige Waffe sein, aber wir wollen nicht, dass du dich dabei verausgabst."
+
+# game/episode023.rpy:884
+translate german ep023_test_8f240135_1:
+
+    # c "Not going to happen."
+    c "Das wird nicht passieren."
+
+# game/episode023.rpy:885
+translate german ep023_test_a0e0cf09_1:
+
+    # c "I’ll be sure to train as much as possible."
+    c "Ich werde auf jeden Fall so viel wie möglich trainieren."
+
+# game/episode023.rpy:887
+translate german ep023_test_ccb084fe:
+
+    # na "Good."
+    na "Gut."
+
+# game/episode023.rpy:888
+translate german ep023_test_9b93f701:
+
+    # na "I want you to come in here for regular checkups, though."
+    na "Ich möchte aber, dass du regelmäßig zu Kontrolluntersuchungen hierher kommst."
+
+# game/episode023.rpy:890
+translate german ep023_test_7b21fc24_1:
+
+    # "We talked about utilizing my powers some more, until we each departed for our own quarters."
+    "Wir sprachen noch ein wenig darüber, meine Kräfte einzusetzen, bis wir uns dann jeder in seine eigenen Gemächer zurückzogen."
+
+# game/episode023.rpy:899
+translate german ep023_crew_602d40ec:
+
+    # "The following morning, I sent out messages to my mother and sisters to meet me in an hour in my quarters."
+    "Am nächsten Morgen schickte ich meiner Mutter und meinen Schwestern Nachrichten, dass sie mich in einer Stunde in meinem Quartier treffen sollen."
+
+# game/episode023.rpy:901
+translate german ep023_crew_cdd2d194:
+
+    # "The following morning, I sent out messages to Nadya, Aven, Lilly and Eva to meet me in an hour in my quarters."
+    "Am nächsten Morgen schickte ich Nachrichten an Nadya, Aven, Lilly und Eva, dass sie mich in einer Stunde in meinem Quartier treffen sollen."
+
+# game/episode023.rpy:902
+translate german ep023_crew_c8ec2629:
+
+    # "After making my rounds on the ship, I headed back to my quarters."
+    "Nach meinem Kontrollgang auf dem Schiff kehrte ich in meine Kabine zurück."
+
+# game/episode023.rpy:908
+translate german ep023_crew_aa967283:
+
+    # "My mother and sisters were waiting for me in my quarters and looked up expectantly as soon as I entered."
+    "Meine Mutter und meine Schwestern erwarteten mich in meinem Quartier und blickten erwartungsvoll auf, sobald ich eintrat."
+
+# game/episode023.rpy:910
+translate german ep023_crew_7dbb37ce:
+
+    # "Nadya, Aven, Lilly and Eva were waiting for me in my quarters and looked up expectantly as soon as I entered."
+    "Nadya, Aven, Lilly und Eva warteten in meinem Quartier auf mich und blickten erwartungsvoll auf, sobald ich eintrat."
+
+# game/episode023.rpy:911
+translate german ep023_crew_1a31f71f:
+
+    # c "Yes, I’m still alive."
+    c "Ja, ich lebe noch."
+
+# game/episode023.rpy:914
+translate german ep023_crew_c22e690f:
+
+    # l "You keep on croaking as soon as we meet our father, so forgive us for being skeptical."
+    l "Du krächzt immer, sobald wir unseren Vater treffen, also verzeih uns unsere Skepsis."
+
+# game/episode023.rpy:915
+translate german ep023_crew_6b75f3f9:
+
+    # c "So much for sisterly love."
+    c "So viel zum Thema Schwesterliebe."
+
+# game/episode023.rpy:917
+translate german ep023_crew_a22996a7:
+
+    # l "You keep on croaking as soon as we meet your father, so forgive us for being skeptical."
+    l "Du krächzt immer wieder, sobald wir deinen Vater treffen, also verzeih uns unsere Skepsis."
+
+# game/episode023.rpy:918
+translate german ep023_crew_68f57123:
+
+    # c "So much for loving camaraderie."
+    c "So viel zum Thema liebevolle Kameradschaft."
+
+# game/episode023.rpy:920
+translate german ep023_crew_2211167a:
+
+    # l "I adore you, you know that."
+    l "Ich liebe dich, das weißt du."
+
+# game/episode023.rpy:921
+translate german ep023_crew_bb78aab7:
+
+    # c "I know."
+    c "Ich weiß."
+
+# game/episode023.rpy:922
+translate german ep023_crew_be410f9f:
+
+    # c "I’m just glad we’re back at doling out underhanded jibes."
+    c "Ich bin einfach froh, dass wir wieder dabei sind, uns gegenseitig hinterhältige Sticheleien um die Ohren zu hauen."
+
+# game/episode023.rpy:924
+translate german ep023_crew_8e1daa2c:
+
+    # na "How are you feeling, [p_name_short]?"
+    na "Wie geht es dir, [p_name_short]?"
+
+# game/episode023.rpy:925
+translate german ep023_crew_c4a593da:
+
+    # c "Still a little sore, but I’m getting there."
+    c "Es tut noch ein bisschen weh, aber es wird schon."
+
+# game/episode023.rpy:926
+translate german ep023_crew_9b6aea22:
+
+    # c "I’m ready to talk about what to do next."
+    c "Ich bin bereit, darüber zu sprechen, wie es weitergeht."
+
+# game/episode023.rpy:928
+translate german ep023_crew_51fa5cd1:
+
+    # l "I was afraid you’d say that."
+    l "Ich hatte befürchtet, dass du das sagen würdest."
+
+# game/episode023.rpy:931
+translate german ep023_crew_109eee71:
+
+    # c "Together with Mom and Thim, I’ve done some experiments with my powers."
+    c "Zusammen mit Mom und Thim habe ich einige Experimente mit meinen Kräften durchgeführt."
+
+# game/episode023.rpy:933
+translate german ep023_crew_668da0ae:
+
+    # c "Together with Mom, I’ve done some experiments with my powers."
+    c "Zusammen mit Mama habe ich einige Experimente mit meinen Kräften durchgeführt."
+
+# game/episode023.rpy:936
+translate german ep023_crew_1c5a848a:
+
+    # c "Together with Nadya and Thim, I’ve done some experiments with my powers."
+    c "Zusammen mit Nadya und Thim habe ich einige Experimente mit meinen Kräften durchgeführt."
+
+# game/episode023.rpy:938
+translate german ep023_crew_f215d1f5:
+
+    # c "Together with Nadya, I’ve done some experiments with my powers."
+    c "Zusammen mit Nadya habe ich einige Experimente mit meinen Kräften durchgeführt."
+
+# game/episode023.rpy:939
+translate german ep023_crew_1996bb1f:
+
+    # c "Despite collapsing after what I did to Eva, my powers remain undiminished."
+    c "Obwohl ich nach dem, was ich Eva angetan habe, zusammengebrochen bin, sind meine Kräfte ungebrochen."
+
+# game/episode023.rpy:940
+translate german ep023_crew_5dfc97f5:
+
+    # c "Of course I’m going to train and see how far I can push myself, but we can’t ignore the edge my abilities would give me."
+    c "Natürlich werde ich trainieren und sehen, wie weit ich gehen kann, aber wir dürfen den Vorteil, den mir meine Fähigkeiten verschaffen würden, nicht ignorieren."
+
+# game/episode023.rpy:941
+translate german ep023_crew_05600b14:
+
+    # c "Besides, Agust possesses the same powers I have and he’s surely not afraid to use them."
+    c "Außerdem besitzt Agust die gleichen Kräfte wie ich und er hat ganz sicher keine Angst, sie einzusetzen."
+
+# game/episode023.rpy:943
+translate german ep023_crew_24994320:
+
+    # av "What do you mean?"
+    av "Was meinst du?"
+
+# game/episode023.rpy:946
+translate german ep023_crew_e2577b88:
+
+    # l "Dad has been appointed Regent of the Sovereignty."
+    l "Dad wurde zum Regenten der Souveränität ernannt."
+
+# game/episode023.rpy:948
+translate german ep023_crew_e105b52a:
+
+    # l "His dad has been appointed Regent of the Sovereignty."
+    l "Sein Vater wurde zum Regenten der Souveränität ernannt."
+
+# game/episode023.rpy:949
+translate german ep023_crew_1de18ed7:
+
+    # l "The Council has been massacred and we think it’s his doing."
+    l "Der Rat wurde massakriert, und wir glauben, dass er dafür verantwortlich ist."
+
+# game/episode023.rpy:951
+translate german ep023_crew_9f28ef91:
+
+    # av "He ordered it?"
+    av "Hat er es bestellt?"
+
+# game/episode023.rpy:953
+translate german ep023_crew_43de4277:
+
+    # l "No, he most likely killed them himself."
+    l "Nein, er hat sie höchstwahrscheinlich selbst getötet."
+
+# game/episode023.rpy:954
+translate german ep023_crew_b41b406f:
+
+    # l "There’s not much information, but the Council was in session when it happened and Agust was the only person to walk out unscathed."
+    l "Es gibt nicht viele Informationen, aber der Rat tagte gerade, als es passierte, und Agust war der Einzige, der unverletzt davonkam."
+
+# game/episode023.rpy:955
+translate german ep023_crew_2a434674:
+
+    # l "They’re pinning the murder on domestic terrorists, helped by foreign agents."
+    l "Sie schieben den Mord inländischen Terroristen in die Schuhe, die von ausländischen Agenten unterstützt werden."
+
+# game/episode023.rpy:956
+translate german ep023_crew_d35279a5:
+
+    # c "It’s a clear setup to wage an all-out war."
+    c "Das ist eine klare Vorbereitung auf einen totalen Krieg."
+
+# game/episode023.rpy:958
+translate german ep023_crew_70f4439b:
+
+    # na "How so?"
+    na "Wieso?"
+
+# game/episode023.rpy:960
+translate german ep023_crew_4023a484:
+
+    # l "The Sovereignty has been gearing up for conflict for several months now."
+    l "Die Souveränität rüstet sich schon seit mehreren Monaten für den Konflikt."
+
+# game/episode023.rpy:961
+translate german ep023_crew_cfb87213:
+
+    # l "The shipyards are working overtime and thousands of troops have been redeployed to the border regions."
+    l "Die Werften arbeiten auf Hochtouren und Tausende von Soldaten wurden in die Grenzregionen verlegt."
+
+# game/episode023.rpy:962
+translate german ep023_crew_153b4889:
+
+    # c "They’re likely going to invade their neighbors very soon, using the attack on the Council as pretext."
+    c "Wahrscheinlich werden sie schon bald ihre Nachbarn überfallen und den Angriff auf den Stadtrat als Vorwand benutzen."
+
+# game/episode023.rpy:964
+translate german ep023_crew_330b5fb3:
+
+    # av "But what has that got to do with us?"
+    av "Aber was hat das mit uns zu tun?"
+
+# game/episode023.rpy:965
+translate german ep023_crew_172c1267:
+
+    # c "Nothing much at the moment."
+    c "Im Moment gibt es nicht viel."
+
+# game/episode023.rpy:966
+translate german ep023_crew_2ab06bd9:
+
+    # c "But this is Agust’s play for true power."
+    c "Aber das ist Agusts Versuch, die wahre Macht zu erlangen."
+
+# game/episode023.rpy:967
+translate german ep023_crew_7a889534:
+
+    # c "His bid to immortalize himself as the one who ushered the Sovereignty into a new age of greatness."
+    c "Sein Versuch, sich selbst als denjenigen zu verewigen, der die Souveränität in ein neues Zeitalter der Größe geführt hat."
+
+# game/episode023.rpy:968
+translate german ep023_crew_8a1510a0:
+
+    # c "Once he solidifies himself as the one true power in the Sovereignty, he’ll do anything to make the facts support the myth."
+    c "Sobald er sich als die einzig wahre Macht in der Souveränität etabliert hat, wird er alles tun, um die Fakten so zu gestalten, dass sie den Mythos stützen."
+
+# game/episode023.rpy:969
+translate german ep023_crew_b4b98668:
+
+    # c "The inconvenient truth of how he got his special powers by sacrificing one of his daughters is something he probably won’t tolerate."
+    c "Die unangenehme Wahrheit darüber, wie er seine besonderen Kräfte erlangte – indem er eine seiner Töchter opferte –, ist etwas, das er wahrscheinlich nicht tolerieren wird."
+
+# game/episode023.rpy:970
+translate german ep023_crew_56f93a17:
+
+    # c "Let alone his son somehow acquired the same power."
+    c "Geschweige denn, dass sein Sohn auf irgendeine Weise dieselbe Macht erlangt hätte."
+
+# game/episode023.rpy:972
+translate german ep023_crew_a494691e:
+
+    # na "He’ll view you as a threat."
+    na "Er wird dich als Bedrohung ansehen."
+
+# game/episode023.rpy:973
+translate german ep023_crew_ff6e0aec:
+
+    # c "Yes he will."
+    c "Ja, das wird er."
+
+# game/episode023.rpy:974
+translate german ep023_crew_63091df7:
+
+    # c "And he will not hesitate to hunt us down, like he did before."
+    c "Und er wird nicht zögern, uns aufzuspüren, wie er es schon einmal getan hat."
+
+# game/episode023.rpy:975
+translate german ep023_crew_cec92d75:
+
+    # c "I won’t let that happen."
+    c "Das werde ich nicht zulassen."
+
+# game/episode023.rpy:976
+translate german ep023_crew_d8b494a9:
+
+    # c "Besides, I want payback."
+    c "Außerdem will ich Rache."
+
+# game/episode023.rpy:977
+translate german ep023_crew_9672f6c5:
+
+    # c "I want that son of a bitch to feel the desperation we all felt, being hunted and tortured, all because he wanted to bask in his own glory."
+    c "Ich wünsche mir, dass dieser Mistkerl die Verzweiflung spürt, die wir alle empfunden haben, als wir gejagt und gefoltert wurden, nur weil er sich in seinem eigenen Ruhm sonnen wollte."
+
+# game/episode023.rpy:978
+translate german ep023_crew_d5834027:
+
+    # c "If that won’t persuade you, think of the horrors he will unleash on systems conquered by the Sovereignty."
+    c "Wenn dich das nicht überzeugt, denk an die Schrecken, die er über die von der Souveränität eroberten Systeme bringen wird."
+
+# game/episode023.rpy:980
+translate german ep023_crew_1c0b4113:
+
+    # na "Persuade us to do what exactly?"
+    na "Wozu genau sollen wir uns überreden?"
+
+# game/episode023.rpy:981
+translate german ep023_crew_bddaf084:
+
+    # na "You’re not suggesting we take on the entire Sovereignty by ourselves, your abilities notwithstanding?"
+    na "Du schlägst doch nicht etwa vor, dass wir die gesamte Souveränität im Alleingang übernehmen, ungeachtet deiner Fähigkeiten?"
+
+# game/episode023.rpy:982
+translate german ep023_crew_e977881e:
+
+    # c "No, of course not, that would be suicide."
+    c "Nein, natürlich nicht, das wäre Selbstmord."
+
+# game/episode023.rpy:983
+translate german ep023_crew_2aa75fca:
+
+    # c "But I do aim to take on Agust and the Sovereignty, just not on our own."
+    c "Aber ich habe vor, es mit Agust und der Sovereignty aufzunehmen, nur nicht alleine."
+
+# game/episode023.rpy:984
+translate german ep023_crew_bb6913d3:
+
+    # c "I want us to raise an army to defend anyone against the military might of the Sovereignty."
+    c "Ich möchte, dass wir eine Armee aufstellen, um jeden gegen die militärische Macht der Souveränität zu verteidigen."
+
+# game/episode023.rpy:985
+translate german ep023_crew_740f8a0f:
+
+    # c "We are going to fight the Sovereignty on their own terms, knock them back so they won’t ever try something like this again."
+    c "Wir werden die Souveränität mit ihren eigenen Mitteln bekämpfen, sie zurückschlagen, damit sie so etwas nie wieder versuchen."
+
+# game/episode023.rpy:986
+translate german ep023_crew_e28f4182:
+
+    # c "And eventually we’ll get to Agust and I’d be happy to kill him personally."
+    c "Und irgendwann kommen wir zu Agust, und ich würde ihn dann gerne persönlich töten."
+
+# game/episode023.rpy:987
+translate german ep023_crew_2e464598:
+
+    # e "But how are we going to do that, [p_name_short]?"
+    e "Aber wie sollen wir das anstellen, [p_name_short]?"
+
+# game/episode023.rpy:988
+translate german ep023_crew_59b8d29e:
+
+    # c "We’ve encountered several species who are likely to be friendly to our cause."
+    c "Wir sind auf mehrere Arten gestoßen, die unserer Sache wahrscheinlich wohlgesonnen sein werden."
+
+# game/episode023.rpy:989
+translate german ep023_crew_02ba95d9:
+
+    # c "The Rhenkoy, Tubloshi, Tw’ill and the R’o, for one."
+    c "The Rhenkoy, Tubloshi, Tw\'ill und The R\'o, um nur einige zu nennen."
+
+# game/episode023.rpy:990
+translate german ep023_crew_65402444:
+
+    # c "I also want us to try and find out how much sway you still have over the Acarhyn, as Queen in exile."
+    c "Ich möchte außerdem herausfinden, wie viel Einfluss du als Königin im Exil noch auf die Acarhyn hast."
+
+# game/episode023.rpy:991
+translate german ep023_crew_5e3ea505:
+
+    # c "Then there are those domestic terrorist, like the Auric Exemplar."
+    c "Und dann gibt es noch die inländischen Terroristen, wie zum Beispiel das Auric Exemplar."
+
+# game/episode023.rpy:992
+translate german ep023_crew_bcb49d13:
+
+    # c "We’ll need to find a way to contact them as well."
+    c "Wir müssen auch einen Weg finden, mit ihnen Kontakt aufzunehmen."
+
+# game/episode023.rpy:993
+translate german ep023_crew_6eeae4d2:
+
+    # c "Who knows what other allies might come out of the woodwork as soon as our efforts are gaining traction."
+    c "Wer weiß, welche anderen Verbündeten noch auftauchen könnten, sobald unsere Bemühungen an Fahrt gewinnen."
+
+# game/episode023.rpy:994
+translate german ep023_crew_8cfbdf5b:
+
+    # c "We need to build alliances and fast if we’re to stand a chance."
+    c "Wir müssen schnell Allianzen bilden, wenn wir eine Chance haben wollen."
+
+# game/episode023.rpy:996
+translate german ep023_crew_b4e2d673:
+
+    # av "What’s the alternative?"
+    av "Was ist die Alternative?"
+
+# game/episode023.rpy:997
+translate german ep023_crew_8ef5185e:
+
+    # c "Running and hiding, until we’re found out and killed by Sovereignty operatives."
+    c "Wir rennen und verstecken uns, bis wir von Sovereignty-Agenten entdeckt und getötet werden."
+
+# game/episode023.rpy:998
+translate german ep023_crew_c09befc7:
+
+    # c "Space is vast, so that might take a long while, but we’ll live in fear most of the time."
+    c "Der Weltraum ist riesig, das könnte also eine Weile dauern, aber wir werden die meiste Zeit in Angst leben."
+
+# game/episode023.rpy:999
+translate german ep023_crew_3f258c31:
+
+    # c "For me, that’s not an option and I hope you feel the same."
+    c "Für mich ist das keine Option und ich hoffe, du siehst das genauso."
+
+# game/episode023.rpy:1004
+translate german ep023_crew_aa63984f:
+
+    # "The women were silent after those words, mulling them over."
+    "Nach diesen Worten schwiegen die Frauen und dachten darüber nach."
+
+# game/episode023.rpy:1006
+translate german ep023_crew_72b460e1:
+
+    # e "I want him dead."
+    e "Ich will ihn tot sehen."
+
+# game/episode023.rpy:1011
+translate german ep023_crew_eff7d417:
+
+    # "Eva’s words shocked everyone with their vehemence."
+    "Evas Worte schockierten alle mit ihrer Heftigkeit."
+
+# game/episode023.rpy:1012
+translate german ep023_crew_6e4bfd17:
+
+    # e "After what he did to us...{w} to me...{w} I want him gone."
+    e "Nach dem, was er uns angetan hat...{w} mir angetan hat...{w} will ich, dass er verschwindet."
+
+# game/episode023.rpy:1014
+translate german ep023_crew_c7899af0:
+
+    # e "The Sovereignty led by our father is going to be a horror show."
+    e "Die von unserem Vater angeführte Souveränität wird ein Horrorszenario werden."
+
+# game/episode023.rpy:1016
+translate german ep023_crew_32cf7654:
+
+    # e "The Sovereignty led by that man is going to be a horror show."
+    e "Die von diesem Mann geführte Souveränität wird ein Horrorszenario werden."
+
+# game/episode023.rpy:1018
+translate german ep023_crew_d1a11fff:
+
+    # e "They’ll conquer a few worlds at first, but he’ll want more."
+    e "Sie werden zunächst ein paar Welten erobern, aber er wird mehr wollen."
+
+# game/episode023.rpy:1019
+translate german ep023_crew_8ed131ed:
+
+    # e "I’m sure he doesn’t really believe the propaganda about the other species being inferior to humans, but once the true believers are in place and in charge of the day-to-day agenda, the killing will just never stop."
+    e "Ich bin mir sicher, dass er die Propaganda über die Unterlegenheit der anderen Spezies gegenüber den Menschen nicht wirklich glaubt, aber sobald die wahren Gläubigen an der Macht sind und die Tagesordnung bestimmen, wird das Töten einfach nie aufhören."
+
+# game/episode023.rpy:1020
+translate german ep023_crew_3879538a:
+
+    # e "I agree with [p_name], we need to make a stand and put a stop to Agust once and for all."
+    e "Ich stimme [p_name] zu, wir müssen uns wehren und Agust ein für alle Mal stoppen."
+
+# game/episode023.rpy:1022
+translate german ep023_crew_8816cac1:
+
+    # l "Reading up on what the Sovereignty has been doing for the past few years, I think total war is inevitable."
+    l "Nachdem ich mich über die Aktivitäten der Sovereignty in den letzten Jahren informiert habe, glaube ich, dass ein totaler Krieg unvermeidlich ist."
+
+# game/episode023.rpy:1023
+translate german ep023_crew_199b0bcd:
+
+    # l "They’re going to attack their neighbors and from there the conflict will spread, all the indicators are there."
+    l "Sie werden ihre Nachbarn angreifen, und von da an wird sich der Konflikt ausbreiten, alle Anzeichen dafür sind vorhanden."
+
+# game/episode023.rpy:1025
+translate german ep023_crew_4686b5a7:
+
+    # l "With Dad at the helm, this will become a mess real quick."
+    l "Wenn Dad das Ruder übernimmt, wird das ganz schnell ein Chaos geben."
+
+# game/episode023.rpy:1027
+translate german ep023_crew_7be82688:
+
+    # l "With Agust at the helm, this will become a mess real quick."
+    l "Mit Agust am Ruder wird das ganz schnell im Chaos enden."
+
+# game/episode023.rpy:1028
+translate german ep023_crew_4b39dcce:
+
+    # l "I think it’s our duty to at least try and do something about it."
+    l "Ich denke, es ist unsere Pflicht, zumindest zu versuchen, etwas dagegen zu unternehmen."
+
+# game/episode023.rpy:1029
+translate german ep023_crew_fb139ab0:
+
+    # l "I’m not sure if I could live with myself if we didn’t."
+    l "Ich bin mir nicht sicher, ob ich mit mir selbst leben könnte, wenn wir es nicht täten."
+
+# game/episode023.rpy:1030
+translate german ep023_crew_3a9a741e:
+
+    # l "And like Eva and [p_name_short] already said, I want to make him pay."
+    l "Und wie Eva und [p_name_short] schon sagten, will ich, dass er dafür bezahlt."
+
+# game/episode023.rpy:1032
+translate german ep023_crew_c30b677e:
+
+    # av "I want us to live a normal life."
+    av "Ich möchte, dass wir ein normales Leben führen."
+
+# game/episode023.rpy:1033
+translate german ep023_crew_d6ec4416:
+
+    # av "And I agree with [p_name_short] that living on the run is no life at all."
+    av "Und ich stimme [p_name_short] zu, dass ein Leben auf der Flucht überhaupt kein Leben ist."
+
+# game/episode023.rpy:1034
+translate german ep023_crew_bf5a7de7:
+
+    # av "I don’t want to look over my shoulder the rest of my life, or live out my days in a Sovereignty-controlled police state."
+    av "Ich möchte nicht den Rest meines Lebens ständig über die Schulter schauen müssen oder meine Tage in einem von der Souveränität kontrollierten Polizeistaat verbringen."
+
+# game/episode023.rpy:1035
+translate german ep023_crew_1ff2e6b6:
+
+    # av "So I say we try to forge those alliances and fight back."
+    av "Deshalb schlage ich vor, wir versuchen, diese Bündnisse zu schmieden und uns zu wehren."
+
+# game/episode023.rpy:1037
+translate german ep023_crew_83a242ed:
+
+    # c "Mom?"
+    c "Mama?"
+
+# game/episode023.rpy:1039
+translate german ep023_crew_011bb546:
+
+    # c "Nadya?"
+    c "Nadya?"
+
+# game/episode023.rpy:1041
+translate german ep023_crew_62906c3c:
+
+    # na "It all sounds very bloodthirsty, but have you all thought this through?"
+    na "Das klingt alles sehr blutrünstig, aber habt ihr das wirklich gut durchdacht?"
+
+# game/episode023.rpy:1042
+translate german ep023_crew_4c89f600:
+
+    # na "The Sovereignty is huge and will stop at nothing to achieve their goals."
+    na "Die Souveränität ist riesig und wird vor nichts zurückschrecken, um ihre Ziele zu erreichen."
+
+# game/episode023.rpy:1043
+translate german ep023_crew_18462391:
+
+    # na "If they find out we’re going up against them, they’ll kill us."
+    na "Wenn sie herausfinden, dass wir gegen sie antreten, werden sie uns töten."
+
+# game/episode023.rpy:1045
+translate german ep023_crew_6fd0e439:
+
+    # e "They’ll try to do that anyway, Mom."
+    e "Das werden sie sowieso versuchen, Mama."
+
+# game/episode023.rpy:1047
+translate german ep023_crew_20c84271:
+
+    # e "They’ll try to do that anyway, Nadya."
+    e "Nadya, das werden sie auf jeden Fall versuchen."
+
+# game/episode023.rpy:1048
+translate german ep023_crew_2eaa8218:
+
+    # na "Not if we hide."
+    na "Nicht wenn wir uns verstecken."
+
+# game/episode023.rpy:1049
+translate german ep023_crew_533343e3:
+
+    # na "We’ve done it before and we can do it again."
+    na "Wir haben es schon einmal geschafft und wir können es wieder schaffen."
+
+# game/episode023.rpy:1050
+translate german ep023_crew_66fdb4d2:
+
+    # c "No, we can’t."
+    c "Nein, das können wir nicht."
+
+# game/episode023.rpy:1051
+translate german ep023_crew_37857e57:
+
+    # c "The situation has changed."
+    c "Die Situation hat sich geändert."
+
+# game/episode023.rpy:1052
+translate german ep023_crew_22ee711d:
+
+    # c "Agust needed us, or Eva specifically, before."
+    c "Agust brauchte uns, oder genauer gesagt Eva, vorher."
+
+# game/episode023.rpy:1053
+translate german ep023_crew_cdc6920a:
+
+    # c "Now that he has what he was looking for, we’re just a problem that needs to go away, an inconvenient footnote in his origin story."
+    c "Jetzt, wo er hat, wonach er gesucht hat, sind wir nur noch ein Problem, das verschwinden muss, eine lästige Fußnote in seiner Entstehungsgeschichte."
+
+# game/episode023.rpy:1054
+translate german ep023_crew_2f9f8528:
+
+    # c "I have no illusions about what the Sovereignty will do to us if they find us."
+    c "Ich mache mir keine Illusionen darüber, was die Souveränität mit uns machen wird, wenn sie uns finden."
+
+# game/episode023.rpy:1055
+translate german ep023_crew_a995ad31:
+
+    # c "And they will, eventually."
+    c "Und das werden sie irgendwann."
+
+# game/episode023.rpy:1056
+translate german ep023_crew_04e8e176:
+
+    # c "Someone will slip up, or we’ll be betrayed."
+    c "Irgendjemand wird einen Fehler machen, oder wir werden verraten."
+
+# game/episode023.rpy:1058
+translate german ep023_crew_6f605b31:
+
+    # na "But think of the future!"
+    na "Aber denk an die Zukunft!"
+
+# game/episode023.rpy:1060
+translate german ep023_crew_bc45f9a7:
+
+    # na "Eva is pregnant, Lilly and Aven are expecting and I am too!"
+    na "Eva ist schwanger, Lilly und Aven erwarten ein Kind und ich auch!"
+
+# game/episode023.rpy:1062
+translate german ep023_crew_9b870385:
+
+    # na "Eva is pregnant, Aven is expecting and I am too!"
+    na "Eva ist schwanger, Aven erwartet ein Kind und ich auch!"
+
+# game/episode023.rpy:1064
+translate german ep023_crew_acf79178:
+
+    # na "Lilly is pregnant, Aven is expecting and I am too!"
+    na "Lilly ist schwanger, Aven erwartet ein Kind und ich auch!"
+
+# game/episode023.rpy:1066
+translate german ep023_crew_b8178dbb:
+
+    # na "Eva is pregnant, Lilly is expecting and I am too!"
+    na "Eva ist schwanger, Lilly erwartet ein Kind und ich auch!"
+
+# game/episode023.rpy:1068
+translate german ep023_crew_bffb074a:
+
+    # na "Eva is pregnant, Lilly is expecting and Aven too!"
+    na "Eva ist schwanger, Lilly erwartet ein Kind und Aven auch!"
+
+# game/episode023.rpy:1070
+translate german ep023_crew_2ceec630:
+
+    # na "Eva is pregnant and so is Lilly!"
+    na "Eva ist schwanger und Lilly auch!"
+
+# game/episode023.rpy:1072
+translate german ep023_crew_896c7277:
+
+    # na "Eva is pregnant and so is Aven!"
+    na "Eva ist schwanger und Aven auch!"
+
+# game/episode023.rpy:1074
+translate german ep023_crew_ad7d0558:
+
+    # na "Lilly is pregnant and so is Aven!"
+    na "Lilly ist schwanger und Aven auch!"
+
+# game/episode023.rpy:1076
+translate german ep023_crew_b9996a63:
+
+    # na "Eva is pregnant and so am I!"
+    na "Eva ist schwanger und ich auch!"
+
+# game/episode023.rpy:1078
+translate german ep023_crew_92862d96:
+
+    # na "Aven is pregnant and so am I!"
+    na "Aven ist schwanger und ich auch!"
+
+# game/episode023.rpy:1080
+translate german ep023_crew_aeebbf34:
+
+    # na "Lilly is pregnant and so am I!"
+    na "Lilly ist schwanger und ich auch!"
+
+# game/episode023.rpy:1082
+translate german ep023_crew_6f1dfca3:
+
+    # na "Eva is pregnant!"
+    na "Eva ist schwanger!"
+
+# game/episode023.rpy:1084
+translate german ep023_crew_c8fb3d4a:
+
+    # na "Lilly is pregnant!"
+    na "Lilly ist schwanger!"
+
+# game/episode023.rpy:1086
+translate german ep023_crew_5e4e42d6:
+
+    # na "Aven is pregnant!"
+    na "Aven ist schwanger!"
+
+# game/episode023.rpy:1088
+translate german ep023_crew_0135b2aa:
+
+    # na "I am pregnant!"
+    na "Ich bin schwanger!"
+
+# game/episode023.rpy:1093
+translate german ep023_crew_3dd5ee39:
+
+    # c "What?!"
+    c "Was?!"
+
+# game/episode023.rpy:1095
+translate german ep023_crew_09c60a37:
+
+    # na "Yes, I’m pregnant, [p_name_short]."
+    na "Ja, ich bin schwanger, [p_name_short]."
+
+# game/episode023.rpy:1096
+translate german ep023_crew_5f673cae:
+
+    # c "Why didn’t you tell me?"
+    c "Warum hast du mir das nicht gesagt?"
+
+# game/episode023.rpy:1097
+translate german ep023_crew_af3e60a6:
+
+    # na "I did, sort of, when you were still in a coma."
+    na "Das habe ich gewissermaßen getan, als du noch im Koma lagst."
+
+# game/episode023.rpy:1098
+translate german ep023_crew_b2bf717b:
+
+    # na "I was waiting for the right moment."
+    na "Ich habe auf den richtigen Moment gewartet."
+
+# game/episode023.rpy:1099
+translate german ep023_crew_bf1a5cd3:
+
+    # na "Clearly this isn’t the right moment, but you have to understand why I am so afraid of direct action against Agust and the Sovereignty."
+    na "Ganz klar ist das nicht der richtige Zeitpunkt, aber du musst verstehen, warum ich so große Angst vor direkten Aktionen gegen Agust und die Souveränität habe."
+
+# game/episode023.rpy:1100
+translate german ep023_crew_7b16f590:
+
+    # c "Well, let’s park the doom and gloom for a moment and focus on the happy news."
+    c "Nun, lassen wir die düsteren Aussichten für einen Moment beiseite und konzentrieren wir uns auf die erfreuliche Nachricht."
+
+# game/episode023.rpy:1103
+translate german ep023_crew_d7128413:
+
+    # "I embraced my mother and kissed her."
+    "Ich umarmte meine Mutter und küsste sie."
+
+# game/episode023.rpy:1105
+translate german ep023_crew_de9c37f8:
+
+    # "I embraced Nadya and kissed her."
+    "Ich umarmte Nadya und küsste sie."
+
+# game/episode023.rpy:1106
+translate german ep023_crew_294a14ec:
+
+    # c "I’m so happy for us!"
+    c "Ich freue mich so für uns!"
+
+# game/episode023.rpy:1108
+translate german ep023_crew_b5255205:
+
+    # na "Me too!"
+    na "Ich auch!"
+
+# game/episode023.rpy:1109
+translate german ep023_crew_bad46d08:
+
+    # na "I couldn’t believe my eyes when I did the test."
+    na "Ich traute meinen Augen nicht, als ich den Test machte."
+
+# game/episode023.rpy:1112
+translate german ep023_crew_37f3f6af:
+
+    # av "Sorry, but this is the fucking limit."
+    av "Tut mir leid, aber das ist die absolute Grenze."
+
+# game/episode023.rpy:1114
+translate german ep023_crew_98a9c54d:
+
+    # av "You’ve made our own mother pregnant?!"
+    av "Du hast unsere eigene Mutter geschwängert?!"
+
+# game/episode023.rpy:1116
+translate german ep023_crew_f1a030ca:
+
+    # av "You’ve made her pregnant?!"
+    av "Du hast sie geschwängert?!"
+
+# game/episode023.rpy:1117
+translate german ep023_crew_0337c887:
+
+    # av "Is there a line you won’t cross?"
+    av "Gibt es eine Grenze, die du nicht überschreiten würdest?"
+
+# game/episode023.rpy:1118
+translate german ep023_crew_5fb985ed:
+
+    # av "This is so fucking disgusting."
+    av "Das ist so verdammt widerlich."
+
+# game/episode023.rpy:1120
+translate german ep023_crew_ba3b14ce:
+
+    # na "We are in love."
+    na "Wir sind verliebt."
+
+# game/episode023.rpy:1123
+translate german ep023_crew_9abe39f4:
+
+    # av "This is wrong and you know it."
+    av "Das ist falsch und das weißt du auch."
+
+# game/episode023.rpy:1126
+translate german ep023_crew_de3b81d3:
+
+    # av "First you seduce your sister and knock her up and now this."
+    av "Erst verführst du deine Schwester und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1129
+translate german ep023_crew_a3cbe2cf:
+
+    # av "First you seduce Eva and knock her up and now this."
+    av "Erst verführst du Eva und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1131
+translate german ep023_crew_3924305a:
+
+    # av "First you seduce Lilly and knock her up and now this."
+    av "Erst verführst du Lilly und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1133
+translate german ep023_crew_d9376e94:
+
+    # av "First you seduce both Eva and Lilly and knock them up and now this."
+    av "Erst verführst du Eva und Lilly und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1134
+translate german ep023_crew_4279da20:
+
+    # av "I don’t want to hear anything more about it."
+    av "Ich will nichts mehr davon hören."
+
+# game/episode023.rpy:1136
+translate german ep023_crew_28cdc3d4:
+
+    # na "Please Aven, I-"
+    na "Bitte Aven, ich-"
+
+# game/episode023.rpy:1139
+translate german ep023_crew_a1a6a367:
+
+    # av "No Mom, I don’t want to talk about it."
+    av "Nein Mama, ich will nicht darüber reden."
+
+# game/episode023.rpy:1141
+translate german ep023_crew_1bbd2c2b:
+
+    # av "No, I don’t want to talk about it."
+    av "Nein, ich möchte nicht darüber reden."
+
+# game/episode023.rpy:1142
+translate german ep023_crew_40840957:
+
+    # av "I’m going to ignore this sorry mess you’ve made and focus on the crisis that’s actually solvable."
+    av "Ich werde dieses traurige Chaos, das du angerichtet hast, ignorieren und mich auf die Krise konzentrieren, die tatsächlich lösbar ist."
+
+# game/episode023.rpy:1145
+translate german ep023_crew_7d248c31:
+
+    # l "Sorry, but this is the fucking limit."
+    l "Tut mir leid, aber das ist die absolute Grenze."
+
+# game/episode023.rpy:1147
+translate german ep023_crew_2e7ce32f:
+
+    # l "You’ve made our own mother pregnant?!"
+    l "Du hast unsere eigene Mutter geschwängert?!"
+
+# game/episode023.rpy:1149
+translate german ep023_crew_c18b9068:
+
+    # l "You’ve made her pregnant?!"
+    l "Du hast sie geschwängert?!"
+
+# game/episode023.rpy:1150
+translate german ep023_crew_b91c3026:
+
+    # l "Is there a line you won’t cross?"
+    l "Gibt es eine Grenze, die du nicht überschreiten würdest?"
+
+# game/episode023.rpy:1151
+translate german ep023_crew_d3da9fb2:
+
+    # l "This is so fucking disgusting."
+    l "Das ist so verdammt widerlich."
+
+# game/episode023.rpy:1153
+translate german ep023_crew_ba3b14ce_1:
+
+    # na "We are in love."
+    na "Wir sind verliebt."
+
+# game/episode023.rpy:1156
+translate german ep023_crew_5f9ca4db:
+
+    # l "This is wrong and you know it."
+    l "Das ist falsch und das weißt du auch."
+
+# game/episode023.rpy:1159
+translate german ep023_crew_3e5caf6e:
+
+    # l "First you seduce your sister and knock her up and now this."
+    l "Erst verführst du deine Schwester und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1162
+translate german ep023_crew_1f6185b5:
+
+    # l "First you seduce Eva and knock her up and now this."
+    l "Erst verführst du Eva und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1164
+translate german ep023_crew_407919df:
+
+    # l "First you seduce Aven and knock her up and now this."
+    l "Erst verführst du Aven und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1166
+translate german ep023_crew_f52fea49:
+
+    # l "First you seduce both Eva and Aven and knock them up and now this."
+    l "Erst verführst du Eva und Aven und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1167
+translate german ep023_crew_23febab2:
+
+    # l "I don’t want to hear anything more about it."
+    l "Ich will nichts mehr davon hören."
+
+# game/episode023.rpy:1169
+translate german ep023_crew_f9835c36:
+
+    # na "Please Lilly, I-"
+    na "Bitte Lilly, ich-"
+
+# game/episode023.rpy:1172
+translate german ep023_crew_53ebdcab:
+
+    # l "No Mom, I don’t want to talk about it."
+    l "Nein Mama, ich will nicht darüber reden."
+
+# game/episode023.rpy:1174
+translate german ep023_crew_764cdfff:
+
+    # l "No, I don’t want to talk about it."
+    l "Nein, ich möchte nicht darüber reden."
+
+# game/episode023.rpy:1175
+translate german ep023_crew_ac28cdfa:
+
+    # l "I’m going to ignore this sorry mess you’ve made and focus on the crisis that’s actually solvable."
+    l "Ich werde dieses traurige Chaos, das du angerichtet hast, ignorieren und mich auf die Krise konzentrieren, die tatsächlich lösbar ist."
+
+# game/episode023.rpy:1177
+translate german ep023_crew_5c7e5403:
+
+    # e "Sorry, but this is the fucking limit."
+    e "Tut mir leid, aber das ist die absolute Grenze."
+
+# game/episode023.rpy:1179
+translate german ep023_crew_6a2db557:
+
+    # e "You’ve made our own mother pregnant?!"
+    e "Du hast unsere eigene Mutter geschwängert?!"
+
+# game/episode023.rpy:1181
+translate german ep023_crew_a568de04:
+
+    # e "You’ve made her pregnant?!"
+    e "Du hast sie geschwängert?!"
+
+# game/episode023.rpy:1182
+translate german ep023_crew_8b5fe6f4:
+
+    # e "Is there a line you won’t cross?"
+    e "Gibt es eine Grenze, die du nicht überschreiten würdest?"
+
+# game/episode023.rpy:1183
+translate german ep023_crew_e29f9bac:
+
+    # e "This is so fucking disgusting."
+    e "Das ist so verdammt widerlich."
+
+# game/episode023.rpy:1185
+translate german ep023_crew_ba3b14ce_2:
+
+    # na "We are in love."
+    na "Wir sind verliebt."
+
+# game/episode023.rpy:1187
+translate german ep023_crew_745b4545:
+
+    # e "This is wrong and you know it."
+    e "Das ist falsch und das weißt du auch."
+
+# game/episode023.rpy:1190
+translate german ep023_crew_3df30e34:
+
+    # e "First you seduce your sister and knock her up and now this."
+    e "Erst verführst du deine Schwester und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1193
+translate german ep023_crew_61113370:
+
+    # e "First you seduce Lilly and knock her up and now this."
+    e "Erst verführst du Lilly und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1195
+translate german ep023_crew_c34821c3:
+
+    # e "First you seduce Aven and knock her up and now this."
+    e "Erst verführst du Aven und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1197
+translate german ep023_crew_99fdf464:
+
+    # e "First you seduce both Lilly and Aven and knock them up and now this."
+    e "Erst verführst du Lilly und Aven und machst sie schwanger, und jetzt das."
+
+# game/episode023.rpy:1198
+translate german ep023_crew_8e66e9d3:
+
+    # e "I don’t want to hear anything more about it."
+    e "Ich will nichts mehr davon hören."
+
+# game/episode023.rpy:1200
+translate german ep023_crew_0522017c:
+
+    # na "Please Eva, I-"
+    na "Bitte Eva, ich-"
+
+# game/episode023.rpy:1203
+translate german ep023_crew_b30db602:
+
+    # e "No Mom, I don’t want to talk about it."
+    e "Nein Mama, ich will nicht darüber reden."
+
+# game/episode023.rpy:1205
+translate german ep023_crew_c756cc0e:
+
+    # e "No, I don’t want to talk about it."
+    e "Nein, ich möchte nicht darüber reden."
+
+# game/episode023.rpy:1206
+translate german ep023_crew_d78ce3eb:
+
+    # e "I’m going to ignore this sorry mess you’ve made and focus on the crisis that’s actually solvable."
+    e "Ich werde dieses traurige Chaos, das du angerichtet hast, ignorieren und mich auf die Krise konzentrieren, die tatsächlich lösbar ist."
+
+# game/episode023.rpy:1209
+translate german ep023_crew_21c6dc94:
+
+    # av "What?!"
+    av "Was?!"
+
+# game/episode023.rpy:1211
+translate german ep023_crew_f12f39c6:
+
+    # av "You’re pregnant too?!"
+    av "Du bist auch schwanger?!"
+
+# game/episode023.rpy:1213
+translate german ep023_crew_8d323b2f:
+
+    # av "You’re pregnant?"
+    av "Du bist schwanger?"
+
+# game/episode023.rpy:1214
+translate german ep023_crew_de1ab822:
+
+    # av "That’s such good news!"
+    av "Das sind ja tolle Neuigkeiten!"
+
+# game/episode023.rpy:1216
+translate german ep023_crew_b046c210:
+
+    # e "I’m so happy for you, Mom."
+    e "Ich freue mich so für dich, Mama."
+
+# game/episode023.rpy:1218
+translate german ep023_crew_664319e7:
+
+    # e "I’m so happy for you, Nadya."
+    e "Ich freue mich so für dich, Nadya."
+
+# game/episode023.rpy:1220
+translate german ep023_crew_11c018d7:
+
+    # e "And you too, [p_name_short]."
+    e "Und du auch, [p_name_short]."
+
+# game/episode023.rpy:1224
+translate german ep023_crew_fd59213e:
+
+    # l "You’re going to be very busy, both of you, becoming a grandmother and mother at roughly the same time."
+    l "Ihr werdet beide sehr beschäftigt sein, da ihr ungefähr zur gleichen Zeit Großmutter und Mutter werdet."
+
+# game/episode023.rpy:1226
+translate german ep023_crew_22447154:
+
+    # l "You’re going to be very busy, both of you, with several children on the way at roughly the same time."
+    l "Ihr werdet beide sehr beschäftigt sein, da mehrere Kinder ungefähr zur gleichen Zeit unterwegs sind."
+
+# game/episode023.rpy:1227
+translate german ep023_crew_7e1d61f4:
+
+    # l "I’m so happy we all get to experience this!"
+    l "Ich bin so froh, dass wir das alle erleben dürfen!"
+
+# game/episode023.rpy:1229
+translate german ep023_crew_ff64f6b5:
+
+    # av "Yeah, congrats, [p_name_short]."
+    av "Ja, Glückwunsch, [p_name_short]."
+
+# game/episode023.rpy:1231
+translate german ep023_crew_7639647a:
+
+    # av "The ship sure is going to be crowded after a few months."
+    av "Nach ein paar Monaten wird das Schiff bestimmt ziemlich voll sein."
+
+# game/episode023.rpy:1236
+translate german ep023_crew_fd5fb505:
+
+    # c "Okay, let's focus on the crisis at hand."
+    c "Okay, konzentrieren wir uns auf die aktuelle Krise."
+
+# game/episode023.rpy:1238
+translate german ep023_crew_d2c7979c:
+
+    # c "Thanks all."
+    c "Vielen Dank an alle."
+
+# game/episode023.rpy:1241
+translate german ep023_crew_8067c3c3:
+
+    # c "Mom, I’m very much thinking of the future."
+    c "Mama, ich denke sehr viel an die Zukunft."
+
+# game/episode023.rpy:1243
+translate german ep023_crew_e2830944:
+
+    # c "Nadya, I’m very much thinking of the future."
+    c "Nadya, ich denke sehr viel an die Zukunft."
+
+# game/episode023.rpy:1244
+translate german ep023_crew_63f79ed3:
+
+    # c "I don’t want our children to grow up as prey, hunted by the Sovereignty."
+    c "Ich möchte nicht, dass unsere Kinder als Beute aufwachsen, gejagt von der Souveränität."
+
+# game/episode023.rpy:1245
+translate german ep023_crew_ff95ce8b:
+
+    # c "I want them to have a good life, in freedom and prosperity."
+    c "Ich wünsche ihnen ein gutes Leben in Freiheit und Wohlstand."
+
+# game/episode023.rpy:1247
+translate german ep023_crew_e81dfaa3:
+
+    # c "I am thinking of the future."
+    c "Ich denke an die Zukunft."
+
+# game/episode023.rpy:1248
+translate german ep023_crew_38e1f8f2:
+
+    # c "I don’t want to live in fear, hunted by the Sovereignty."
+    c "Ich will nicht in Angst leben, gejagt von der Souveränität."
+
+# game/episode023.rpy:1249
+translate german ep023_crew_ca4dc15f:
+
+    # c "I want us to have a good life, in freedom and prosperity."
+    c "Ich wünsche mir, dass wir ein gutes Leben in Freiheit und Wohlstand führen."
+
+# game/episode023.rpy:1250
+translate german ep023_crew_e8901e79:
+
+    # c "If we don’t act now, we’ll die."
+    c "Wenn wir jetzt nicht handeln, werden wir sterben."
+
+# game/episode023.rpy:1251
+translate german ep023_crew_344eadde:
+
+    # c "Maybe not tomorrow, but we will get killed at some point."
+    c "Vielleicht nicht morgen, aber irgendwann werden wir getötet werden."
+
+# game/episode023.rpy:1252
+translate german ep023_crew_2166685d:
+
+    # c "So we’re going to build alliances, and strike at the heart of the Sovereignty when we’re ready."
+    c "Also werden wir Allianzen schmieden und den Kern der Souveränität angreifen, wenn wir bereit sind."
+
+# game/episode023.rpy:1253
+translate german ep023_crew_140f0e11:
+
+    # c "The resistance will be planned carefully and with as less risk as possible."
+    c "Der Widerstand wird sorgfältig und mit möglichst geringem Risiko geplant werden."
+
+# game/episode023.rpy:1255
+translate german ep023_crew_f731484f:
+
+    # na "You want to take on your father personally, isn’t that right?"
+    na "Du willst es persönlich mit deinem Vater aufnehmen, nicht wahr?"
+
+# game/episode023.rpy:1256
+translate german ep023_crew_d8b6a2a8:
+
+    # c "Yes, I want to."
+    c "Ja, das möchte ich."
+
+# game/episode023.rpy:1257
+translate german ep023_crew_5e4241fe:
+
+    # c "But only after we found out the extent of his powers and the level of protection surrounding him."
+    c "Aber erst nachdem wir das Ausmaß seiner Kräfte und den Grad des ihn umgebenden Schutzes herausgefunden hatten."
+
+# game/episode023.rpy:1258
+translate german ep023_crew_2fa65c1a:
+
+    # c "I don’t plan on barging into Sovereignty space to try and get a shot at him."
+    c "Ich habe nicht vor, in den Sovereignty-Raum einzudringen, um zu versuchen, ihn anzugreifen."
+
+# game/episode023.rpy:1259
+translate german ep023_crew_887639ff:
+
+    # c "When the time comes, we’re going to thoroughly plan an operation and execute it."
+    c "Wenn es soweit ist, werden wir die Operation gründlich planen und durchführen."
+
+# game/episode023.rpy:1260
+translate german ep023_crew_e6a702c8:
+
+    # c "Agust and me have undergone the same power transfer, so we should be evenly matched."
+    c "Agust und ich haben die gleiche Kraftübertragung durchgemacht, daher sollten wir gleich stark sein."
+
+# game/episode023.rpy:1261
+translate german ep023_crew_df69ba69:
+
+    # c "That said, if we can prevent hand-to-hand combat and just nuke the bastard to oblivion, I’m all for it."
+    c "Aber wenn wir dadurch einen Nahkampf verhindern und den Kerl einfach mit einer Atombombe auslöschen können, bin ich voll dafür."
+
+# game/episode023.rpy:1263
+translate german ep023_crew_e34b83a3:
+
+    # c "Do you really want to be on the run perpetually, Mom?"
+    c "Willst du wirklich ständig auf der Flucht sein, Mama?"
+
+# game/episode023.rpy:1265
+translate german ep023_crew_68373360:
+
+    # c "Do you really want to be on the run perpetually, Nadya?"
+    c "Willst du wirklich ständig auf der Flucht sein, Nadja?"
+
+# game/episode023.rpy:1267
+translate german ep023_crew_98f28b3a:
+
+    # na "No, I don’t."
+    na "Nein, das tue ich nicht."
+
+# game/episode023.rpy:1268
+translate german ep023_crew_c8fce727:
+
+    # na "But the alternative scares me."
+    na "Aber die Alternative macht mir Angst."
+
+# game/episode023.rpy:1269
+translate german ep023_crew_e629dc11:
+
+    # c "Does it scare you more than the prospect of a premature death at the hand of a Sovereignty assassin?"
+    c "Ängstigt dich das mehr als die Aussicht auf einen vorzeitigen Tod durch die Hand eines Attentäters der Souveränität?"
+
+# game/episode023.rpy:1271
+translate german ep023_crew_be2ab9b0:
+
+    # na "I...{w} No, it doesn’t."
+    na "Ich...{w} Nein, das tut es nicht."
+
+# game/episode023.rpy:1272
+translate german ep023_crew_0cac1fc5:
+
+    # na "It’s a brave thing to do, what you’re planning."
+    na "Was du da vorhast, ist mutig."
+
+# game/episode023.rpy:1274
+translate german ep023_crew_26e0fadc:
+
+    # na "And my reasons are entirely selfish."
+    na "Und meine Gründe sind rein egoistisch."
+
+# game/episode023.rpy:1275
+translate german ep023_crew_0c08ec9e:
+
+    # na "But the prospect of getting embroiled in a war frightens me, [p_name_short]."
+    na "Aber die Aussicht, in einen Krieg verwickelt zu werden, ängstigt mich, [p_name_short]."
+
+# game/episode023.rpy:1277
+translate german ep023_crew_ddbe4b11:
+
+    # na "I just want us to be happy together, me, you and the baby."
+    na "Ich wünsche mir einfach nur, dass wir alle zusammen glücklich sind, du, ich und das Baby."
+
+# game/episode023.rpy:1282
+translate german ep023_crew_e05100ab:
+
+    # "I took Nadya into my arms and rocked her back and forth, her tears staining my shirt."
+    "Ich nahm Nadya in meine Arme und wiegte sie hin und her, ihre Tränen befleckten mein Hemd."
+
+# game/episode023.rpy:1284
+translate german ep023_crew_a508201a:
+
+    # c "I’m going to keep you safe, Mom."
+    c "Ich werde dich beschützen, Mama."
+
+# game/episode023.rpy:1286
+translate german ep023_crew_214ba421:
+
+    # c "I’m going to keep you safe, Nadya."
+    c "Ich werde dich beschützen, Nadya."
+
+# game/episode023.rpy:1287
+translate german ep023_crew_5328f6f7:
+
+    # c "I’m going to keep us all safe."
+    c "Ich werde dafür sorgen, dass wir alle in Sicherheit sind."
+
+# game/episode023.rpy:1288
+translate german ep023_crew_e7164f81:
+
+    # na "My boy, my darling boy."
+    na "Mein Junge, mein geliebter Junge."
+
+# game/episode023.rpy:1293
+translate german ep023_crew_0bfb8646:
+
+    # "When Nadya stepped back, she looked determined."
+    "Als Nadya einen Schritt zurücktrat, wirkte sie entschlossen."
+
+# game/episode023.rpy:1295
+translate german ep023_crew_c1cf2f6b:
+
+    # na "Alright, let’s do this."
+    na "Okay, los geht\'s."
+
+# game/episode023.rpy:1296
+translate german ep023_crew_139c6bba:
+
+    # c "Good."
+    c "Gut."
+
+# game/episode023.rpy:1297
+translate german ep023_crew_dc29a20c:
+
+    # c "We’ll bring the rest of the crew up to speed as soon as possible."
+    c "Wir werden den Rest der Crew so schnell wie möglich auf den neuesten Stand bringen."
+
+# game/episode023.rpy:1299
+translate german ep023_crew_36508727:
+
+    # l "Jade and Ziv could send out feelers to their people?"
+    l "Könnten Jade und Ziv bei ihren Leuten nachfragen?"
+
+# game/episode023.rpy:1300
+translate german ep023_crew_a6e2f947:
+
+    # c "Yes, that’s a good idea."
+    c "Ja, das ist eine gute Idee."
+
+# game/episode023.rpy:1301
+translate german ep023_crew_f0c32e50:
+
+    # c "I’ll ask Céline to contact the Tubloshi and the R’o."
+    c "Ich werde Céline bitten, Kontakt mit den Tubloshi und den R\'o aufzunehmen."
+
+# game/episode023.rpy:1302
+translate german ep023_crew_99fe0eb8:
+
+    # c "Eva, do you have any means to get word out to the Acarhyn?"
+    c "Eva, habt ihr irgendeine Möglichkeit, die Acarhyn darüber zu informieren?"
+
+# game/episode023.rpy:1304
+translate german ep023_crew_dd7e1a4f:
+
+    # e "I hope so."
+    e "Ich hoffe es."
+
+# game/episode023.rpy:1306
+translate german ep023_crew_230e0d4d:
+
+    # e "The warrior caste might be our best bet, so I’ll try to get in contact with Rahia."
+    e "Die Kriegerkaste ist vielleicht unsere beste Chance, deshalb werde ich versuchen, mit Rahia Kontakt aufzunehmen."
+
+# game/episode023.rpy:1307
+translate german ep023_crew_7ddf6adc:
+
+    # c "Good, I hope the priest caste didn’t come out on top."
+    c "Gut, ich hoffe, die Priesterkaste hat nicht die Oberhand gewonnen."
+
+# game/episode023.rpy:1309
+translate german ep023_crew_67564099:
+
+    # e "I’ll try to get in contact with them."
+    e "Ich werde versuchen, mit ihnen Kontakt aufzunehmen."
+
+# game/episode023.rpy:1310
+translate german ep023_crew_e02c0aa4:
+
+    # e "We burned a lot of bridges when we left Erigone though."
+    e "Wir haben uns mit unserer Abreise aus Erigone allerdings viele Brücken hinter uns abgebrochen."
+
+# game/episode023.rpy:1311
+translate german ep023_crew_5a9a0d7f:
+
+    # c "Yes, I didn’t think we’d ever come back there."
+    c "Ja, ich hätte nicht gedacht, dass wir jemals wieder dorthin zurückkehren würden."
+
+# game/episode023.rpy:1312
+translate german ep023_crew_1153473f:
+
+    # c "That girl, Caese, might be a way in."
+    c "Dieses Mädchen, Caese, könnte ein Zugang sein."
+
+# game/episode023.rpy:1313
+translate german ep023_crew_4f380950:
+
+    # c "After we’ve secured the first commitments, we’ll plan a meeting to determine our strategy."
+    c "Sobald wir die ersten Zusagen erhalten haben, werden wir ein Treffen planen, um unsere Strategie festzulegen."
+
+# game/episode023.rpy:1314
+translate german ep023_crew_d40266a9:
+
+    # c "The promise made to the Scolguin also has to be factored in."
+    c "Das den Scolguin gegebene Versprechen muss ebenfalls berücksichtigt werden."
+
+# game/episode023.rpy:1316
+translate german ep023_crew_4d4cb263:
+
+    # na "Are you planning on breaking your word?"
+    na "Planst du etwa, dein Wort zu brechen?"
+
+# game/episode023.rpy:1317
+translate german ep023_crew_8b12fc0a:
+
+    # c "I haven’t decided yet."
+    c "Ich habe mich noch nicht entschieden."
+
+# game/episode023.rpy:1324
+translate german ep023_crew_01f9bed4:
+
+    # c "Do we need to discuss Mom’s news in more detail?"
+    c "Müssen wir Mamas Neuigkeiten genauer besprechen?"
+
+# game/episode023.rpy:1326
+translate german ep023_crew_ed91dbfa:
+
+    # c "Do we need to discuss Nadya’s news in more detail?"
+    c "Müssen wir Nadyas Neuigkeiten genauer besprechen?"
+
+# game/episode023.rpy:1330
+translate german ep023_crew_44aaf832:
+
+    # av "Absolutely not."
+    av "Absolut nicht."
+
+# game/episode023.rpy:1331
+translate german ep023_crew_49a0f02c:
+
+    # av "I want to know as little as possible about it."
+    av "Ich möchte so wenig wie möglich darüber wissen."
+
+# game/episode023.rpy:1333
+translate german ep023_crew_e1d234cf:
+
+    # av "What you’re doing is wrong and you both know it."
+    av "Was du tust, ist falsch, und das wisst ihr beide."
+
+# game/episode023.rpy:1334
+translate german ep023_crew_1afb69f6:
+
+    # av "I don’t want to be complicit in your behavior."
+    av "Ich möchte mich nicht an deinem Verhalten mitschuldig machen."
+
+# game/episode023.rpy:1335
+translate german ep023_crew_52247b60:
+
+    # c "Fair enough, suit yourself."
+    c "Na gut, wie du willst."
+
+# game/episode023.rpy:1337
+translate german ep023_crew_058d8f64:
+
+    # na "But Aven..."
+    na "Aber Aven..."
+
+# game/episode023.rpy:1340
+translate german ep023_crew_cec3c4b0:
+
+    # av "No Mom, I don’t know more."
+    av "Nein Mama, mehr weiß ich nicht."
+
+# game/episode023.rpy:1342
+translate german ep023_crew_9df16c49:
+
+    # av "No Nadya, I don’t know more."
+    av "Nein Nadya, ich weiß nichts Genaueres."
+
+# game/episode023.rpy:1343
+translate german ep023_crew_1f6e0fb1:
+
+    # av "I can barely look you in the eye as it is."
+    av "Ich kann dir jetzt schon kaum in die Augen sehen."
+
+# game/episode023.rpy:1347
+translate german ep023_crew_bf6318b2:
+
+    # l "The same goes for me."
+    l "Mir geht es genauso."
+
+# game/episode023.rpy:1351
+translate german ep023_crew_ba0ae7df:
+
+    # e "And me."
+    e "Und ich."
+
+# game/episode023.rpy:1354
+translate german ep023_crew_0d9fe021:
+
+    # e "The same goes for me."
+    e "Mir geht es genauso."
+
+# game/episode023.rpy:1357
+translate german ep023_crew_ac9c576a:
+
+    # l "Absolutely not."
+    l "Absolut nicht."
+
+# game/episode023.rpy:1358
+translate german ep023_crew_9e99ca41:
+
+    # l "I want to know as little as possible about it."
+    l "Ich möchte so wenig wie möglich darüber wissen."
+
+# game/episode023.rpy:1360
+translate german ep023_crew_2a3ab621:
+
+    # l "What you’re doing is wrong and you both know it."
+    l "Was du tust, ist falsch, und das wisst ihr beide."
+
+# game/episode023.rpy:1361
+translate german ep023_crew_9139d232:
+
+    # l "I don’t want to be complicit in your behavior."
+    l "Ich möchte mich nicht an deinem Verhalten mitschuldig machen."
+
+# game/episode023.rpy:1362
+translate german ep023_crew_52247b60_1:
+
+    # c "Fair enough, suit yourself."
+    c "Na gut, wie du willst."
+
+# game/episode023.rpy:1364
+translate german ep023_crew_d52fbff0:
+
+    # na "But Lilly..."
+    na "Aber Lilly..."
+
+# game/episode023.rpy:1367
+translate german ep023_crew_6ca8f766:
+
+    # l "No Mom, I don’t know more."
+    l "Nein Mama, mehr weiß ich nicht."
+
+# game/episode023.rpy:1369
+translate german ep023_crew_57a201bd:
+
+    # l "No Nadya, I don’t know more."
+    l "Nein Nadya, ich weiß nichts Genaueres."
+
+# game/episode023.rpy:1370
+translate german ep023_crew_3af5c59d:
+
+    # l "I can barely look you in the eye as it is."
+    l "Ich kann dir jetzt schon kaum in die Augen sehen."
+
+# game/episode023.rpy:1373
+translate german ep023_crew_0d9fe021_1:
+
+    # e "The same goes for me."
+    e "Mir geht es genauso."
+
+# game/episode023.rpy:1376
+translate german ep023_crew_562ae6df:
+
+    # e "Absolutely not."
+    e "Absolut nicht."
+
+# game/episode023.rpy:1377
+translate german ep023_crew_3ce47f05:
+
+    # e "I want to know as little as possible about it."
+    e "Ich möchte so wenig wie möglich darüber wissen."
+
+# game/episode023.rpy:1379
+translate german ep023_crew_f6c1cfa3:
+
+    # e "What you’re doing is wrong and you both know it."
+    e "Was du tust, ist falsch, und das wisst ihr beide."
+
+# game/episode023.rpy:1380
+translate german ep023_crew_126280b8:
+
+    # e "I don’t want to be complicit in your behavior."
+    e "Ich möchte mich nicht an deinem Verhalten mitschuldig machen."
+
+# game/episode023.rpy:1381
+translate german ep023_crew_52247b60_2:
+
+    # c "Fair enough, suit yourself."
+    c "Na gut, wie du willst."
+
+# game/episode023.rpy:1383
+translate german ep023_crew_67128a67:
+
+    # na "But Eva..."
+    na "Aber Eva..."
+
+# game/episode023.rpy:1386
+translate german ep023_crew_2fde8a80:
+
+    # e "No Mom, I don’t know more."
+    e "Nein Mama, mehr weiß ich nicht."
+
+# game/episode023.rpy:1388
+translate german ep023_crew_ac42ffde:
+
+    # e "No Nadya, I don’t know more."
+    e "Nein Nadya, ich weiß nichts Genaueres."
+
+# game/episode023.rpy:1389
+translate german ep023_crew_69b5b5bb:
+
+    # e "I can barely look you in the eye as it is."
+    e "Ich kann dir jetzt schon kaum in die Augen sehen."
+
+# game/episode023.rpy:1391
+translate german ep023_crew_cbad1f14:
+
+    # "On that sour note, all the girls left us."
+    "Und damit nicht genug: Alle Mädchen haben uns verlassen."
+
+# game/episode023.rpy:1392
+translate german ep023_crew_fc5824f3:
+
+    # "Nadya was still sitting on my bed, looking a little forlorn."
+    "Nadya saß immer noch auf meinem Bett und sah etwas verloren aus."
+
+# game/episode023.rpy:1393
+translate german ep023_crew_810d8bd6:
+
+    # na "I wanted to tell you earlier in person, but you were just out of the medbay."
+    na "Ich wollte es dir eigentlich schon früher persönlich sagen, aber du warst ja gerade erst aus der Krankenstation entlassen worden."
+
+# game/episode023.rpy:1395
+translate german ep023_crew_f0fc7517:
+
+    # na "And then Lilly and Aven made their announcements..."
+    na "Und dann machten Lilly und Aven ihre Ankündigungen..."
+
+# game/episode023.rpy:1397
+translate german ep023_crew_2f70b940:
+
+    # na "And then Lilly made her announcement..."
+    na "Und dann machte Lilly ihre Ankündigung..."
+
+# game/episode023.rpy:1399
+translate german ep023_crew_c96ac942:
+
+    # na "And then Aven made her announcement..."
+    na "Und dann machte Aven ihre Ankündigung..."
+
+# game/episode023.rpy:1400
+translate german ep023_crew_cf099f60:
+
+    # c "You were worried I wouldn’t be able to take the shock?"
+    c "Du hattest Angst, ich würde den Schock nicht verkraften?"
+
+# game/episode023.rpy:1402
+translate german ep023_crew_610711a1:
+
+    # na "Maybe...{w} Something like that."
+    na "Vielleicht...{w} So etwas in der Art."
+
+# game/episode023.rpy:1403
+translate german ep023_crew_96f19fbc:
+
+    # na "Maybe you’d be disappointed..."
+    na "Vielleicht wärst du enttäuscht..."
+
+# game/episode023.rpy:1404
+translate german ep023_crew_fc1d68d9:
+
+    # c "Disappointed?"
+    c "Enttäuscht?"
+
+# game/episode023.rpy:1406
+translate german ep023_crew_d3d2a588:
+
+    # c "I’m over the moon, Mom!"
+    c "Ich bin überglücklich, Mama!"
+
+# game/episode023.rpy:1408
+translate german ep023_crew_7e206ad0:
+
+    # c "I’m over the moon!"
+    c "Ich bin überglücklich!"
+
+# game/episode023.rpy:1409
+translate german ep023_crew_46c0697a:
+
+    # c "We talked it over, didn’t we?"
+    c "Wir haben doch darüber gesprochen, oder nicht?"
+
+# game/episode023.rpy:1410
+translate german ep023_crew_2724c85e:
+
+    # c "We both decided we wanted this and I still do."
+    c "Wir haben beide beschlossen, dass wir das wollen, und ich will es immer noch."
+
+# game/episode023.rpy:1411
+translate german ep023_crew_8acef7ce:
+
+    # c "You don’t know how happy you’ve made me."
+    c "Du ahnst nicht, wie glücklich du mich gemacht hast."
+
+# game/episode023.rpy:1413
+translate german ep023_crew_93495d47:
+
+    # na "Sorry, [p_name_short], I don’t know what came over me."
+    na "Entschuldigung, [p_name_short], ich weiß nicht, was mit mir los war."
+
+# game/episode023.rpy:1414
+translate german ep023_crew_4c8f87ca:
+
+    # na "With all that happened on Petrarch and you being in a coma, I just started to panic."
+    na "Angesichts all dessen, was auf Petrarca passiert ist und dass du im Koma liegst, bin ich einfach in Panik geraten."
+
+# game/episode023.rpy:1415
+translate german ep023_crew_8c85b57b:
+
+    # na "What if you’d come out of that coma all changed."
+    na "Was wäre, wenn du völlig verändert aus dem Koma erwachen würdest?"
+
+# game/episode023.rpy:1416
+translate german ep023_crew_6d199864:
+
+    # na "We’d be all alone in the galaxy, running from the Sovereignty and my pregnancy would be a risk, a liability even."
+    na "Wir wären ganz allein in der Galaxie, auf der Flucht vor der Souveränität, und meine Schwangerschaft wäre ein Risiko, ja sogar eine Belastung."
+
+# game/episode023.rpy:1417
+translate german ep023_crew_38163117:
+
+    # c "I would never think something like that."
+    c "So etwas würde ich nie denken."
+
+# game/episode023.rpy:1418
+translate german ep023_crew_dfd98ce4:
+
+    # na "I know, and I’m sorry."
+    na "Ich weiß, und es tut mir leid."
+
+# game/episode023.rpy:1419
+translate german ep023_crew_478dc73f:
+
+    # na "I just don’t want to lose you."
+    na "Ich will dich einfach nicht verlieren."
+
+# game/episode023.rpy:1420
+translate german ep023_crew_f6ea7185:
+
+    # c "You won’t and I won’t let anything happen to you and the baby."
+    c "Du wirst es nicht zulassen und ich werde auch nicht zulassen, dass dir und dem Baby etwas zustößt."
+
+# game/episode023.rpy:1421
+translate german ep023_crew_ff845d9d:
+
+    # c "Shall we talk about happy things now, there’s been enough doom and gloom for one day, I’d say."
+    c "Sollen wir jetzt über schöne Dinge reden? Es gab genug Trübsal und Elend für heute, würde ich sagen."
+
+# game/episode023.rpy:1423
+translate german ep023_crew_d5a29f5b:
+
+    # na "I agree."
+    na "Da stimme ich dir zu."
+
+# game/episode023.rpy:1424
+translate german ep023_crew_23d8719d:
+
+    # c "How long have you known?"
+    c "Wie lange weißt du das schon?"
+
+# game/episode023.rpy:1425
+translate german ep023_crew_b6f7749e:
+
+    # na "A few weeks now."
+    na "Ein paar Wochen sind es jetzt."
+
+# game/episode023.rpy:1426
+translate german ep023_crew_1eb64a23:
+
+    # na "I did a test when we were back on the Bastard, taking turns watching over you."
+    na "Ich habe einen Test gemacht, als wir wieder auf der Bastard waren, und wir haben uns abgewechselt, auf dich aufzupassen."
+
+# game/episode023.rpy:1428
+translate german ep023_crew_b8c800aa:
+
+    # na "I was so happy at first, [p_name_short], becoming a mother again!"
+    na "Ich war anfangs so glücklich, [p_name_short] wieder Mutter zu werden!"
+
+# game/episode023.rpy:1430
+translate german ep023_crew_6352beed:
+
+    # na "I was so happy at first, [p_name_short], becoming a mother!"
+    na "Ich war anfangs so glücklich, [p_name_short], Mutter zu werden!"
+
+# game/episode023.rpy:1432
+translate german ep023_crew_caa59837:
+
+    # na "Only after I told you the news at your bedside, did the worry set in."
+    na "Erst als ich dir die Nachricht an deinem Krankenbett überbracht habe, setzte die Sorge ein."
+
+# game/episode023.rpy:1434
+translate german ep023_crew_6fc4b47c:
+
+    # na "The girl’s reaction just now was what I feared too."
+    na "Die Reaktion des Mädchens eben war genau das, was ich befürchtet hatte."
+
+# game/episode023.rpy:1435
+translate german ep023_crew_847acb4f:
+
+    # c "Don’t worry, they’ll come around."
+    c "Keine Sorge, sie werden sich schon beruhigen."
+
+# game/episode023.rpy:1437
+translate german ep023_crew_326035d3:
+
+    # na "Aven’s reaction just now was what I feared too."
+    na "Avens Reaktion eben war genau das, was ich befürchtet hatte."
+
+# game/episode023.rpy:1438
+translate german ep023_crew_7ae0bbbc:
+
+    # c "Don’t worry, she’ll come around."
+    c "Keine Sorge, sie wird sich schon beruhigen."
+
+# game/episode023.rpy:1440
+translate german ep023_crew_4f8c38e8:
+
+    # na "Lilly’s reaction just now was what I feared too."
+    na "Lillys Reaktion eben war genau das, was ich befürchtet hatte."
+
+# game/episode023.rpy:1441
+translate german ep023_crew_7ae0bbbc_1:
+
+    # c "Don’t worry, she’ll come around."
+    c "Keine Sorge, sie wird sich schon beruhigen."
+
+# game/episode023.rpy:1443
+translate german ep023_crew_76baf0b0:
+
+    # na "Eva’s reaction just now was what I feared too."
+    na "Evas Reaktion eben war genau das, was ich befürchtet hatte."
+
+# game/episode023.rpy:1444
+translate german ep023_crew_7ae0bbbc_2:
+
+    # c "Don’t worry, she’ll come around."
+    c "Keine Sorge, sie wird sich schon beruhigen."
+
+# game/episode023.rpy:1446
+translate german ep023_crew_a4c59678:
+
+    # na "I’m not so sure."
+    na "Da bin ich mir nicht so sicher."
+
+# game/episode023.rpy:1447
+translate german ep023_crew_bed8d552:
+
+    # c "They might not accept our love, but they’ll have to deal with the fact that you’re pregnant sooner or later."
+    c "Vielleicht akzeptieren sie unsere Liebe nicht, aber sie werden sich früher oder später mit der Tatsache auseinandersetzen müssen, dass du schwanger bist."
+
+# game/episode023.rpy:1448
+translate german ep023_crew_3ed1b816:
+
+    # na "I hope so, [p_name_short], I really hope so."
+    na "Ich hoffe es, [p_name_short], ich hoffe es wirklich."
+
+# game/episode023.rpy:1449
+translate german ep023_crew_56c3579f:
+
+    # c "We’ll get through this."
+    c "Wir werden das schaffen."
+
+# game/episode023.rpy:1450
+translate german ep023_crew_598fe70e:
+
+    # c "Our child is going to grow up in peace with a loving mother and father."
+    c "Unser Kind wird in Frieden mit einer liebevollen Mutter und einem liebevollen Vater aufwachsen."
+
+# game/episode023.rpy:1453
+translate german ep023_crew_4a05bada:
+
+    # "My mother smiled hopefully and rested her head against my shoulder."
+    "Meine Mutter lächelte hoffnungsvoll und lehnte ihren Kopf an meine Schulter."
+
+# game/episode023.rpy:1455
+translate german ep023_crew_aee88a27:
+
+    # "Nadya smiled hopefully and rested her head against my shoulder."
+    "Nadya lächelte hoffnungsvoll und lehnte ihren Kopf an meine Schulter."
+
+# game/episode023.rpy:1457
+translate german ep023_crew_18902aa3:
+
+    # na "Could you perhaps visit my quarters later?"
+    na "Könntest du vielleicht später mal in meinem Quartier vorbeischauen?"
+
+# game/episode023.rpy:1458
+translate german ep023_crew_8657d262:
+
+    # na "To spend the night, I mean."
+    na "Ich meine, um dort zu übernachten."
+
+# game/episode023.rpy:1459
+translate german ep023_crew_64584fdf:
+
+    # c "Of course I’ll come."
+    c "Natürlich komme ich."
+
+# game/episode023.rpy:1460
+translate german ep023_crew_4c71d833:
+
+    # na "Thank you."
+    na "Danke."
+
+# game/episode023.rpy:1461
+translate german ep023_crew_53d9d2ea:
+
+    # na "I just want you close after being separated for so long."
+    na "Ich möchte dich einfach wieder in meiner Nähe haben, nachdem wir so lange getrennt waren."
+
+# game/episode023.rpy:1463
+translate german ep023_crew_7d43a4a6:
+
+    # "We sat in silence until we both decided it was time to brave the outside world."
+    "Wir saßen schweigend da, bis wir beide beschlossen, dass es an der Zeit war, uns in die Außenwelt zu wagen."
+
+# game/episode023.rpy:1470
+translate german ep023_crew_6eb8a8b7:
+
+    # av "Now you have to tell us all about your pregnancy, Mom."
+    av "Jetzt musst du uns alles über deine Schwangerschaft erzählen, Mama."
+
+# game/episode023.rpy:1472
+translate german ep023_crew_c7cefeac:
+
+    # av "Now you have to tell us all about your pregnancy, Nadya."
+    av "Jetzt musst du uns alles über deine Schwangerschaft erzählen, Nadya."
+
+# game/episode023.rpy:1473
+translate german ep023_crew_204d0ca6:
+
+    # e "Yes, how long have you known?!"
+    e "Ja, seit wann weißt du das schon?!"
+
+# game/episode023.rpy:1474
+translate german ep023_crew_5115fd37:
+
+    # "I left the girls talking exuberantly about their mother’s happy news and prepared to inform the rest of the crew."
+    "Ich ließ die Mädchen noch überschwänglich über die frohe Botschaft ihrer Mutter plaudern und bereitete mich darauf vor, den Rest der Mannschaft zu informieren."
+
+# game/episode023.rpy:1476
+translate german ep023_crew_8a18dd1c:
+
+    # c "Right, that’s all for now, thank you all."
+    c "Okay, das war\'s für jetzt, danke euch allen."
+
+# game/episode023.rpy:1478
+translate german ep023_crew_2eeff45f:
+
+    # "The girls left my quarters and I got busy preparing to inform the rest of the crew."
+    "Die Mädchen verließen meine Kabine und ich machte mich daran, die restliche Mannschaft zu informieren."
+
+# game/episode023.rpy:1485
+translate german ep023_tubloshi_1200c6d0:
+
+    # "The following morning, Aven let me know that one of our first diplomatic overtures had borne fruit."
+    "Am nächsten Morgen ließ mich Aven wissen, dass eine unserer ersten diplomatischen Annäherungsversuche erfolgreich gewesen war."
+
+# game/episode023.rpy:1486
+translate german ep023_tubloshi_d7992da9:
+
+    # "The Tubloshi had responded almost immediately to our invitation and arranged for a rendezvous in a neutral location."
+    "Die Tubloshi hatten fast umgehend auf unsere Einladung reagiert und ein Treffen an einem neutralen Ort vereinbart."
+
+# game/episode023.rpy:1487
+translate german ep023_tubloshi_4eeaff58:
+
+    # "I joined Céline and her on the bridge as we made our approach."
+    "Ich gesellte mich zu Céline und ihr auf die Brücke, als wir uns näherten."
+
+# game/episode023.rpy:1488
+translate german ep023_tubloshi_717fed81:
+
+    # c "It’s happening."
+    c "Es ist soweit."
+
+# game/episode023.rpy:1489
+translate german ep023_tubloshi_18e204b6:
+
+    # c "Did they seem friendly in their message?"
+    c "Wirkten sie in ihrer Nachricht freundlich?"
+
+# game/episode023.rpy:1491
+translate german ep023_tubloshi_26f80052:
+
+    # av "They were formal, but nothing overtly friendly, nor hostile."
+    av "Sie waren formell, aber weder besonders freundlich noch feindselig."
+
+# game/episode023.rpy:1492
+translate german ep023_tubloshi_2564a2dc:
+
+    # c "I guess we’ll know soon enough."
+    c "Ich denke, wir werden es bald genug erfahren."
+
+# game/episode023.rpy:1493
+translate german ep023_tubloshi_e0b2338e:
+
+    # c "Be ready to jump as soon as you notice something out of the ordinary, Céline."
+    c "Céline, sei bereit zu reagieren, sobald du etwas Ungewöhnliches bemerkst."
+
+# game/episode023.rpy:1495
+translate german ep023_tubloshi_1605c824:
+
+    # ce "I will."
+    ce "Das werde ich."
+
+# game/episode023.rpy:1496
+translate german ep023_tubloshi_7164ea82:
+
+    # c "Weapons at the ready, Aven."
+    c "Waffen bereit, Aven."
+
+# game/episode023.rpy:1498
+translate german ep023_tubloshi_5ebe1729:
+
+    # "Almost immediately after we entered the agreed-upon system, a large warship dropped out of hyperspace."
+    "Fast unmittelbar nachdem wir in das vereinbarte System eingetreten waren, tauchte ein großes Kriegsschiff aus dem Hyperraum auf."
+
+# game/episode023.rpy:1500
+translate german ep023_tubloshi_21b75fbf:
+
+    # av "That’s them."
+    av "Das sind sie."
+
+# game/episode023.rpy:1501
+translate german ep023_tubloshi_cd3f6780:
+
+    # ce "They’re hailing us already."
+    ce "Sie jubeln uns schon zu."
+
+# game/episode023.rpy:1502
+translate german ep023_tubloshi_624bee8f:
+
+    # c "Put them through."
+    c "Lass sie durch."
+
+# game/episode023.rpy:1503
+translate german ep023_tubloshi_4a6a1489:
+
+    # "A familiar sounding voice resonated through the bridge."
+    "Eine vertraut klingende Stimme hallte durch die Brücke."
+
+# game/episode023.rpy:1504
+translate german ep023_tubloshi_836beadd:
+
+    # ha "Greetings, [p_name] of the Humans."
+    ha "Grüße, [p_name] der Menschen."
+
+# game/episode023.rpy:1505
+translate german ep023_tubloshi_926e6f41:
+
+    # c "Greetings, Mighty Warriors of the Tubloshi, I’m overjoyed that you honor us with your presence."
+    c "Seid gegrüßt, ihr mächtigen Krieger der Tubloshi, ich bin überglücklich, dass ihr uns mit eurer Anwesenheit beehrt."
+
+# game/episode023.rpy:1507
+translate german ep023_tubloshi_856672f0:
+
+    # ha "As you well should, [p_name] of the Humans."
+    ha "Wie es sich gehört, [p_name] der Menschen."
+
+# game/episode023.rpy:1508
+translate german ep023_tubloshi_e9da77e6:
+
+    # ha "We have received your missive and have reluctantly agreed to discuss its contents."
+    ha "Wir haben Ihr Schreiben erhalten und uns widerwillig bereit erklärt, dessen Inhalt zu besprechen."
+
+# game/episode023.rpy:1509
+translate german ep023_tubloshi_2457721a:
+
+    # ha "You may dock with our ship and await our coming in the vestibule."
+    ha "Sie können an unserem Schiff anlegen und im Vorraum auf unsere Ankunft warten."
+
+# game/episode023.rpy:1511
+translate german ep023_tubloshi_2065df64:
+
+    # ha "The honor is ours, [p_name] of the Humans."
+    ha "Die Ehre gebührt uns, [p_name] den Menschen."
+
+# game/episode023.rpy:1512
+translate german ep023_tubloshi_53a988ab:
+
+    # ha "We have received your missive and would like to discuss its content in the comfort of our ship."
+    ha "Wir haben Ihr Schreiben erhalten und würden dessen Inhalt gerne in der angenehmen Atmosphäre unseres Schiffes besprechen."
+
+# game/episode023.rpy:1513
+translate german ep023_tubloshi_7ffb1a84:
+
+    # ha "You may dock with our ship and we will welcome you personally."
+    ha "Sie können an unserem Schiff anlegen, wir werden Sie persönlich begrüßen."
+
+# game/episode023.rpy:1514
+translate german ep023_tubloshi_811a6e8d:
+
+    # c "Of course, we’ll dock immediately."
+    c "Selbstverständlich werden wir sofort anlegen."
+
+# game/episode023.rpy:1516
+translate german ep023_tubloshi_90add027:
+
+    # "The Tubloshi severed the connection and Céline started our approach of the warship."
+    "Die Tubloshi unterbrachen die Verbindung und Céline begann unsere Annäherung an das Kriegsschiff."
+
+# game/episode023.rpy:1517
+translate german ep023_tubloshi_fb811cea:
+
+    # "The voice over the comms was that of Hannah, the redheaded translator we encountered before."
+    "Die Stimme aus dem Funkgerät war die von Hannah, der rothaarigen Übersetzerin, die wir schon einmal getroffen hatten."
+
+# game/episode023.rpy:1519
+translate german ep023_tubloshi_9b259529:
+
+    # "Acknowledging her presence on the comms would have probably been construed as some sort of slight directed at the Tubloshi, so I hoped to be able to get a private conversation with her while on the warship."
+    "Eine Bestätigung ihrer Anwesenheit über die Kommunikationskanäle wäre wahrscheinlich als eine Art Beleidigung der Tubloshi aufgefasst worden, daher hoffte ich, während der Fahrt auf dem Kriegsschiff ein privates Gespräch mit ihr führen zu können."
+
+# game/episode023.rpy:1521
+translate german ep023_tubloshi_1e08f39c:
+
+    # "Ziv and Aven were to accompany me this time and we geared up the moment the Bastard docked with the Tubloshi warship."
+    "Ziv und Aven sollten mich diesmal begleiten, und wir rüsteten uns aus, sobald die Bastard am Kriegsschiff Tubloshi andockte."
+
+# game/episode023.rpy:1522
+translate german ep023_tubloshi_2ab87300:
+
+    # "The ship looked just as I remembered, angular and militaristic, much like the Tubloshi themselves."
+    "Das Schiff sah genauso aus, wie ich es in Erinnerung hatte, kantig und militaristisch, ganz ähnlich wie die Tubloshi selbst."
+
+# game/episode023.rpy:1523
+translate german ep023_tubloshi_f112f407:
+
+    # "The corridor was empty and the inner hatch closed."
+    "Der Korridor war leer und die innere Luke geschlossen."
+
+# game/episode023.rpy:1524
+translate german ep023_tubloshi_3f4cf032:
+
+    # "We didn’t dare to advance without permission from the Tubloshi, so we waited in the hallway."
+    "Wir wagten es nicht, ohne Erlaubnis der Tubloshi vorzurücken, also warteten wir im Flur."
+
+# game/episode023.rpy:1526
+translate german ep023_tubloshi_53b41cc4:
+
+    # "They kept us waiting for a long time, matching the reluctance I sensed when the Tubloshi spoke to us on the comms."
+    "Sie ließen uns lange warten, was der Zurückhaltung entsprach, die ich spürte, als der Tubloshi über Funk mit uns sprach."
+
+# game/episode023.rpy:1531
+translate german ep023_tubloshi_2a2f47cc:
+
+    # "Finally the doors opened and two giant Tubloshi warriors came in, with Hannah in front."
+    "Schließlich öffneten sich die Türen und zwei riesige Tubloshi-Krieger kamen herein, Hannah an der Spitze."
+
+# game/episode023.rpy:1533
+translate german ep023_tubloshi_8c904655:
+
+    # "Luckily, we didn’t have to wait long, as the doors opened almost immediately after we had disembarked."
+    "Zum Glück mussten wir nicht lange warten, denn die Türen öffneten sich fast unmittelbar nach unserem Aussteigen."
+
+# game/episode023.rpy:1538
+translate german ep023_tubloshi_f3050506:
+
+    # "Two giant Tubloshi warriors came in, with Hannah in front."
+    "Zwei riesige Tubloshi-Krieger kamen herein, Hannah an der Spitze."
+
+# game/episode023.rpy:1544
+translate german ep023_tubloshi_9442faa0:
+
+    # "Hannah was still a vision, her red hair almost glowing in the artificial light of the ship."
+    "Hannah war immer noch eine Augenweide, ihr rotes Haar leuchtete fast im künstlichen Licht des Schiffes."
+
+# game/episode023.rpy:1547
+translate german ep023_tubloshi_e914a281:
+
+    # "She was also visibly pregnant."
+    "Sie war außerdem sichtbar schwanger."
+
+# game/episode023.rpy:1548
+translate german ep023_tubloshi_64c79a7a:
+
+    # "Her tight bodysuit straining over her sensuous body, heavy with child."
+    "Ihr enger Body spannte sich über ihren sinnlichen, schwangeren Körper."
+
+# game/episode023.rpy:1549
+translate german ep023_tubloshi_df9033c1:
+
+    # "The sight of her had me confused."
+    "Ihr Anblick verwirrte mich."
+
+# game/episode023.rpy:1550
+translate german ep023_tubloshi_cebfb2b4:
+
+    # "While I did have sex with her, we left the Tubloshi behind more than nine months ago."
+    "Ich hatte zwar Sex mit ihr, aber wir haben die Tubloshi-Tradition schon vor über neun Monaten hinter uns gelassen."
+
+# game/episode023.rpy:1551
+translate german ep023_tubloshi_25ba2ca5:
+
+    # "Did she forget me and invite someone else in her bed in the meantime?"
+    "Hat sie mich etwa vergessen und in der Zwischenzeit jemand anderen in ihr Bett eingeladen?"
+
+# game/episode023.rpy:1552
+translate german ep023_tubloshi_76a8b7b2:
+
+    # "A pang of jealousy shot through me."
+    "Ein Stich der Eifersucht durchfuhr mich."
+
+# game/episode023.rpy:1553
+translate german ep023_tubloshi_a6c66911:
+
+    # "Now I really wanted a private moment with her, to get to the bottom of it all."
+    "Ich wollte jetzt unbedingt einen privaten Moment mit ihr verbringen, um der Sache auf den Grund zu gehen."
+
+# game/episode023.rpy:1555
+translate german ep023_tubloshi_18c52be5:
+
+    # "When she looked at me, I detected a hungry glint in her eye, which made me long for a private moment with her all the more."
+    "Als sie mich ansah, bemerkte ich einen hungrigen Glanz in ihren Augen, der meine Sehnsucht nach einem privaten Moment mit ihr nur noch verstärkte."
+
+# game/episode023.rpy:1560
+translate german ep023_tubloshi_679056a9:
+
+    # ha "Greetings, [p_name] of the Humans, Ziv of the Rhenkoy and Aven of the Humans."
+    ha "Grüße, [p_name] von den Menschen, Ziv von den Rhenköy und Aven von den Menschen."
+
+# game/episode023.rpy:1561
+translate german ep023_tubloshi_627185dd:
+
+    # ha "Please come further, we have much to discuss."
+    ha "Bitte komm näher, wir haben viel zu besprechen."
+
+# game/episode023.rpy:1596
+translate german ep023_group_sex_89e1d99a:
+
+    # "Is Eva pregnant in this scene?"
+    "Ist Eva in dieser Szene schwanger?"
+
+# game/episode023.rpy:1600
+translate german ep023_group_sex_7b26ee22:
+
+    # "Eva pregnant"
+    "Eva ist schwanger"
+
+# game/episode023.rpy:1603
+translate german ep023_group_sex_038ec035:
+
+    # "Eva not pregnant"
+    "Eva ist nicht schwanger"
+
+# game/episode023.rpy:1606
+translate german ep023_group_sex_ee132948:
+
+    # "Just when I was about to go to sleep, there was a knock on my door."
+    "Gerade als ich im Begriff war einzuschlafen, klopfte es an meiner Tür."
+
+# game/episode023.rpy:1613
+translate german ep023_group_sex_4436cff0:
+
+    # "Eva stepped inside, followed by Lilly."
+    "Eva betrat das Haus, gefolgt von Lilly."
+
+# game/episode023.rpy:1614
+translate german ep023_group_sex_90d0fd8d:
+
+    # e "Hey [p_name_short]."
+    e "Hey [p_name_short]."
+
+# game/episode023.rpy:1620
+translate german ep023_group_sex_54a3b856:
+
+    # "Eva stepped inside."
+    "Eva trat ein."
+
+# game/episode023.rpy:1621
+translate german ep023_group_sex_90d0fd8d_1:
+
+    # e "Hey [p_name_short]."
+    e "Hey [p_name_short]."
+
+# game/episode023.rpy:1624
+translate german ep023_group_sex_a0ca048e:
+
+    # "Lilly stepped inside."
+    "Lilly trat ein."
+
+# game/episode023.rpy:1625
+translate german ep023_group_sex_32aef856:
+
+    # l "Hey [p_name_short]."
+    l "Hey [p_name_short]."
+
+# game/episode023.rpy:1627
+translate german ep023_group_sex_a85041c7:
+
+    # c "Come to check up on the patient?"
+    c "Wolltest du nach dem Patienten sehen?"
+
+# game/episode023.rpy:1631
+translate german ep023_group_sex_46093fff:
+
+    # l "Something like that."
+    l "So in etwa."
+
+# game/episode023.rpy:1632
+translate german ep023_group_sex_15f3d53c:
+
+    # l "We were thinking more along the lines of a celebration."
+    l "Wir dachten eher an eine Feier."
+
+# game/episode023.rpy:1635
+translate german ep023_group_sex_cc91011e:
+
+    # l "We really liked our time with you on Petrarch."
+    l "Wir haben die Zeit mit dir auf Petrarca sehr genossen."
+
+# game/episode023.rpy:1637
+translate german ep023_group_sex_a3f87ee7:
+
+    # e "It’s one of the few nice things I remember from that horrible place."
+    e "Das ist eines der wenigen schönen Dinge, an die ich mich von diesem schrecklichen Ort erinnere."
+
+# game/episode023.rpy:1638
+translate german ep023_group_sex_ac0fa88c:
+
+    # e "So we thought we could recreate that moment again."
+    e "Also dachten wir, wir könnten diesen Moment noch einmal erleben."
+
+# game/episode023.rpy:1639
+translate german ep023_group_sex_527262ff:
+
+    # c "I sure did love having my hands full."
+    c "Ich habe es wirklich genossen, alle Hände voll zu tun zu haben."
+
+# game/episode023.rpy:1641
+translate german ep023_group_sex_b61166a3:
+
+    # c "I sure love having my hands full."
+    c "Ich liebe es, wenn ich alle Hände voll zu tun habe."
+
+# game/episode023.rpy:1645
+translate german ep023_group_sex_97051522:
+
+    # e "Something like that."
+    e "So in etwa."
+
+# game/episode023.rpy:1646
+translate german ep023_group_sex_95120cbb:
+
+    # e "We were thinking more along the lines of a celebration."
+    e "Wir dachten eher an eine Feier."
+
+# game/episode023.rpy:1647
+translate german ep023_group_sex_b61166a3_1:
+
+    # c "I sure love having my hands full."
+    c "Ich liebe es, wenn ich alle Hände voll zu tun habe."
+
+# game/episode023.rpy:1651
+translate german ep023_group_sex_d0e910e3:
+
+    # l "Good."
+    l "Gut."
+
+# game/episode023.rpy:1653
+translate german ep023_group_sex_7ff93ad5:
+
+    # l "Aven will be joining us too, this time."
+    l "Aven wird dieses Mal auch dabei sein."
+
+# game/episode023.rpy:1654
+translate german ep023_group_sex_f3d90b33:
+
+    # c "Even better."
+    c "Noch besser."
+
+# game/episode023.rpy:1656
+translate german ep023_group_sex_e8128eea:
+
+    # e "She should be here any minute."
+    e "Sie müsste jeden Moment da sein."
+
+# game/episode023.rpy:1659
+translate german ep023_group_sex_5131871e:
+
+    # e "Good."
+    e "Gut."
+
+# game/episode023.rpy:1667
+translate german ep023_group_sex_a54820d4:
+
+    # l "Maybe we should make the waiting a little more interesting for our brother?"
+    l "Vielleicht sollten wir die Wartezeit für unseren Bruder etwas interessanter gestalten?"
+
+# game/episode023.rpy:1669
+translate german ep023_group_sex_8c552ba4:
+
+    # l "Maybe we should make the waiting a little more interesting for him?"
+    l "Vielleicht sollten wir ihm das Warten etwas interessanter gestalten?"
+
+# game/episode023.rpy:1670
+translate german ep023_group_sex_5bd716ff:
+
+    # e "Good idea."
+    e "Gute Idee."
+
+# game/episode023.rpy:1676
+translate german ep023_group_sex_4dd7c272:
+
+    # "Lilly busied herself with unclasping her sister’s bra."
+    "Lilly war damit beschäftigt, den BH ihrer Schwester zu öffnen."
+
+# game/episode023.rpy:1678
+translate german ep023_group_sex_1c2b8a27:
+
+    # "Eva put a hand on the soft swell of her pregnant belly and let her sister undress her."
+    "Eva legte eine Hand auf die weiche Wölbung ihres schwangeren Bauches und ließ sich von ihrer Schwester ausziehen."
+
+# game/episode023.rpy:1684
+translate german ep023_group_sex_1e3e3b29:
+
+    # "Lilly busied herself with unclasping her friend’s bra."
+    "Lilly war damit beschäftigt, den BH ihrer Freundin zu öffnen."
+
+# game/episode023.rpy:1686
+translate german ep023_group_sex_2085259c:
+
+    # "Eva put a hand on the soft swell of her pregnant belly and let her friend undress her."
+    "Eva legte eine Hand auf die weiche Wölbung ihres Babybauchs und ließ sich von ihrer Freundin ausziehen."
+
+# game/episode023.rpy:1689
+translate german ep023_group_sex_982e0db0:
+
+    # c "You don’t even realize how beautifully pregnant you are, Eva."
+    c "Du ahnst gar nicht, wie wunderschön du schwanger bist, Eva."
+
+# game/episode023.rpy:1690
+translate german ep023_group_sex_69bbb092:
+
+    # e "It feels so special."
+    e "Es fühlt sich so besonders an."
+
+# game/episode023.rpy:1692
+translate german ep023_group_sex_11df3e99:
+
+    # c "You don’t even realize how beautiful you are, Eva."
+    c "Du ahnst gar nicht, wie schön du bist, Eva."
+
+# game/episode023.rpy:1697
+translate german ep023_group_sex_308268e8:
+
+    # "Eva was now topless and turned her attention to Lilly."
+    "Eva war nun oben ohne und wandte ihre Aufmerksamkeit Lilly zu."
+
+# game/episode023.rpy:1700
+translate german ep023_group_sex_1428595c:
+
+    # e "Maybe I should make the waiting a little more interesting for my brother?"
+    e "Vielleicht sollte ich die Wartezeit für meinen Bruder etwas interessanter gestalten?"
+
+# game/episode023.rpy:1702
+translate german ep023_group_sex_f49b0a57:
+
+    # e "Maybe I should make the waiting a little more interesting for you?"
+    e "Vielleicht sollte ich dir die Wartezeit etwas interessanter gestalten?"
+
+# game/episode023.rpy:1708
+translate german ep023_group_sex_3132b204:
+
+    # "Eva put a hand on the soft swell of her pregnant belly and unclasped her bra with her other hand."
+    "Eva legte eine Hand auf die weiche Wölbung ihres Babybauchs und öffnete mit der anderen Hand ihren BH."
+
+# game/episode023.rpy:1710
+translate german ep023_group_sex_d01c8d61:
+
+    # "Eva unclasped her bra."
+    "Eva öffnete ihren BH."
+
+# game/episode023.rpy:1712
+translate german ep023_group_sex_982e0db0_1:
+
+    # c "You don’t even realize how beautifully pregnant you are, Eva."
+    c "Du ahnst gar nicht, wie wunderschön du schwanger bist, Eva."
+
+# game/episode023.rpy:1713
+translate german ep023_group_sex_69bbb092_1:
+
+    # e "It feels so special."
+    e "Es fühlt sich so besonders an."
+
+# game/episode023.rpy:1715
+translate german ep023_group_sex_11df3e99_1:
+
+    # c "You don’t even realize how beautiful you are, Eva."
+    c "Du ahnst gar nicht, wie schön du bist, Eva."
+
+# game/episode023.rpy:1720
+translate german ep023_group_sex_2ddfd2a9:
+
+    # "Eva was now topless and turned her attention to me."
+    "Eva war nun oben ohne und wandte mir ihre Aufmerksamkeit zu."
+
+# game/episode023.rpy:1723
+translate german ep023_group_sex_a7d8ab7c:
+
+    # l "Maybe I should make the waiting a little more interesting for my brother?"
+    l "Vielleicht sollte ich die Wartezeit für meinen Bruder etwas interessanter gestalten?"
+
+# game/episode023.rpy:1725
+translate german ep023_group_sex_2ecd91ef:
+
+    # l "Maybe I should make the waiting a little more interesting for you?"
+    l "Vielleicht sollte ich dir die Wartezeit etwas interessanter gestalten?"
+
+# game/episode023.rpy:1727
+translate german ep023_group_sex_a474a44a:
+
+    # "Lilly unclasped her bra."
+    "Lilly öffnete ihren BH."
+
+# game/episode023.rpy:1728
+translate german ep023_group_sex_a247f3fb:
+
+    # c "You don’t even realize how beautiful you are, Lilly."
+    c "Du ahnst gar nicht, wie schön du bist, Lilly."
+
+# game/episode023.rpy:1730
+translate german ep023_group_sex_c03a7c95:
+
+    # "Lilly was now topless and turned her attention to me."
+    "Lilly war nun oben ohne und wandte mir ihre Aufmerksamkeit zu."
+
+# game/episode023.rpy:1738
+translate german ep023_group_sex_e663ae1b:
+
+    # "When my other sister had her breasts freed, there was another knock on the door."
+    "Als bei meiner anderen Schwester die Brüste befreit wurden, klopfte es erneut an der Tür."
+
+# game/episode023.rpy:1740
+translate german ep023_group_sex_c8d905dc:
+
+    # "When Lilly had her breasts freed, there was another knock on the door."
+    "Als Lillys Brüste befreit waren, klopfte es erneut an der Tür."
+
+# game/episode023.rpy:1745
+translate german ep023_group_sex_46589a92:
+
+    # "Aven entered and looked at us accusingly."
+    "Aven trat ein und blickte uns anklagend an."
+
+# game/episode023.rpy:1747
+translate german ep023_group_sex_a2458b30:
+
+    # av "Have you already started without me?"
+    av "Hast du schon ohne mich angefangen?"
+
+# game/episode023.rpy:1752
+translate german ep023_group_sex_a23f8051:
+
+    # l "We were just getting comfortable."
+    l "Wir hatten es uns gerade erst gemütlich gemacht."
+
+# game/episode023.rpy:1753
+translate german ep023_group_sex_28417e69:
+
+    # e "We’ll help you get ready."
+    e "Wir helfen dir bei den Vorbereitungen."
+
+# game/episode023.rpy:1755
+translate german ep023_group_sex_115f594d:
+
+    # "Eva and Lilly got behind their sister and stripped her naked."
+    "Eva und Lilly stellten sich hinter ihre Schwester und zogen sie aus."
+
+# game/episode023.rpy:1757
+translate german ep023_group_sex_12827522:
+
+    # "Eva and Lilly got behind their friend and stripped her naked."
+    "Eva und Lilly stellten sich hinter ihre Freundin und zogen sie aus."
+
+# game/episode023.rpy:1758
+translate german ep023_group_sex_5dcfbbb5:
+
+    # c "Damn, I want you three to come here immediately."
+    c "Verdammt, ich will, dass ihr drei sofort herkommt."
+
+# game/episode023.rpy:1761
+translate german ep023_group_sex_27b1d1bc:
+
+    # "When my sister had her breasts freed, there was another knock on the door."
+    "Als meiner Schwester die Brüste befreit wurden, klopfte es erneut an der Tür."
+
+# game/episode023.rpy:1763
+translate german ep023_group_sex_4ed03d9c:
+
+    # "When Eva had her breasts freed, there was another knock on the door."
+    "Als Evas Brüste befreit waren, klopfte es erneut an der Tür."
+
+# game/episode023.rpy:1768
+translate german ep023_group_sex_46589a92_1:
+
+    # "Aven entered and looked at us accusingly."
+    "Aven trat ein und blickte uns anklagend an."
+
+# game/episode023.rpy:1770
+translate german ep023_group_sex_a2458b30_1:
+
+    # av "Have you already started without me?"
+    av "Hast du schon ohne mich angefangen?"
+
+# game/episode023.rpy:1771
+translate german ep023_group_sex_b1686e14:
+
+    # c "We were just getting comfortable."
+    c "Wir hatten es uns gerade erst gemütlich gemacht."
+
+# game/episode023.rpy:1776
+translate german ep023_group_sex_1574a991:
+
+    # e "I’ll help you get ready."
+    e "Ich helfe dir beim Fertigmachen."
+
+# game/episode023.rpy:1778
+translate german ep023_group_sex_2246a9ec:
+
+    # "Eva got behind her sister and stripped her naked."
+    "Eva stellte sich hinter ihre Schwester und entkleidete sie."
+
+# game/episode023.rpy:1780
+translate german ep023_group_sex_4eb1cf79:
+
+    # "Eva got behind her friend and stripped her naked."
+    "Eva stellte sich hinter ihre Freundin und entkleidete sie."
+
+# game/episode023.rpy:1781
+translate german ep023_group_sex_71c9c1a3:
+
+    # c "Damn, I want you two to come here immediately."
+    c "Verdammt, ich will, dass ihr beide sofort herkommt."
+
+# game/episode023.rpy:1784
+translate german ep023_group_sex_27b1d1bc_1:
+
+    # "When my sister had her breasts freed, there was another knock on the door."
+    "Als meiner Schwester die Brüste befreit wurden, klopfte es erneut an der Tür."
+
+# game/episode023.rpy:1786
+translate german ep023_group_sex_c8d905dc_1:
+
+    # "When Lilly had her breasts freed, there was another knock on the door."
+    "Als Lillys Brüste befreit waren, klopfte es erneut an der Tür."
+
+# game/episode023.rpy:1788
+translate german ep023_group_sex_46589a92_2:
+
+    # "Aven entered and looked at us accusingly."
+    "Aven trat ein und blickte uns anklagend an."
+
+# game/episode023.rpy:1790
+translate german ep023_group_sex_a2458b30_2:
+
+    # av "Have you already started without me?"
+    av "Hast du schon ohne mich angefangen?"
+
+# game/episode023.rpy:1791
+translate german ep023_group_sex_b1686e14_1:
+
+    # c "We were just getting comfortable."
+    c "Wir hatten es uns gerade erst gemütlich gemacht."
+
+# game/episode023.rpy:1793
+translate german ep023_group_sex_f5ccd690:
+
+    # l "I’ll help you get ready."
+    l "Ich helfe dir beim Fertigmachen."
+
+# game/episode023.rpy:1795
+translate german ep023_group_sex_85795700:
+
+    # "Lilly got behind her sister and stripped her naked."
+    "Lilly stellte sich hinter ihre Schwester und entkleidete sie."
+
+# game/episode023.rpy:1797
+translate german ep023_group_sex_7b26129e:
+
+    # "Lilly got behind her friend and stripped her naked."
+    "Lilly stellte sich hinter ihre Freundin und entkleidete sie."
+
+# game/episode023.rpy:1798
+translate german ep023_group_sex_71c9c1a3_1:
+
+    # c "Damn, I want you two to come here immediately."
+    c "Verdammt, ich will, dass ihr beide sofort herkommt."
+
+# game/episode023.rpy:1801
+translate german ep023_group_sex_27b1d1bc_2:
+
+    # "When my sister had her breasts freed, there was another knock on the door."
+    "Als meiner Schwester die Brüste befreit wurden, klopfte es erneut an der Tür."
+
+# game/episode023.rpy:1803
+translate german ep023_group_sex_4ed03d9c_1:
+
+    # "When Eva had her breasts freed, there was another knock on the door."
+    "Als Evas Brüste befreit waren, klopfte es erneut an der Tür."
+
+# game/episode023.rpy:1808
+translate german ep023_group_sex_6b8f1aca:
+
+    # "Lilly entered and looked at us accusingly."
+    "Lilly kam herein und sah uns vorwurfsvoll an."
+
+# game/episode023.rpy:1810
+translate german ep023_group_sex_7e5ece2b:
+
+    # l "Have you already started without me?"
+    l "Hast du schon ohne mich angefangen?"
+
+# game/episode023.rpy:1811
+translate german ep023_group_sex_b1686e14_2:
+
+    # c "We were just getting comfortable."
+    c "Wir hatten es uns gerade erst gemütlich gemacht."
+
+# game/episode023.rpy:1816
+translate german ep023_group_sex_1574a991_1:
+
+    # e "I’ll help you get ready."
+    e "Ich helfe dir beim Fertigmachen."
+
+# game/episode023.rpy:1818
+translate german ep023_group_sex_2246a9ec_1:
+
+    # "Eva got behind her sister and stripped her naked."
+    "Eva stellte sich hinter ihre Schwester und entkleidete sie."
+
+# game/episode023.rpy:1820
+translate german ep023_group_sex_4eb1cf79_1:
+
+    # "Eva got behind her friend and stripped her naked."
+    "Eva stellte sich hinter ihre Freundin und entkleidete sie."
+
+# game/episode023.rpy:1821
+translate german ep023_group_sex_71c9c1a3_2:
+
+    # c "Damn, I want you two to come here immediately."
+    c "Verdammt, ich will, dass ihr beide sofort herkommt."
+
+# game/episode023.rpy:1828
+translate german ep023_group_sex_a7771dfa:
+
+    # "Eva, Lilly and Aven lost their panties on the way to my bed and lay down beside me."
+    "Eva, Lilly und Aven haben auf dem Weg zu meinem Bett ihre Höschen verloren und sich neben mich gelegt."
+
+# game/episode023.rpy:1830
+translate german ep023_group_sex_6db56d94:
+
+    # "Eva and Lilly lost their panties on the way to my bed and lay down beside me."
+    "Eva und Lilly haben auf dem Weg zu meinem Bett ihre Höschen verloren und sich neben mich gelegt."
+
+# game/episode023.rpy:1832
+translate german ep023_group_sex_5ee0d9af:
+
+    # "Eva and Aven lost their panties on the way to my bed and lay down beside me."
+    "Eva und Aven haben auf dem Weg zu meinem Bett ihre Höschen verloren und sich neben mich gelegt."
+
+# game/episode023.rpy:1834
+translate german ep023_group_sex_3ddafbe4:
+
+    # "Lilly and Aven lost their panties on the way to my bed and lay down beside me."
+    "Lilly und Aven haben auf dem Weg zu meinem Bett ihre Höschen verloren und sich neben mich gelegt."
+
+# game/episode023.rpy:1839
+translate german ep023_group_sex_659049ff:
+
+    # c "I want you to spread your legs for me."
+    c "Ich möchte, dass du deine Beine für mich spreizt."
+
+# game/episode023.rpy:1842
+translate german ep023_group_sex_35bc1809:
+
+    # "All my sisters obliged and gave me a view of their tight pussies."
+    "Alle meine Schwestern waren willig und gewährten mir einen Blick auf ihre engen Muschis."
+
+# game/episode023.rpy:1844
+translate german ep023_group_sex_8db11233:
+
+    # "All my girls obliged and gave me a view of their tight pussies."
+    "Alle meine Mädchen waren einverstanden und gewährten mir einen Blick auf ihre engen Muschis."
+
+# game/episode023.rpy:1847
+translate german ep023_group_sex_bf04ba75:
+
+    # "My sisters obliged and gave me a view of their tight pussies."
+    "Meine Schwestern kamen meinem Wunsch nach und gewährten mir einen Blick auf ihre engen Muschis."
+
+# game/episode023.rpy:1849
+translate german ep023_group_sex_5d40e2e2:
+
+    # "My girls obliged and gave me a view of their tight pussies."
+    "Meine Mädchen kamen dem Wunsch nach und gewährten mir einen Blick auf ihre engen Muschis."
+
+# game/episode023.rpy:1855
+translate german ep023_group_sex_licking_42384a89:
+
+    # "I lowered my head between Lilly’s thighs."
+    "Ich senkte meinen Kopf zwischen Lillys Schenkel."
+
+# game/episode023.rpy:1856
+translate german ep023_group_sex_licking_85de08f2:
+
+    # "Judging by the sheen of wetness covering her slit, I could tell she was already heavily aroused."
+    "Anhand des feuchten Schambereichs konnte ich erkennen, dass sie bereits stark erregt war."
+
+# game/episode023.rpy:1857
+translate german ep023_group_sex_licking_0c153c9d:
+
+    # "I grabbed her legs and kissed the soft flesh of her thighs, all the way down to her pussy."
+    "Ich packte ihre Beine und küsste das weiche Fleisch ihrer Oberschenkel, bis hinunter zu ihrer Scham."
+
+# game/episode023.rpy:1860
+translate german ep023_group_sex_licking_37b616d1:
+
+    # "My sister whimpered and grabbed my head to push me down to her slit."
+    "Meine Schwester wimmerte und packte meinen Kopf, um mich zu ihrer Schamspalte hinunterzudrücken."
+
+# game/episode023.rpy:1861
+translate german ep023_group_sex_licking_34d21735:
+
+    # c "Not so fast, sis."
+    c "Nicht so schnell, Schwester."
+
+# game/episode023.rpy:1863
+translate german ep023_group_sex_licking_312af627:
+
+    # "My girlfriend whimpered and grabbed my head to push me down to her slit."
+    "Meine Freundin wimmerte und packte meinen Kopf, um mich zu ihrer Schamspalte hinunterzudrücken."
+
+# game/episode023.rpy:1864
+translate german ep023_group_sex_licking_5e96954e:
+
+    # c "Not so fast, Lilly."
+    c "Nicht so schnell, Lilly."
+
+# game/episode023.rpy:1866
+translate german ep023_group_sex_licking_e239ad69:
+
+    # l "I want you so much, [p_name_short]!"
+    l "Ich will dich so sehr, [p_name_short]!"
+
+# game/episode023.rpy:1867
+translate german ep023_group_sex_licking_1e8652d4:
+
+    # "Slowing down even more, I began to stroke the area around her pussy with my fingertips, still dotting her thighs with kisses."
+    "Ich wurde noch langsamer und begann, mit den Fingerspitzen die Gegend um ihre Vulva zu streicheln, während ich ihre Oberschenkel weiterhin mit Küssen bedeckte."
+
+# game/episode023.rpy:1868
+translate german ep023_group_sex_licking_4ac7b871:
+
+    # "I could smell the heady mix of arousal coming from her pussy and knew that she was ready for my tongue."
+    "Ich konnte den berauschenden Duft der Erregung aus ihrer Vagina riechen und wusste, dass sie bereit für meine Zunge war."
+
+# game/episode023.rpy:1870
+translate german ep023_group_sex_licking_9c099dfb:
+
+    # "When my kisses inched closer to her slit, my sister held her breath, her body taut with anticipation."
+    "Als meine Küsse sich ihrer Scham näherten, hielt meine Schwester den Atem an, ihr Körper war vor Erwartung angespannt."
+
+# game/episode023.rpy:1872
+translate german ep023_group_sex_licking_a10448cb:
+
+    # "When my kisses inched closer to her slit, my girlfriend held her breath, her body taut with anticipation."
+    "Als meine Küsse sich ihrer Scham näherten, hielt meine Freundin den Atem an, ihr Körper war vor Erwartung angespannt."
+
+# game/episode023.rpy:1874
+translate german ep023_group_sex_licking_6ba3f2e8:
+
+    # "As I finally kissed her clit, she released her breath in a shuddering gasp."
+    "Als ich endlich ihre Klitoris küsste, stieß sie einen zitternden Seufzer aus."
+
+# game/episode023.rpy:1875
+translate german ep023_group_sex_licking_b9796a3c:
+
+    # l "Oh [p_name_short]!"
+    l "Oh [p_name_short]!"
+
+# game/episode023.rpy:1876
+translate german ep023_group_sex_licking_c407689d:
+
+    # "I ran my tongue along the length of her slit and tasted her saltiness."
+    "Ich fuhr mit der Zunge an ihrer Scham entlang und schmeckte ihren salzigen Geschmack."
+
+# game/episode023.rpy:1878
+translate german ep023_group_sex_licking_05c32adf:
+
+    # "My sister moaned in response and pawed at my hair."
+    "Meine Schwester stöhnte daraufhin und fuhr mir mit den Pfoten durch die Haare."
+
+# game/episode023.rpy:1880
+translate german ep023_group_sex_licking_ecbd7c47:
+
+    # "Lilly moaned in response and pawed at my hair."
+    "Lilly stöhnte daraufhin und kratzte an meinen Haaren."
+
+# game/episode023.rpy:1886
+translate german ep023_group_sex_licking_ad2aa027:
+
+    # "Eva and Aven had positioned themselves alongside Lilly and were playing with her breasts."
+    "Eva und Aven hatten sich neben Lilly positioniert und spielten mit ihren Brüsten."
+
+# game/episode023.rpy:1888
+translate german ep023_group_sex_licking_456c654c:
+
+    # "Eva had positioned herself alongside Lilly and was playing with her breasts."
+    "Eva hatte sich neben Lilly positioniert und spielte mit ihren Brüsten."
+
+# game/episode023.rpy:1890
+translate german ep023_group_sex_licking_ef01adcd:
+
+    # "Aven had positioned herself alongside Lilly and was playing with her breasts."
+    "Aven hatte sich neben Lilly positioniert und spielte mit ihren Brüsten."
+
+# game/episode023.rpy:1892
+translate german ep023_group_sex_licking_2468cb9b:
+
+    # l "Oh [p_name_short]!{w} Please make me cum!"
+    l "Oh [p_name_short]!{w} Bitte bring mich zum Orgasmus!"
+
+# game/episode023.rpy:1894
+translate german ep023_group_sex_licking_695fc45e:
+
+    # "I redoubled my efforts, kissing and licking my sister’s pussy with increasing intensity."
+    "Ich verdoppelte meine Anstrengungen und küsste und leckte die Muschi meiner Schwester mit zunehmender Intensität."
+
+# game/episode023.rpy:1896
+translate german ep023_group_sex_licking_85e42259:
+
+    # "Her sisters were massaging her breasts and playing with her erect nipples, causing her to cry out in pleasure."
+    "Ihre Schwestern massierten ihre Brüste und spielten mit ihren erigierten Brustwarzen, was sie vor Lust aufschreien ließ."
+
+# game/episode023.rpy:1898
+translate german ep023_group_sex_licking_1c581b42:
+
+    # "Her sister was massaging her breasts and playing with her erect nipples, causing her to cry out in pleasure."
+    "Ihre Schwester massierte ihre Brüste und spielte mit ihren erigierten Brustwarzen, was sie vor Lust aufschreien ließ."
+
+# game/episode023.rpy:1900
+translate german ep023_group_sex_licking_89e2dbee:
+
+    # "I redoubled my efforts, kissing and licking my girlfriend’s pussy with increasing intensity."
+    "Ich verdoppelte meine Anstrengungen und küsste und leckte die Muschi meiner Freundin mit zunehmender Intensität."
+
+# game/episode023.rpy:1902
+translate german ep023_group_sex_licking_c442f3c2:
+
+    # "Aven and Eva were massaging her breasts and playing with her erect nipples, causing her to cry out in pleasure."
+    "Aven und Eva massierten ihre Brüste und spielten mit ihren erigierten Brustwarzen, was sie vor Lust aufschreien ließ."
+
+# game/episode023.rpy:1904
+translate german ep023_group_sex_licking_2ad18a8a:
+
+    # "Eva was massaging her breasts and playing with her erect nipples, causing her to cry out in pleasure."
+    "Eva massierte ihre Brüste und spielte mit ihren steifen Brustwarzen, was sie vor Lust aufschreien ließ."
+
+# game/episode023.rpy:1906
+translate german ep023_group_sex_licking_d5fb9bb4:
+
+    # "Aven was massaging her breasts and playing with her erect nipples, causing her to cry out in pleasure."
+    "Aven massierte ihre Brüste und spielte mit ihren steifen Brustwarzen, was sie vor Lust aufschreien ließ."
+
+# game/episode023.rpy:1908
+translate german ep023_group_sex_licking_f1169aa4:
+
+    # "Lilly released more of her hot juices, flooding my mouth with it."
+    "Lilly entließ noch mehr ihrer heißen Säfte und überflutete damit meinen Mund."
+
+# game/episode023.rpy:1909
+translate german ep023_group_sex_licking_2fa8d826:
+
+    # "Tremors of lust coursed through her body, as I focused my attention on her clitoris."
+    "Lustschauer durchfuhren ihren Körper, als ich meine Aufmerksamkeit auf ihre Klitoris richtete."
+
+# game/episode023.rpy:1910
+translate german ep023_group_sex_licking_d2d836f4:
+
+    # l "Oh [p_name_short]!{w} Right there!"
+    l "Oh [p_name_short]!{w} Genau da!"
+
+# game/episode023.rpy:1911
+translate german ep023_group_sex_licking_ca376c93:
+
+    # l "Don’t stop!{w} Please don’t stop!"
+    l "Hör nicht auf!{w} Bitte hör nicht auf!"
+
+# game/episode023.rpy:1913
+translate german ep023_group_sex_licking_11b0146c:
+
+    # "Lilly writhed under our attentions, her moans becoming increasingly more jagged."
+    "Lilly wand sich unter unseren Berührungen, ihre Stöhnlaute wurden immer schriller."
+
+# game/episode023.rpy:1914
+translate german ep023_group_sex_licking_991925c8:
+
+    # "I felt her muscles tense and knew she was about to go over the edge."
+    "Ich spürte, wie sich ihre Muskeln anspannten und wusste, dass sie kurz davor war, die Kontrolle zu verlieren."
+
+# game/episode023.rpy:1915
+translate german ep023_group_sex_licking_ab7b5c48:
+
+    # "With some well-timed flicks of my tongue, I made her cum."
+    "Mit ein paar gezielten Zungenstößen brachte ich sie zum Orgasmus."
+
+# game/episode023.rpy:1919
+translate german ep023_group_sex_licking_2e817fe7:
+
+    # "She cried loudly, clamping her arms around the heads of her sisters, and orgasmed shudderingly in my face."
+    "Sie schrie laut auf, umklammerte die Köpfe ihrer Schwestern mit den Armen und kam zitternd in meinem Gesicht zum Orgasmus."
+
+# game/episode023.rpy:1921
+translate german ep023_group_sex_licking_e7148ffa:
+
+    # "She cried loudly, clamping her arms around the heads of her friends, and orgasmed shudderingly in my face."
+    "Sie schrie laut auf, umklammerte die Köpfe ihrer Freundinnen mit den Armen und kam zitternd in meinem Gesicht zum Orgasmus."
+
+# game/episode023.rpy:1924
+translate german ep023_group_sex_licking_172102eb:
+
+    # "She cried loudly, clamping her arms around the head of her sister, and orgasmed shudderingly in my face."
+    "Sie schrie laut auf, umklammerte den Kopf ihrer Schwester mit den Armen und kam zitternd in meinem Gesicht zum Orgasmus."
+
+# game/episode023.rpy:1926
+translate german ep023_group_sex_licking_507a5ac9:
+
+    # "She cried loudly, clamping her arms around the head of her friend, and orgasmed shudderingly in my face."
+    "Sie schrie laut auf, umklammerte den Kopf ihrer Freundin mit den Armen und kam zitternd in meinem Gesicht zum Orgasmus."
+
+# game/episode023.rpy:1927
+translate german ep023_group_sex_licking_3e9ef2b7:
+
+    # l "[p_name_short]!{w} [p_name_short]!{w} Oh [p_name_short]!"
+    l "[p_name_short]!{w} [p_name_short]!{w} Oh [p_name_short]!"
+
+# game/episode023.rpy:1929
+translate german ep023_group_sex_licking_fbe9d921:
+
+    # "It took my sister a long time to regain her composure."
+    "Es dauerte lange, bis meine Schwester sich wieder gefasst hatte."
+
+# game/episode023.rpy:1931
+translate german ep023_group_sex_licking_17d0ff8f:
+
+    # "It took my girlfriend a long time to regain her composure."
+    "Meine Freundin brauchte lange, um sich wieder zu fassen."
+
+# game/episode023.rpy:1933
+translate german ep023_group_sex_licking_4858f181:
+
+    # "Once she did, Lilly pulled me up and kissed me deeply."
+    "Als sie das getan hatte, zog Lilly mich hoch und küsste mich innig."
+
+# game/episode023.rpy:1934
+translate german ep023_group_sex_licking_f3e3799a:
+
+    # l "That felt so good!"
+    l "Das hat so gutgetan!"
+
+# game/episode023.rpy:1939
+translate german ep023_group_sex_licking_b3f56275:
+
+    # "Eva was next."
+    "Eva war die Nächste."
+
+# game/episode023.rpy:1941
+translate german ep023_group_sex_licking_38f4ee30:
+
+    # "Eva was the first."
+    "Eva war die Erste."
+
+# game/episode023.rpy:1946
+translate german ep023_group_sex_licking_477a2c2b:
+
+    # "I spread her legs and admired her pussy, glistening in the light."
+    "Ich spreizte ihre Beine und bewunderte ihre im Licht glänzende Muschi."
+
+# game/episode023.rpy:1948
+translate german ep023_group_sex_licking_f68bfbd3:
+
+    # "Her pregnant belly would only grow more with time, but it had a beautiful curve already."
+    "Ihr Babybauch würde mit der Zeit nur noch wachsen, aber er hatte bereits eine schöne Kurve."
+
+# game/episode023.rpy:1953
+translate german ep023_group_sex_licking_92485750:
+
+    # "Stroking her skin, I made myself become level with her slit."
+    "Ich strich über ihre Haut und brachte mich auf die gleiche Höhe wie ihre Schamspalte."
+
+# game/episode023.rpy:1955
+translate german ep023_group_sex_licking_6f2ac14d:
+
+    # "My sister tried to push her lower body against my face, impatient for me to lick her slit."
+    "Meine Schwester versuchte, ihren Unterkörper gegen mein Gesicht zu drücken, ungeduldig darauf wartend, dass ich ihre Scham leckte."
+
+# game/episode023.rpy:1957
+translate german ep023_group_sex_licking_71ed8796:
+
+    # "My girlfriend tried to push her lower body against my face, impatient for me to lick her slit."
+    "Meine Freundin versuchte, ihren Unterkörper gegen mein Gesicht zu drücken, ungeduldig darauf wartend, dass ich ihre Scham leckte."
+
+# game/episode023.rpy:1962
+translate german ep023_group_sex_licking_a2a7aa71:
+
+    # "I planted soft kisses on the soft inside of her thighs instead."
+    "Stattdessen gab ich ihr sanfte Küsse auf die weiche Innenseite ihrer Oberschenkel."
+
+# game/episode023.rpy:1963
+translate german ep023_group_sex_licking_04ce76c2:
+
+    # e "Oh [p_name_short]!"
+    e "Oh [p_name_short]!"
+
+# game/episode023.rpy:1964
+translate german ep023_group_sex_licking_807f1284:
+
+    # "When I finally dotted her pussy with the faintest brush of my lips, she released an anxious groan."
+    "Als ich schließlich ihre Scham mit den Lippen nur ganz leicht berührte, stieß sie ein ängstliches Stöhnen aus."
+
+# game/episode023.rpy:1965
+translate german ep023_group_sex_licking_24a8b8e3:
+
+    # e "I want your mouth on my pussy, [p_name]!"
+    e "Ich will deinen Mund an meiner Muschi, [p_name]!"
+
+# game/episode023.rpy:1972
+translate german ep023_group_sex_licking_6f203b80:
+
+    # "Lilly and Aven moved in and began to stroke her nipples."
+    "Lilly und Aven kamen herein und begannen, ihre Brustwarzen zu streicheln."
+
+# game/episode023.rpy:1974
+translate german ep023_group_sex_licking_135a4cfe:
+
+    # "Lilly moved in and began to stroke her nipples."
+    "Lilly rückte näher und begann, ihre Brustwarzen zu streicheln."
+
+# game/episode023.rpy:1976
+translate german ep023_group_sex_licking_20b9a3de:
+
+    # "Aven moved in and began to stroke her nipples."
+    "Aven kam näher und begann, ihre Brustwarzen zu streicheln."
+
+# game/episode023.rpy:1980
+translate german ep023_group_sex_licking_b7f6fcd9:
+
+    # "I lay a protective hand on my sister’s pregnant belly and let my tongue connect with her lower lips."
+    "Ich legte schützend eine Hand auf den schwangeren Bauch meiner Schwester und ließ meine Zunge ihre Unterlippen berühren."
+
+# game/episode023.rpy:1982
+translate german ep023_group_sex_licking_8d936c70:
+
+    # "I lay a protective hand on my girlfriend’s pregnant belly and let my tongue connect with her lower lips."
+    "Ich legte schützend eine Hand auf den schwangeren Bauch meiner Freundin und ließ meine Zunge ihre Unterlippen berühren."
+
+# game/episode023.rpy:1985
+translate german ep023_group_sex_licking_d9dc4173:
+
+    # "I lay a reassuring hand on my sister’s belly and let my tongue connect with her lower lips."
+    "Ich legte beruhigend die Hand auf den Bauch meiner Schwester und ließ meine Zunge ihre Unterlippen berühren."
+
+# game/episode023.rpy:1987
+translate german ep023_group_sex_licking_fce55812:
+
+    # "I lay a reassuring hand on my girlfriend’s belly and let my tongue connect with her lower lips."
+    "Ich legte beruhigend die Hand auf den Bauch meiner Freundin und ließ meine Zunge ihre Unterlippen berühren."
+
+# game/episode023.rpy:1988
+translate german ep023_group_sex_licking_3416b871:
+
+    # e "That’s it!"
+    e "Das war\'s!"
+
+# game/episode023.rpy:1993
+translate german ep023_group_sex_licking_161357a9:
+
+    # "When I began to lick her, Eva started to sigh with contentment."
+    "Als ich anfing, sie abzulecken, seufzte Eva zufrieden."
+
+# game/episode023.rpy:1996
+translate german ep023_group_sex_licking_ae5e19ba:
+
+    # "Her sisters had moved on to licking her nipples and massaging her breasts."
+    "Ihre Schwestern hatten begonnen, ihre Brustwarzen zu lecken und ihre Brüste zu massieren."
+
+# game/episode023.rpy:1998
+translate german ep023_group_sex_licking_016bb9eb:
+
+    # "Her sister had moved on to licking her nipples and massaging her breasts."
+    "Ihre Schwester hatte begonnen, ihre Brustwarzen zu lecken und ihre Brüste zu massieren."
+
+# game/episode023.rpy:1999
+translate german ep023_group_sex_licking_319aebc7:
+
+    # "My tongue began it’s journey across my sister’s wet slit, from her taint to the hood, where her throbbing clit was on full display."
+    "Meine Zunge begann ihre Reise über die feuchte Spalte meiner Schwester, von ihrem Damm bis zur Vorhaut, wo ihre pochende Klitoris in voller Pracht zu sehen war."
+
+# game/episode023.rpy:2002
+translate german ep023_group_sex_licking_503717c0:
+
+    # "Her friends had moved on to licking her nipples and massaging her breasts."
+    "Ihre Freundinnen hatten begonnen, ihre Brustwarzen zu lecken und ihre Brüste zu massieren."
+
+# game/episode023.rpy:2004
+translate german ep023_group_sex_licking_21bbbeac:
+
+    # "Her friend had moved on to licking her nipples and massaging her breasts."
+    "Ihre Freundin hatte begonnen, ihre Brustwarzen zu lecken und ihre Brüste zu massieren."
+
+# game/episode023.rpy:2005
+translate german ep023_group_sex_licking_a6acc567:
+
+    # "My tongue began it’s journey across Eva’s wet slit, from her taint to the hood, where her throbbing clit was on full display."
+    "Meine Zunge begann ihre Reise über Evas feuchte Spalte, von ihrem Damm bis zur Vorhaut, wo ihre pochende Klitoris in voller Pracht zu sehen war."
+
+# game/episode023.rpy:2006
+translate german ep023_group_sex_licking_5a911319:
+
+    # "When I came near her clit, her breathing stopped for several seconds, until she released in ragged gasps."
+    "Als ich mich ihrer Klitoris näherte, setzte ihr Atem für einige Sekunden aus, bis sie in keuchenden Stößen kam."
+
+# game/episode023.rpy:2012
+translate german ep023_group_sex_licking_8f2da84d:
+
+    # c "I’m going to make you cum so hard, sis."
+    c "Ich werde dich so hart zum Orgasmus bringen, Schwester."
+
+# game/episode023.rpy:2014
+translate german ep023_group_sex_licking_abaa82d3:
+
+    # c "I’m going to make you cum so hard, Eva."
+    c "Ich werde dich so hart zum Orgasmus bringen, Eva."
+
+# game/episode023.rpy:2015
+translate german ep023_group_sex_licking_3f0fa2a2:
+
+    # e "Yes, I want you to!"
+    e "Ja, das möchte ich!"
+
+# game/episode023.rpy:2016
+translate german ep023_group_sex_licking_13974aea:
+
+    # e "Please make me cum hard!"
+    e "Bitte bring mich zum Orgasmus!"
+
+# game/episode023.rpy:2017
+translate german ep023_group_sex_licking_85c8b9ee:
+
+    # "I had every intention to do so."
+    "Ich hatte fest vor, dies zu tun."
+
+# game/episode023.rpy:2023
+translate german ep023_group_sex_licking_b034bc87:
+
+    # "Focusing on her clit, I began to bring my sister closer to her orgasm."
+    "Indem ich mich auf ihre Klitoris konzentrierte, brachte ich meine Schwester ihrem Orgasmus immer näher."
+
+# game/episode023.rpy:2025
+translate german ep023_group_sex_licking_c17f4b43:
+
+    # "Focusing on her clit, I began to bring my girlfriend closer to her orgasm."
+    "Indem ich mich auf ihre Klitoris konzentrierte, brachte ich meine Freundin ihrem Orgasmus immer näher."
+
+# game/episode023.rpy:2026
+translate german ep023_group_sex_licking_e308080a:
+
+    # "Her moans became more incoherent with the increasing attention on her cunt."
+    "Mit zunehmender Aufmerksamkeit für ihre Schamlippen wurden ihre Stöhnlaute immer unverständlicher."
+
+# game/episode023.rpy:2028
+translate german ep023_group_sex_licking_716c58ed:
+
+    # e "[p_name_short]!{w} I’m-"
+    e "[p_name_short]!{w} Ich bin-"
+
+# game/episode023.rpy:2029
+translate german ep023_group_sex_licking_04ce76c2_1:
+
+    # e "Oh [p_name_short]!"
+    e "Oh [p_name_short]!"
+
+# game/episode023.rpy:2030
+translate german ep023_group_sex_licking_0df0340c:
+
+    # e "I’m cum-"
+    e "Ich komme-"
+
+# game/episode023.rpy:2035
+translate german ep023_group_sex_licking_520d4777:
+
+    # "She never completed that sentence, as I made her orgasm with my tongue."
+    "Sie konnte den Satz nicht beenden, da ich sie mit meiner Zunge zum Orgasmus brachte."
+
+# game/episode023.rpy:2036
+translate german ep023_group_sex_licking_1015cd0a:
+
+    # "Ejaculate pulsed out of her slit and I lapped that up greedily as she convulsed underneath me."
+    "Ejakulat spritzte aus ihrer Spalte und ich leckte es gierig auf, während sie unter mir zuckte."
+
+# game/episode023.rpy:2041
+translate german ep023_group_sex_licking_3627bca8:
+
+    # "When I came back up from between her legs, Eva was still lying back on the bed with her eyes closed, the last tremors of her climax rippling through her naked body."
+    "Als ich zwischen ihren Beinen wieder hochkam, lag Eva immer noch mit geschlossenen Augen auf dem Bett, die letzten Nachwirkungen ihres Orgasmus durchströmten ihren nackten Körper."
+
+# game/episode023.rpy:2046
+translate german ep023_group_sex_licking_e825e872:
+
+    # "It was Aven’s turn next."
+    "Als Nächstes war Aven an der Reihe."
+
+# game/episode023.rpy:2048
+translate german ep023_group_sex_licking_e78a9a7a:
+
+    # "It was Aven’s turn first."
+    "Aven war als Erste an der Reihe."
+
+# game/episode023.rpy:2049
+translate german ep023_group_sex_licking_62c40218:
+
+    # "I wanted to make her squirt again."
+    "Ich wollte, dass sie noch einmal abspritzt."
+
+# game/episode023.rpy:2052
+translate german ep023_group_sex_licking_c7bd30de:
+
+    # "Stroking her thighs, I looked my sister in the eye again, challenging her."
+    "Ich streichelte ihre Oberschenkel und sah meiner Schwester wieder in die Augen, um sie herauszufordern."
+
+# game/episode023.rpy:2054
+translate german ep023_group_sex_licking_f69a23c8:
+
+    # "Stroking her thighs, I looked my girlfriend in the eye again, challenging her."
+    "Ich streichelte ihre Oberschenkel, sah meiner Freundin wieder in die Augen und forderte sie heraus."
+
+# game/episode023.rpy:2055
+translate german ep023_group_sex_licking_01b54afb:
+
+    # c "Come sit on my face."
+    c "Komm, setz dich auf mein Gesicht."
+
+# game/episode023.rpy:2056
+translate german ep023_group_sex_licking_f88348cc:
+
+    # c "I want you to cum on my face."
+    c "Ich will, dass du mir ins Gesicht kommst."
+
+# game/episode023.rpy:2058
+translate german ep023_group_sex_licking_985764dc:
+
+    # "I lay back and Aven squatted on top of me."
+    "Ich lehnte mich zurück und Aven hockte sich auf mich."
+
+# game/episode023.rpy:2059
+translate german ep023_group_sex_licking_cf904558:
+
+    # "As she lowered her body onto my face, I was drowned in her earthy smell."
+    "Als sie ihren Körper auf mein Gesicht senkte, wurde ich von ihrem erdigen Duft umhüllt."
+
+# game/episode023.rpy:2060
+translate german ep023_group_sex_licking_d11f840f:
+
+    # "I began licking her with powerful strokes of my tongue."
+    "Ich begann, sie mit kräftigen Zungenstößen zu lecken."
+
+# game/episode023.rpy:2063
+translate german ep023_group_sex_licking_066df813:
+
+    # "My sister was already wet to begin with, but with each probe of my tongue, more ejaculate oozed from her cunt."
+    "Meine Schwester war von vornherein schon feucht, aber mit jedem Streifzug meiner Zunge quoll mehr Ejakulat aus ihrer Vagina."
+
+# game/episode023.rpy:2065
+translate german ep023_group_sex_licking_9a9091d2:
+
+    # "My girlfriend was already wet to begin with, but with each probe of my tongue, more ejaculate oozed from her cunt."
+    "Meine Freundin war von vornherein schon feucht, aber mit jedem Streifzug meiner Zunge quoll mehr Ejakulat aus ihrer Vagina."
+
+# game/episode023.rpy:2066
+translate german ep023_group_sex_licking_6544e461:
+
+    # av "That’s it, [p_name_short]!"
+    av "Das war\'s, [p_name_short]!"
+
+# game/episode023.rpy:2068
+translate german ep023_group_sex_licking_d8d06b00:
+
+    # "Eva and Lilly were attending to our sister’s upper body, kissing and massaging her breasts."
+    "Eva und Lilly kümmerten sich um den Oberkörper unserer Schwester, küssten und massierten ihre Brüste."
+
+# game/episode023.rpy:2070
+translate german ep023_group_sex_licking_19259041:
+
+    # "Eva and Lilly were attending to the other girl’s upper body, kissing and massaging her breasts."
+    "Eva und Lilly kümmerten sich um den Oberkörper des anderen Mädchens, küssten und massierten ihre Brüste."
+
+# game/episode023.rpy:2075
+translate german ep023_group_sex_licking_efa668aa:
+
+    # "Aven moaned loudly as I covered her slit with my mouth and sucked at her labia."
+    "Aven stöhnte laut auf, als ich ihren Schlitz mit meinem Mund bedeckte und an ihren Schamlippen saugte."
+
+# game/episode023.rpy:2076
+translate german ep023_group_sex_licking_e1fefa2b:
+
+    # "When my tongue arrived at her clit, she gripped me hard."
+    "Als meine Zunge an ihrer Klitoris ankam, umklammerte sie mich fest."
+
+# game/episode023.rpy:2077
+translate german ep023_group_sex_licking_1413d0e8:
+
+    # av "Don’t stop!{w} Keep going!{w} Right there!"
+    av "Hör nicht auf!{w} Mach weiter!{w} Genau da!"
+
+# game/episode023.rpy:2079
+translate german ep023_group_sex_licking_5407b720:
+
+    # "The muscles in her legs were strained and judging by her satisfied moans, my sister was near orgasm."
+    "Die Muskeln in ihren Beinen waren angespannt, und ihren zufriedenen Stöhnen nach zu urteilen, war meine Schwester kurz vor dem Orgasmus."
+
+# game/episode023.rpy:2081
+translate german ep023_group_sex_licking_36b34a85:
+
+    # "The muscles in her legs were strained and judging by her satisfied moans, my girlfriend was near orgasm."
+    "Die Muskeln in ihren Beinen waren angespannt, und ihren zufriedenen Stöhnen nach zu urteilen, war meine Freundin kurz vor dem Orgasmus."
+
+# game/episode023.rpy:2084
+translate german ep023_group_sex_licking_67fd7231:
+
+    # "Eva muffled Aven’s screams by tongue kissing her and I knew we were in the final stretches."
+    "Eva dämpfte Avens Schreie mit Zungenküssen und ich wusste, dass wir uns in den letzten Zügen befanden."
+
+# game/episode023.rpy:2089
+translate german ep023_group_sex_licking_8af02722:
+
+    # "Intensifying the strokes of my tongue, I began to elicit as much of her ejaculate as possible."
+    "Ich intensivierte die Bewegungen meiner Zunge und versuchte, so viel Ejakulat wie möglich von ihr zu erhalten."
+
+# game/episode023.rpy:2091
+translate german ep023_group_sex_licking_d60a8be4:
+
+    # "Eva and Lilly had halted their work on Aven’s breasts."
+    "Eva und Lilly hatten ihre Arbeit an Avens Brüsten unterbrochen."
+
+# game/episode023.rpy:2092
+translate german ep023_group_sex_licking_a3367ac3:
+
+    # l "We want you to squirt all over us, Aven."
+    l "Wir wollen, dass du uns alle vollspritzt, Aven."
+
+# game/episode023.rpy:2093
+translate german ep023_group_sex_licking_96d72657:
+
+    # e "Yes, give it to us!"
+    e "Ja, gib es uns!"
+
+# game/episode023.rpy:2095
+translate german ep023_group_sex_licking_7eff0b4f:
+
+    # "Eva had halted her work on Aven’s breasts."
+    "Eva hatte ihre Arbeit an Avens Brüsten unterbrochen."
+
+# game/episode023.rpy:2096
+translate german ep023_group_sex_licking_f9695bea:
+
+    # e "I want you to squirt all over us, Aven."
+    e "Ich will, dass du uns alle vollspritzt, Aven."
+
+# game/episode023.rpy:2098
+translate german ep023_group_sex_licking_3d8200ba:
+
+    # "Lilly had halted her work on Aven’s breasts."
+    "Lilly hatte ihre Arbeit an Avens Brüsten unterbrochen."
+
+# game/episode023.rpy:2099
+translate german ep023_group_sex_licking_c0cfb777:
+
+    # l "I want you to squirt all over us, Aven."
+    l "Ich will, dass du uns alle vollspritzt, Aven."
+
+# game/episode023.rpy:2101
+translate german ep023_group_sex_licking_acaf2b3a:
+
+    # "As I fucked her with my tongue, she climaxed."
+    "Während ich sie mit meiner Zunge verwöhnte, kam sie zum Orgasmus."
+
+# game/episode023.rpy:2102
+translate german ep023_group_sex_licking_d4e68020:
+
+    # av "F-fuck yes!{w} Oh yes, [p_name_short]!"
+    av "Verdammt ja!{w} Oh ja, [p_name_short]!"
+
+# game/episode023.rpy:2108
+translate german ep023_group_sex_licking_3ab22d07:
+
+    # "Ejaculate sprayed out of her cunt and into the open mouths of Eva and Lilly."
+    "Ejakulat spritzte aus ihrer Vagina in die offenen Münder von Eva und Lilly."
+
+# game/episode023.rpy:2110
+translate german ep023_group_sex_licking_72c52313:
+
+    # "Ejaculate sprayed out of her cunt and into the open mouth of Eva."
+    "Ejakulat spritzte aus ihrer Vagina in Evas offenen Mund."
+
+# game/episode023.rpy:2112
+translate german ep023_group_sex_licking_ef7350fb:
+
+    # "Ejaculate sprayed out of her cunt and into the open mouth of Lilly."
+    "Ejakulat spritzte aus ihrer Vagina in Lillys offenen Mund."
+
+# game/episode023.rpy:2115
+translate german ep023_group_sex_licking_48a87c3f:
+
+    # "I kept applying pressure to my sister’s pussy and held her steady as she collapsed under the violence of her orgasm."
+    "Ich drückte weiterhin auf die Vagina meiner Schwester und hielt sie fest, während sie unter der Heftigkeit ihres Orgasmus zusammenbrach."
+
+# game/episode023.rpy:2117
+translate german ep023_group_sex_licking_68727f0d:
+
+    # "Both my sister’s faces were wet with Aven’s ejaculate."
+    "Die Gesichter meiner beiden Schwestern waren von Avens Ejakulat benetzt."
+
+# game/episode023.rpy:2119
+translate german ep023_group_sex_licking_19d765b0:
+
+    # "My sister’s face was wet with Aven’s ejaculate."
+    "Das Gesicht meiner Schwester war nass von Avens Ejakulat."
+
+# game/episode023.rpy:2121
+translate german ep023_group_sex_licking_c40645c1:
+
+    # "I kept applying pressure to my girlfriend’s pussy and held her steady as she collapsed under the violence of her orgasm."
+    "Ich drückte weiterhin auf die Vagina meiner Freundin und hielt sie fest, während sie unter der Heftigkeit ihres Orgasmus zusammenbrach."
+
+# game/episode023.rpy:2123
+translate german ep023_group_sex_licking_3db3f42c:
+
+    # "Both the other girl’s faces were wet with Aven’s ejaculate."
+    "Die Gesichter der beiden anderen Mädchen waren von Avens Ejakulat benetzt."
+
+# game/episode023.rpy:2125
+translate german ep023_group_sex_licking_5e1c384f:
+
+    # "The other girl’s face was wet with Aven’s ejaculate."
+    "Das Gesicht des anderen Mädchens war nass von Avens Ejakulat."
+
+# game/episode023.rpy:2126
+translate german ep023_group_sex_licking_869f0a5e:
+
+    # "I nearly drowned in her salty juices, which covered my face and flooded my mouth."
+    "Ich wäre beinahe in ihren salzigen Säften ertrunken, die mein Gesicht bedeckten und meinen Mund überfluteten."
+
+# game/episode023.rpy:2128
+translate german ep023_group_sex_licking_f76f9eb5:
+
+    # "Aven crumpled and rolled off my face."
+    "Aven zerknitterte und rollte von meinem Gesicht."
+
+# game/episode023.rpy:2129
+translate german ep023_group_sex_licking_1daef916:
+
+    # "I held her in my arms as she shuddered through the remains of her climax."
+    "Ich hielt sie in meinen Armen, während sie in den Nachwirkungen ihres Höhepunkts zitterte."
+
+# game/episode023.rpy:2130
+translate german ep023_group_sex_licking_fa24dd80:
+
+    # av "That was amazing."
+    av "Das war fantastisch."
+
+# game/episode023.rpy:2135
+translate german ep023_group_sex_licking_f0d35ffe:
+
+    # "By the time I’d made all my sisters cum, my dick was painfully hard and I longed for a release."
+    "Als ich alle meine Schwestern zum Orgasmus gebracht hatte, war mein Penis schmerzhaft hart und ich sehnte mich nach Erlösung."
+
+# game/episode023.rpy:2137
+translate german ep023_group_sex_licking_d45c153a:
+
+    # "By the time I’d made all my girlfriends cum, my dick was painfully hard and I longed for a release."
+    "Als ich alle meine Freundinnen zum Orgasmus gebracht hatte, war mein Penis schmerzhaft hart und ich sehnte mich nach Erlösung."
+
+# game/episode023.rpy:2140
+translate german ep023_group_sex_licking_ebaa3fd4:
+
+    # "By the time I’d made both my sisters cum, my dick was painfully hard and I longed for a release."
+    "Als ich meine beiden Schwestern zum Orgasmus gebracht hatte, war mein Penis schmerzhaft hart und ich sehnte mich nach Erlösung."
+
+# game/episode023.rpy:2142
+translate german ep023_group_sex_licking_da361e9c:
+
+    # "By the time I’d made both my girlfriends cum, my dick was painfully hard and I longed for a release."
+    "Als ich meine beiden Freundinnen zum Orgasmus gebracht hatte, war mein Penis schmerzhaft hart und ich sehnte mich nach Erlösung."
+
+# game/episode023.rpy:2152
+translate german ep023_group_sex_fucking_b5c2dd34:
+
+    # "My pregnant sister was to be the first."
+    "Meine schwangere Schwester sollte die Erste sein."
+
+# game/episode023.rpy:2154
+translate german ep023_group_sex_fucking_6a622e47:
+
+    # "Eva was to be the first."
+    "Eva sollte die Erste sein."
+
+# game/episode023.rpy:2157
+translate german ep023_group_sex_fucking_db812d04:
+
+    # "My pregnant sister was to be next."
+    "Meine schwangere Schwester war die Nächste."
+
+# game/episode023.rpy:2159
+translate german ep023_group_sex_fucking_b640c0e9:
+
+    # "Eva was to be next."
+    "Eva sollte die Nächste sein."
+
+# game/episode023.rpy:2164
+translate german ep023_group_sex_fucking_9ede82fe:
+
+    # c "I want you to ride me so hard."
+    c "Ich will, dass du mich so richtig hart reitest."
+
+# game/episode023.rpy:2165
+translate german ep023_group_sex_fucking_9af80650:
+
+    # e "Mmmm, me too."
+    e "Mmm, ich auch."
+
+# game/episode023.rpy:2166
+translate german ep023_group_sex_fucking_e1c33f5e:
+
+    # "Eva climbed on top of me and guided my dick inside her pussy."
+    "Eva kletterte auf mich und führte meinen Schwanz in ihre Muschi."
+
+# game/episode023.rpy:2167
+translate german ep023_group_sex_fucking_d9cd3e1e:
+
+    # "I was balls-deep inside her tight cunt when she steadied the palms of her hands on my chest and began to grind on top of me."
+    "Ich war schon bis zum Anschlag in ihrer engen Muschi, als sie ihre Handflächen auf meiner Brust abstützte und anfing, sich auf mir zu reiben."
+
+# game/episode023.rpy:2168
+translate german ep023_group_sex_fucking_9179b593:
+
+    # e "Oh yes!"
+    e "Oh ja!"
+
+# game/episode023.rpy:2169
+translate german ep023_group_sex_fucking_5483a4e5:
+
+    # e "I love your dick so much!"
+    e "Ich liebe deinen Schwanz so sehr!"
+
+# game/episode023.rpy:2171
+translate german ep023_group_sex_fucking_78aea1a9:
+
+    # "I held on to her ass and fucked her deeply, my balls slapping against her flesh."
+    "Ich hielt ihren Hintern fest und fickte sie tief, meine Hoden schlugen gegen ihr Fleisch."
+
+# game/episode023.rpy:2173
+translate german ep023_group_sex_fucking_9afec505:
+
+    # "By grinding op top of me so intensely, my sister had smeared my abdomen with her own grool."
+    "Durch ihr intensives Reiben an mir hatte meine Schwester meinen Bauch mit ihrem eigenen Ausfluss beschmiert."
+
+# game/episode023.rpy:2175
+translate german ep023_group_sex_fucking_eb3a1fe3:
+
+    # "By grinding op top of me so intensely, my girlfriend had smeared my abdomen with her own grool."
+    "Durch ihr intensives Reiben an mir hatte meine Freundin meinen Bauch mit ihrem eigenen Ausfluss beschmiert."
+
+# game/episode023.rpy:2177
+translate german ep023_group_sex_fucking_9e9e75a5:
+
+    # "I took my hands off her buttocks and placed one on her pregnant belly and the other on her breast."
+    "Ich nahm meine Hände von ihrem Gesäß und legte eine Hand auf ihren schwangeren Bauch und die andere auf ihre Brust."
+
+# game/episode023.rpy:2178
+translate german ep023_group_sex_fucking_21745328:
+
+    # c "I really want to make you pregnant again if I could, Eva."
+    c "Ich würde dich so gerne wieder schwängern, wenn ich könnte, Eva."
+
+# game/episode023.rpy:2179
+translate german ep023_group_sex_fucking_07edabab:
+
+    # e "I want you to!{w} Breed me, [p_name_short]!"
+    e "Ich will, dass du mich schwängerst!{w} Mach mich schwanger, [p_name_short]!"
+
+# game/episode023.rpy:2181
+translate german ep023_group_sex_fucking_a2fe7b64:
+
+    # "I took my hands off her buttocks and placed them on her breasts."
+    "Ich nahm meine Hände von ihrem Gesäß und legte sie auf ihre Brüste."
+
+# game/episode023.rpy:2182
+translate german ep023_group_sex_fucking_0d0f962e:
+
+    # c "Your breasts are so perfect, Eva."
+    c "Deine Brüste sind so perfekt, Eva."
+
+# game/episode023.rpy:2183
+translate german ep023_group_sex_fucking_a6f46320:
+
+    # e "They’re all yours."
+    e "Sie gehören alle dir."
+
+# game/episode023.rpy:2190
+translate german ep023_group_sex_fucking_d22546ee:
+
+    # "My other sisters were beside me, offering their flesh to my eager mouth or kissing me deeply."
+    "Meine anderen Schwestern waren an meiner Seite und boten mir ihren Körper meinem gierigen Mund an oder küssten mich innig."
+
+# game/episode023.rpy:2192
+translate german ep023_group_sex_fucking_3138f230:
+
+    # "My other girlfriends were beside me, offering their flesh to my eager mouth or kissing me deeply."
+    "Meine anderen Freundinnen waren neben mir und boten mir ihre Körper meinem gierigen Mund an oder küssten mich innig."
+
+# game/episode023.rpy:2194
+translate german ep023_group_sex_fucking_d3297d78:
+
+    # "I was pretty sure their offered breasts and pussy were a subtle reminder that they wanted to be fucked as well."
+    "Ich war mir ziemlich sicher, dass ihre angebotenen Brüste und ihre Muschi eine subtile Erinnerung daran waren, dass sie auch gefickt werden wollten."
+
+# game/episode023.rpy:2196
+translate german ep023_group_sex_fucking_376a45ea:
+
+    # "I was pretty sure their offered breasts and pussy were a subtle reminder that they wanted to be fucked again."
+    "Ich war mir ziemlich sicher, dass ihre angebotenen Brüste und ihre Muschi eine subtile Erinnerung daran waren, dass sie wieder gefickt werden wollten."
+
+# game/episode023.rpy:2199
+translate german ep023_group_sex_fucking_8ff5c08a:
+
+    # "My other sister was beside me, offering her flesh to my eager mouth and kissing me deeply."
+    "Meine andere Schwester stand neben mir, bot mir ihren Körper meinem gierigen Mund an und küsste mich innig."
+
+# game/episode023.rpy:2201
+translate german ep023_group_sex_fucking_91033bcc:
+
+    # "My other girlfriend was beside me, offering her flesh to my eager mouth and kissing me deeply."
+    "Meine andere Freundin stand neben mir, bot mir ihren Körper meinem gierigen Mund an und küsste mich leidenschaftlich."
+
+# game/episode023.rpy:2203
+translate german ep023_group_sex_fucking_0c7911c2:
+
+    # "I was pretty sure her offered breasts and pussy were a subtle reminder that she wanted to be fucked as well."
+    "Ich war mir ziemlich sicher, dass ihre angebotenen Brüste und ihre Vagina eine subtile Erinnerung daran waren, dass sie auch gefickt werden wollte."
+
+# game/episode023.rpy:2205
+translate german ep023_group_sex_fucking_77848b0c:
+
+    # "I was pretty sure her offered breasts and pussy were a subtle reminder that she wanted to be fucked again."
+    "Ich war mir ziemlich sicher, dass ihre angebotenen Brüste und ihre Muschi eine subtile Erinnerung daran waren, dass sie wieder gefickt werden wollte."
+
+# game/episode023.rpy:2208
+translate german ep023_group_sex_fucking_623fba22:
+
+    # "Despite Eva feeling so good, I decided to change things up."
+    "Obwohl es Eva so gut ging, beschloss ich, etwas zu ändern."
+
+# game/episode023.rpy:2220
+translate german ep023_group_sex_fucking_60734c26:
+
+    # "Pulling out of Eva, I dragged Lilly toward me and entered her."
+    "Ich zog mich aus Eva zurück, zerrte Lilly zu mir und drang in sie ein."
+
+# game/episode023.rpy:2222
+translate german ep023_group_sex_fucking_91a0de8d:
+
+    # "Pulling out of Aven, I dragged Lilly toward me and entered her."
+    "Ich fuhr aus Aven heraus, zog Lilly zu mir und stieg in sie ein."
+
+# game/episode023.rpy:2224
+translate german ep023_group_sex_fucking_ad981c76:
+
+    # "I pulled Lilly toward me and entered her."
+    "Ich zog Lilly zu mir und drang in sie ein."
+
+# game/episode023.rpy:2225
+translate german ep023_group_sex_fucking_f950ad90:
+
+    # "She was dripping wet, so my cock slid inside her without much resistance."
+    "Sie war klatschnass, deshalb glitt mein Schwanz ohne großen Widerstand in sie hinein."
+
+# game/episode023.rpy:2227
+translate german ep023_group_sex_fucking_b5330125:
+
+    # "My sister still felt very tight though."
+    "Meine Schwester fühlte sich aber immer noch sehr angespannt."
+
+# game/episode023.rpy:2229
+translate german ep023_group_sex_fucking_cad62297:
+
+    # "My girlfriend still felt very tight though."
+    "Meine Freundin fühlte sich aber immer noch sehr angespannt."
+
+# game/episode023.rpy:2230
+translate german ep023_group_sex_fucking_9f116204:
+
+    # c "Your pussy is so amazing."
+    c "Deine Muschi ist so unglaublich."
+
+# game/episode023.rpy:2231
+translate german ep023_group_sex_fucking_4ae40081:
+
+    # l "My pussy is yours, please fuck me well."
+    l "Meine Muschi gehört dir, bitte fick mich gut."
+
+# game/episode023.rpy:2237
+translate german ep023_group_sex_fucking_47360929:
+
+    # "Aven played with Lilly’s breasts and I didn’t know where Eva was, until I felt her hand cupping my balls."
+    "Aven spielte mit Lillys Brüsten und ich wusste nicht, wo Eva war, bis ich ihre Hand an meinen Hoden spürte."
+
+# game/episode023.rpy:2239
+translate german ep023_group_sex_fucking_27117644:
+
+    # "I didn’t know where Eva was, until I felt her hand cupping my balls."
+    "Ich wusste nicht, wo Eva war, bis ich ihre Hand an meinen Hoden spürte."
+
+# game/episode023.rpy:2243
+translate german ep023_group_sex_fucking_3acd8094:
+
+    # "Eva massaged my balls and encouraged me to fuck our sister even harder."
+    "Eva massierte meine Hoden und ermutigte mich, unsere Schwester noch härter zu ficken."
+
+# game/episode023.rpy:2245
+translate german ep023_group_sex_fucking_0516bae7:
+
+    # "Eva massaged my balls and encouraged me to fuck Lilly even harder."
+    "Eva massierte meine Hoden und ermutigte mich, Lilly noch härter zu ficken."
+
+# game/episode023.rpy:2246
+translate german ep023_group_sex_fucking_fcf6ca6f:
+
+    # e "That’s it, [p_name_short]!"
+    e "Das war\'s, [p_name_short]!"
+
+# game/episode023.rpy:2247
+translate german ep023_group_sex_fucking_5ab1004e:
+
+    # e "She’s all yours."
+    e "Sie gehört ganz dir."
+
+# game/episode023.rpy:2248
+translate german ep023_group_sex_fucking_976d93d9:
+
+    # e "Fuck her tight little pussy for me."
+    e "Fick mir ihre enge kleine Muschi."
+
+# game/episode023.rpy:2251
+translate german ep023_group_sex_fucking_663bc9c5:
+
+    # "Aven kissed her sister’s breasts and encouraged me to fuck her even harder."
+    "Aven küsste die Brüste ihrer Schwester und forderte mich auf, sie noch härter zu ficken."
+
+# game/episode023.rpy:2253
+translate german ep023_group_sex_fucking_b04a1ad1:
+
+    # "Aven massaged my balls and encouraged me to fuck Lilly even harder."
+    "Aven massierte meine Hoden und ermutigte mich, Lilly noch härter zu ficken."
+
+# game/episode023.rpy:2254
+translate german ep023_group_sex_fucking_6544e461:
+
+    # av "That’s it, [p_name_short]!"
+    av "Das war\'s, [p_name_short]!"
+
+# game/episode023.rpy:2255
+translate german ep023_group_sex_fucking_d035456f:
+
+    # av "She’s all yours."
+    av "Sie gehört ganz dir."
+
+# game/episode023.rpy:2256
+translate german ep023_group_sex_fucking_07634f8a:
+
+    # av "Fuck her tight little pussy for me."
+    av "Fick mir ihre enge kleine Muschi."
+
+# game/episode023.rpy:2259
+translate german ep023_group_sex_fucking_b19fe515:
+
+    # "With every stroke, I tried to go deeper inside my sister."
+    "Mit jedem Stoß versuchte ich, tiefer in meine Schwester einzudringen."
+
+# game/episode023.rpy:2261
+translate german ep023_group_sex_fucking_88cebf1b:
+
+    # "With every stroke, I tried to go deeper inside my girlfriend."
+    "Mit jedem Stoß versuchte ich, tiefer in meine Freundin einzudringen."
+
+# game/episode023.rpy:2262
+translate german ep023_group_sex_fucking_194ce5f5:
+
+    # "The wet slaps our flesh caused were punctuated by our grunts and moans, growing more desperate at every turn."
+    "Die nassen Schläge, die unser Fleisch verursachte, wurden von unserem Stöhnen und Ächzen unterbrochen, das mit jeder Bewegung verzweifelter wurde."
+
+# game/episode023.rpy:2266
+translate german ep023_group_sex_fucking_41152ab1:
+
+    # av "Fuck your sister’s pregnant pussy hard, [p_name_short]."
+    av "Fick die schwangere Muschi deiner Schwester hart, [p_name_short]."
+
+# game/episode023.rpy:2268
+translate german ep023_group_sex_fucking_0b9ab548:
+
+    # av "Fuck you sister’s pussy hard, [p_name_short]."
+    av "Fick die Muschi deiner Schwester hart, [p_name_short]."
+
+# game/episode023.rpy:2271
+translate german ep023_group_sex_fucking_ec9389ae:
+
+    # av "Fuck that pregnant pussy hard, [p_name_short]."
+    av "Fick diese schwangere Muschi hart, [p_name_short]."
+
+# game/episode023.rpy:2273
+translate german ep023_group_sex_fucking_92305a51:
+
+    # av "Fuck that pussy hard, [p_name_short]."
+    av "Fick diese Muschi hart, [p_name_short]."
+
+# game/episode023.rpy:2277
+translate german ep023_group_sex_fucking_6262d002:
+
+    # e "Fuck your sister’s pregnant pussy hard, [p_name_short]."
+    e "Fick die schwangere Muschi deiner Schwester hart, [p_name_short]."
+
+# game/episode023.rpy:2279
+translate german ep023_group_sex_fucking_5c95a5f6:
+
+    # e "Fuck you sister’s pussy hard, [p_name_short]."
+    e "Fick die Muschi deiner Schwester hart, [p_name_short]."
+
+# game/episode023.rpy:2282
+translate german ep023_group_sex_fucking_492efce4:
+
+    # e "Fuck that pregnant pussy hard, [p_name_short]."
+    e "Fick diese schwangere Muschi hart, [p_name_short]."
+
+# game/episode023.rpy:2284
+translate german ep023_group_sex_fucking_30d1833a:
+
+    # e "Fuck that pussy hard, [p_name_short]."
+    e "Fick diese Muschi hart, [p_name_short]."
+
+# game/episode023.rpy:2286
+translate german ep023_group_sex_fucking_40b6acaf:
+
+    # "I wanted nothing more, but I also had other needs to fulfill."
+    "Ich wollte nichts anderes, aber ich hatte auch andere Bedürfnisse zu befriedigen."
+
+# game/episode023.rpy:2293
+translate german ep023_group_sex_fucking_a9a6fdb2:
+
+    # "I made Aven roll over and get on all fours."
+    "Ich habe Aven dazu gebracht, sich auf den Rücken zu rollen und auf alle Viere zu gehen."
+
+# game/episode023.rpy:2299
+translate german ep023_group_sex_fucking_c39a0a7b:
+
+    # "Slapping my sister’s ass, I pulled her by her buttocks onto my cock."
+    "Ich klatschte meiner Schwester auf den Hintern und zog sie an ihrem Gesäß auf meinen Schwanz."
+
+# game/episode023.rpy:2301
+translate german ep023_group_sex_fucking_a3ffd3de:
+
+    # "Slapping my girlfriend’s ass, I pulled her by her buttocks onto my cock."
+    "Ich klatschte meiner Freundin auf den Hintern und zog sie an ihrem Gesäß auf meinen Schwanz."
+
+# game/episode023.rpy:2302
+translate german ep023_group_sex_fucking_f45b6262:
+
+    # "Her wetness made the initial entrance quite easy."
+    "Durch ihre Nässe war das Eindringen zunächst recht einfach."
+
+# game/episode023.rpy:2303
+translate german ep023_group_sex_fucking_a5f9e246:
+
+    # "Groaning in pleasure, Aven took my entire length inside her pussy."
+    "Aven stöhnte vor Vergnügen und nahm meinen ganzen Penis in ihre Muschi auf."
+
+# game/episode023.rpy:2304
+translate german ep023_group_sex_fucking_7c0c11d1:
+
+    # av "That’s it!{w} You’re inside me.{w} I love it so much!"
+    av "Genau so ist es!{w} Du bist in mir.{w} Ich liebe es so sehr!"
+
+# game/episode023.rpy:2305
+translate german ep023_group_sex_fucking_a84a47ca:
+
+    # "Slapping the quivering flesh of her ass again, I began to fuck her."
+    "Ich schlug ihr erneut auf den zitternden Hintern und begann, sie zu ficken."
+
+# game/episode023.rpy:2309
+translate german ep023_group_sex_fucking_1a95c0eb:
+
+    # "Lilly moved underneath her sister’s body and offered her cunt to Aven."
+    "Lilly schob sich unter den Körper ihrer Schwester und bot Aven ihre Scham an."
+
+# game/episode023.rpy:2310
+translate german ep023_group_sex_fucking_e14ff2c3:
+
+    # "As Aven began to lick Lilly’s pussy, I felt my other sister’s mouth wrap around my balls."
+    "Als Aven anfing, Lillys Muschi zu lecken, spürte ich, wie sich der Mund meiner anderen Schwester um meine Hoden schloss."
+
+# game/episode023.rpy:2312
+translate german ep023_group_sex_fucking_2b529067:
+
+    # "Lilly moved underneath her friend’s body and offered her cunt to Aven."
+    "Lilly schob sich unter den Körper ihrer Freundin und bot Aven ihre Scham an."
+
+# game/episode023.rpy:2313
+translate german ep023_group_sex_fucking_420616c5:
+
+    # "As Aven began to lick Lilly’s pussy, I felt my other girlfriend’s mouth wrap around my balls."
+    "Während Aven anfing, Lillys Muschi zu lecken, spürte ich, wie der Mund meiner anderen Freundin sich um meine Hoden schloss."
+
+# game/episode023.rpy:2316
+translate german ep023_group_sex_fucking_1a95c0eb_1:
+
+    # "Lilly moved underneath her sister’s body and offered her cunt to Aven."
+    "Lilly schob sich unter den Körper ihrer Schwester und bot Aven ihre Scham an."
+
+# game/episode023.rpy:2318
+translate german ep023_group_sex_fucking_2b529067_1:
+
+    # "Lilly moved underneath her friend’s body and offered her cunt to Aven."
+    "Lilly schob sich unter den Körper ihrer Freundin und bot Aven ihre Scham an."
+
+# game/episode023.rpy:2319
+translate german ep023_group_sex_fucking_74cb90fb:
+
+    # "While she began to lick Lilly’s pussy, I fucked Aven with measured strokes."
+    "Während sie anfing, Lillys Muschi zu lecken, fickte ich Aven mit dosierten Stößen."
+
+# game/episode023.rpy:2322
+translate german ep023_group_sex_fucking_3638b65f:
+
+    # "As I fucked my sister with measured strokes, I felt my other sister’s mouth wrap around my balls."
+    "Während ich meine Schwester mit dosierten Stößen vögelte, spürte ich, wie sich der Mund meiner anderen Schwester um meine Hoden schloss."
+
+# game/episode023.rpy:2324
+translate german ep023_group_sex_fucking_c68084ef:
+
+    # "As I fucked my sister with measured strokes, I felt Eva’s mouth wrap around my balls."
+    "Während ich meine Schwester mit gezielten Stößen vögelte, spürte ich, wie Evas Mund sich um meine Hoden schloss."
+
+# game/episode023.rpy:2331
+translate german ep023_group_sex_fucking_cc792659:
+
+    # "Her tongue started making circles across the sensitive flesh covering my testicles."
+    "Ihre Zunge begann, Kreise über das empfindliche Fleisch zu ziehen, das meine Hoden bedeckte."
+
+# game/episode023.rpy:2332
+translate german ep023_group_sex_fucking_df596ee5:
+
+    # "It made me fuck Aven even harder in response."
+    "Als Reaktion darauf habe ich Aven noch heftiger gefickt."
+
+# game/episode023.rpy:2334
+translate german ep023_group_sex_fucking_42fef7da:
+
+    # av "Yes, pound my pussy!"
+    av "Ja, fick meine Muschi!"
+
+# game/episode023.rpy:2339
+translate german ep023_group_sex_fucking_e7d6fd37:
+
+    # "I grabbed her ponytail and pulled Aven toward me."
+    "Ich packte ihren Pferdeschwanz und zog Aven zu mir heran."
+
+# game/episode023.rpy:2340
+translate german ep023_group_sex_fucking_949eea04:
+
+    # "Clasping my arms around her upper body, I drove my cock even deeper inside her."
+    "Ich umfasste ihren Oberkörper mit meinen Armen und stieß meinen Schwanz noch tiefer in sie hinein."
+
+# game/episode023.rpy:2343
+translate german ep023_group_sex_fucking_8ada29d9:
+
+    # l "Yes, fuck our sister like a whore, [p_name_short]."
+    l "Ja, fick unsere Schwester wie eine Hure, [p_name_short]."
+
+# game/episode023.rpy:2345
+translate german ep023_group_sex_fucking_9302253c:
+
+    # l "Yes, fuck your girlfriend like a whore, [p_name_short]."
+    l "Ja, fick deine Freundin wie eine Hure, [p_name_short]."
+
+# game/episode023.rpy:2348
+translate german ep023_group_sex_fucking_5d7514a6:
+
+    # e "Yes, fuck our sister like a whore, [p_name_short]."
+    e "Ja, fick unsere Schwester wie eine Hure, [p_name_short]."
+
+# game/episode023.rpy:2350
+translate german ep023_group_sex_fucking_31af492e:
+
+    # e "Yes, fuck your girlfriend like a whore, [p_name_short]."
+    e "Ja, fick deine Freundin wie eine Hure, [p_name_short]."
+
+# game/episode023.rpy:2352
+translate german ep023_group_sex_fucking_4e216af6:
+
+    # e "Make her feel every last inch!"
+    e "Lass sie jeden einzelnen Zentimeter spüren!"
+
+# game/episode023.rpy:2354
+translate german ep023_group_sex_fucking_55073c63:
+
+    # l "Make her feel every last inch!"
+    l "Lass sie jeden einzelnen Zentimeter spüren!"
+
+# game/episode023.rpy:2359
+translate german ep023_group_sex_fucking_e38d2c1d:
+
+    # "Aven’s ass ground against my abdomen as I probed her depths."
+    "Avens Hintern rieb sich an meinem Bauch, während ich ihre Tiefen erkundete."
+
+# game/episode023.rpy:2360
+translate german ep023_group_sex_fucking_ed03ff62:
+
+    # "Her breaths came out ragged, in part because of my arms restricting her airflow."
+    "Ihr Atem ging stoßweise, was zum Teil daran lag, dass meine Arme ihren Luftstrom behinderten."
+
+# game/episode023.rpy:2361
+translate german ep023_group_sex_fucking_cc5ecfb9:
+
+    # av "How do you fuck me so well?"
+    av "Wie schaffst du es, mich so gut zu ficken?"
+
+# game/episode023.rpy:2362
+translate german ep023_group_sex_fucking_3394254b:
+
+    # av "You’re amazing, [p_name_short]!{w} Don’t stop!"
+    av "Du bist fantastisch, [p_name_short]!{w} Hör nicht auf!"
+
+# game/episode023.rpy:2364
+translate german ep023_group_sex_fucking_a735c786:
+
+    # "I didn’t want to disappoint her, but more pussy was waiting for me."
+    "Ich wollte sie nicht enttäuschen, aber da wartete noch mehr Muschi auf mich."
+
+# game/episode023.rpy:2370
+translate german ep023_group_sex_fucking_e0148455:
+
+    # "I had already decided that Eva should get my load."
+    "Ich hatte bereits entschieden, dass Eva meine Ladung bekommen sollte."
+
+# game/episode023.rpy:2378
+translate german ep023_group_sex_fucking_b4b9e568:
+
+    # "So I pulled out of Lilly and entered my pregnant sister again."
+    "Also habe ich die Beziehung zu Lilly beendet und bin wieder mit meiner schwangeren Schwester zusammengekommen."
+
+# game/episode023.rpy:2380
+translate german ep023_group_sex_fucking_3e2b460e:
+
+    # "So I pulled out of Lilly and entered my pregnant girlfriend again."
+    "Also habe ich mich von Lilly getrennt und bin wieder mit meiner schwangeren Freundin zusammengekommen."
+
+# game/episode023.rpy:2383
+translate german ep023_group_sex_fucking_795361af:
+
+    # "So I pulled out of Lilly and entered my sister again."
+    "Also habe ich Lilly verlassen und bin wieder zu meiner Schwester gegangen."
+
+# game/episode023.rpy:2385
+translate german ep023_group_sex_fucking_80db2760:
+
+    # "So I pulled out of Lilly and entered Eva again."
+    "Also habe ich Lilly verlassen und bin wieder in Eva eingestiegen."
+
+# game/episode023.rpy:2393
+translate german ep023_group_sex_fucking_4fcfc4df:
+
+    # "So I pulled out of Aven and entered my pregnant sister again."
+    "Also bin ich aus Aven ausgestiegen und habe meine schwangere Schwester wieder betreten."
+
+# game/episode023.rpy:2395
+translate german ep023_group_sex_fucking_02cb2f7c:
+
+    # "So I pulled out of Aven and entered my pregnant girlfriend again."
+    "Also bin ich aus Aven ausgestiegen und habe meine schwangere Freundin wieder betreten."
+
+# game/episode023.rpy:2398
+translate german ep023_group_sex_fucking_1b97288a:
+
+    # "So I pulled out of Aven and entered my sister again."
+    "Also bin ich aus Aven ausgestiegen und habe meine Schwester wieder betreten."
+
+# game/episode023.rpy:2400
+translate german ep023_group_sex_fucking_c2e779a2:
+
+    # "So I pulled out of Aven and entered Eva again."
+    "Also verließ ich Aven und betrat wieder Eva."
+
+# game/episode023.rpy:2403
+translate german ep023_group_sex_fucking_4b89ddfd:
+
+    # "So I remained inside my sister and fucked her with hard strokes."
+    "Also blieb ich in meiner Schwester und vögelte sie mit harten Stößen."
+
+# game/episode023.rpy:2405
+translate german ep023_group_sex_fucking_5727eaae:
+
+    # "So I remained inside my girlfriend and fucked her with hard strokes."
+    "Also blieb ich in meiner Freundin und vögelte sie mit harten Stößen."
+
+# game/episode023.rpy:2406
+translate german ep023_group_sex_fucking_a6dc8417:
+
+    # c "I’m not going to pull out."
+    c "Ich werde nicht zurückziehen."
+
+# game/episode023.rpy:2407
+translate german ep023_group_sex_fucking_2e24b455:
+
+    # c "I’m going to flood your pussy with cum."
+    c "Ich werde deine Muschi mit Sperma fluten."
+
+# game/episode023.rpy:2408
+translate german ep023_group_sex_fucking_3f0fa2a2:
+
+    # e "Yes, I want you to!"
+    e "Ja, das möchte ich!"
+
+# game/episode023.rpy:2409
+translate german ep023_group_sex_fucking_11ec3801:
+
+    # e "Please cum in me!"
+    e "Bitte komm in mir!"
+
+# game/episode023.rpy:2411
+translate german ep023_group_sex_fucking_8d9500ff:
+
+    # "As I rammed my cock deep inside my sister, my orgasm had arrived."
+    "Als ich meinen Schwanz tief in meine Schwester hineingestoßen hatte, kam mein Orgasmus."
+
+# game/episode023.rpy:2413
+translate german ep023_group_sex_fucking_2624cd44:
+
+    # "As I rammed my cock deep inside my girlfriend, my orgasm had arrived."
+    "Als ich meinen Schwanz tief in meine Freundin rammte, kam mein Orgasmus."
+
+# game/episode023.rpy:2415
+translate german ep023_group_sex_fucking_3f4e4fa2:
+
+    # "Grabbing her hips, I held her down on my cock, as cum shot out and coated the walls of her warm pussy."
+    "Ich packte ihre Hüften und hielt sie auf meinem Schwanz fest, während mein Samen herausspritzte und die Wände ihrer warmen Muschi bedeckte."
+
+# game/episode023.rpy:2416
+translate german ep023_group_sex_fucking_a8d04ba9:
+
+    # c "Oh Eva, I-"
+    c "Oh Eva, ich-"
+
+# game/episode023.rpy:2417
+translate german ep023_group_sex_fucking_d425af55:
+
+    # e "Yes, fill me up!"
+    e "Ja, füll mich auf!"
+
+# game/episode023.rpy:2421
+translate german ep023_group_sex_fucking_3cf10433:
+
+    # "As I removed my dick from her, cum began oozing out of my sister’s pussy."
+    "Als ich meinen Penis aus ihr herauszog, begann Sperma aus der Vagina meiner Schwester zu fließen."
+
+# game/episode023.rpy:2423
+translate german ep023_group_sex_fucking_4f0d3fc3:
+
+    # "As I removed my dick from her, cum began oozing out of my girlfriend’s pussy."
+    "Als ich meinen Penis aus ihr herauszog, begann Sperma aus der Vagina meiner Freundin zu fließen."
+
+# game/episode023.rpy:2426
+translate german ep023_group_sex_fucking_1aebce15:
+
+    # "Lilly was the lucky person to get my seed."
+    "Lilly war die Glückliche, die meinen Samen bekommen hat."
+
+# game/episode023.rpy:2430
+translate german ep023_group_sex_fucking_a62d2211:
+
+    # "So I pulled out of Eva and entered my sister again."
+    "Also zog ich mich aus Eva zurück und stieg wieder in meine Schwester ein."
+
+# game/episode023.rpy:2432
+translate german ep023_group_sex_fucking_67e45e51:
+
+    # "So I pulled out of Eva and entered Lilly again."
+    "Also habe ich Eva verlassen und bin wieder in Lilly eingestiegen."
+
+# game/episode023.rpy:2436
+translate german ep023_group_sex_fucking_1b97288a_1:
+
+    # "So I pulled out of Aven and entered my sister again."
+    "Also bin ich aus Aven ausgestiegen und habe meine Schwester wieder betreten."
+
+# game/episode023.rpy:2438
+translate german ep023_group_sex_fucking_37adb57a:
+
+    # "So I pulled out of Aven and entered Lilly again."
+    "Also bin ich aus Aven ausgestiegen und wieder in Lilly eingestiegen."
+
+# game/episode023.rpy:2439
+translate german ep023_group_sex_fucking_605bdba9:
+
+    # c "I’m going to cum inside you."
+    c "Ich werde in dir kommen."
+
+# game/episode023.rpy:2440
+translate german ep023_group_sex_fucking_14311421:
+
+    # l "Yes, [p_name_short]!{w} Please, I want it all!"
+    l "Ja, [p_name_short]!{w} Bitte, ich will alles!"
+
+# game/episode023.rpy:2443
+translate german ep023_group_sex_fucking_5c814b8b:
+
+    # "Fucking her with aggressive thrusts, I unloaded deep inside my sister’s pussy."
+    "Ich habe sie mit heftigen Stößen gefickt und bin tief in die Muschi meiner Schwester gekommen."
+
+# game/episode023.rpy:2445
+translate german ep023_group_sex_fucking_33cba782:
+
+    # "Fucking her with aggressive thrusts, I unloaded deep inside my girlfriend’s pussy."
+    "Ich habe sie mit heftigen Stößen gefickt und bin tief in die Muschi meiner Freundin gekommen."
+
+# game/episode023.rpy:2446
+translate german ep023_group_sex_fucking_0c0276ef:
+
+    # c "Lilly, I’m cumming!"
+    c "Lilly, ich komme!"
+
+# game/episode023.rpy:2447
+translate german ep023_group_sex_fucking_c9137971:
+
+    # "Cum flooded her cunt with thick spurts."
+    "Ihre Vagina wurde in dicken Ejakulationen von ihrem Sperma überflutet."
+
+# game/episode023.rpy:2450
+translate german ep023_group_sex_fucking_46c674b9:
+
+    # "As I pulled out of her, semen began to leak immediately from her slit."
+    "Als ich aus ihr herauszog, trat sofort Samen aus ihrer Scheide aus."
+
+# game/episode023.rpy:2453
+translate german ep023_group_sex_fucking_d12dde9e:
+
+    # "Aven was to be the recipient of my cum."
+    "Aven sollte die Empfängerin meines Spermas sein."
+
+# game/episode023.rpy:2460
+translate german ep023_group_sex_fucking_f2362820:
+
+    # "So I dislodged from Eva and pulled my sister on top of me again."
+    "Also löste ich mich von Eva und zog meine Schwester wieder auf mich."
+
+# game/episode023.rpy:2462
+translate german ep023_group_sex_fucking_b476cd95:
+
+    # "So I dislodged from Eva and pulled Aven on top of me again."
+    "Also löste ich mich von Eva und zog Aven wieder auf mich."
+
+# game/episode023.rpy:2469
+translate german ep023_group_sex_fucking_a8baed4e:
+
+    # "So I dislodged from Lilly and pulled my sister on top of me again."
+    "Also löste ich mich von Lilly und zog meine Schwester wieder auf mich."
+
+# game/episode023.rpy:2471
+translate german ep023_group_sex_fucking_46603857:
+
+    # "So I dislodged from Lilly and pulled Aven on top of me again."
+    "Also löste ich mich von Lilly und zog Aven wieder auf mich."
+
+# game/episode023.rpy:2472
+translate german ep023_group_sex_fucking_10b13d89:
+
+    # c "I’m going to breed you so hard."
+    c "Ich werde dich so hart schwängern."
+
+# game/episode023.rpy:2473
+translate german ep023_group_sex_fucking_338c165e:
+
+    # c "I need to cum inside you."
+    c "Ich muss in dir kommen."
+
+# game/episode023.rpy:2474
+translate german ep023_group_sex_fucking_72c0d7b8:
+
+    # av "Yes, [p_name_short], I want to feel my pussy dripping with your cum!"
+    av "Ja, [p_name_short], ich will spüren, wie meine Muschi von deinem Sperma tropft!"
+
+# game/episode023.rpy:2475
+translate german ep023_group_sex_fucking_f034010c:
+
+    # av "Don’t pull out!"
+    av "Zieh nicht raus!"
+
+# game/episode023.rpy:2476
+translate german ep023_group_sex_fucking_a3e4df31:
+
+    # "Grabbing her hips, I went in for the final push."
+    "Ich packte ihre Hüften und setzte zum letzten Stoß an."
+
+# game/episode023.rpy:2478
+translate german ep023_group_sex_fucking_3f4a7768:
+
+    # "As her buttocks slapped against my abdomen once more, I became undone."
+    "Als ihr Gesäß erneut gegen meinen Bauch klatschte, verlor ich die Kontrolle."
+
+# game/episode023.rpy:2479
+translate german ep023_group_sex_fucking_197065b2:
+
+    # c "I’m cumming, Aven!"
+    c "Ich komme, Aven!"
+
+# game/episode023.rpy:2481
+translate german ep023_group_sex_fucking_d380786a:
+
+    # "Warm streams of semen spurted inside my sister’s pussy."
+    "Warme Ströme von Samen ergossen sich in die Vagina meiner Schwester."
+
+# game/episode023.rpy:2483
+translate german ep023_group_sex_fucking_275faf6b:
+
+    # "Warm streams of semen spurted inside my girlfriend’s pussy."
+    "Warme Samenströme ergossen sich in die Vagina meiner Freundin."
+
+# game/episode023.rpy:2486
+translate german ep023_group_sex_fucking_e7b8fca6:
+
+    # "My cock slipped out of her pussy and hot cum started pulsing out of her almost at once."
+    "Mein Schwanz glitt aus ihrer Muschi und fast augenblicklich spritzte heißer Samen aus ihr heraus."
+
+# game/episode023.rpy:2491
+translate german ep023_group_sex_fucking_908debaf:
+
+    # "Covering my sisters in cum was always my end goal, so I grabbed Eva by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Schwestern mit Sperma zu bedecken, also packte ich Eva an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2493
+translate german ep023_group_sex_fucking_7dd37029:
+
+    # "Covering my girlfriends in cum was always my end goal, so I grabbed Eva by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Freundinnen mit Sperma zu bedecken, also packte ich Eva an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2498
+translate german ep023_group_sex_fucking_b4a6a526:
+
+    # "Just at the verge of my climax, I pulled out of Eva and made the girls line up in front of me."
+    "Kurz vor meinem Höhepunkt zog ich mich aus Eva zurück und ließ die Mädchen sich vor mir aufstellen."
+
+# game/episode023.rpy:2501
+translate german ep023_group_sex_fucking_10194fd4:
+
+    # "Covering my sisters in cum was always my end goal, so I grabbed Lilly by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Schwestern mit Sperma zu bedecken, also packte ich Lilly an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2503
+translate german ep023_group_sex_fucking_bbc17a47:
+
+    # "Covering my girlfriends in cum was always my end goal, so I grabbed Lilly by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Freundinnen mit Sperma zu bedecken, also packte ich Lilly an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2508
+translate german ep023_group_sex_fucking_49310b2b:
+
+    # "Just at the verge of my climax, I pulled out of Lilly and made the girls line up in front of me."
+    "Kurz vor meinem Höhepunkt zog ich mich aus Lilly zurück und ließ die Mädchen sich vor mir aufstellen."
+
+# game/episode023.rpy:2511
+translate german ep023_group_sex_fucking_ff2a3e1c:
+
+    # "Covering my sisters in cum was always my end goal, so I grabbed Aven by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Schwestern mit Sperma zu bedecken, also packte ich Aven an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2513
+translate german ep023_group_sex_fucking_852243f2:
+
+    # "Covering my girlfriends in cum was always my end goal, so I grabbed Aven by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Freundinnen mit Sperma zu bedecken, also packte ich Aven an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2518
+translate german ep023_group_sex_fucking_1a6227a5:
+
+    # "Just at the verge of my climax, I pulled out of Aven and made the girls line up in front of me."
+    "Kurz vor meinem Höhepunkt zog ich mich aus Aven zurück und ließ die Mädchen sich vor mir aufstellen."
+
+# game/episode023.rpy:2519
+translate german ep023_group_sex_fucking_7ddd073a:
+
+    # "With a few flicks of my wrist, I reached my climax."
+    "Mit wenigen Handbewegungen erreichte ich meinen Höhepunkt."
+
+# game/episode023.rpy:2526
+translate german ep023_group_sex_fucking_6e08d1e4:
+
+    # "I sprayed my seed all over Eva’s pregnant belly and Lilly’s and Aven’s breasts."
+    "Ich habe meinen Samen über Evas schwangeren Bauch und Lillys und Avens Brüste gespritzt."
+
+# game/episode023.rpy:2528
+translate german ep023_group_sex_fucking_49a0872b:
+
+    # "I sprayed my seed all over Eva’s belly and Lilly’s and Aven’s breasts."
+    "Ich habe meinen Samen über Evas Bauch und Lillys und Avens Brüste gespritzt."
+
+# game/episode023.rpy:2531
+translate german ep023_group_sex_fucking_d584b91e:
+
+    # "I sprayed my seed all over Eva’s pregnant belly and Lilly’s breasts."
+    "Ich habe meinen Samen über Evas schwangeren Bauch und Lillys Brüste gespritzt."
+
+# game/episode023.rpy:2533
+translate german ep023_group_sex_fucking_a840efda:
+
+    # "I sprayed my seed all over Eva’s belly and Lilly’s breasts."
+    "Ich habe meinen Samen über Evas Bauch und Lillys Brüste gespritzt."
+
+# game/episode023.rpy:2536
+translate german ep023_group_sex_fucking_9745dbdb:
+
+    # "I sprayed my seed all over Eva’s pregnant belly and Aven’s breasts."
+    "Ich habe meinen Samen über Evas schwangeren Bauch und Avens Brüste gespritzt."
+
+# game/episode023.rpy:2538
+translate german ep023_group_sex_fucking_5156d6d0:
+
+    # "I sprayed my seed all over Eva’s belly and Aven’s breasts."
+    "Ich habe meinen Samen über Evas Bauch und Avens Brüste gespritzt."
+
+# game/episode023.rpy:2540
+translate german ep023_group_sex_fucking_f1bb9061:
+
+    # "I sprayed my seed all over Lilly’s belly and Aven’s breasts."
+    "Ich habe meinen Samen über Lillys Bauch und Avens Brüste gespritzt."
+
+# game/episode023.rpy:2548
+translate german ep023_group_sex_fucking_677b42cb:
+
+    # "Playing with the cum on their bodies, my sisters kissed each other."
+    "Meine Schwestern spielten mit dem Sperma auf ihren Körpern und küssten sich."
+
+# game/episode023.rpy:2550
+translate german ep023_group_sex_fucking_cb08429a:
+
+    # "Playing with the cum on their bodies, my girlfriends kissed each other."
+    "Meine Freundinnen spielten mit dem Sperma auf ihren Körpern und küssten sich."
+
+# game/episode023.rpy:2555
+translate german ep023_group_sex_fucking_908debaf_1:
+
+    # "Covering my sisters in cum was always my end goal, so I grabbed Eva by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Schwestern mit Sperma zu bedecken, also packte ich Eva an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2557
+translate german ep023_group_sex_fucking_7dd37029_1:
+
+    # "Covering my girlfriends in cum was always my end goal, so I grabbed Eva by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Freundinnen mit Sperma zu bedecken, also packte ich Eva an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2562
+translate german ep023_group_sex_fucking_e5967d33:
+
+    # "Just at the verge of my climax, I pulled out of Eva and made the girls kneel in front of my cock."
+    "Kurz vor meinem Höhepunkt zog ich mich aus Eva zurück und zwang die Mädchen, vor meinem Schwanz niederzuknien."
+
+# game/episode023.rpy:2565
+translate german ep023_group_sex_fucking_10194fd4_1:
+
+    # "Covering my sisters in cum was always my end goal, so I grabbed Lilly by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Schwestern mit Sperma zu bedecken, also packte ich Lilly an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2567
+translate german ep023_group_sex_fucking_bbc17a47_1:
+
+    # "Covering my girlfriends in cum was always my end goal, so I grabbed Lilly by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Freundinnen mit Sperma zu bedecken, also packte ich Lilly an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2572
+translate german ep023_group_sex_fucking_cf4452f3:
+
+    # "Just at the verge of my climax, I pulled out of Lilly and made the girls kneel in front of my cock."
+    "Kurz vor meinem Höhepunkt zog ich mich aus Lilly zurück und zwang die Mädchen, vor meinem Schwanz niederzuknien."
+
+# game/episode023.rpy:2575
+translate german ep023_group_sex_fucking_ff2a3e1c_1:
+
+    # "Covering my sisters in cum was always my end goal, so I grabbed Aven by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Schwestern mit Sperma zu bedecken, also packte ich Aven an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2577
+translate german ep023_group_sex_fucking_852243f2_1:
+
+    # "Covering my girlfriends in cum was always my end goal, so I grabbed Aven by the hips and went in for the final push."
+    "Mein Ziel war es immer, meine Freundinnen mit Sperma zu bedecken, also packte ich Aven an den Hüften und gab ihr den letzten Stoß."
+
+# game/episode023.rpy:2582
+translate german ep023_group_sex_fucking_955e0023:
+
+    # "Just at the verge of my climax, I pulled out of Aven and made the girls kneel in front of my cock."
+    "Kurz vor meinem Höhepunkt zog ich mich aus Aven zurück und zwang die Mädchen, vor meinem Schwanz niederzuknien."
+
+# game/episode023.rpy:2583
+translate german ep023_group_sex_fucking_7ddd073a_1:
+
+    # "With a few flicks of my wrist, I reached my climax."
+    "Mit wenigen Handbewegungen erreichte ich meinen Höhepunkt."
+
+# game/episode023.rpy:2589
+translate german ep023_group_sex_fucking_61a83c26:
+
+    # "I sprayed my seed into the open mouths of my sisters, covering their faces as well."
+    "Ich sprühte meinen Samen in die offenen Münder meiner Schwestern und bedeckte dabei auch ihre Gesichter."
+
+# game/episode023.rpy:2591
+translate german ep023_group_sex_fucking_2a63a24a:
+
+    # "I sprayed my seed into the open mouths of my girlfriends, covering their faces as well."
+    "Ich spritzte meinen Freundinnen mein Sperma in die offenen Münder und bedeckte dabei auch ihre Gesichter."
+
+# game/episode023.rpy:2596
+translate german ep023_group_sex_fucking_bf718a8d:
+
+    # "They swallowed the cum I had deposited in their mouths and kissed each other."
+    "Sie schluckten das Sperma, das ich in ihren Mund ejakuliert hatte, und küssten sich."
+
+# game/episode023.rpy:2603
+translate german ep023_group_sex_fucking_fda6fa19:
+
+    # "My sisters cuddled together, with me in the middle."
+    "Meine Schwestern kuschelten sich aneinander, ich in der Mitte."
+
+# game/episode023.rpy:2605
+translate german ep023_group_sex_fucking_78b4ffef:
+
+    # "My girls cuddled together, with me in the middle."
+    "Meine Mädchen kuschelten sich aneinander, ich in der Mitte."
+
+# game/episode023.rpy:2608
+translate german ep023_group_sex_fucking_6099f1d6:
+
+    # e "I think that was a new high for me."
+    e "Ich glaube, das war ein neuer Rekord für mich."
+
+# game/episode023.rpy:2609
+translate german ep023_group_sex_fucking_eb0572ec:
+
+    # av "For me too."
+    av "Mir geht es genauso."
+
+# game/episode023.rpy:2610
+translate german ep023_group_sex_fucking_8ae4c910:
+
+    # l "I wish we didn’t have to sleep apart any longer."
+    l "Ich wünschte, wir müssten nicht länger getrennt schlafen."
+
+# game/episode023.rpy:2612
+translate german ep023_group_sex_fucking_6099f1d6_1:
+
+    # e "I think that was a new high for me."
+    e "Ich glaube, das war ein neuer Rekord für mich."
+
+# game/episode023.rpy:2613
+translate german ep023_group_sex_fucking_8a949566:
+
+    # l "For me too."
+    l "Mir geht es genauso."
+
+# game/episode023.rpy:2614
+translate german ep023_group_sex_fucking_8ae4c910_1:
+
+    # l "I wish we didn’t have to sleep apart any longer."
+    l "Ich wünschte, wir müssten nicht länger getrennt schlafen."
+
+# game/episode023.rpy:2616
+translate german ep023_group_sex_fucking_6099f1d6_2:
+
+    # e "I think that was a new high for me."
+    e "Ich glaube, das war ein neuer Rekord für mich."
+
+# game/episode023.rpy:2617
+translate german ep023_group_sex_fucking_eb0572ec_1:
+
+    # av "For me too."
+    av "Mir geht es genauso."
+
+# game/episode023.rpy:2618
+translate german ep023_group_sex_fucking_2fb8d6a5:
+
+    # av "I wish we didn’t have to sleep apart any longer."
+    av "Ich wünschte, wir müssten nicht länger getrennt schlafen."
+
+# game/episode023.rpy:2620
+translate german ep023_group_sex_fucking_1ab0fd8f:
+
+    # av "I think that was a new high for me."
+    av "Ich glaube, das war ein neuer Rekord für mich."
+
+# game/episode023.rpy:2621
+translate german ep023_group_sex_fucking_8a949566_1:
+
+    # l "For me too."
+    l "Mir geht es genauso."
+
+# game/episode023.rpy:2622
+translate german ep023_group_sex_fucking_8ae4c910_2:
+
+    # l "I wish we didn’t have to sleep apart any longer."
+    l "Ich wünschte, wir müssten nicht länger getrennt schlafen."
+
+# game/episode023.rpy:2624
+translate german ep023_group_sex_fucking_89fd35bf:
+
+    # c "Well, we fit on this bed together, so let’s all sleep together from now on?"
+    c "Nun ja, wir passen zusammen in dieses Bett, also lasst uns von nun an alle zusammen schlafen?"
+
+# game/episode023.rpy:2625
+translate german ep023_group_sex_fucking_f3dbc0fc:
+
+    # c "Anyone can always decide to retire to their own quarters for a night if they wish."
+    c "Jeder kann sich jederzeit für eine Nacht in seine eigenen Gemächer zurückziehen, wenn er das wünscht."
+
+# game/episode023.rpy:2628
+translate german ep023_group_sex_fucking_f03cd758:
+
+    # l "You’re afraid we won’t get any sleep?"
+    l "Du hast Angst, dass wir nicht schlafen werden?"
+
+# game/episode023.rpy:2630
+translate german ep023_group_sex_fucking_bde6f999:
+
+    # av "You’re afraid we won’t get any sleep?"
+    av "Du hast Angst, dass wir nicht schlafen werden?"
+
+# game/episode023.rpy:2631
+translate german ep023_group_sex_fucking_3f379b94:
+
+    # c "You have to admit you all seem to be insatiable..."
+    c "Du musst zugeben, dass ihr alle unersättlich zu sein scheint..."
+
+# game/episode023.rpy:2633
+translate german ep023_group_sex_fucking_306903bb:
+
+    # e "Says the person who just came loads inside me."
+    e "Sagt die Person, die gerade in mir gekommen ist."
+
+# game/episode023.rpy:2635
+translate german ep023_group_sex_fucking_6a54ef03:
+
+    # l "Says the person who just came loads inside me."
+    l "Sagt die Person, die gerade in mir gekommen ist."
+
+# game/episode023.rpy:2637
+translate german ep023_group_sex_fucking_fcc403b8:
+
+    # av "Says the person who just came loads inside me."
+    av "Sagt die Person, die gerade in mir gekommen ist."
+
+# game/episode023.rpy:2640
+translate german ep023_group_sex_fucking_7b1f3a12:
+
+    # e "Says the person who just came loads."
+    e "Sagt die Person, die gerade vollgespritzt hat."
+
+# game/episode023.rpy:2642
+translate german ep023_group_sex_fucking_b44d4628:
+
+    # l "Says the person who just came loads."
+    l "Sagt die Person, die gerade vollgespritzt hat."
+
+# game/episode023.rpy:2643
+translate german ep023_group_sex_fucking_5e09f025:
+
+    # c "Let’s just say we all have a healthy sex drive."
+    c "Sagen wir einfach, wir alle haben einen gesunden Sexualtrieb."
+
+# game/episode023.rpy:2645
+translate german ep023_group_sex_fucking_afd0470e:
+
+    # av "We sure do."
+    av "Das tun wir."
+
+# game/episode023.rpy:2646
+translate german ep023_group_sex_fucking_fc795819:
+
+    # av "I think it’s a good idea though, sleeping together."
+    av "Ich finde es aber eine gute Idee, zusammen zu schlafen."
+
+# game/episode023.rpy:2648
+translate german ep023_group_sex_fucking_73ea678c:
+
+    # l "We sure do."
+    l "Das tun wir."
+
+# game/episode023.rpy:2649
+translate german ep023_group_sex_fucking_db9cf1b7:
+
+    # l "I think it’s a good idea though, sleeping together."
+    l "Ich finde es aber eine gute Idee, zusammen zu schlafen."
+
+# game/episode023.rpy:2650
+translate german ep023_group_sex_fucking_88df38a7:
+
+    # c "Agreed."
+    c "Einverstanden."
+
+# game/episode023.rpy:2651
+translate german ep023_group_sex_fucking_c98c5f86:
+
+    # c "I’ll make some arrangements to maybe remodel my quarters once we’re in a port."
+    c "Ich werde einige Vorkehrungen treffen, um meine Kabine vielleicht umzubauen, sobald wir in einem Hafen sind."
+
+# game/episode023.rpy:2653
+translate german ep023_group_sex_fucking_72f79d59:
+
+    # e "That would be nice."
+    e "Das wäre schön."
+
+# game/episode023.rpy:2655
+translate german ep023_group_sex_fucking_d21664b3:
+
+    # l "That would be nice."
+    l "Das wäre schön."
+
+# game/episode023.rpy:2660
+translate german ep023_group_sex_fucking_27a179fc:
+
+    # "We talked about nothing much in particular for a while, until we fell asleep one by one."
+    "Wir unterhielten uns eine Weile über nichts Bestimmtes, bis wir nacheinander einschliefen."
+
+translate german strings:
+
+    # game/episode023.rpy:3
+    old "Episode 23"
+    new "Episode 23"
+
+    # game/episode023.rpy:120
+    old "Woman"
+    new "Frau"
+
+    # game/episode023.rpy:122
+    old "Man"
+    new "Man"
+
+    # game/episode023.rpy:1851
+    old "Lick Lilly"
+    new "Lick Lilly"
+
+    # game/episode023.rpy:1851
+    old "Lick Eva"
+    new "Leck Eva"
+
+    # game/episode023.rpy:1851
+    old "Lick Aven"
+    new "Lick Aven"
+
+    # game/episode023.rpy:2144
+    old "Fuck Eva"
+    new "Fick Eva"
+
+    # game/episode023.rpy:2144
+    old "Fuck Lilly"
+    new "Fick Lilly"
+
+    # game/episode023.rpy:2144
+    old "Fuck Aven"
+    new "Fuck Aven"
+
+    # game/episode023.rpy:2367
+    old "Creampie Eva"
+    new "Creampie Eva"
+
+    # game/episode023.rpy:2367
+    old "Creampie Lilly"
+    new "Creampie Lilly"
+
+    # game/episode023.rpy:2367
+    old "Creampie Aven"
+    new "Creampie Aven"
+
+    # game/episode023.rpy:2367
+    old "Cover their bodies"
+    new "Bedecke ihre Körper"
+
+    # game/episode023.rpy:2367
+    old "Cover their faces"
+    new "Bedeck ihre Gesichter"
+
