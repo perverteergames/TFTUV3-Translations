@@ -11,6 +11,6 @@ translate german strings:
     new "Rory-Mercury91 {i}(Französisch){/i}"
 
     # game/options.rpy:230
-    old "Thanks to HoboCop86, Fhilb, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 and Jumanji223 for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
-    new "Vielen Dank an HoboCop86, Fhilb, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 und Jumanji223 für das Testen.\n\nEin herzliches Dankeschön an meine Top-Unterstützer! Ihr seid spitze! Zu meinen bisherigen und aktuellen Förderern gehören:\n{i}"
+    old "Thanks to HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 and Jumanji223 for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    new "Vielen Dank an HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 und Jumanji223 für das Testen.\n\nEin herzliches Dankeschön an meine Top-Unterstützer! Ihr seid spitze! Zu meinen bisherigen und aktuellen Förderern gehören:\n{i}"
 

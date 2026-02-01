@@ -167,16 +167,16 @@ translate german strings:
     new "Korrekturlesen"
 
     # game/script.rpy:718
-    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince and ThunderRob"
-    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, Marcurion, Razielprince und ThunderRob"
+    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince and ThunderRob"
+    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, Marcurion, Razielprince und ThunderRob"
 
     # game/script.rpy:718
     old "Testing"
     new "Test"
 
     # game/script.rpy:718
-    old "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
-    new "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki und Razielprince"
+    old "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
+    new "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki und Razielprince"
 
     # game/script.rpy:718
     old "Translation"

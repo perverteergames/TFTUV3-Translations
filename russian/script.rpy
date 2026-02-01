@@ -263,16 +263,16 @@ translate russian strings:
     new "Редактура"
 
     # game/script.rpy:394
-    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince and ThunderRob"
-    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince и ThunderRob"
+    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince and ThunderRob"
+    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince и ThunderRob"
 
     # game/script.rpy:394
     old "Testing"
     new "Тестирование"
 
     # game/script.rpy:394
-    old "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
-    new "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki и Razielprince"
+    old "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
+    new "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki и Razielprince"
 
     # game/script.rpy:394
     old "Translation"

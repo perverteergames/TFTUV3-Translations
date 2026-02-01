@@ -11,6 +11,6 @@ translate portuguese strings:
     new ""
 
     # game/options.rpy:233
-    old "Thanks to HoboCop86, Fhilb, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 and Jumanji223 for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    old "Thanks to HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 and Jumanji223 for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
     new ""
 
