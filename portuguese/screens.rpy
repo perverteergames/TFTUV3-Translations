@@ -538,3 +538,11 @@ translate portuguese strings:
     old "Menu"
     new ""
 
+# TODO: Translation updated at 2026-02-01 22:25
+
+translate portuguese strings:
+
+    # game/screens.rpy:1524
+    old "Italiano (parziale)"
+    new ""
+

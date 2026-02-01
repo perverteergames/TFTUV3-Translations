@@ -1762,3 +1762,11 @@ translate portuguese strings:
     old "Evade"
     new ""
 
+# TODO: Translation updated at 2026-02-01 22:25
+
+# game/breakups.rpy:427
+translate portuguese breakup_eva_a0ed6a6c:
+
+    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
+    ""
+
