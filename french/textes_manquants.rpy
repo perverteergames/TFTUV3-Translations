@@ -1,7 +1,3 @@
-# Date de génération: 02/10/2025 à 19:34:41
-# Fichier d'extraction généré par RenExtract
-# Projet: TFTUV3-0.23-Extra Scenes Edition
-
 translate french strings:
 
     old "Close Entry"
@@ -19,5 +15,35 @@ translate french strings:
     old "Previous Page"
     new "Page précédente"
 
+    old "Calista"
+    new "Calista"
 
-# Fichier reconstruit après traduction par RenExtract le 2025-10-02 19:47:54
+    old "Cyborg"
+    new "Cyborg"
+
+    old "Doarn"
+    new "Doarn"
+
+    old "Garomph"
+    new "Garomph"
+
+    old "Melody"
+    new "Melody"
+
+    old "Rhedia"
+    new "Rhedia"
+
+    old "Sacleus"
+    new "Sacleus"
+
+    old "Skeda"
+    new "Skeda"
+
+    old "Vitriv"
+    new "Vitriv"
+
+    old "Xile"
+    new "Xile"
+
+    old "Chairwoman"
+    new "Présidente"

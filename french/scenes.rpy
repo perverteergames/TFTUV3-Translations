@@ -1,30 +1,51 @@
-﻿# TODO: Translation updated at 2025-10-02 19:34
+
 
 translate french strings:
 
-    # game/scenes.rpy:3
+
     old "Extra Scenes"
     new "Scènes en plus"
 
-    # game/scenes.rpy:3
+
     old "Raene Raider"
     new "Raene Raider"
 
-    # game/scenes.rpy:3
-    old "Bum's The Word"
-    new "Bum's The Word"
 
-    # game/scenes.rpy:3
+    old "Bum's The Word"
+    new "Motus et Fesses Cousues"
+
+
     old "The Holy Trinity"
     new "La Sainte Trinité"
 
-    # game/scenes.rpy:3
-    old "Nadya Nookie"
-    new "Nadya Nookie"
 
-    # game/scenes.rpy:3
+    old "Nadya Nookie"
+    new "Nadya Nikette"
+
+
     old "Cocktail Trio"
     new "Cocktail Trio"
 
 
-# Fichier reconstruit après traduction par RenExtract le 2025-10-02 19:45:33
+    old "Coming Back For Seconds"
+    new "Encore une fois"
+
+
+    old "Inside Cé's"
+    new "À l'intérieur de Cé's"
+
+
+    old "Episode #24"
+    new "Épisode n° 24"
+
+
+    old "Lost In The Translator"
+    new "Perdu dans la traduction"
+
+
+    old "Uailea Union"
+    new "Union Uailea"
+
+
+    old "Steamy Shower"
+    new "Douche torride"
