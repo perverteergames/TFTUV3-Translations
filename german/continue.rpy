@@ -214,3 +214,11 @@ translate german strings:
     old "Start new game"
     new "Starte ein neues Spiel"
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+translate german strings:
+
+    # game/continue.rpy:924
+    old "The game is best enjoyed when you import a saved game from Season Two. If you've lost access to your season saves or just want to begin with Season Three you can select the most important choices from the first and second season below, all other decisions will be set to a default value."
+    new ""
+

@@ -90,3 +90,11 @@ translate german strings:
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new "{b}HINWEIS:{/b} Wenn Sie über den obigen Button einen Kauf tätigen, erhalte ich möglicherweise eine kleine Provision, ohne dass Ihnen dadurch zusätzliche Kosten entstehen. Ich empfehle ausschließlich Produkte, die ich selbst verwende und denen ich vertraue."
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+translate german strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new ""
+
