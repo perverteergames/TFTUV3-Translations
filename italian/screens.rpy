@@ -586,3 +586,27 @@ translate italian strings:
     old "Français"
     new "Francese"
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+translate italian strings:
+
+    # game/screens.rpy:706
+    old "Yes {size=-5}(Submissive){/size}"
+    new ""
+
+    # game/screens.rpy:848
+    old "Harem: %s"
+    new ""
+
+    # game/screens.rpy:1518
+    old "Русский (частично)"
+    new ""
+
+    # game/screens.rpy:1521
+    old "Deutsch (teilweise)"
+    new ""
+
+    # game/screens.rpy:1524
+    old "Italiano (parziale)"
+    new ""
+

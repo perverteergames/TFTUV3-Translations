@@ -7672,3 +7672,311 @@ translate italian strings:
     old "Cover their faces"
     new "Copri i loro volti"
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+# game/episode023.rpy:57
+translate italian episode023_80dd9b2f:
+
+    # "The lights in the room emitted a humming sound, and soon I perceived every single mechanical part in the temple, from the air filters to the groan of a generator far below."
+    ""
+
+# game/episode023.rpy:228
+translate italian episode023_fe0cf46c:
+
+    # na "And at the same time, I couldn’t be happier."
+    na ""
+
+# game/episode023.rpy:246
+translate italian episode023_8e946706:
+
+    # na "This is such a special moment, and I’m sure Eva and I will bond even more as we progress into motherhood."
+    na ""
+
+# game/episode023.rpy:248
+translate italian episode023_7bbe5278:
+
+    # na "But you have to be a part of it too, I simply won’t settle for anything less."
+    na ""
+
+# game/episode023.rpy:276
+translate italian episode023_7de3eb3d:
+
+    # ra "Eva is out of the medbay, the autodoc declared her healthy again."
+    ra ""
+
+# game/episode023.rpy:354
+translate italian episode023_eac3edd8:
+
+    # th "Lilly bursts into tears randomly and I get that she’s sad, but it’s almost like she’s hormonal or something."
+    th ""
+
+# game/episode023.rpy:356
+translate italian episode023_6be2de5b:
+
+    # th "Aven bursts into tears randomly and I get that she’s sad, but it’s almost like she’s hormonal or something."
+    th ""
+
+# game/episode023.rpy:358
+translate italian episode023_be658b24:
+
+    # th "Nadya bursts into tears randomly and I get that she’s sad, but it’s almost like she’s hormonal or something."
+    th ""
+
+# game/episode023.rpy:379
+translate italian episode023_57603866:
+
+    # th "Yeah, I am."
+    th ""
+
+# game/episode023.rpy:381
+translate italian episode023_996d5e35:
+
+    # th "I’m going back to the engine room to see if I can get that stupid robot of mine to fall in line."
+    th ""
+
+# game/episode023.rpy:497
+translate italian episode023_88e73660:
+
+    # c "You were dead, and I couldn’t live with that."
+    c ""
+
+# game/episode023.rpy:550
+translate italian episode023_56524555:
+
+    # t "I think this is far enough, as exertion goes."
+    t ""
+
+# game/episode023.rpy:556
+translate italian episode023_ac889366:
+
+    # na "I think this is far enough, as exertion goes."
+    na ""
+
+# game/episode023.rpy:578
+translate italian episode023_8356c041:
+
+    # c "We’re nowhere near that planet, are we?"
+    c ""
+
+# game/episode023.rpy:614
+translate italian episode023_8c714597:
+
+    # "When I could roam around the immediate surroundings of the medbay without needing several hours of sleep afterward, Thim deemed me fit enough for release out of the medbay."
+    ""
+
+# game/episode023.rpy:616
+translate italian episode023_4ee63d89:
+
+    # "When I could roam around the immediate surroundings of the medbay without needing several hours of sleep afterward, the autodoc deemed me fit enough for release out of the medbay."
+    ""
+
+# game/episode023.rpy:623
+translate italian episode023_cf24eb80:
+
+    # "As I was exiting the medbay to take up permanent residence in my quarters again, I ran into Kit, who immediately bundled me up in a tight embrace."
+    ""
+
+# game/episode023.rpy:641
+translate italian episode023_e0f2be8d:
+
+    # ki "Yeah, me."
+    ki ""
+
+# game/episode023.rpy:758
+translate italian ep023_test_08c590d0:
+
+    # "Nadya gasped, and I could feel Thim’s disbelieving eyes upon me."
+    ""
+
+# game/episode023.rpy:813
+translate italian ep023_test_1e86de3d:
+
+    # "The awareness came more readily now, and I had the object floating in seconds."
+    ""
+
+# game/episode023.rpy:940
+translate italian ep023_crew_964aa129:
+
+    # c "Of course, I’m going to train and see how far I can push myself, but we can’t ignore the edge my abilities would give me."
+    c ""
+
+# game/episode023.rpy:949
+translate italian ep023_crew_c58e04f1:
+
+    # l "The Council has been massacred, and we think it’s his doing."
+    l ""
+
+# game/episode023.rpy:962
+translate italian ep023_crew_87f19f79:
+
+    # c "They’re likely going to invade their neighbors very soon, using the attack on the Council as a pretext."
+    c ""
+
+# game/episode023.rpy:972
+translate italian ep023_crew_1e01f824:
+
+    # c "The inconvenient truth of how he got his special powers by sacrificing an innocent girl is something he probably won’t tolerate."
+    c ""
+
+# game/episode023.rpy:976
+translate italian ep023_crew_9825f484:
+
+    # c "Yes, he will."
+    c ""
+
+# game/episode023.rpy:994
+translate italian ep023_crew_08c124e9:
+
+    # c "Then there are those domestic terrorists, like the Auric Exemplar."
+    c ""
+
+# game/episode023.rpy:1000
+translate italian ep023_crew_2ae08a0f:
+
+    # c "Running and hiding until we’re found out and killed by Sovereignty operatives."
+    c ""
+
+# game/episode023.rpy:1256
+translate italian ep023_crew_6273f75c:
+
+    # c "The resistance will be planned carefully and with as little risk as possible."
+    c ""
+
+# game/episode023.rpy:1263
+translate italian ep023_crew_804c8600:
+
+    # c "Agust and I have undergone the same power transfer, so we should be evenly matched."
+    c ""
+
+# game/episode023.rpy:1413
+translate italian ep023_crew_373f1bd2:
+
+    # c "We both decided we wanted this, and I still do."
+    c ""
+
+# game/episode023.rpy:1418
+translate italian ep023_crew_6ca12e31:
+
+    # na "What if you’d come out of that coma all changed?"
+    na ""
+
+# game/episode023.rpy:1423
+translate italian ep023_crew_fc9b6787:
+
+    # c "You won’t, and I won’t let anything happen to you and the baby."
+    c ""
+
+# game/episode023.rpy:1424
+translate italian ep023_crew_2bb9cdd8:
+
+    # c "Shall we talk about happy things now, there’s been enough doom and gloom for one day, I’d say?"
+    c ""
+
+# game/episode023.rpy:1480
+translate italian ep023_crew_8b2422f6:
+
+    # "I left the girls talking exuberantly about Nadya’s happy news and prepared to inform the rest of the crew."
+    ""
+
+# game/episode023.rpy:1519
+translate italian ep023_tubloshi_00998f18:
+
+    # ha "You may dock with our ship, and we will welcome you personally."
+    ha ""
+
+# game/episode023.rpy:1537
+translate italian ep023_tubloshi_448ae811:
+
+    # "Finally, the doors opened and two giant Tubloshi warriors came in, with Hannah in front."
+    ""
+
+# game/episode023.rpy:1557
+translate italian ep023_tubloshi_5ff3ccae:
+
+    # "Did she forget me and invite someone else into her bed in the meantime?"
+    ""
+
+# game/episode023.rpy:1919
+translate italian ep023_group_sex_licking_14217b10:
+
+    # "Lilly writhed under our attention, her moans becoming increasingly more jagged."
+    ""
+
+# game/episode023.rpy:2005
+translate italian ep023_group_sex_licking_fc98a105:
+
+    # "My tongue began its journey across my sister’s wet slit, from her taint to the hood, where her throbbing clit was on full display."
+    ""
+
+# game/episode023.rpy:2011
+translate italian ep023_group_sex_licking_7c5ec479:
+
+    # "My tongue began its journey across Eva’s wet slit, from her taint to the hood, where her throbbing clit was on full display."
+    ""
+
+# game/episode023.rpy:2090
+translate italian ep023_group_sex_licking_9431ba85:
+
+    # "Eva muffled Aven’s screams by tongue kissing her, and I knew we were in the final stretches."
+    ""
+
+# game/episode023.rpy:2141
+translate italian ep023_group_sex_licking_e52feb33:
+
+    # "By the time I’d made all my sisters cum, my dick was painfully hard, and I longed for a release."
+    ""
+
+# game/episode023.rpy:2143
+translate italian ep023_group_sex_licking_c94fe9bb:
+
+    # "By the time I’d made all my girlfriends cum, my dick was painfully hard, and I longed for a release."
+    ""
+
+# game/episode023.rpy:2146
+translate italian ep023_group_sex_licking_ea5c4719:
+
+    # "By the time I’d made both my sisters cum, my dick was painfully hard, and I longed for a release."
+    ""
+
+# game/episode023.rpy:2148
+translate italian ep023_group_sex_licking_7fec6155:
+
+    # "By the time I’d made both my girlfriends cum, my dick was painfully hard, and I longed for a release."
+    ""
+
+# game/episode023.rpy:2179
+translate italian ep023_group_sex_fucking_8a1d058d:
+
+    # "By grinding on top of me so intensely, my sister had smeared my abdomen with her own grool."
+    ""
+
+# game/episode023.rpy:2181
+translate italian ep023_group_sex_fucking_8b922184:
+
+    # "By grinding on top of me so intensely, my girlfriend had smeared my abdomen with her own grool."
+    ""
+
+# game/episode023.rpy:2243
+translate italian ep023_group_sex_fucking_7c775073:
+
+    # "Aven played with Lilly’s breasts, and I didn’t know where Eva was, until I felt her hand cupping my balls."
+    ""
+
+# game/episode023.rpy:2245
+translate italian ep023_group_sex_fucking_6a7cc454:
+
+    # "I didn’t know where Eva was until I felt her hand cupping my balls."
+    ""
+
+# game/episode023.rpy:2630
+translate italian ep023_group_sex_fucking_47d48f83:
+
+    # c "Well, we fit on this bed together, so let’s all sleep together from now on."
+    c ""
+
+# game/episode023.rpy:2637
+translate italian ep023_group_sex_fucking_480f763d:
+
+    # c "You have to admit, you all seem to be insatiable..."
+    c ""
+

@@ -90,3 +90,11 @@ translate italian strings:
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new "{b}NOTA:{/b} Se effettui un acquisto cliccando sul pulsante qui sopra, potrei guadagnare una piccola commissione senza alcun costo aggiuntivo per te. Raccomando solo prodotti che utilizzo personalmente e di cui mi fido."
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+translate italian strings:
+
+    # game/lovense.rpy:79
+    old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
+    new ""
+
