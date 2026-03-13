@@ -1349,3 +1349,319 @@ translate russian strings:
     new "{size=-3}[config.version!q]\n[renpy.version_only!q]\n[renpy.platform!q]{/size}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+translate russian strings:
+
+    # renpy/common/00accessibility.rpy:122
+    old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new ""
+
+    # renpy/common/00accessibility.rpy:183
+    old "High Contrast Text"
+    new ""
+
+    # renpy/common/00accessibility.rpy:199
+    old "Self-voicing support is limited when using a touch screen."
+    new ""
+
+    # renpy/common/00accessibility.rpy:229
+    old "Self-Voicing Volume Drop"
+    new ""
+
+    # renpy/common/00action_other.rpy:781
+    old "Open [text] directory."
+    new ""
+
+    # renpy/common/00director.rpy:1753
+    old "Click to toggle attribute, right click to toggle negative attribute."
+    new ""
+
+    # renpy/common/00director.rpy:1776
+    old "Click to set transform, right click to add to transform list."
+    new ""
+
+    # renpy/common/00director.rpy:1777
+    old "Customize director.transforms to add more transforms."
+    new ""
+
+    # renpy/common/00director.rpy:1800
+    old "Click to set, right click to add to behind list."
+    new ""
+
+    # renpy/common/00director.rpy:1822
+    old "Click to set."
+    new ""
+
+    # renpy/common/00director.rpy:1823
+    old "Customize director.transitions to add more transitions."
+    new ""
+
+    # renpy/common/00director.rpy:1846
+    old "Customize director.audio_channels to add more channels."
+    new ""
+
+    # renpy/common/00gui.rpy:454
+    old "Are you sure you want to continue where you left off?"
+    new ""
+
+    # renpy/common/00gui.rpy:459
+    old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
+    new ""
+
+    # renpy/common/00gui.rpy:460
+    old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
+    new ""
+
+    # renpy/common/00preferences.rpy:440
+    old "self voicing enable"
+    new ""
+
+    # renpy/common/00preferences.rpy:442
+    old "self voicing disable"
+    new ""
+
+    # renpy/common/00preferences.rpy:446
+    old "self voicing volume drop"
+    new ""
+
+    # renpy/common/00preferences.rpy:457
+    old "clipboard voicing enable"
+    new ""
+
+    # renpy/common/00preferences.rpy:459
+    old "clipboard voicing disable"
+    new ""
+
+    # renpy/common/00preferences.rpy:466
+    old "debug voicing enable"
+    new ""
+
+    # renpy/common/00preferences.rpy:468
+    old "debug voicing disable"
+    new ""
+
+    # renpy/common/00preferences.rpy:522
+    old "system cursor"
+    new ""
+
+    # renpy/common/00preferences.rpy:531
+    old "renderer menu"
+    new ""
+
+    # renpy/common/00preferences.rpy:534
+    old "accessibility menu"
+    new ""
+
+    # renpy/common/00preferences.rpy:537
+    old "high contrast text"
+    new ""
+
+    # renpy/common/00preferences.rpy:546
+    old "audio when minimized"
+    new ""
+
+    # renpy/common/00preferences.rpy:555
+    old "audio when unfocused"
+    new ""
+
+    # renpy/common/00preferences.rpy:564
+    old "web cache preload"
+    new ""
+
+    # renpy/common/00preferences.rpy:579
+    old "voice after game menu"
+    new ""
+
+    # renpy/common/00preferences.rpy:588
+    old "restore window position"
+    new ""
+
+    # renpy/common/00preferences.rpy:597
+    old "reset"
+    new ""
+
+    # renpy/common/00preferences.rpy:610
+    old "main volume"
+    new ""
+
+    # renpy/common/00preferences.rpy:614
+    old "mute main"
+    new ""
+
+    # renpy/common/00speechbubble.rpy:420
+    old "Speech Bubble Editor"
+    new ""
+
+    # renpy/common/00speechbubble.rpy:425
+    old "(hide)"
+    new ""
+
+    # renpy/common/00speechbubble.rpy:436
+    old "(clear retained bubbles)"
+    new ""
+
+    # renpy/common/00sync.rpy:70
+    old "Sync downloaded."
+    new ""
+
+    # renpy/common/00sync.rpy:197
+    old "Could not connect to the Ren'Py Sync server."
+    new ""
+
+    # renpy/common/00sync.rpy:199
+    old "The Ren'Py Sync server timed out."
+    new ""
+
+    # renpy/common/00sync.rpy:201
+    old "An unknown error occurred while connecting to the Ren'Py Sync server."
+    new ""
+
+    # renpy/common/00sync.rpy:217
+    old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
+    new ""
+
+    # renpy/common/00sync.rpy:320
+    old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
+    new ""
+
+    # renpy/common/00sync.rpy:339
+    old "The sync ID is not in the correct format."
+    new ""
+
+    # renpy/common/00sync.rpy:359
+    old "The sync could not be decrypted."
+    new ""
+
+    # renpy/common/00sync.rpy:382
+    old "The sync belongs to a different game."
+    new ""
+
+    # renpy/common/00sync.rpy:387
+    old "The sync contains a file with an invalid name."
+    new ""
+
+    # renpy/common/00sync.rpy:446
+    old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
+    new ""
+
+    # renpy/common/00sync.rpy:478
+    old "Enter Sync ID"
+    new ""
+
+    # renpy/common/00sync.rpy:489
+    old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
+    new ""
+
+    # renpy/common/00sync.rpy:519
+    old "Sync Success"
+    new ""
+
+    # renpy/common/00sync.rpy:522
+    old "The Sync ID is:"
+    new ""
+
+    # renpy/common/00sync.rpy:528
+    old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
+    new ""
+
+    # renpy/common/00sync.rpy:557
+    old "Sync Error"
+    new ""
+
+    # renpy/common/00translation.rpy:63
+    old "Translation identifier: [identifier]"
+    new ""
+
+    # renpy/common/00translation.rpy:84
+    old " translates [tl.filename]:[tl.linenumber]"
+    new ""
+
+    # renpy/common/00translation.rpy:101
+    old "\n{color=#fff}Copied to clipboard.{/color}"
+    new ""
+
+    # renpy/common/00updater.rpy:505
+    old "No update methods found."
+    new ""
+
+    # renpy/common/00updater.rpy:552
+    old "Could not download file list: "
+    new ""
+
+    # renpy/common/00updater.rpy:555
+    old "File list digest does not match."
+    new ""
+
+    # renpy/common/00updater.rpy:2080
+    old "Preparing to download the game data."
+    new ""
+
+    # renpy/common/00updater.rpy:2082
+    old "Downloading the game data."
+    new ""
+
+    # renpy/common/00updater.rpy:2084
+    old "The game data has been downloaded."
+    new ""
+
+    # renpy/common/00updater.rpy:2086
+    old "An error occured when trying to download game data:"
+    new ""
+
+    # renpy/common/00updater.rpy:2091
+    old "This game cannot be run until the game data has been downloaded."
+    new ""
+
+    # renpy/common/00updater.rpy:2098
+    old "Retry"
+    new ""
+
+    # renpy/common/00gltest.rpy:101
+    old "Force GL Renderer"
+    new ""
+
+    # renpy/common/00gltest.rpy:106
+    old "Force ANGLE Renderer"
+    new ""
+
+    # renpy/common/00gltest.rpy:111
+    old "Force GLES Renderer"
+    new ""
+
+    # renpy/common/00gltest.rpy:117
+    old "Force GL2 Renderer"
+    new ""
+
+    # renpy/common/00gltest.rpy:122
+    old "Force ANGLE2 Renderer"
+    new ""
+
+    # renpy/common/00gltest.rpy:127
+    old "Force GLES2 Renderer"
+    new ""
+
+    # renpy/common/00gltest.rpy:137
+    old "Enable (No Blocklist)"
+    new ""
+
+    # renpy/common/00gltest.rpy:251
+    old "This game requires use of GL2 that can't be initialised."
+    new ""
+
+    # renpy/common/00gltest.rpy:261
+    old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
+    new ""
+
+    # renpy/common/00gltest.rpy:266
+    old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
+    new ""
+
+    # renpy/common/00gltest.rpy:283
+    old "Change render options"
+    new ""
+
+    # renpy/common/00gamepad.rpy:60
+    old "Press or move the '[control!s]' [kind]."
+    new ""
+

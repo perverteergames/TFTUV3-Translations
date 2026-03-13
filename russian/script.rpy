@@ -406,3 +406,31 @@ translate russian strings:
     old "{a=[website]}[website]{/a}"
     new "{a=[website]}[website]{/a}"
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+translate russian strings:
+
+    # game/script.rpy:242
+    old "Lilly"
+    new ""
+
+    # game/script.rpy:244
+    old "Eva"
+    new ""
+
+    # game/script.rpy:246
+    old "Aven"
+    new ""
+
+    # game/script.rpy:252
+    old "Jade"
+    new ""
+
+    # game/script.rpy:256
+    old "Ziv"
+    new ""
+
+    # game/script.rpy:260
+    old "Vess"
+    new ""
+

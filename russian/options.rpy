@@ -30,3 +30,11 @@ translate russian strings:
     old "Thanks to HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 and Jumanji223 for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
     new "Спасибо HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 и Jumanji223 за тестирование.\n\nБольшое спасибо моим спонсорам топ-тира. Вы великолепны! Прошлым и нынешним покровителям, включающим в себя:\n{i}"
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+translate russian strings:
+
+    # game/options.rpy:49
+    old "Rory-Mercury91 {i}(French){/i}, MyPrettyWolfy {i}(Russian){/i}, Bomber86 (German), Tacito (Italian)"
+    new ""
+
