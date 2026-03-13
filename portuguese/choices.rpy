@@ -1962,3 +1962,91 @@ translate portuguese strings:
     old "Filter by Type"
     new ""
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+translate portuguese strings:
+
+    # game/choices.rpy:10
+    old "Participated in the R'o orgy."
+    new ""
+
+    # game/choices.rpy:10
+    old "Told Thim in no uncertain terms to be respectful to Vess."
+    new ""
+
+    # game/choices.rpy:10
+    old "Meeting with geneticist Karan Hreir, who asks you to hunt for a boverin egg on Sagueliath. During your stay on Verdant Station, Ziv asks you to rescue Raene from her father on Verdigris. Possible visit to a rustic simulation for a corporation called ConVitæ."
+    new ""
+
+    # game/choices.rpy:10
+    old "Supported Lilly's decision to join the boverin hunt on Sagueliath."
+    new ""
+
+    # game/choices.rpy:10
+    old "Returning to Karan Hreir, you find him murdered and his base ransacked. Information about the warrior women, the Acarhyn, is found on the data core of one of Hreir's bots. The location of their planet is a secret and an information broker called Cetruvar had more information. Needing a large sum of money to get an invitation to one of the high-society parties Cetruvar organizes regularly, you set out to undertake several missions, including the retrieval of the remains of a hero for the Tubloshi. Raene and Ziv join the crew."
+    new ""
+
+    # game/choices.rpy:10
+    old "Dismissed Jade to prevent her from having sex with you."
+    new ""
+
+    # game/choices.rpy:10
+    old "The quest for a forger willing to produce invitations to Cetruvar's party takes you to Barranthis. However, the forger Vitriv is being held captive by crime boss Doarn. In order to get him released you strike a deal with Doarn to take out one of his competitors, Garomph. You find Garomph in a factory full of female cattle and ultimately kill him. Doarn releases Vitriv upon your return to his casino, but retaliates after learning about the destruction of Garomph's factory. Pursued by Doarn's lackeys, you flee into an asteroid belt."
+    new ""
+
+    # game/choices.rpy:10
+    old "Lost inside the asteroid belt, you are ambushed by an unknown ship and wake up as a captive at a research facility. The facility turns out to belong to ConVitæ where they experiment on the minds of their prisoners. After a confusing confinement, shaking up some of the relationships with the women of your crew, you manage to escape from the base on Höfel MDCL."
+    new ""
+
+    # game/choices.rpy:10
+    old "Despite losing so many months in captivity, you forge ahead to Cetruvar's party on Almagest. Infiltrating the mansion, you encounter another team of purple-clad operatives who nearly kill Cetruvar. After incapicitating them you are forced to stay the night at the mansion. The nightly hours allow you to roam the mansion more freely and a search of Cetruvar's office finally yielded the location of the Acarhyn, a planet called Erigone where a Virgin Queen now rules. After a brief gunfight, you escape the mansion and head out to Erigone."
+    new ""
+
+    # game/choices.rpy:10
+    old "A Hunt is called by the Virgin Queen to slay a beast threatening the Acarhyn and you are allowed to participate. The outcome of the Hunt will further cement your standing with the warrior or priest caste and possibly allow you to escape Erigone together with Eva. From Eva you also learn about the Prophecy that has motivated the Acarhyn to kidnap her and piqued the interest of a man called the Confessor and several high-ranking members of the Sovereignty elite, including your father Agust."
+    new ""
+
+    # game/choices.rpy:10
+    old "Neither accepted nor declined Erylin's dinner invitation."
+    new ""
+
+    # game/choices.rpy:10
+    old "Empathized with Vess after she told you about her youth."
+    new ""
+
+    # game/choices.rpy:10
+    old "Was kind to Vess after she spilled the details of her betrayal."
+    new ""
+
+    # game/choices.rpy:10
+    old "Was furious with Vess after she spilled the details of her betrayal."
+    new ""
+
+    # game/choices.rpy:10
+    old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after your friend Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
+    new ""
+
+    # game/choices.rpy:10
+    old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after his daughter Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
+    new ""
+
+    # game/choices.rpy:10
+    old "Gave one of the Tyuarene anal."
+    new ""
+
+    # game/choices.rpy:10
+    old "The information from the Scolguin Queen leads you to Taagmar, where the next piece of the puzzle stands, an ancient gateway. Taagmar is already under attack by Sovereignty forces, led by your father and sanctioned by the Sovereignty Council. As Taagmar is an active warzone, you need to plan your approach to the planet carefully.\n\nWhile gathering information on the nearby Altum Station, you encounter the mercenary Glixken again, who is now working for the Bloodhound Kvi and the Sovereignty. Eva is separated from the rest of the crew and almost falls into Glixken's hands. You manage to extract Eva from enemy territory and flee Altum Station, with Glixken and his mercs in hot pursuit. Your shuttle is shot down by Glixken and you crash on a desert planet."
+    new ""
+
+    # game/choices.rpy:10
+    old "Alone with Eva on the desert planet you wait for rescue. After a skirmish with the mercs, resulting in the killing of Glixken, you and the rest of the crew of the Iron Bastard are reunited. Armed with the knowledge gathered on Altum Station, you head out to Taagmar.\n\nNavigating the conflict on Taagmar's surface, disguised as Sovereignty soldiers, you reach the gateway in the middle of the capital. Agust, Erylin and the Confessor perform a ritual to open the gateway and you slip through, together with the rest of the Sovereignty forces.\n\nAfter passing the gate you're on another planet, its surface filled with dusty ruins. The Sovereignty forces are centered near a large temple which they attempt to breach. You rejoin the enemy as they gain access to the temple and find a large glowing crystal called the Key."
+    new ""
+
+    # game/choices.rpy:10
+    old "Spied on Thyia masturbating."
+    new ""
+
+    # game/choices.rpy:10
+    old "Apologized to Ziv."
+    new ""
+

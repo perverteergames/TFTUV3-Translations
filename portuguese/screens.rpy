@@ -546,3 +546,11 @@ translate portuguese strings:
     old "Italiano (parziale)"
     new ""
 
+# TODO: Translation updated at 2026-03-09 11:09
+
+translate portuguese strings:
+
+    # game/screens.rpy:706
+    old "Yes {size=-5}(Submissive){/size}"
+    new ""
+
