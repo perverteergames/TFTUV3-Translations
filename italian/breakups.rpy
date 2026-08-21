@@ -1,5 +1,4 @@
-﻿# TODO: Translation updated at 2025-10-07 08:34
-
+﻿
 # game/breakups.rpy:9
 translate italian breakup_lilly_7a9d1306:
 
@@ -16,7 +15,7 @@ translate italian breakup_lilly_1d601f41:
 translate italian breakup_lilly_89048451:
 
     # c "Lilly, I-"
-    c "Lilly, io..."
+    c "Lilly, io-"
 
 # game/breakups.rpy:13
 translate italian breakup_lilly_727fe754:
@@ -28,7 +27,7 @@ translate italian breakup_lilly_727fe754:
 translate italian breakup_lilly_0138559e:
 
     # l "What’s the matter?"
-    l "Che cosa c'è?"
+    l "Qual è il problema?"
 
 # game/breakups.rpy:16
 translate italian breakup_lilly_09206561:
@@ -40,43 +39,43 @@ translate italian breakup_lilly_09206561:
 translate italian breakup_lilly_93af30ce:
 
     # c "I don’t think this is working."
-    c "Non credo che funzioni."
+    c "Non penso che funzioni."
 
 # game/breakups.rpy:18
 translate italian breakup_lilly_030d74ce:
 
     # l "What are you talking about?!"
-    l "Ma che dici?!"
+    l "Di cosa stai parlando?!"
 
 # game/breakups.rpy:19
 translate italian breakup_lilly_0f13e93d:
 
     # l "Of course it is."
-    l "Certo che funziona."
+    l "Naturalmente lo è."
 
 # game/breakups.rpy:20
 translate italian breakup_lilly_8bef2e86:
 
     # c "We have to end things, Lilly."
-    c "Dobbiamo chiudere, Lilly."
+    c "Dobbiamo porre fine a questa situazione, Lilly."
 
 # game/breakups.rpy:22
 translate italian breakup_lilly_0c6284e1:
 
     # l "No, we don’t."
-    l "No, non è vero."
+    l "No, non lo facciamo."
 
 # game/breakups.rpy:23
 translate italian breakup_lilly_e037c471:
 
     # l "Last time you told me how you loved me and now you’re saying we have to end things?"
-    l "L'ultima volta mi hai detto quanto mi amavi e ora mi dici che dobbiamo chiudere?"
+    l "L'ultima volta mi hai detto quanto mi amavi e ora dici che dobbiamo porre fine a questa storia?"
 
 # game/breakups.rpy:24
 translate italian breakup_lilly_6df9dc3f:
 
     # l "You’re not making any sense."
-    l "Non ha senso."
+    l "Non hai alcun senso."
 
 # game/breakups.rpy:25
 translate italian breakup_lilly_80de82df:
@@ -94,7 +93,7 @@ translate italian breakup_lilly_52ef2e5b:
 translate italian breakup_lilly_b380ec2a:
 
     # l "Is there someone else?{w} There’s someone else isn’t there?"
-    l "C'è qualcun altro?{w} C'è qualcun altro, vero?"
+    l "C'è qualcun altro?{w} C'è qualcun altro, non c'è?"
 
 # game/breakups.rpy:29
 translate italian breakup_lilly_ad8d0c81:
@@ -112,7 +111,7 @@ translate italian breakup_lilly_049d1dc1:
 translate italian breakup_lilly_6b419aaa:
 
     # l "Oh."
-    l "Oh."
+    l "OH."
 
 # game/breakups.rpy:33
 translate italian breakup_lilly_82822a0c:
@@ -130,13 +129,13 @@ translate italian breakup_lilly_5e4a1d1a:
 translate italian breakup_lilly_6cbc0c1b:
 
     # l "First you seduce me into letting my guard down, telling me to follow my feelings."
-    l "Prima mi hai sedotta facendomi abbassare la guardia, dicendomi di seguire i miei sentimenti."
+    l "Prima mi seduci facendomi abbassare la guardia, dicendomi di seguire i miei sentimenti."
 
 # game/breakups.rpy:37
 translate italian breakup_lilly_842e13b2:
 
     # l "I gave myself completely to you [p_name]!"
-    l "Mi sono data completamente a te [p_name]!"
+    l "Mi sono donato completamente a te [p_name]!"
 
 # game/breakups.rpy:38
 translate italian breakup_lilly_28bd81ff:
@@ -148,61 +147,61 @@ translate italian breakup_lilly_28bd81ff:
 translate italian breakup_lilly_bc3babae:
 
     # c "Yes, I-"
-    c "Sì, io..."
+    c "Sì, io-"
 
 # game/breakups.rpy:40
 translate italian breakup_lilly_a22a784b:
 
     # l "Well fuck you, you selfish fucking piece of trash."
-    l "Beh, vaffanculo, egoista pezzo di merda."
+    l "Beh, vaffanculo, pezzo di spazzatura egoista."
 
 # game/breakups.rpy:41
 translate italian breakup_lilly_3c7597f2:
 
     # l "I hope you both choke."
-    l "Spero che vi strozzate entrambi."
+    l "Spero che soffocherete entrambi."
 
 # game/breakups.rpy:42
 translate italian breakup_lilly_5681801e:
 
     # c "I-"
-    c "Io..."
+    c "Io-"
 
 # game/breakups.rpy:44
 translate italian breakup_lilly_e47b24d7:
 
     # l "GET.{w} THE.{w} FUCK.{w} OUT.{w} OF.{w} HERE!"
-    l "VAI{w} VIA{w} DA{w} QUI{w} CAZZO{w} VATTENE."
+    l "PRENDI.{w} IL.{w} CAZZO.{w} FUORI.{w} DA.{w} QUI!"
 
 # game/breakups.rpy:46
 translate italian breakup_lilly_47e3b86d:
 
     # "When I closed the door to her quarters, I heard something crash against the wall, followed by Lilly wailing in rage."
-    "Quando ho chiuso la porta della sua stanza, ho sentito qualcosa sbattere contro il muro, seguito da Lilly che piangeva di rabbia."
+    "Quando ho chiuso la porta del suo alloggio, ho sentito qualcosa schiantarsi contro il muro, seguito da Lilly che gemeva di rabbia."
 
 # game/breakups.rpy:55
 translate italian breakup_aven_443c7b5a:
 
     # av "Hey!"
-    av "Ehi!"
+    av "EHI!"
 
 # game/breakups.rpy:56
 translate italian breakup_aven_6190f4db:
 
     # c "Hey."
-    c "Ehi"
+    c "EHI."
 
 # game/breakups.rpy:58
 translate italian breakup_aven_adfb5d9a:
 
     # av "Why do you look so serious?"
-    av "Perché sei così serio?"
+    av "Perché sembri così serio?"
 
 # game/breakups.rpy:59
 translate italian breakup_aven_e7a195f0:
 
     # c "I think it’s better if we sit down."
-    c "Penso sia meglio se ci sediamo."
+    c "Penso che sia meglio se ci sediamo."
 
 # game/breakups.rpy:60
 translate italian breakup_aven_d2036769:
@@ -226,7 +225,7 @@ translate italian breakup_aven_ef51c996:
 translate italian breakup_aven_113d904d:
 
     # c "The relationship we have-"
-    c "La nostra relazione..."
+    c "Il rapporto che abbiamo-"
 
 # game/breakups.rpy:64
 translate italian breakup_aven_7800539c:
@@ -244,7 +243,7 @@ translate italian breakup_aven_f9b46ebc:
 translate italian breakup_aven_4d298c6c:
 
     # av "I love you, you love me."
-    av "Io ti amo, tu ami me."
+    av "Ti amo, tu mi ami."
 
 # game/breakups.rpy:68
 translate italian breakup_aven_2fd0f870:
@@ -256,7 +255,7 @@ translate italian breakup_aven_2fd0f870:
 translate italian breakup_aven_03ff6531:
 
     # "It was hard to look her in the eye at that point, but I’d made my choice."
-    "Era difficile guardarla negli occhi in quel momento, ma avevo fatto la mia scelta."
+    "A quel punto era difficile guardarla negli occhi, ma avevo fatto la mia scelta."
 
 # game/breakups.rpy:70
 translate italian breakup_aven_ace7db70:
@@ -280,7 +279,7 @@ translate italian breakup_aven_91102c8b:
 translate italian breakup_aven_4e44c1d7:
 
     # c "No, it wasn’t, but-"
-    c "No, non lo erano, ma..."
+    c "No, non lo era, ma..."
 
 # game/breakups.rpy:76
 translate italian breakup_aven_ed5905fd:
@@ -292,25 +291,25 @@ translate italian breakup_aven_ed5905fd:
 translate italian breakup_aven_8d1fb449:
 
     # av "You’re not making any sense."
-    av "Non ha senso."
+    av "Non hai alcun senso."
 
 # game/breakups.rpy:78
 translate italian breakup_aven_1759b413:
 
     # c "There’s someone else and I have to make a choice."
-    c "C'è un'altra persona e devo fare una scelta."
+    c "C'è qualcun altro e devo fare una scelta."
 
 # game/breakups.rpy:80
 translate italian breakup_aven_0970c317:
 
     # av "I see."
-    av "Capisco."
+    av "Vedo."
 
 # game/breakups.rpy:81
 translate italian breakup_aven_7165c5f6:
 
     # av "Leave."
-    av "Vattene."
+    av "Partire."
 
 # game/breakups.rpy:84
 translate italian breakup_aven_0ab499a4:
@@ -322,25 +321,25 @@ translate italian breakup_aven_0ab499a4:
 translate italian breakup_aven_0bd99041:
 
     # "In tears, she was silent and staring in disbelief as I exited her room."
-    "In lacrime, rimase in silenzio e mi fissò incredula mentre uscivo dalla sua stanza."
+    "In lacrime, rimase in silenzio e mi guardò incredula mentre uscivo dalla sua stanza."
 
 # game/breakups.rpy:89
 translate italian breakup_aven_7f019fed:
 
     # c "There are good reasons why-"
-    c "Ci sono buoni motivi per cui..."
+    c "Ci sono buone ragioni per cui-"
 
 # game/breakups.rpy:91
 translate italian breakup_aven_742945d4:
 
     # av "LEAVE!"
-    av "VATTENE!"
+    av "LASCIARE!"
 
 # game/breakups.rpy:93
 translate italian breakup_aven_0219247f:
 
     # "In tears, she all but pushed me outside of her room, slamming the door shut in my face."
-    "In lacrime, mi spinse fuori dalla sua stanza, sbattendomi la porta in faccia."
+    "In lacrime, mi ha quasi spinto fuori dalla sua stanza, sbattendomi la porta in faccia."
 
 # game/breakups.rpy:102
 translate italian breakup_ziv_b575be86:
@@ -352,7 +351,7 @@ translate italian breakup_ziv_b575be86:
 translate italian breakup_ziv_ca46f8ff:
 
     # zi "Why do you look so grim?"
-    zi "Perché sei così cupo?"
+    zi "Perché hai un aspetto così cupo?"
 
 # game/breakups.rpy:104
 translate italian breakup_ziv_ed068c79:
@@ -364,55 +363,55 @@ translate italian breakup_ziv_ed068c79:
 translate italian breakup_ziv_8a409928:
 
     # zi "Of course."
-    zi "Certo."
+    zi "Ovviamente."
 
 # game/breakups.rpy:106
 translate italian breakup_ziv_e897fbb0:
 
     # c "Thank you."
-    c "Grazie"
+    c "Grazie."
 
 # game/breakups.rpy:107
 translate italian breakup_ziv_834c5a1d:
 
     # c "Ziv...{w} I think we’ve made a mistake."
-    c "Ziv... {w} Penso che abbiamo commesso un errore."
+    c "Ziv...{w} Penso che abbiamo commesso un errore."
 
 # game/breakups.rpy:109
 translate italian breakup_ziv_308945d5:
 
     # zi "We have?"
-    zi "Davvero?"
+    zi "Abbiamo?"
 
 # game/breakups.rpy:110
 translate italian breakup_ziv_1b7674fd:
 
     # c "I feel like we’ve rushed into things and I went along with it."
-    c "Mi sembra che abbiamo affrettato le cose e io ti ho assecondato."
+    c "Sento che ci siamo affrettati a fare le cose e io sono andato d'accordo."
 
 # game/breakups.rpy:111
 translate italian breakup_ziv_5014ee52:
 
     # c "And I know this sounds capricious, but I’ve come to realize that my heart belongs to another."
-    c "So che può sembrare capriccioso, ma ho capito che il mio cuore appartiene a un'altra persona."
+    c "E so che sembra capriccioso, ma sono arrivato a capire che il mio cuore appartiene a un altro."
 
 # game/breakups.rpy:113
 translate italian breakup_ziv_0e11054b:
 
     # zi "It does sound capricious, yes."
-    zi "Sì, sembra capriccioso."
+    zi "Sembra capriccioso, sì."
 
 # game/breakups.rpy:114
 translate italian breakup_ziv_7dc108aa:
 
     # zi "When did you come to this ‘sudden’ realization?"
-    zi "Quando hai avuto questa “improvvisa” rivelazione?"
+    zi "Quando sei arrivato a questa realizzazione “improvvisa”?"
 
 # game/breakups.rpy:115
 translate italian breakup_ziv_cc92bafa:
 
     # zi "Don’t answer, I don’t really want to know."
-    zi "Non rispondere, non voglio davvero saperlo."
+    zi "Non rispondere, non voglio proprio saperlo."
 
 # game/breakups.rpy:116
 translate italian breakup_ziv_79452f68:
@@ -424,13 +423,13 @@ translate italian breakup_ziv_79452f68:
 translate italian breakup_ziv_d2614009:
 
     # zi "The promises in that grove sounded hollow from the start."
-    zi "Le promesse fatte in quel boschetto suonavano vuote fin dall'inizio."
+    zi "Le promesse in quel boschetto sembravano vane fin dall'inizio."
 
 # game/breakups.rpy:118
 translate italian breakup_ziv_6a6fed57:
 
     # zi "But of course you had to take advantage of me back on Erigone."
-    zi "Ma ovviamente dovevi approfittare di me su Erigone."
+    zi "Ma ovviamente dovevi approfittarti di me su Erigone."
 
 # game/breakups.rpy:119
 translate italian breakup_ziv_db678f09:
@@ -442,13 +441,13 @@ translate italian breakup_ziv_db678f09:
 translate italian breakup_ziv_ddbfa532:
 
     # c "It’s nothing like that, I-"
-    c "Non è niente del genere, io..."
+    c "Non è niente del genere, io-"
 
 # game/breakups.rpy:125
 translate italian breakup_ziv_385cbf34:
 
     # zi "Save your breath, [p_name], just go."
-    zi "Risparmia il fiato, [p_name], vattene e basta."
+    zi "Risparmia il fiato, [p_name], vai e basta."
 
 # game/breakups.rpy:126
 translate italian breakup_ziv_3c747d5f:
@@ -460,7 +459,7 @@ translate italian breakup_ziv_3c747d5f:
 translate italian breakup_ziv_aa9d4825:
 
     # c "Well, if you’d like to think that, be my guest."
-    c "Beh, se vuoi pensarla così, fai pure."
+    c "Bene, se vuoi pensarlo, sii mio ospite."
 
 # game/breakups.rpy:130
 translate italian breakup_ziv_a9bbe8f1:
@@ -472,19 +471,19 @@ translate italian breakup_ziv_a9bbe8f1:
 translate italian breakup_ziv_c2669875:
 
     # "I didn’t reply to her last comment and left Ziv in her room, seething."
-    "Non ho risposto al suo ultimo commento e ho lasciato Ziv nella sua stanza, ribollente di rabbia."
+    "Non ho risposto al suo ultimo commento e ho lasciato Ziv nella sua stanza, ribollente."
 
 # game/breakups.rpy:141
 translate italian breakup_raene_452f99ec:
 
     # ra "[p_name_short]! I really need to show you something."
-    ra "[p_name_short]! Devo proprio mostrarti una cosa."
+    ra "[p_name_short]! Ho davvero bisogno di mostrarti una cosa."
 
 # game/breakups.rpy:142
 translate italian breakup_raene_523780b1:
 
     # c "Please, Raene, would you sit down with me?"
-    c "Per favore, Raene, ti siedi con me?"
+    c "Per favore, Raene, ti siederesti con me?"
 
 # game/breakups.rpy:143
 translate italian breakup_raene_2299a9c3:
@@ -496,13 +495,13 @@ translate italian breakup_raene_2299a9c3:
 translate italian breakup_raene_0be7e561:
 
     # ra "About what?"
-    ra "Di cosa?"
+    ra "Riguardo a cosa?"
 
 # game/breakups.rpy:147
 translate italian breakup_raene_e103a4ee:
 
     # ra "Why are you looking so grim?"
-    ra "Perché sei così cupo?"
+    ra "Perché hai un'aria così cupa?"
 
 # game/breakups.rpy:149
 translate italian breakup_raene_f49a4e90:
@@ -514,19 +513,19 @@ translate italian breakup_raene_f49a4e90:
 translate italian breakup_raene_75afd862:
 
     # c "Raene, this isn’t working for me, our relationship, I mean."
-    c "Raene, questa cosa non funziona per me, intendo la nostra relazione."
+    c "Raene, per me non funziona, la nostra relazione, intendo."
 
 # game/breakups.rpy:152
 translate italian breakup_raene_6d86855f:
 
     # ra "What...{w} How? What isn’t working?"
-    ra "Cosa... {w} Come? Cosa non funziona?"
+    ra "Cosa...{w} Come? Cosa non funziona?"
 
 # game/breakups.rpy:153
 translate italian breakup_raene_49c52b21:
 
     # c "I don’t know how to say it any other way, but I can’t continue on."
-    c "Non so come dirlo in altro modo, ma non posso continuare così."
+    c "Non so come dirlo in altro modo, ma non posso continuare."
 
 # game/breakups.rpy:154
 translate italian breakup_raene_83874fc7:
@@ -544,7 +543,7 @@ translate italian breakup_raene_a41d8dc6:
 translate italian breakup_raene_bf557386:
 
     # c "No, not at all."
-    c "No, assolutamente no."
+    c "No, per niente."
 
 # game/breakups.rpy:157
 translate italian breakup_raene_50fc356b:
@@ -568,13 +567,13 @@ translate italian breakup_raene_ea9c2a95:
 translate italian breakup_raene_3bfb3c0f:
 
     # c "There’s someone else, Raene, and I have to make a choice."
-    c "C'è un'altra persona, Raene, e devo fare una scelta."
+    c "C'è qualcun altro, Raene, e devo fare una scelta."
 
 # game/breakups.rpy:166
 translate italian breakup_raene_67fb8317:
 
     # ra "Do you?"
-    ra "Davvero?"
+    ra "Fai?"
 
 # game/breakups.rpy:167
 translate italian breakup_raene_9539ab88:
@@ -610,25 +609,25 @@ translate italian breakup_raene_60b97793:
 translate italian breakup_raene_dd1b110b:
 
     # c "I really hope you find some-"
-    c "Spero davvero che tu trovi qualcuno..."
+    c "Spero davvero che troverai qualcuno-"
 
 # game/breakups.rpy:175
 translate italian breakup_raene_fb1f9f76:
 
     # ra "Please go away, [p_name]."
-    ra "Per favore, vattene, [p_name]."
+    ra "Per favore, vai via, [p_name]."
 
 # game/breakups.rpy:177
 translate italian breakup_raene_6d2e8b7e:
 
     # "Raene spoke her last words with such finality that I could only do as she asked."
-    "Raene pronunciò le sue ultime parole con tale determinazione che non potei fare altro che obbedire."
+    "Raene spoke her last words with such finality that I could only do as she asked."
 
 # game/breakups.rpy:178
 translate italian breakup_raene_335eac3a:
 
     # "She was sobbing uncontrollably by the time I closed the door behind me."
-    "Quando chiusi la porta dietro di me, stava singhiozzando incontrollabilmente."
+    "Stava singhiozzando in modo incontrollabile quando chiusi la porta dietro di me."
 
 # game/breakups.rpy:187
 translate italian breakup_thyia_877a09cd:
@@ -640,7 +639,7 @@ translate italian breakup_thyia_877a09cd:
 translate italian breakup_thyia_e0323b8d:
 
     # c "Could you stop what you’re doing for a moment?"
-    c "Potresti smettere di fare quello che stai facendo per un momento?"
+    c "Potresti interrompere quello che stai facendo per un momento?"
 
 # game/breakups.rpy:189
 translate italian breakup_thyia_c16eb3f1:
@@ -658,7 +657,7 @@ translate italian breakup_thyia_6fabf92e:
 translate italian breakup_thyia_8b02937d:
 
     # th "Seriously, [p_name_short], what’s the matter?"
-    th "Seriamente, [p_name_short], cosa c'è che non va?"
+    th "Sul serio, [p_name_short], qual è il problema?"
 
 # game/breakups.rpy:193
 translate italian breakup_thyia_71a03f3b:
@@ -676,7 +675,7 @@ translate italian breakup_thyia_3d9b1832:
 translate italian breakup_thyia_f8795997:
 
     # th "I’m warning you, the next few words that come out of your mouth better be good."
-    th "Ti avverto, le prossime parole che usciranno dalla tua bocca è meglio che siano buone."
+    th "Ti avverto, è meglio che le prossime parole che usciranno dalla tua bocca siano buone."
 
 # game/breakups.rpy:197
 translate italian breakup_thyia_ddbebc15:
@@ -688,7 +687,7 @@ translate italian breakup_thyia_ddbebc15:
 translate italian breakup_thyia_3dea4a02:
 
     # th "Yeah...{w} How about no?"
-    th "Sì... {w} Che ne dici di no?"
+    th "Sì...{w} Che ne dici di no?"
 
 # game/breakups.rpy:203
 translate italian breakup_thyia_0370cdcf:
@@ -700,7 +699,7 @@ translate italian breakup_thyia_0370cdcf:
 translate italian breakup_thyia_cfa0282e:
 
     # c "I didn’t want to choose between you both, but the situation has forced my hand."
-    c "Non volevo scegliere tra voi due, ma la situazione mi ha costretto a farlo."
+    c "Non volevo scegliere tra voi due, ma la situazione mi ha forzato la mano."
 
 # game/breakups.rpy:206
 translate italian breakup_thyia_67f7933a:
@@ -724,7 +723,7 @@ translate italian breakup_thyia_f31897b1:
 translate italian breakup_thyia_fd0ee940:
 
     # th "Tell me that you’ve found someone else and you want to be with her."
-    th "Dimmi che hai trovato un'altra e che vuoi stare con lei."
+    th "Dimmi che hai trovato qualcun'altra e vuoi stare con lei."
 
 # game/breakups.rpy:211
 translate italian breakup_thyia_50a1780a:
@@ -736,49 +735,49 @@ translate italian breakup_thyia_50a1780a:
 translate italian breakup_thyia_49034cd7:
 
     # c "Okay, there’s someone else."
-    c "Ok, c'è un'altra."
+    c "Ok, c'è qualcun altro."
 
 # game/breakups.rpy:214
 translate italian breakup_thyia_72ab3ab5:
 
     # "Thyia remained eerily calm while she spoke next."
-    "Thyia rimase stranamente calma mentre parlava."
+    "Thyia rimase stranamente calma mentre parlava dopo."
 
 # game/breakups.rpy:215
 translate italian breakup_thyia_446fa45e:
 
     # th "I knew I was a fool to trust someone again."
-    th "Sapevo che ero stata una stupida a fidarmi di nuovo di qualcuno."
+    th "Sapevo di essere uno sciocco a fidarmi di nuovo di qualcuno."
 
 # game/breakups.rpy:216
 translate italian breakup_thyia_0e4c7e20:
 
     # th "Thank you for making me see the error of my ways."
-    th "Grazie per avermi fatto capire i miei errori."
+    th "Grazie per avermi fatto vedere gli errori dei miei modi."
 
 # game/breakups.rpy:217
 translate italian breakup_thyia_2e68660c:
 
     # th "Now, before I do something I might regret, I’ll tell you how we interact with each other from now on."
-    th "Ora, prima di fare qualcosa di cui potrei pentirmi, ti dirò come interagiremo d'ora in poi."
+    th "Ora, prima di fare qualcosa di cui potrei pentirmi, ti dirò come interagiremo tra loro da ora in poi."
 
 # game/breakups.rpy:218
 translate italian breakup_thyia_6f867595:
 
     # th "I’ll keep the ship running and won’t get in your way, if you don’t get in mine."
-    th "Manterrò la nave in funzione e non ti intralcerò, se tu non intralcerai me."
+    th "Manterrò la nave in funzione e non ti ostacolerò, se tu non entri nella mia."
 
 # game/breakups.rpy:219
 translate italian breakup_thyia_87297ba9:
 
     # th "We’ll speak to each other when the need arises, but other than that I don’t want to hear a fucking thing from you."
-    th "Parleremo quando sarà necessario, ma a parte questo non voglio sentire un cazzo da te."
+    th "Ci parleremo quando ce ne sarà bisogno, ma a parte questo non voglio sentire un cazzo da te."
 
 # game/breakups.rpy:220
 translate italian breakup_thyia_4224ab6a:
 
     # th "We’re not doing the friend thing or even small talk."
-    th "Non faremo amicizia né chiacchiereremo."
+    th "Non stiamo facendo la cosa dell'amicizia e nemmeno le chiacchiere."
 
 # game/breakups.rpy:221
 translate italian breakup_thyia_73a1c791:
@@ -790,43 +789,43 @@ translate italian breakup_thyia_73a1c791:
 translate italian breakup_thyia_70e54566:
 
     # th "Agreed?"
-    th "D'accordo?"
+    th "Concordato?"
 
 # game/breakups.rpy:223
 translate italian breakup_thyia_88df38a7:
 
     # c "Agreed."
-    c "D'accordo."
+    c "Concordato."
 
 # game/breakups.rpy:224
 translate italian breakup_thyia_32373670:
 
     # th "Good.{w} Now fuck off."
-    th "Bene.{w} Ora vattene."
+    th "Bene.{w} Adesso vaffanculo."
 
 # game/breakups.rpy:226
 translate italian breakup_thyia_f99b0ab0:
 
     # "Thyia went back to her machinery as soon as I turned my back."
-    "Thyia tornò ai suoi macchinari non appena le voltai le spalle."
+    "Thyia tornò ai suoi macchinari non appena mi voltai."
 
 # game/breakups.rpy:227
 translate italian breakup_thyia_93deed4d:
 
     # "I thought she was crying, because of the way her shoulder shook."
-    "Pensai che stesse piangendo, per come le tremavano le spalle."
+    "Pensavo che stesse piangendo, dal modo in cui le tremava la spalla."
 
 # game/breakups.rpy:229
 translate italian breakup_thyia_c47926c3:
 
     # "Any thought of that was gone immediately when she turned around and glared at me."
-    "Ma quel pensiero svanì immediatamente quando si voltò e mi lanciò un'occhiataccia."
+    "Ogni pensiero a riguardo svanì immediatamente quando lei si voltò e mi guardò torva."
 
 # game/breakups.rpy:230
 translate italian breakup_thyia_7bc5532e:
 
     # "She stared at me in thinly-veiled disgust as I retreated from the engine room."
-    "Mi fissò con evidente disgusto mentre mi allontanavo dalla sala macchine."
+    "Mi fissò con malcelato disgusto mentre mi ritiravo dalla sala macchine."
 
 # game/breakups.rpy:239
 translate italian breakup_vess_209805c1:
@@ -838,13 +837,13 @@ translate italian breakup_vess_209805c1:
 translate italian breakup_vess_4f172546:
 
     # ve "How can you ask, for you always!"
-    ve "Come puoi chiedermelo, visto che tu hai sempre tempo!"
+    ve "Come puoi chiedere, per te sempre!"
 
 # game/breakups.rpy:242
 translate italian breakup_vess_8516f17c:
 
     # ve "If you have the time, maybe we could get a little more cozy?"
-    ve "Se hai tempo, forse potremmo stare un po' più vicini?"
+    ve "Se hai tempo, forse potremmo stare un po' più intimi?"
 
 # game/breakups.rpy:243
 translate italian breakup_vess_1c844a0b:
@@ -856,7 +855,7 @@ translate italian breakup_vess_1c844a0b:
 translate italian breakup_vess_6ec3dbe0:
 
     # ve "What, did I say something wrong?"
-    ve "Cosa c'è, ho detto qualcosa di sbagliato?"
+    ve "Cosa, ho detto qualcosa di sbagliato?"
 
 # game/breakups.rpy:246
 translate italian breakup_vess_c4bdda27:
@@ -868,13 +867,13 @@ translate italian breakup_vess_c4bdda27:
 translate italian breakup_vess_d9a542f2:
 
     # c "I hate to do this to you like this, but it can’t be helped."
-    c "Odio doverti fare questo, ma non posso farne a meno."
+    c "Odio farti questo in questo modo, ma non posso farci niente."
 
 # game/breakups.rpy:249
 translate italian breakup_vess_233190fd:
 
     # ve "What can’t be helped, why are you looking so serious?"
-    ve "Cosa non si può fare, perché sei così seria?"
+    ve "Cosa non può essere aiutato, perché sembri così serio?"
 
 # game/breakups.rpy:250
 translate italian breakup_vess_8c2aeaa3:
@@ -886,7 +885,7 @@ translate italian breakup_vess_8c2aeaa3:
 translate italian breakup_vess_314765c9:
 
     # ve "What?!"
-    ve "Cosa?!"
+    ve "Che cosa?!"
 
 # game/breakups.rpy:253
 translate italian breakup_vess_9d207ba4:
@@ -910,13 +909,13 @@ translate italian breakup_vess_a821530e:
 translate italian breakup_vess_26c91f72:
 
     # ve "It is, isn’t it?"
-    ve "È così, vero?"
+    ve "Lo è, non è vero?"
 
 # game/breakups.rpy:258
 translate italian breakup_vess_6fc0684c:
 
     # ve "I don’t know what else I can do to make amends."
-    ve "Non so cos'altro posso fare per rimediare."
+    ve "Non so cos'altro posso fare per fare ammenda."
 
 # game/breakups.rpy:259
 translate italian breakup_vess_17cef3c0:
@@ -928,43 +927,43 @@ translate italian breakup_vess_17cef3c0:
 translate italian breakup_vess_cff9bf98:
 
     # ve "Isn’t that enough, [p_name]?"
-    ve "Non è abbastanza, [p_name]?"
+    ve "Non è sufficiente, [p_name]?"
 
 # game/breakups.rpy:261
 translate italian breakup_vess_495fb72d:
 
     # c "It’s not about you, Vess."
-    c "Non riguarda te, Vess."
+    c "Non si tratta di te, Vess."
 
 # game/breakups.rpy:262
 translate italian breakup_vess_f6a64ef9:
 
     # c "It’s a decision I made, which I was forced to make."
-    c "È una decisione che ho preso, che sono stata costretta a prendere."
+    c "È una decisione che ho preso, che sono stato costretto a prendere."
 
 # game/breakups.rpy:264
 translate italian breakup_vess_7ea8d4e2:
 
     # ve "Forced?"
-    ve "Costretta?"
+    ve "Costretto?"
 
 # game/breakups.rpy:265
 translate italian breakup_vess_5d2f9fb7:
 
     # c "I’m in love with someone else."
-    c "Sono innamorata di un altro."
+    c "Sono innamorato di qualcun altro."
 
 # game/breakups.rpy:266
 translate italian breakup_vess_a6730577:
 
     # ve "Oh..."
-    ve "Oh..."
+    ve "OH..."
 
 # game/breakups.rpy:267
 translate italian breakup_vess_4604da78:
 
     # ve "But you didn’t..."
-    ve "Ma tu non..."
+    ve "Ma non l'hai fatto..."
 
 # game/breakups.rpy:268
 translate italian breakup_vess_c5f100c5:
@@ -976,49 +975,49 @@ translate italian breakup_vess_c5f100c5:
 translate italian breakup_vess_91eebadd:
 
     # c "I should have told you about my feelings for her."
-    c "Avrei dovuto dirti dei miei sentimenti per lei."
+    c "Avrei dovuto parlarti dei miei sentimenti per lei."
 
 # game/breakups.rpy:270
 translate italian breakup_vess_09990835:
 
     # c "But what’s done is done."
-    c "Ma quel che è fatto è fatto."
+    c "Ma ciò che è fatto è fatto."
 
 # game/breakups.rpy:272
 translate italian breakup_vess_0e168e7d:
 
     # ve "I...{w} I understand."
-    ve "Io... {w} Capisco."
+    ve "Io...{w} Capisco."
 
 # game/breakups.rpy:273
 translate italian breakup_vess_37832318:
 
     # ve "Could you leave me alone now?"
-    ve "Potresti lasciarmi sola adesso?"
+    ve "Potresti lasciarmi in pace adesso?"
 
 # game/breakups.rpy:274
 translate italian breakup_vess_54b63575:
 
     # ve "I need to be alone."
-    ve "Ho bisogno di stare da sola."
+    ve "Ho bisogno di stare da solo."
 
 # game/breakups.rpy:275
 translate italian breakup_vess_4e8c7062:
 
     # c "Of course."
-    c "Certo."
+    c "Ovviamente."
 
 # game/breakups.rpy:277
 translate italian breakup_vess_d7638ec7:
 
     # "After I closed the door, I could hear Vess crying with abandon."
-    "Dopo aver chiuso la porta, ho sentito Vess piangere a dirotto."
+    "Dopo aver chiuso la porta, ho potuto sentire Vess piangere con abbandono."
 
 # game/breakups.rpy:278
 translate italian breakup_vess_91a13ecf:
 
     # "Resisting the urge to go back in and comfort her, I made my way back to my quarters."
-    "Resistendo all'impulso di tornare indietro e confortarla, sono tornato nei miei alloggi."
+    "Resistendo all'impulso di rientrare e consolarla, tornai ai miei alloggi."
 
 # game/breakups.rpy:286
 translate italian breakup_nadya_d7669a36:
@@ -1030,13 +1029,13 @@ translate italian breakup_nadya_d7669a36:
 translate italian breakup_nadya_123344a8:
 
     # c "It might be better if you sit down."
-    c "Forse è meglio che ti siedi."
+    c "Potrebbe essere meglio se ti siedi."
 
 # game/breakups.rpy:289
 translate italian breakup_nadya_09362606:
 
     # na "Okay..."
-    na "Va bene..."
+    na "Ok..."
 
 # game/breakups.rpy:290
 translate italian breakup_nadya_3efe0ac3:
@@ -1060,13 +1059,13 @@ translate italian breakup_nadya_eb51bd5d:
 translate italian breakup_nadya_154ec566:
 
     # na "How very mature of you."
-    na "Che maturità da parte tua."
+    na "Quanto sei maturo."
 
 # game/breakups.rpy:295
 translate italian breakup_nadya_247086c5:
 
     # na "Did you get bored of me already?"
-    na "Ti sei già stufato di me?"
+    na "Ti sei già annoiato di me?"
 
 # game/breakups.rpy:296
 translate italian breakup_nadya_33bec90c:
@@ -1090,7 +1089,7 @@ translate italian breakup_nadya_e2186711:
 translate italian breakup_nadya_1e3913ba:
 
     # na "Well, it sure sounds like it to me."
-    na "Beh, a me sembra proprio così."
+    na "Beh, sicuramente mi sembra di sì."
 
 # game/breakups.rpy:305
 translate italian breakup_nadya_fdb95508:
@@ -1102,55 +1101,55 @@ translate italian breakup_nadya_fdb95508:
 translate italian breakup_nadya_df277e26:
 
     # na "You’ve had your taste and now want something else."
-    na "Hai assaporato il proibito e ora vuoi qualcos'altro."
+    na "Hai avuto i tuoi gusti e ora vuoi qualcos'altro."
 
 # game/breakups.rpy:309
 translate italian breakup_nadya_20629000:
 
     # na "It’s because of my age, isn’t it?"
-    na "È a causa della mia età, vero?"
+    na "È a causa della mia età, non è vero?"
 
 # game/breakups.rpy:310
 translate italian breakup_nadya_193c4aa2:
 
     # c "No, it’s not that, honestly."
-    c "No, non è per quello, davvero."
+    c "No, non è questo, onestamente."
 
 # game/breakups.rpy:312
 translate italian breakup_nadya_c48bf2d5:
 
     # na "You know what, I don’t care."
-    na "Sai una cosa, non mi interessa."
+    na "Sai cosa, non mi interessa."
 
 # game/breakups.rpy:313
 translate italian breakup_nadya_377a7f9b:
 
     # na "I never should have opened up to you like that, it was bound to be a disappointment."
-    na "Non avrei mai dovuto aprirmi con te in quel modo, era inevitabile che rimanessi delusa."
+    na "Non avrei mai dovuto confidarmi in quel modo, sarebbe stata sicuramente una delusione."
 
 # game/breakups.rpy:315
 translate italian breakup_nadya_447b54ad:
 
     # c "Mother..."
-    c "Mamma..."
+    c "Madre..."
 
 # game/breakups.rpy:317
 translate italian breakup_nadya_cc1af782:
 
     # c "Nadya..."
-    c "Nadya..."
+    c "Nadia..."
 
 # game/breakups.rpy:319
 translate italian breakup_nadya_3b853f3d:
 
     # na "I’m not blaming you even, I should have been more careful."
-    na "Non ti sto nemmeno incolpando, avrei dovuto stare più attenta."
+    na "Non ti sto nemmeno incolpando, avrei dovuto stare più attento."
 
 # game/breakups.rpy:320
 translate italian breakup_nadya_93310ed6:
 
     # na "I just wish you thought of your concerns earlier, it would have saved us both a lot of pain."
-    na "Vorrei solo che avessi pensato prima alle tue preoccupazioni, avrebbe risparmiato a entrambi un sacco di dolore."
+    na "Vorrei solo che tu avessi pensato prima alle tue preoccupazioni, ci avrebbe risparmiato molto dolore."
 
 # game/breakups.rpy:321
 translate italian breakup_nadya_ea2e9aef:
@@ -1162,13 +1161,13 @@ translate italian breakup_nadya_ea2e9aef:
 translate italian breakup_nadya_27fd475c:
 
     # c "Please understand I didn’t come to this decision lightly."
-    c "Ti prego di capire che non ho preso questa decisione alla leggera."
+    c "Ti prego di comprendere che non ho preso questa decisione alla leggera."
 
 # game/breakups.rpy:324
 translate italian breakup_nadya_138d70b7:
 
     # na "There’s someone else, isn’t there?"
-    na "C'è qualcun'altra, vero?"
+    na "C'è qualcun altro, vero?"
 
 # game/breakups.rpy:325
 translate italian breakup_nadya_29b2589a:
@@ -1180,19 +1179,19 @@ translate italian breakup_nadya_29b2589a:
 translate italian breakup_nadya_4141727e:
 
     # na "I thought as much."
-    na "Me lo immaginavo."
+    na "Lo pensavo anch'io."
 
 # game/breakups.rpy:328
 translate italian breakup_nadya_aff1075a:
 
     # na "She asked you to break things off?"
-    na "Ti ha chiesto di rompere?"
+    na "Ti ha chiesto di interrompere le cose?"
 
 # game/breakups.rpy:329
 translate italian breakup_nadya_7961aac6:
 
     # c "She did."
-    c "Sì."
+    c "Lo ha fatto."
 
 # game/breakups.rpy:330
 translate italian breakup_nadya_d17db83d:
@@ -1204,19 +1203,19 @@ translate italian breakup_nadya_d17db83d:
 translate italian breakup_nadya_6a0fae82:
 
     # na "You’ve appeared to make your choice and you should live by it."
-    na "Sembra che tu abbia fatto la tua scelta e dovresti rispettarla."
+    na "Sembra che tu abbia fatto la tua scelta e dovresti vivere in base ad essa."
 
 # game/breakups.rpy:332
 translate italian breakup_nadya_49a26f5f:
 
     # na "I want you to promise to maker her as happy as you possibly can and don’t let her down."
-    na "Voglio che tu mi prometta di renderla il più felice possibile e di non deluderla."
+    na "Voglio che tu prometta di renderla il più felice possibile e di non deluderla."
 
 # game/breakups.rpy:333
 translate italian breakup_nadya_94ccfb49:
 
     # c "I won’t, I promise."
-    c "Non lo farò, te lo prometto."
+    c "Non lo farò, lo prometto."
 
 # game/breakups.rpy:334
 translate italian breakup_nadya_ccb084fe:
@@ -1228,7 +1227,7 @@ translate italian breakup_nadya_ccb084fe:
 translate italian breakup_nadya_19ee6d5b:
 
     # na "Could you leave me alone now, please?"
-    na "Potresti lasciarmi sola adesso, per favore?"
+    na "Potresti lasciarmi in pace adesso, per favore?"
 
 # game/breakups.rpy:338
 translate italian breakup_nadya_e3ee3918:
@@ -1240,19 +1239,19 @@ translate italian breakup_nadya_e3ee3918:
 translate italian breakup_nadya_10e0f1df:
 
     # "I left Nadya."
-    "Ho lasciato Nadya."
+    "Ho lasciato Nadia."
 
 # game/breakups.rpy:342
 translate italian breakup_nadya_6052a82f:
 
     # "Despite her firm voice just earlier, I heard her break down after closing the door."
-    "Nonostante la sua voce ferma di poco prima, l'ho sentita scoppiare in lacrime dopo aver chiuso la porta."
+    "Nonostante la sua voce ferma poco prima, l'ho sentita crollare dopo aver chiuso la porta."
 
 # game/breakups.rpy:343
 translate italian breakup_nadya_b8504e1e:
 
     # "Her heartfelt sobs haunted me all the way back to my quarters."
-    "I suoi singhiozzi sinceri mi hanno perseguitato per tutto il tragitto fino al mio alloggio."
+    "I suoi singhiozzi sinceri mi perseguitarono per tutto il viaggio di ritorno ai miei alloggi."
 
 # game/breakups.rpy:352
 translate italian breakup_celine_5610718f:
@@ -1264,7 +1263,7 @@ translate italian breakup_celine_5610718f:
 translate italian breakup_celine_6190f4db:
 
     # c "Hey."
-    c "Ehi."
+    c "EHI."
 
 # game/breakups.rpy:354
 translate italian breakup_celine_baa13475:
@@ -1282,13 +1281,13 @@ translate italian breakup_celine_5c84cc48:
 translate italian breakup_celine_efd090e2:
 
     # c "Céline, we need to talk, about you and me."
-    c "Céline, dobbiamo parlare, di te e me."
+    c "Céline, dobbiamo parlare di me e di te."
 
 # game/breakups.rpy:358
 translate italian breakup_celine_3bdd7b97:
 
     # ce "Oh?"
-    ce "Oh?"
+    ce "OH?"
 
 # game/breakups.rpy:359
 translate italian breakup_celine_57cae3c7:
@@ -1300,13 +1299,13 @@ translate italian breakup_celine_57cae3c7:
 translate italian breakup_celine_06c84469:
 
     # c "I've come to realize my feelings for you aren't as strong as they once were."
-    c "Ho capito che i miei sentimenti per te non sono più così forti come una volta."
+    c "Mi sono reso conto che i miei sentimenti per te non sono così forti come lo erano una volta."
 
 # game/breakups.rpy:361
 translate italian breakup_celine_67e47fe9:
 
     # ce "This can't be right."
-    ce "Non può essere vero."
+    ce "Non può essere giusto."
 
 # game/breakups.rpy:362
 translate italian breakup_celine_f131cf82:
@@ -1324,19 +1323,19 @@ translate italian breakup_celine_f5b35eee:
 translate italian breakup_celine_5f0b7414:
 
     # c "My feelings towards you have just changed."
-    c "I miei sentimenti nei tuoi confronti sono semplicemente cambiati."
+    c "I miei sentimenti nei tuoi confronti sono appena cambiati."
 
 # game/breakups.rpy:366
 translate italian breakup_celine_21957598:
 
     # ce "What about all those nights we spent together?!"
-    ce "E tutte quelle notti che abbiamo passato insieme?"
+    ce "Che mi dici di tutte quelle notti che abbiamo passato insieme?!"
 
 # game/breakups.rpy:367
 translate italian breakup_celine_480c773b:
 
     # ce "You're lying, I can see it in your eyes!"
-    ce "Stai mentendo, lo vedo nei tuoi occhi!"
+    ce "Stai mentendo, te lo leggo negli occhi!"
 
 # game/breakups.rpy:368
 translate italian breakup_celine_f33dc7b4:
@@ -1348,49 +1347,49 @@ translate italian breakup_celine_f33dc7b4:
 translate italian breakup_celine_dad94cdb:
 
     # c "I have to end things, there's no other way."
-    c "Devo porre fine a questa storia, non c'è altro modo."
+    c "Devo porre fine a questa cosa, non c'è altro modo."
 
 # game/breakups.rpy:370
 translate italian breakup_celine_e0342ec2:
 
     # ce "What happened?"
-    ce "Che cosa è successo?"
+    ce "Quello che è successo?"
 
 # game/breakups.rpy:371
 translate italian breakup_celine_f2f16b6b:
 
     # c "I've found someone else, that's all I can say."
-    c "Ho trovato un'altra persona, è tutto quello che posso dire."
+    c "Ho trovato qualcun altro, questo è tutto quello che posso dire."
 
 # game/breakups.rpy:373
 translate italian breakup_celine_8fc38651:
 
     # ce "And she's making you do this?"
-    ce "Ed è lei che ti sta spingendo a farlo?"
+    ce "E lei ti sta costringendo a fare questo?"
 
 # game/breakups.rpy:374
 translate italian breakup_celine_6ec5eda3:
 
     # ce "What we had was true, [p_name_short], and you're throwing it all away."
-    ce "Quello che avevamo era vero, [p_name_short], e tu stai gettando tutto al vento."
+    ce "Ciò che avevamo era vero, [p_name_short], e tu stai buttando via tutto."
 
 # game/breakups.rpy:375
 translate italian breakup_celine_58002698:
 
     # ce "Who's making you do this?"
-    ce "Chi ti sta spingendo a farlo?"
+    ce "Chi ti sta facendo fare questo?"
 
 # game/breakups.rpy:376
 translate italian breakup_celine_08d4720b:
 
     # c "I can't tell."
-    c "Non posso dirtelo."
+    c "Non posso dirlo."
 
 # game/breakups.rpy:378
 translate italian breakup_celine_f90fa858:
 
     # ce "Coward!"
-    ce "Codardo!"
+    ce "Vigliacco!"
 
 # game/breakups.rpy:379
 translate italian breakup_celine_d3e290cc:
@@ -1408,67 +1407,67 @@ translate italian breakup_celine_c318e691:
 translate italian breakup_celine_b1961263:
 
     # c "No, you don't."
-    c "No, non ce l'hai."
+    c "No, non lo fai."
 
 # game/breakups.rpy:382
 translate italian breakup_celine_55079b6b:
 
     # c "I'm sorry, Céline."
-    c "Mi dispiace, Céline."
+    c "Mi dispiace, Celine."
 
 # game/breakups.rpy:383
 translate italian breakup_celine_e4326d46:
 
     # "Unable to comfort her in any way, I walked out of Céline's quarters."
-    "Incapace di confortarla in alcun modo, uscii dalla stanza di Céline."
+    "Incapace di consolarla in alcun modo, uscii dall'alloggio di Céline."
 
 # game/breakups.rpy:385
 translate italian breakup_celine_6aeb82fb:
 
     # ce "She won't make you happy!"
-    ce "Lei non ti renderà felice!"
+    ce "Non ti renderà felice!"
 
 # game/breakups.rpy:386
 translate italian breakup_celine_d19301fd:
 
     # ce "I'm the one for you, [p_name_short]."
-    ce "Sono io quella giusta per te, [p_name_short]."
+    ce "Sono quello giusto per te, [p_name_short]."
 
 # game/breakups.rpy:387
 translate italian breakup_celine_054cf9c4:
 
     # ce "I'm the only one who can make you happy."
-    ce "Sono l'unica che può renderti felice."
+    ce "Sono l'unico che può renderti felice."
 
 # game/breakups.rpy:388
 translate italian breakup_celine_4efe6d8b:
 
     # ce "Come back, please!"
-    ce "Torna indietro, ti prego!"
+    ce "Torna indietro, per favore!"
 
 # game/breakups.rpy:390
 translate italian breakup_celine_cac034fc:
 
     # "I hurried through the corridors of the ship, away from her increasingly desperate pleas."
-    "Ho attraversato di corsa i corridoi della nave, allontanandomi dalle sue suppliche sempre più disperate."
+    "Mi affrettai per i corridoi della nave, lontano dalle sue suppliche sempre più disperate."
 
 # game/breakups.rpy:399
 translate italian breakup_eva_1260debe:
 
     # "Eva was waiting for me with such a hopeful expression on her face that I nearly couldn’t go through with it."
-    "Eva mi stava aspettando con un'espressione così piena di speranza sul viso che quasi non sono riuscito a farlo."
+    "Eva mi stava aspettando con un'espressione così speranzosa sul viso che quasi non riuscivo ad andare fino in fondo."
 
 # game/breakups.rpy:400
 translate italian breakup_eva_b1f8097e:
 
     # e "Hey, what’s on your mind?"
-    e "Ehi, cosa ti passa per la testa?"
+    e "Ehi, cosa hai in mente?"
 
 # game/breakups.rpy:401
 translate italian breakup_eva_0ce8d137:
 
     # c "I need to talk about us, Eva."
-    c "Devo parlarti di noi, Eva."
+    c "Devo parlare di noi, Eva."
 
 # game/breakups.rpy:403
 translate italian breakup_eva_3388a208:
@@ -1480,19 +1479,19 @@ translate italian breakup_eva_3388a208:
 translate italian breakup_eva_0f96d88c:
 
     # e "That doesn’t sound good."
-    e "Non mi piace affatto."
+    e "Non suona bene."
 
 # game/breakups.rpy:405
 translate italian breakup_eva_0add9b0f:
 
     # c "I’m breaking up with you."
-    c "Ti lascio."
+    c "Sto rompendo con te."
 
 # game/breakups.rpy:407
 translate italian breakup_eva_394bcc56:
 
     # e "What?!"
-    e "Cosa?!"
+    e "Che cosa?!"
 
 # game/breakups.rpy:408
 translate italian breakup_eva_d4993d94:
@@ -1504,25 +1503,25 @@ translate italian breakup_eva_d4993d94:
 translate italian breakup_eva_1ea97b2d:
 
     # e "Why?"
-    e "Perché"
+    e "Perché?"
 
 # game/breakups.rpy:410
 translate italian breakup_eva_72f0b015:
 
     # c "I’m being forced to make a choice and I’m choosing her."
-    c "Sono costretto a fare una scelta e ho scelto lei."
+    c "Sono costretto a fare una scelta e scelgo lei."
 
 # game/breakups.rpy:412
 translate italian breakup_eva_d0bb04b8:
 
     # e "But we had something special together!"
-    e "Ma noi avevamo qualcosa di speciale insieme!"
+    e "Ma abbiamo avuto qualcosa di speciale insieme!"
 
 # game/breakups.rpy:414
 translate italian breakup_eva_4dadb6ee:
 
     # e "You wanted children with me?!"
-    e "Volevi avere dei figli con me?!"
+    e "Volevi dei figli con me?!"
 
 # game/breakups.rpy:415
 translate italian breakup_eva_3c45660b:
@@ -1540,19 +1539,19 @@ translate italian breakup_eva_391009d5:
 translate italian breakup_eva_4e60d810:
 
     # e "There’s no chance you’ll reconsider?"
-    e "Non c'è alcuna possibilità che ci ripensi?"
+    e "Non c'è alcuna possibilità che tu ci riconsideri?"
 
 # game/breakups.rpy:418
 translate italian breakup_eva_51fa8c9a:
 
     # c "No, this is final."
-    c "No, è una decisione definitiva."
+    c "No, questo è definitivo."
 
 # game/breakups.rpy:420
 translate italian breakup_eva_81959a5c:
 
     # e "Go away then."
-    e "Allora vattene."
+    e "Vattene allora."
 
 # game/breakups.rpy:421
 translate italian breakup_eva_a8dd7e4b:
@@ -1564,191 +1563,197 @@ translate italian breakup_eva_a8dd7e4b:
 translate italian breakup_eva_35a18b0a:
 
     # e "Go!"
-    e "Vattene!"
+    e "Andare!"
 
-# game/breakups.rpy:424
+# game/breakups.rpy:425
 translate italian breakup_eva_b04ca312:
 
     # "I retreated and closed the door behind me, leaving my sister to dissolve into tears."
-    "Mi sono ritirata e ho chiuso la porta dietro di me, lasciando mia sorella in lacrime."
+    "Mi sono ritirato e ho chiuso la porta dietro di me, lasciando mia sorella a dissolversi in lacrime."
 
-# game/breakups.rpy:432
+# game/breakups.rpy:427
+translate italian breakup_eva_a0ed6a6c:
+
+    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
+    "Mi sono ritirato e ho chiuso la porta dietro di me, lasciando Eva a dissolversi in lacrime."
+
+# game/breakups.rpy:435
 translate italian breakup_jade_83b650fb:
 
     # j "Do you want to have some fun?"
-    j "Ti va di divertirci un po'?"
+    j "Vuoi divertirti un po'?"
 
-# game/breakups.rpy:433
+# game/breakups.rpy:436
 translate italian breakup_jade_7b91b1bf:
 
     # c "No Jade, I just wanted to talk."
     c "No Jade, volevo solo parlare."
 
-# game/breakups.rpy:435
+# game/breakups.rpy:438
 translate italian breakup_jade_789e65fd:
 
     # j "Talk about what?"
-    j "Parlare di cosa?"
+    j "Parliamo di cosa?"
 
-# game/breakups.rpy:436
+# game/breakups.rpy:439
 translate italian breakup_jade_5474d622:
 
     # c "About us."
-    c "Di noi."
+    c "Chi siamo."
 
-# game/breakups.rpy:438
+# game/breakups.rpy:441
 translate italian breakup_jade_32e7407c:
 
     # j "Okay..."
     j "Ok..."
 
-# game/breakups.rpy:439
+# game/breakups.rpy:442
 translate italian breakup_jade_0bc4ced0:
 
     # c "Our relationship, I have to end it."
     c "La nostra relazione, devo finirla."
 
-# game/breakups.rpy:441
+# game/breakups.rpy:444
 translate italian breakup_jade_2fdefc32:
 
     # j "Why?"
-    j "Perché"
+    j "Perché?"
 
-# game/breakups.rpy:442
+# game/breakups.rpy:445
 translate italian breakup_jade_026a14f9:
 
     # c "I’m seeing someone else and it’s getting serious."
-    c "Sto frequentando un'altra persona e la cosa sta diventando seria."
+    c "Sto vedendo qualcun altro e la cosa sta diventando seria."
 
-# game/breakups.rpy:443
+# game/breakups.rpy:446
 translate italian breakup_jade_c4412c0e:
 
     # c "Serious enough that there isn’t room for anything else."
-    c "Abbastanza seria da non lasciare spazio ad altro."
+    c "Abbastanza serio da non lasciare spazio ad altro."
 
-# game/breakups.rpy:444
+# game/breakups.rpy:447
 translate italian breakup_jade_7988685c:
 
     # j "That didn’t stop you before, what changed?"
-    j "Questo non ti ha fermato prima, cosa è cambiato?"
+    j "Questo non ti fermava prima, cosa è cambiato?"
 
-# game/breakups.rpy:445
+# game/breakups.rpy:448
 translate italian breakup_jade_851c3635:
 
     # c "Everything, Jade."
-    c "Tutto, Jade."
+    c "Tutto, Giada."
 
-# game/breakups.rpy:446
+# game/breakups.rpy:449
 translate italian breakup_jade_5d938c19:
 
     # c "You deserve a chance with someone else."
     c "Ti meriti una possibilità con qualcun altro."
 
-# game/breakups.rpy:448
+# game/breakups.rpy:451
 translate italian breakup_jade_7a69cd3d:
 
     # j "I don’t want to."
     j "Non voglio."
 
-# game/breakups.rpy:449
+# game/breakups.rpy:452
 translate italian breakup_jade_c422d5aa:
 
     # j "I love you [p_name], I always have."
     j "Ti amo [p_name], ti ho sempre amato."
 
-# game/breakups.rpy:450
+# game/breakups.rpy:453
 translate italian breakup_jade_fa5fd35a:
 
     # j "You said you love me too and now you’re about to throw that all away?"
-    j "Hai detto che anche tu mi ami e ora stai per gettare via tutto?"
+    j "Hai detto che anche tu mi ami e ora stai per buttare via tutto?"
 
-# game/breakups.rpy:451
+# game/breakups.rpy:454
 translate italian breakup_jade_2fa5b617:
 
     # c "I’m sorry Jade, but I have to."
-    c "Mi dispiace Jade, ma devo farlo."
+    c "Mi dispiace, Jade, ma devo farlo."
 
-# game/breakups.rpy:453
+# game/breakups.rpy:456
 translate italian breakup_jade_436804e3:
 
     # j "You have to?"
-    j "Devi?"
+    j "Si deve?"
 
-# game/breakups.rpy:454
+# game/breakups.rpy:457
 translate italian breakup_jade_6fe03362:
 
     # j "You’re saying you’re forced to do this?"
     j "Stai dicendo che sei costretto a farlo?"
 
-# game/breakups.rpy:455
+# game/breakups.rpy:458
 translate italian breakup_jade_84880f6c:
 
     # c "I don’t see any other way."
-    c "Non vedo altra soluzione."
+    c "Non vedo altro modo."
 
-# game/breakups.rpy:457
+# game/breakups.rpy:460
 translate italian breakup_jade_a5cfca61:
 
     # j "Maybe you could have talked to me beforehand, instead of making a decision on your own."
     j "Forse avresti potuto parlarmene prima, invece di prendere una decisione da solo."
 
-# game/breakups.rpy:459
+# game/breakups.rpy:462
 translate italian breakup_jade_f1e6962f:
 
     # j "Are you sure this is what you want?"
-    j "Sei sicuro che sia quello che vuoi?"
+    j "Sei sicuro che sia questo quello che vuoi?"
 
-# game/breakups.rpy:460
+# game/breakups.rpy:463
 translate italian breakup_jade_b63d6bf3:
 
     # c "I am."
-    c "Sì."
+    c "Sono."
 
-# game/breakups.rpy:462
+# game/breakups.rpy:465
 translate italian breakup_jade_f22d420a:
 
     # j "Well then, you seem to have made up your mind."
-    j "Beh, sembra che tu abbia deciso."
+    j "Bene, allora sembra che tu abbia deciso."
 
-# game/breakups.rpy:463
+# game/breakups.rpy:466
 translate italian breakup_jade_a78c9216:
 
     # j "I hope she’s worth the betrayal."
-    j "Spero che lei valga il tradimento."
+    j "Spero che valga il tradimento."
 
-# game/breakups.rpy:464
+# game/breakups.rpy:467
 translate italian breakup_jade_73ea346e:
 
     # j "Bye [p_name]."
     j "Ciao [p_name]."
 
-# game/breakups.rpy:466
+# game/breakups.rpy:469
 translate italian breakup_jade_26ac6d73:
 
     # "With those final words, she walked out of my quarters."
-    "Con queste ultime parole, uscì dalla mia stanza."
+    "Con quelle ultime parole uscì dal mio alloggio."
 
 translate italian strings:
 
     # game/breakups.rpy:82
     old "Leave"
-    new "Andarsene"
+    new "Partire"
 
     # game/breakups.rpy:82
     old "Try to explain"
-    new "Cercare di spiegare"
+    new "Prova a spiegare"
 
     # game/breakups.rpy:120
     old "Defend yourself"
-    new "Difendersi"
+    new "Difenditi"
 
     # game/breakups.rpy:120
     old "Just leave"
-    new "Andarsene e basta"
+    new "Vattene e basta"
 
     # game/breakups.rpy:161
     old "Explain"
-    new "Spiegare"
+    new "Spiega"
 
     # game/breakups.rpy:161
     old "Don't explain"
@@ -1756,17 +1761,12 @@ translate italian strings:
 
     # game/breakups.rpy:200
     old "Be honest"
-    new "Essere onesti"
+    new "Sii onesto"
 
     # game/breakups.rpy:200
     old "Evade"
     new "Eludere"
 
-# TODO: Translation updated at 2026-03-09 11:09
-
-# game/breakups.rpy:427
-translate italian breakup_eva_a0ed6a6c:
-
-    # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
-    ""
-
+#Used Programme Bad75 Renpy Translate 3.1 Ultimate
+#OneClick Version 3.1 Ultimate 2026
+#Translator Bad 75.

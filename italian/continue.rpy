@@ -1,14 +1,13 @@
-﻿# TODO: Translation updated at 2025-10-07 08:34
-
+﻿
 translate italian strings:
 
     # game/continue.rpy:14
     old "Please select the Season 2 save you'd like to load:"
-    new "Seleziona il salvataggio della stagione 2 che desideri caricare:"
+    new "Seleziona il salvataggio della Stagione 2 che desideri caricare:"
 
     # game/continue.rpy:44
     old "No season saves currently available"
-    new "Nessun salvataggio di stagione attualmente disponibile"
+    new "Nessun salvataggio stagionale attualmente disponibile"
 
     # game/continue.rpy:95
     old "General"
@@ -20,15 +19,15 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Did Thim enter the Pit of Despair on Nyiruan 12-Beta?"
-    new "Thim è entrato nella Fossa della Disperazione su Nyiruan 12-Beta?"
+    new "Thim è entrato nell'Abisso della Disperazione su Nyiruan 12-Beta?"
 
     # game/continue.rpy:95
     old "Did you help the R'o escape the Pit of Despair?"
-    new "Hai aiutato gli R'o a fuggire dalla Fossa della Disperazione?"
+    new "Hai aiutato i R'o a fuggire dall'Abisso della Disperazione?"
 
     # game/continue.rpy:95
     old "Did you sign the contract and enter the ConVitæ on Verdant station?"
-    new "Hai firmato il contratto ed sei entrato nel ConVitæ sulla stazione Verdant?"
+    new "Hai firmato il contratto ed sei entrato nella ConVitæ sulla stazione Verdant?"
 
     # game/continue.rpy:95
     old "Did you have sex with Luzanne (Futa)?"
@@ -52,11 +51,11 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Did you delete the simulation of Eva and Lilly on the Iron Bastard?"
-    new "Hai cancellato la simulazione di Eva e Lilly sull'Iron Bastard?"
+    new "Hai eliminato la simulazione di Eva e Lilly sull'Iron Bastard?"
 
     # game/continue.rpy:95
     old "Did you abbandon the simulation of Eva and Lilly on the Iron Bastard?"
-    new "Hai abbandonato la simulazione di Eva e Lilly sull'Iron Bastard?"
+    new "Avete abbandonato la simulazione di Eva e Lilly sull'Iron Bastard?"
 
     # game/continue.rpy:95
     old "Did form an alliance with the Warrior caste on Erigone?"
@@ -68,11 +67,11 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Did you remain neutral and declined to form any alliances on Erigone?"
-    new "Sei rimasto neutrale e hai rifiutato di stringere alleanze su Erigone?"
+    new "Sei rimasto neutrale e hai rifiutato di formare alleanze su Erigone?"
 
     # game/continue.rpy:95
     old "Did you rescue the Acarhyn warrior during the Hunt on Erigone?"
-    new "Hai salvato il guerriero Acarhyn durante la Caccia su Erigone?"
+    new "Hai salvato il guerriero Acarhyn durante la caccia su Erigone?"
 
     # game/continue.rpy:95
     old "Are you in a relationship with Lilly?"
@@ -88,7 +87,7 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Were trying to get into a relationship with Nadya?"
-    new "Hai cercato di avere una relazione con Nadya?"
+    new "Stavamo cercando di avere una relazione con Nadya?"
 
     # game/continue.rpy:95
     old "Are you in a relationship with Céline?"
@@ -104,11 +103,11 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Do you want Thyia to be part of your future harem?"
-    new "Vuoi che Thyia faccia parte del tuo futuro harem?"
+    new "Do you want Thyia to be part of your future harem?"
 
     # game/continue.rpy:95
     old "Were trying to be friends with Ziv (Futa)?"
-    new "Hai cercato di diventare amico di Ziv (Futa)?"
+    new "Stiamo cercando di essere amici di Ziv (Futa)?"
 
     # game/continue.rpy:95
     old "Are you in a relationship with Ziv (Futa)?"
@@ -116,7 +115,7 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Do you want Vess to be your submissive?"
-    new "Vuoi che Vess sia la tua sottomessa?"
+    new "Vuoi che Vess sia il tuo sottomesso?"
 
     # game/continue.rpy:95
     old "Are you in a relationship with Vess?"
@@ -124,7 +123,7 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Are you in a relationship with Jade?"
-    new "Hai una relazione con Jade?"
+    new "Hai una relazione con Giada?"
 
     # game/continue.rpy:95
     old "Is Jade your submissive?"
@@ -132,11 +131,11 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Were trying to be friends with Raene (Trans)?"
-    new "Stai cercando di diventare amico di Raene (Trans)?"
+    new "Stiamo cercando di essere amici di Raene (Trans)?"
 
     # game/continue.rpy:95
     old "Were trying to get into a relationship with Raene (Trans)?"
-    new "Stai cercando di avere una relazione con Raene (Trans)?"
+    new "Stavamo cercando di iniziare una relazione con Raene (Trans)?"
 
     # game/continue.rpy:95
     old "Have you befriended Thim?"
@@ -148,15 +147,15 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Did you participate in the R'o orgy?"
-    new "Hai partecipato all'orgia R'o?"
+    new "Hai partecipato all'orgia di R'o?"
 
     # game/continue.rpy:95
     old "Did you creampie D'ee, the R'o leader?"
-    new "Hai fatto sborrare D'ee, il leader R'o?"
+    new "Hai fatto il creampie a D'ee, il leader dei R'o?"
 
     # game/continue.rpy:95
     old "Did you creampie the R'o virgin?"
-    new "Hai fatto sborrare la vergine R'o?"
+    new "Hai fatto il creampie al R'o virgin?"
 
     # game/continue.rpy:95
     old "Did you have sex in the ConVitæ simulation?"
@@ -172,11 +171,11 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Did you have sex with the doctor at the ConVitæ research station?"
-    new "Hai fatto sesso con il dottore alla stazione di ricerca ConVitæ?"
+    new "Hai fatto sesso con il dottore della stazione di ricerca ConVitæ?"
 
     # game/continue.rpy:95
     old "Did you have an orgy with the Acarhyn on Erigone?"
-    new "Hai partecipato a un'orgia con gli Acarhyn su Erigone?"
+    new "Hai avuto un'orgia con gli Acarhyn su Erigone?"
 
     # game/continue.rpy:95
     old "Did Kit join you during the orgy with the Acarhyn on Erigone?"
@@ -188,11 +187,11 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Fetish"
-    new "Feticismo"
+    new "Feticcio"
 
     # game/continue.rpy:95
     old "Anal"
-    new "Sesso Anale"
+    new "Anale"
 
     # game/continue.rpy:95
     old "Rimming"
@@ -200,25 +199,20 @@ translate italian strings:
 
     # game/continue.rpy:95
     old "Watersports"
-    new "Sesso con urina"
+    new "Sport acquatici"
 
     # game/continue.rpy:910
     old "Start a new game"
-    new "Inizia nuova partita"
-
-    # game/continue.rpy:924
-    old "The game is best enjoyed when you import a saved game from Season One. If you've lost access to your season saves or just want to begin with Season Two you can select the most important choices from the first season below, all other decisions will be set to a default value."
-    new "Il gioco è più divertente se importi una partita salvata dalla Stagione Uno. Se hai perso l'accesso ai tuoi salvataggi della stagione o vuoi semplicemente iniziare con la Stagione Due, puoi selezionare le scelte più importanti della prima stagione qui sotto, tutte le altre decisioni saranno impostate su un valore predefinito."
-
-    # game/continue.rpy:1003
-    old "Start new game"
     new "Inizia una nuova partita"
-
-# TODO: Translation updated at 2026-03-09 11:09
-
-translate italian strings:
 
     # game/continue.rpy:924
     old "The game is best enjoyed when you import a saved game from Season Two. If you've lost access to your season saves or just want to begin with Season Three you can select the most important choices from the first and second season below, all other decisions will be set to a default value."
-    new ""
+    new "Il gioco risulta migliore quando importi una partita salvata dalla seconda stagione. Se hai perso l'accesso ai salvataggi della stagione o vuoi semplicemente iniziare con la terza stagione, puoi selezionare le scelte più importanti della prima e della seconda stagione di seguito, tutte le altre decisioni verranno impostate su un valore predefinito."
 
+    # game/continue.rpy:1003
+    old "Start new game"
+    new "Inizia un nuovo gioco"
+
+#Used Programme Bad75 Renpy Translate 3.1 Ultimate
+#OneClick Version 3.1 Ultimate 2026
+#Translator Bad 75.
