@@ -1680,3 +1680,173 @@ translate portuguese extra_scene_51_427d5be7:
     # "When the ship alerted us to a navigational issue, we separated to go back to our duties."
     ""
 
+# TODO: Translation updated at 2026-03-04 14:27
+
+# game/extras.rpy:78
+translate portuguese extra_scene_48_cc762671:
+
+    # "Raene was still sucking me, her moans muffled by my dick inside her mouth."
+    ""
+
+# game/extras.rpy:90
+translate portuguese extra_scene_48_df62dd2c:
+
+    # "Precum already coated the head, and I used it to lube Raene’s cock and give it an intense massage with the palm of my hand."
+    ""
+
+# game/extras.rpy:97
+translate portuguese extra_scene_48_9470fb99:
+
+    # c "I want you to cum inside her, Ziv."
+    c ""
+
+# game/extras.rpy:132
+translate portuguese extra_scene_48_c944e8d4:
+
+    # "My re-entry into her asshole went very smoothly, as Ziv had loosened her up for me."
+    ""
+
+# game/extras.rpy:133
+translate portuguese extra_scene_48_29e91e4f:
+
+    # c "I love fucking that tight asshole of yours, Raene."
+    c ""
+
+# game/extras.rpy:165
+translate portuguese extra_scene_49_6d264083:
+
+    # "Remaining in the same position, I pushed against my girlfriend’s anus."
+    ""
+
+# game/extras.rpy:208
+translate portuguese extra_scene_49_3498d486:
+
+    # c "Oh Mom, your tight butt feels so fucking good!"
+    c ""
+
+# game/extras.rpy:219
+translate portuguese extra_scene_49_54cb9a9c:
+
+    # "I had a choice to make, stay inside my mother’s warm, tight asshole, or plunge myself inside her equally welcoming cunt again."
+    ""
+
+# game/extras.rpy:221
+translate portuguese extra_scene_49_1b76b1d9:
+
+    # "I had a choice to make, stay inside Nadya’s warm, tight asshole, or plunge myself inside her equally welcoming cunt again."
+    ""
+
+# game/extras.rpy:289
+translate portuguese extra_scene_50_507dc0a7:
+
+    # c "First, I need to use the bathroom real quick."
+    c ""
+
+# game/extras.rpy:306
+translate portuguese extra_scene_50_71275664:
+
+    # "I could only grunt and focused on fulfilling her wish."
+    ""
+
+# game/extras.rpy:363
+translate portuguese extra_scene_50_446453d2:
+
+    # "I started thrusting, one hand clamped around her breast."
+    ""
+
+# game/extras.rpy:380
+translate portuguese extra_scene_50_94012f59:
+
+    # "A heady smell of piss, mixed with the emanations of our bodies, filled the room and heightened the fevered rush that had us both in thrall."
+    ""
+
+# game/extras.rpy:400
+translate portuguese extra_scene_50_700cb1ed:
+
+    # "Her movements became more frantic, as sure sign she was close to her climax."
+    ""
+
+# game/extras.rpy:434
+translate portuguese extra_scene_50_5aab4998:
+
+    # ha "Oh, fuck yes!"
+    ha ""
+
+# game/extras.rpy:445
+translate portuguese extra_scene_50_f0ded3db:
+
+    # "Her body came down heavily on my abdomen and I shot my seed inside her, right at that moment."
+    ""
+
+# game/extras.rpy:520
+translate portuguese extra_scene_51_0d620213:
+
+    # "Céline tasted of salt and I noticed she was already very wet."
+    ""
+
+# game/extras.rpy:541
+translate portuguese extra_scene_51_7d6d8948:
+
+    # "I massaged Céline’s breasts while I fucked her, her nipples hard against the palms of my hands."
+    ""
+
+# game/extras.rpy:579
+translate portuguese extra_scene_51_805e2177:
+
+    # "It heightened my own climax as well, and I made a veritable mess of her pussy."
+    ""
+
+# TODO: Translation updated at 2026-03-09 11:09
+
+# game/extras.rpy:386
+translate portuguese extra_scene_50_293c49f1:
+
+    # c "Sorry, maybe another time."
+    c ""
+
+# game/extras.rpy:387
+translate portuguese extra_scene_50_fb13c37a:
+
+    # c "Back in a sec."
+    c ""
+
+# game/extras.rpy:389
+translate portuguese extra_scene_50_2e86b561:
+
+    # "I rushed to the toilet, while Hannah waited impatiently on me."
+    ""
+
+# game/extras.rpy:392
+translate portuguese extra_scene_50_768e8a8e:
+
+    # "Her brief moment of disappointment faded as soon as I re-entered her quarters."
+    ""
+
+# game/extras.rpy:393
+translate portuguese extra_scene_50_abadf2b5:
+
+    # "Hannah draped her pregnant body before me on the bed and opened her legs."
+    ""
+
+# game/extras.rpy:396
+translate portuguese extra_scene_50_768e8a8e_1:
+
+    # "Her brief moment of disappointment faded as soon as I re-entered her quarters."
+    ""
+
+# game/extras.rpy:397
+translate portuguese extra_scene_50_b05df2ad:
+
+    # "Hannah draped her body before me on the bed and opened her legs."
+    ""
+
+translate portuguese strings:
+
+    # game/extras.rpy:337
+    old "Piss on Hannah"
+    new ""
+
+    # game/extras.rpy:337
+    old "Don’t piss on her"
+    new ""
+

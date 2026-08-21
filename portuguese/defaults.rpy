@@ -4,77 +4,85 @@ translate portuguese strings:
 
     # game/defaults.rpy:50
     old "Confessor"
-    new ""
+    new "Confessor"
 
     # game/defaults.rpy:51
     old "D'ee"
-    new ""
+    new "D'ee"
 
     # game/defaults.rpy:53
     old "Glixken"
-    new ""
+    new "Glixken"
 
     # game/defaults.rpy:54
     old "Karan"
-    new ""
+    new "Karan"
 
     # game/defaults.rpy:60
     old "Trellka"
-    new ""
+    new "Trellka"
 
     # game/defaults.rpy:61
     old "Iana"
-    new ""
+    new "Iana"
 
     # game/defaults.rpy:62
     old "Sill"
-    new ""
+    new "Sill"
 
     # game/defaults.rpy:63
     old "Taera"
-    new ""
+    new "Taera"
 
     # game/defaults.rpy:64
     old "Raisha"
-    new ""
+    new "Raisha"
 
     # game/defaults.rpy:65
     old "Lyna"
-    new ""
+    new "Lyna"
 
     # game/defaults.rpy:66
     old "Jenne"
-    new ""
+    new "Jenne"
 
     # game/defaults.rpy:68
     old "Dr. Moora"
-    new ""
+    new "Dra. Moora"
 
     # game/defaults.rpy:69
     old "Ranimo Cetruvar"
-    new ""
+    new "Ranimo Cetruvar"
 
     # game/defaults.rpy:71
     old "Erilyn"
-    new ""
+    new "Erilyn"
 
     # game/defaults.rpy:72
     old "Dr. Rivas"
-    new ""
+    new "Dra. Rivas"
 
     # game/defaults.rpy:73
     old "Agust"
-    new ""
+    new "Agust"
 
     # game/defaults.rpy:75
     old "Operative"
-    new ""
+    new "Agente"
 
     # game/defaults.rpy:76
     old "Alien"
-    new ""
+    new "Alienígena"
 
     # game/defaults.rpy:77
     old "U.R.G.H."
-    new ""
+    new "A.F.F."
+
+# TODO: Translation updated at 2026-03-31 12:24
+
+translate portuguese strings:
+
+    # game/defaults.rpy:2
+    old "Velnia"
+    new "Velnia"
 

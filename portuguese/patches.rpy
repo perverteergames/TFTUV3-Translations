@@ -94,3 +94,83 @@ translate portuguese strings:
     old "Sided with Arlya"
     new ""
 
+# TODO: Translation updated at 2026-03-31 12:24
+
+# game/patches.rpy:5
+translate portuguese patches_3d71d622:
+
+    # "Because you started Season 2 with the questionnaire, please answer the following questions in order to play the next episode."
+    "Because you started Season 2 with the questionnaire, please answer the following questions in order to play the next episode."
+
+# game/patches.rpy:61
+translate portuguese patches_4e07ff89:
+
+    # "Did you have sex with Rahia, the Acarhyn commander in Episode 8 of Season 1?"
+    "Did you have sex with Rahia, the Acarhyn commander in Episode 8 of Season 1?"
+
+# game/patches.rpy:65
+translate portuguese patches_4f563fc8:
+
+    # "Had sex with Rahia"
+    "Had sex with Rahia"
+
+# game/patches.rpy:68
+translate portuguese patches_a6d28018:
+
+    # "Didn't have sex with Rahia"
+    "Didn't have sex with Rahia"
+
+# game/patches.rpy:71
+translate portuguese patches_cdd15b99:
+
+    # "Did you promise a monogamous relationship with sex with Rahia, the Acarhyn commander in Episode 8 of Season 1?"
+    "Did you promise a monogamous relationship with sex with Rahia, the Acarhyn commander in Episode 8 of Season 1?"
+
+# game/patches.rpy:76
+translate portuguese patches_4de4eb4a:
+
+    # "Did you lick her anus?"
+    "Did you lick her anus?"
+
+# game/patches.rpy:80
+translate portuguese patches_514bce04:
+
+    # "Had sex with Rahia and licked her anus"
+    "Had sex with Rahia and licked her anus"
+
+# game/patches.rpy:83
+translate portuguese patches_5348522a:
+
+    # "Had sex with Rahia, but didn't lick her anus"
+    "Had sex with Rahia, but didn't lick her anus"
+
+# game/patches.rpy:87
+translate portuguese patches_a6d28018_1:
+
+    # "Didn't have sex with Rahia"
+    "Didn't have sex with Rahia"
+
+# game/patches.rpy:90
+translate portuguese patches_a694f81c:
+
+    # "Do you want to get Nadya pregnant?"
+    "Do you want to get Nadya pregnant?"
+
+# game/patches.rpy:96
+translate portuguese patches_47431de6:
+
+    # "Nadya will get pregnant"
+    "Nadya will get pregnant"
+
+# game/patches.rpy:101
+translate portuguese patches_07667bf7:
+
+    # "Nadya will not get pregnant"
+    "Nadya will not get pregnant"
+
+translate portuguese strings:
+
+    # game/patches.rpy:63
+    old "Had sex with Rahia"
+    new "Had sex with Rahia"
+
