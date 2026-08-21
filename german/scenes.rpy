@@ -26,31 +26,31 @@ translate german strings:
     old "Cocktail Trio"
     new "Cocktail-Trio"
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-09 20:57
 
 translate german strings:
 
     # game/scenes.rpy:3
     old "Coming Back For Seconds"
-    new ""
+    new "Coming Back For Seconds"
 
     # game/scenes.rpy:3
     old "Inside Cé's"
-    new ""
+    new "Inside Cé's"
 
     # game/scenes.rpy:3
     old "Episode #24"
-    new ""
+    new "Episode #24"
 
     # game/scenes.rpy:3
     old "Lost In The Translator"
-    new ""
+    new "Lost In The Translator"
 
     # game/scenes.rpy:3
     old "Uailea Union"
-    new ""
+    new "Uailea Union"
 
     # game/scenes.rpy:3
     old "Steamy Shower"
-    new ""
+    new "Steamy Shower"
 

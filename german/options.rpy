@@ -11,14 +11,18 @@ translate german strings:
     new "Rory-Mercury91 {i}(Französisch){/i}"
 
     # game/options.rpy:230
-    old "Thanks to HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 and Jumanji223 for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
-    new "Vielen Dank an HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 und Jumanji223 für das Testen.\n\nEin herzliches Dankeschön an meine Top-Unterstützer! Ihr seid spitze! Zu meinen bisherigen und aktuellen Förderern gehören:\n{i}"
+    old "Thanks to HoboCop86, Fhilb, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 and Jumanji223 for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    new "Vielen Dank an HoboCop86, Fhilb, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 und Jumanji223 für das Testen.\n\nEin herzliches Dankeschön an meine Top-Unterstützer! Ihr seid spitze! Zu meinen bisherigen und aktuellen Förderern gehören:\n{i}"
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-09 20:57
 
 translate german strings:
 
     # game/options.rpy:49
     old "Rory-Mercury91 {i}(French){/i}, MyPrettyWolfy {i}(Russian){/i}, Bomber86 (German), Tacito (Italian)"
-    new ""
+    new "Rory-Mercury91 {i}(Französisch){/i}, MyPrettyWolfy {i}(Russisch){/i}, Bomber86 (Deutsch), Tacito (Italienisch)"
+
+    # game/options.rpy:297
+    old "Thanks to HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 and Jumanji223 for testing.\n\nA big thank you for my top-tier backers. You rock! Past and present patrons include:\n{i}"
+    new "Vielen Dank an HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 und Jumanji223 für das Testen.\n\nEin herzliches Dankeschön an meine Top-Unterstützer! Ihr seid spitze! Zu meinen bisherigen und aktuellen Förderern gehören:\n{i}"
 

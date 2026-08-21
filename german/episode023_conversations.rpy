@@ -6190,7 +6190,7 @@ translate german ep023_nadya_sex_a7e831d9:
 translate german ep023_nadya_sex_95c81bc9:
 
     # "Her gash was a wet mess as I prepared my mother for an inevitable climax."
-    "Ihre Wunde war ein nasses Durcheinander, während ich meine Mutter auf einen unvermeidlichen Höhepunkt vorbereitete."
+    "Ihre Spalte war ein nasses Durcheinander, während ich meine Mutter auf einen unvermeidlichen Höhepunkt vorbereitete."
 
 # game/episode023_conversations.rpy:1945
 translate german ep023_nadya_sex_b3be827d:
@@ -6202,7 +6202,7 @@ translate german ep023_nadya_sex_b3be827d:
 translate german ep023_nadya_sex_f53dac4c:
 
     # "Her gash was a wet mess as I prepared Nadya for an inevitable climax."
-    "Ihre Wunde war ein nasses Durcheinander, während ich Nadya auf einen unvermeidlichen Höhepunkt vorbereitete."
+    "Ihre Spalte war ein nasses Durcheinander, während ich Nadya auf einen unvermeidlichen Höhepunkt vorbereitete."
 
 # game/episode023_conversations.rpy:1948
 translate german ep023_nadya_sex_c716e140:
@@ -8544,311 +8544,311 @@ translate german strings:
     old "Just lie together"
     new "Bleibt einfach zusammen liegen"
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-09 20:57
 
 # game/episode023_conversations.rpy:176
 translate german ep023_lilly_talk_6f4907eb:
 
     # "I kissed her again, and we settled on her bed."
-    ""
+    "Ich küsste sie erneut, und wir ließen uns auf ihrem Bett nieder."
 
 # game/episode023_conversations.rpy:192
 translate german ep023_lilly_talk_9de3509c:
 
     # l "Oh yes, and you’re not going to like it."
-    l ""
+    l "Oh ja, und das wird dir nicht gefallen."
 
 # game/episode023_conversations.rpy:202
 translate german ep023_lilly_talk_3ba007ba:
 
     # l "Their terror campaign has continued pretty much unabated."
-    l ""
+    l "Ihre Terrorkampagne wurde so gut wie ungebremst fortgesetzt."
 
 # game/episode023_conversations.rpy:243
 translate german ep023_lilly_talk_dbae051e:
 
     # c "Him and his newfound powers."
-    c ""
+    c "Er und seine neu entdeckten Kräfte."
 
 # game/episode023_conversations.rpy:275
 translate german ep023_lilly_talk_a69cadac:
 
     # ag "The Sovereignty will never bow to terror, and so I’ve asked the Terran Galactic Navy to carry out a series of punitive actions against those territories that have a history of being outright hostile and disloyal to our great nation."
-    ag ""
+    ag "Die Souveränität wird sich niemals dem Terror beugen, und deshalb habe ich die Terranische Galaktische Marine beauftragt, eine Reihe von Strafmaßnahmen gegen jene Gebiete durchzuführen, die in der Vergangenheit unserer großen Nation gegenüber offen feindselig und illoyal waren."
 
 # game/episode023_conversations.rpy:276
 translate german ep023_lilly_talk_c1c5bf79:
 
     # ag "Orbital bombardments are being carried out in the Dra-Hynyn and Ovalt Vhil systems at this time."
-    ag ""
+    ag "Derzeit werden Orbitalbombardements in den Systemen Dra-Hynyn und Ovalt Vhil durchgeführt."
 
 # game/episode023_conversations.rpy:277
 translate german ep023_lilly_talk_aa344549:
 
     # ag "We will not hesitate to bring the full military might of the Sovereignty to bear against anyone who dares to oppose us."
-    ag ""
+    ag "Wir werden nicht zögern, die gesamte militärische Macht der Souveränität gegen jeden einzusetzen, der es wagt, sich uns entgegenzustellen."
 
 # game/episode023_conversations.rpy:287
 translate german ep023_lilly_talk_3a004664:
 
     # l "Those bombardments are a prelude to all-out war, aren’t they?"
-    l ""
+    l "Diese Bombardierungen sind doch nur ein Vorspiel zum totalen Krieg, nicht wahr?"
 
 # game/episode023_conversations.rpy:288
 translate german ep023_lilly_talk_57a22d4e:
 
     # c "Yes, I also think the Council had been planning a false flag operation to legitimize those new military conquests on its own."
-    c ""
+    c "Ja, ich glaube auch, dass der Rat eine False-Flag-Operation geplant hatte, um diese neuen militärischen Eroberungen im Alleingang zu legitimieren."
 
 # game/episode023_conversations.rpy:302
 translate german ep023_lilly_talk_c3136656:
 
     # c "I need to confirm some details first, but I’ll call a family meeting as soon as I have."
-    c ""
+    c "Ich muss vorher noch einige Details klären, aber sobald ich das getan habe, werde ich ein Familientreffen einberufen."
 
 # game/episode023_conversations.rpy:304
 translate german ep023_lilly_talk_137f7ee0:
 
     # c "I need to confirm some details first, but I’ll call a meeting as soon as I have."
-    c ""
+    c "Ich muss vorher noch einige Details klären, aber sobald ich das getan habe, werde ich ein Treffen einberufen."
 
 # game/episode023_conversations.rpy:306
 translate german ep023_lilly_talk_001143f5:
 
     # c "Don’t worry, I’m not going to do anything rash."
-    c ""
+    c "Keine Sorge, ich werde nichts Unüberlegtes tun."
 
 # game/episode023_conversations.rpy:308
 translate german ep023_lilly_talk_ea5d98cf:
 
     # l "I trust you, [p_name_short]."
-    l ""
+    l "Ich vertraue dir, [p_name_short]."
 
 # game/episode023_conversations.rpy:309
 translate german ep023_lilly_talk_0604019d:
 
     # c "And I love you."
-    c ""
+    c "Und ich liebe dich."
 
 # game/episode023_conversations.rpy:396
 translate german ep023_lilly_second_talk_2e9aa1c8:
 
     # "This might shock you, but I want you all to know that we chose this path for us, and we’re happy together."
-    ""
+    "Das mag euch schockieren, aber ich möchte, dass ihr alle wisst, dass wir diesen Weg für uns gewählt haben und dass wir glücklich miteinander sind."
 
 # game/episode023_conversations.rpy:578
 translate german ep023_lilly_second_talk_0208cc89:
 
     # av "It is, isn’t it?"
-    av ""
+    av "Das ist es, nicht wahr?"
 
 # game/episode023_conversations.rpy:579
 translate german ep023_lilly_second_talk_d93540ff:
 
     # av "Congrats to you too!"
-    av ""
+    av "Herzlichen Glückwunsch auch an dich!"
 
 # game/episode023_conversations.rpy:607
 translate german ep023_lilly_second_talk_44aefc18:
 
     # l "It’s the best ever!"
-    l ""
+    l "Es ist das Beste überhaupt!"
 
 # game/episode023_conversations.rpy:690
 translate german ep023_nadya_talk_76e26f48:
 
     # "I took my girlfriend in my arms and kissed her deeply."
-    ""
+    "Ich nahm meine Freundin in meine Arme und küsste sie innig."
 
 # game/episode023_conversations.rpy:707
 translate german ep023_nadya_talk_46d487ef:
 
     # c "I know, and I don’t begrudge your concern at all."
-    c ""
+    c "Ich weiß, und ich nehme Ihre Besorgnis keineswegs übel."
 
 # game/episode023_conversations.rpy:738
 translate german ep023_nadya_talk_dbc1b228:
 
     # na "In that case he has something to do with it."
-    na ""
+    na "In diesem Fall hat er etwas damit zu tun."
 
 # game/episode023_conversations.rpy:850
 translate german ep023_nadya_second_talk_373f1bd2:
 
     # c "We both decided we wanted this, and I still do."
-    c ""
+    c "Wir haben beide beschlossen, dass wir das wollen, und ich will es immer noch."
 
 # game/episode023_conversations.rpy:862
 translate german ep023_nadya_second_talk_fc9b6787:
 
     # c "You won’t, and I won’t let anything happen to you and the baby."
-    c ""
+    c "Du wirst es nicht tun, und ich werde nicht zulassen, dass dir und dem Baby etwas zustößt."
 
 # game/episode023_conversations.rpy:863
 translate german ep023_nadya_second_talk_2bb9cdd8:
 
     # c "Shall we talk about happy things now, there’s been enough doom and gloom for one day, I’d say?"
-    c ""
+    c "Wollen wir jetzt über erfreuliche Dinge reden? Es gab genug Trübsal und Elend für heute, würde ich sagen."
 
 # game/episode023_conversations.rpy:907
 translate german ep023_nadya_second_talk_333e8773:
 
     # "We lay together in companionable silence until the intercom crackled to announce that breakfast was ready."
-    ""
+    "Wir lagen in angenehmer Stille beieinander, bis die Gegensprechanlage knackte und verkündete, dass das Frühstück fertig sei."
 
 # game/episode023_conversations.rpy:1048
 translate german ep023_aven_talk_eaef5bf4:
 
     # av "The remaining soldiers all received a simultaneous radio broadcast, and then they just marched out, leaving us behind."
-    av ""
+    av "Die übrigen Soldaten erhielten alle gleichzeitig eine Funkdurchsage und marschierten dann einfach los, uns zurücklassend."
 
 # game/episode023_conversations.rpy:1055
 translate german ep023_aven_talk_33c4d3b1:
 
     # av "Considering what happened to you, I think that’s a reasonable assumption."
-    av ""
+    av "In Anbetracht dessen, was Ihnen widerfahren ist, halte ich das für eine berechtigte Annahme."
 
 # game/episode023_conversations.rpy:1148
 translate german ep023_aven_second_talk_d4cad0e5:
 
     # av "This might shock you, but I want you all to know that we chose this path for us, and we’re happy together."
-    av ""
+    av "Das mag euch schockieren, aber ich möchte, dass ihr alle wisst, dass wir diesen Weg für uns gewählt haben und dass wir glücklich miteinander sind."
 
 # game/episode023_conversations.rpy:1365
 translate german ep023_thyia_talk_d23492b5:
 
     # ur "Sir, you shouldn’t squeeze those flesh protrusions in a lascivious manner."
-    ur ""
+    ur "Sir, Sie sollten diese Fleischvorsprünge nicht auf lüsterne Weise quetschen."
 
 # game/episode023_conversations.rpy:1405
 translate german ep023_thyia_talk_e54cd966:
 
     # c "At least he has an off switch, which can’t be said for all loudmouthed prudes."
-    c ""
+    c "Zumindest hat er einen Ausschalter, was man nicht von allen großmäuligen Spießern behaupten kann."
 
 # game/episode023_conversations.rpy:1450
 translate german ep023_thyia_talk_ce00d2a3:
 
     # th "Have you thought about what you’re going to do now?"
-    th ""
+    th "Hast du dir schon überlegt, was du jetzt tun wirst?"
 
 # game/episode023_conversations.rpy:1521
 translate german ep023_vess_talk_321c5b87:
 
     # ve "No, you’re right."
-    ve ""
+    ve "Nein, du hast Recht."
 
 # game/episode023_conversations.rpy:1581
 translate german ep023_vess_talk_ef4ac925:
 
     # "Vess and I kissed goodbye and I went on my way again."
-    ""
+    "Vess und ich küssten uns zum Abschied und ich ging wieder meines Weges."
 
 # game/episode023_conversations.rpy:1626
 translate german ep023_vess_talk_54e14e52:
 
     # c "My father killed your former master as soon as he learned enough from the Confessor."
-    c ""
+    c "Mein Vater hat euren früheren Herrn getötet, sobald er genug vom Bekenner erfahren hatte."
 
 # game/episode023_conversations.rpy:1630
 translate german ep023_vess_talk_15b13be5:
 
     # c "Yes, I thought so too."
-    c ""
+    c "Ja, das dachte ich auch."
 
 # game/episode023_conversations.rpy:1637
 translate german ep023_vess_talk_66e60e2c:
 
     # ve "The Handmaidens are more like a cult, so if the strong leader isn’t around anymore, I guess their morale would be in total disarray."
-    ve ""
+    ve "Die Handmaidens sind eher wie ein Kult, und wenn die starke Anführerin nicht mehr da ist, dürfte ihre Moral wohl völlig zusammenbrechen."
 
 # game/episode023_conversations.rpy:1716
 translate german ep023_jade_celine_talk_16e9f3d6:
 
     # j "Not that bad, only minor stuff, apart from the compromised probes."
-    j ""
+    j "Nicht so schlimm, nur Kleinigkeiten, abgesehen von den beschädigten Sonden."
 
 # game/episode023_conversations.rpy:1739
 translate german ep023_raene_talk_f2d25239:
 
     # "The door to Ziv’s quarters was ajar, and I could hear voices inside."
-    ""
+    "Die Tür zu Zivs Quartier stand einen Spalt offen, und ich konnte Stimmen von drinnen hören."
 
 # game/episode023_conversations.rpy:1805
 translate german ep023_raene_talk_a9c3d37f:
 
     # c "You weren’t in your quarters, so I went and looked and found you here."
-    c ""
+    c "Du warst nicht in deinem Quartier, also ging ich hin und suchte nach und fand dich hier."
 
 # game/episode023_conversations.rpy:1846
 translate german ep023_raene_talk_24eafd7f:
 
     # c "I’m happy for you, Raene!"
-    c ""
+    c "Ich freue mich für dich, Raene!"
 
 # game/episode023_conversations.rpy:1853
 translate german ep023_raene_talk_cad3cbe2:
 
     # c "I’m going to hash them out with some of the crew first, and then I’ll get back to you."
-    c ""
+    c "Ich werde das erst einmal mit einigen Leuten aus der Crew besprechen und mich dann wieder bei Ihnen melden."
 
 # game/episode023_conversations.rpy:2007
 translate german ep023_nadya_sex_4db65f77:
 
     # "The contractions of her cunt heightened my pleasure immensely, and I was surprised by how quickly my orgasm arose."
-    ""
+    "Die Kontraktionen ihrer Vagina steigerten mein Vergnügen ungemein, und ich war überrascht, wie schnell mein Orgasmus eintrat."
 
 # game/episode023_conversations.rpy:2138
 translate german ep023_raene_ziv_sex_f2d1366b:
 
     # ra "It’s just that you’re both looking at me like you want me."
-    ra ""
+    ra "Es ist einfach so, dass ihr mich beide so anschaut, als ob ihr mich wollt."
 
 # game/episode023_conversations.rpy:2173
 translate german ep023_raene_ziv_sex_0ba895e3:
 
     # zi "I can’t wait to feel that tight ass of yours, Raene."
-    zi ""
+    zi "Ich kann es kaum erwarten, deinen knackigen Hintern zu spüren, Raene."
 
 # game/episode023_conversations.rpy:2501
 translate german ep023_raene_ziv_fucking_ec868b29:
 
     # "Raene, Ziv and I remained on the bed for a long while, talking and enjoying the afterglow."
-    ""
+    "Raene, Ziv und ich blieben noch lange auf dem Bett liegen, unterhielten uns und genossen die Nachwirkungen."
 
 # game/episode023_conversations.rpy:2609
 translate german ep023_ziv_climax_eafa6779:
 
     # "I was the first to explode, pumping Ziv’s asshole full of warm seed."
-    ""
+    "Ich war der Erste, der kam und Zivs Arschloch mit warmem Samen füllte."
 
 # game/episode023_conversations.rpy:2628
 translate german ep023_ziv_climax_a9af6eeb:
 
     # "Both Raene and I pulled out of Ziv and kneeled before her."
-    ""
+    "Raene und ich zogen uns beide aus Ziv zurück und knieten vor ihr nieder."
 
 # game/episode023_conversations.rpy:2630
 translate german ep023_ziv_climax_629a7f0f:
 
     # "Both Raene and I kneeled before Ziv."
-    ""
+    "Raene und ich knieten beide vor Ziv nieder."
 
 # game/episode023_conversations.rpy:2644
 translate german ep023_ziv_climax_a9af6eeb_1:
 
     # "Both Raene and I pulled out of Ziv and kneeled before her."
-    ""
+    "Raene und ich zogen uns beide aus Ziv zurück und knieten vor ihr nieder."
 
 # game/episode023_conversations.rpy:2646
 translate german ep023_ziv_climax_629a7f0f_1:
 
     # "Both Raene and I kneeled before Ziv."
-    ""
+    "Raene und ich knieten beide vor Ziv nieder."
 
 # game/episode023_conversations.rpy:2700
 translate german ep023_ziv_climax_309d7a68:
 
     # "Ziv kissed her friend, and together they exchanged the semen mixture."
-    ""
+    "Ziv küsste ihre Freundin, und gemeinsam tauschten sie die Samenmischung aus."
 

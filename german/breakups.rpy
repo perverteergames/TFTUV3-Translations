@@ -1731,10 +1731,6 @@ translate german breakup_jade_26ac6d73:
 translate german strings:
 
     # game/breakups.rpy:82
-    old "Leave"
-    new "Geh"
-
-    # game/breakups.rpy:82
     old "Try to explain"
     new "Versuch es zu erklären"
 
@@ -1762,11 +1758,11 @@ translate german strings:
     old "Evade"
     new "Ausweichen"
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-09 20:57
 
 # game/breakups.rpy:427
 translate german breakup_eva_a0ed6a6c:
 
     # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
-    ""
+    "Ich zog mich zurück und schloss die Tür hinter mir, während Eva in Tränen ausbrach."
 
