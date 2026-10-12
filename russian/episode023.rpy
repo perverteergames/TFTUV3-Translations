@@ -1120,7 +1120,7 @@ translate russian episode023_f1b23641:
 translate russian episode023_78a4f5de:
 
     # th "I’m going back to the engine room, see if I can get that stupid robot of mine to fall in line."
-    th "Пойду проверю двигатель, вдруг удастся привести моего туповатого робота в порядок."
+    th "Я возвращаюсь в машинное отделение, вдруг удастся привести моего туповатого робота в порядок."
 
 # game/episode023.rpy:379
 translate russian episode023_b9314550:
@@ -7632,349 +7632,486 @@ translate russian strings:
     old "Lick Aven"
     new "Куни для Эвин"
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-10 19:12
 
 # game/episode023.rpy:57
 translate russian episode023_80dd9b2f:
 
     # "The lights in the room emitted a humming sound, and soon I perceived every single mechanical part in the temple, from the air filters to the groan of a generator far below."
-    ""
+    "Свет в комнате гудел, и вскоре я расслышал каждую механическую деталь в храме: от воздушных фильтров до натужного гула генератора где-то далеко внизу."
 
 # game/episode023.rpy:228
 translate russian episode023_fe0cf46c:
 
     # na "And at the same time, I couldn’t be happier."
-    na ""
+    na "И в то же время я не могу быть счастливее."
 
 # game/episode023.rpy:246
 translate russian episode023_8e946706:
 
     # na "This is such a special moment, and I’m sure Eva and I will bond even more as we progress into motherhood."
-    na ""
+    na "Это такой особенный момент, и я уверена, что наши отношения с Евой станут ещё крепче, пока мы будем познавать радости материнства."
 
 # game/episode023.rpy:248
 translate russian episode023_7bbe5278:
 
     # na "But you have to be a part of it too, I simply won’t settle for anything less."
-    na ""
+    na "Но и ты должен быть частью этого, на меньшее я не согласна."
 
 # game/episode023.rpy:276
 translate russian episode023_7de3eb3d:
 
     # ra "Eva is out of the medbay, the autodoc declared her healthy again."
-    ra ""
+    ra "Ева покинула медпункт, автодок подтвердил, что она здорова."
 
 # game/episode023.rpy:354
 translate russian episode023_eac3edd8:
 
     # th "Lilly bursts into tears randomly and I get that she’s sad, but it’s almost like she’s hormonal or something."
-    th ""
+    th "У Лилли случаются внезапные приступы плача, но, наверное, это гормоны, поэтому ей прощается, раз уж она беременна."
 
 # game/episode023.rpy:356
 translate russian episode023_6be2de5b:
 
     # th "Aven bursts into tears randomly and I get that she’s sad, but it’s almost like she’s hormonal or something."
-    th ""
+    th "У Эвин случаются внезапные приступы плача, но, наверное, это гормоны, поэтому ей прощается, раз уж она беременна."
 
 # game/episode023.rpy:358
 translate russian episode023_be658b24:
 
     # th "Nadya bursts into tears randomly and I get that she’s sad, but it’s almost like she’s hormonal or something."
-    th ""
+    th "У Надии случаются внезапные приступы плача, но, наверное, это гормоны, поэтому ей прощается, раз уж она беременна."
 
 # game/episode023.rpy:379
 translate russian episode023_57603866:
 
     # th "Yeah, I am."
-    th ""
+    th "Да, это точно."
 
 # game/episode023.rpy:381
 translate russian episode023_996d5e35:
 
     # th "I’m going back to the engine room to see if I can get that stupid robot of mine to fall in line."
-    th ""
+    th "Я возвращаюсь в машинное отделение, вдруг удастся привести моего туповатого робота в порядок."
 
 # game/episode023.rpy:497
 translate russian episode023_88e73660:
 
     # c "You were dead, and I couldn’t live with that."
-    c ""
+    c "Ты умерла, и я не мог с этим смириться."
 
 # game/episode023.rpy:550
 translate russian episode023_56524555:
 
     # t "I think this is far enough, as exertion goes."
-    t ""
+    t "Полагаю, на сегодня хватит активности."
 
 # game/episode023.rpy:556
 translate russian episode023_ac889366:
 
     # na "I think this is far enough, as exertion goes."
-    na ""
+    na "Полагаю, на сегодня хватит активности."
 
 # game/episode023.rpy:578
 translate russian episode023_8356c041:
 
     # c "We’re nowhere near that planet, are we?"
-    c ""
+    c "Мы ведь далеко от этой планеты, не так ли?"
 
 # game/episode023.rpy:614
 translate russian episode023_8c714597:
 
     # "When I could roam around the immediate surroundings of the medbay without needing several hours of sleep afterward, Thim deemed me fit enough for release out of the medbay."
-    ""
+    "Когда я получил возможность передвигаться по окрестностям медицинского отсека без последующего многочасового сна, Тхим решил, что я готов к выписке из медотсека."
 
 # game/episode023.rpy:616
 translate russian episode023_4ee63d89:
 
     # "When I could roam around the immediate surroundings of the medbay without needing several hours of sleep afterward, the autodoc deemed me fit enough for release out of the medbay."
-    ""
+    "Когда я получил возможность передвигаться по окрестностям медицинского отсека без последующего многочасового сна, автодок решил, что я готов к выписке из медотсека."
 
 # game/episode023.rpy:623
 translate russian episode023_cf24eb80:
 
     # "As I was exiting the medbay to take up permanent residence in my quarters again, I ran into Kit, who immediately bundled me up in a tight embrace."
-    ""
+    "Когда я выходил из медотсека, чтобы снова обосноваться в своей каюте, я столкнулся с Китом, который тут же заключил меня в крепкие объятия."
 
 # game/episode023.rpy:641
 translate russian episode023_e0f2be8d:
 
     # ki "Yeah, me."
-    ki ""
+    ki "Да, я."
 
 # game/episode023.rpy:758
 translate russian ep023_test_08c590d0:
 
     # "Nadya gasped, and I could feel Thim’s disbelieving eyes upon me."
-    ""
+    "Надия ахнула, и я почувствовал на себе недоверчивый взгляд Тхима."
 
 # game/episode023.rpy:813
 translate russian ep023_test_1e86de3d:
 
     # "The awareness came more readily now, and I had the object floating in seconds."
-    ""
+    "Теперь понимание приходило быстрее, и я заставил объект взлететь всего за несколько секунд."
 
 # game/episode023.rpy:940
 translate russian ep023_crew_964aa129:
 
     # c "Of course, I’m going to train and see how far I can push myself, but we can’t ignore the edge my abilities would give me."
-    c ""
+    c "Разумеется, я буду тренироваться и посмотрю, как далеко смогу продвинуться, но нельзя забывать о преимуществах моих способностей."
 
 # game/episode023.rpy:949
 translate russian ep023_crew_c58e04f1:
 
     # l "The Council has been massacred, and we think it’s his doing."
-    l ""
+    l "Совет перебили, и мы полагаем, что это его рук дело."
 
 # game/episode023.rpy:962
 translate russian ep023_crew_87f19f79:
 
     # c "They’re likely going to invade their neighbors very soon, using the attack on the Council as a pretext."
-    c ""
+    c "Скорее всего, они очень скоро вторгнутся в соседние земли, использовав нападение на Совет как предлог."
 
 # game/episode023.rpy:972
 translate russian ep023_crew_1e01f824:
 
     # c "The inconvenient truth of how he got his special powers by sacrificing an innocent girl is something he probably won’t tolerate."
-    c ""
+    c "Неудобная правда о том, как он получил свои особые способности, пожертвовав одной из дочерей, вероятно, для него неприемлема."
 
 # game/episode023.rpy:976
 translate russian ep023_crew_9825f484:
 
     # c "Yes, he will."
-    c ""
+    c "Да, всё верно."
 
 # game/episode023.rpy:994
 translate russian ep023_crew_08c124e9:
 
     # c "Then there are those domestic terrorists, like the Auric Exemplar."
-    c ""
+    c "Вину за убийство пытаются возложить на местных террористов при содействии иностранных агентов."
 
 # game/episode023.rpy:1000
 translate russian ep023_crew_2ae08a0f:
 
     # c "Running and hiding until we’re found out and killed by Sovereignty operatives."
-    c ""
+    c "Прятаться и убегать, пока о нашем местонахождении не узнают агенты Суверенитета и не расправятся с нами."
 
 # game/episode023.rpy:1256
 translate russian ep023_crew_6273f75c:
 
     # c "The resistance will be planned carefully and with as little risk as possible."
-    c ""
+    c "Сопротивление будет планироваться тщательно и с минимальным риском."
 
 # game/episode023.rpy:1263
 translate russian ep023_crew_804c8600:
 
     # c "Agust and I have undergone the same power transfer, so we should be evenly matched."
-    c ""
+    c "Мы с Агустом прошли через одинаковый процесс передачи силы, поэтому мы будем на равных."
 
 # game/episode023.rpy:1413
 translate russian ep023_crew_373f1bd2:
 
     # c "We both decided we wanted this, and I still do."
-    c ""
+    c "Мы вместе приняли решение, и моё желание не угасло."
 
 # game/episode023.rpy:1418
 translate russian ep023_crew_6ca12e31:
 
     # na "What if you’d come out of that coma all changed?"
-    na ""
+    na "Что если бы ты вышел из комы совершенно другим человеком?"
 
 # game/episode023.rpy:1423
 translate russian ep023_crew_fc9b6787:
 
     # c "You won’t, and I won’t let anything happen to you and the baby."
-    c ""
+    c "Ничего с тобой и малышом не случится — я этого не допущу."
 
 # game/episode023.rpy:1424
 translate russian ep023_crew_2bb9cdd8:
 
     # c "Shall we talk about happy things now, there’s been enough doom and gloom for one day, I’d say?"
-    c ""
+    c "Давай обсудим что-нибудь радостное, мне кажется, на сегодня и так хватило всего этого мрака."
 
 # game/episode023.rpy:1480
 translate russian ep023_crew_8b2422f6:
 
     # "I left the girls talking exuberantly about Nadya’s happy news and prepared to inform the rest of the crew."
-    ""
+    "Я оставил девушек, которые оживлённо обсуждали радостную новость своей матери, и приготовился сообщить это остальным членам команды."
 
 # game/episode023.rpy:1519
 translate russian ep023_tubloshi_00998f18:
 
     # ha "You may dock with our ship, and we will welcome you personally."
-    ha ""
+    ha "Вы можете состыковаться с нашим кораблём, и мы лично поприветствуем вас."
 
 # game/episode023.rpy:1537
 translate russian ep023_tubloshi_448ae811:
 
     # "Finally, the doors opened and two giant Tubloshi warriors came in, with Hannah in front."
-    ""
+    "Двери наконец распахнулись, и в коридор вошли два огромных воина Тублоши, с Ханной впереди."
 
 # game/episode023.rpy:1557
 translate russian ep023_tubloshi_5ff3ccae:
 
     # "Did she forget me and invite someone else into her bed in the meantime?"
-    ""
+    "Неужели она забыла меня и тем временем пригласила кого-то другого к себе в постель?"
 
 # game/episode023.rpy:1919
 translate russian ep023_group_sex_licking_14217b10:
 
     # "Lilly writhed under our attention, her moans becoming increasingly more jagged."
-    ""
+    "Лилли извивалась под нашими ласками, её стоны становились всё более резкими."
 
 # game/episode023.rpy:2005
 translate russian ep023_group_sex_licking_fc98a105:
 
     # "My tongue began its journey across my sister’s wet slit, from her taint to the hood, where her throbbing clit was on full display."
-    ""
+    "Мой язык начал путешествие по влажной щели сестры, от её заднего прохода к капюшону, под которым виднелся разбухший клитор."
 
 # game/episode023.rpy:2011
 translate russian ep023_group_sex_licking_7c5ec479:
 
     # "My tongue began its journey across Eva’s wet slit, from her taint to the hood, where her throbbing clit was on full display."
-    ""
+    "Мой язык начал путешествие по влажной щели Евы, от её заднего прохода к капюшону, под которым виднелся разбухший клитор."
 
 # game/episode023.rpy:2090
 translate russian ep023_group_sex_licking_9431ba85:
 
     # "Eva muffled Aven’s screams by tongue kissing her, and I knew we were in the final stretches."
-    ""
+    "Ева заглушала крики Эвин поцелуем с языком, и я понял, что мы подошли к финалу."
 
 # game/episode023.rpy:2141
 translate russian ep023_group_sex_licking_e52feb33:
 
     # "By the time I’d made all my sisters cum, my dick was painfully hard, and I longed for a release."
-    ""
+    "К тому времени, как все мои сёстры испытали оргазм, мой член болезненно затвердел, и я жаждал разрядки."
 
 # game/episode023.rpy:2143
 translate russian ep023_group_sex_licking_c94fe9bb:
 
     # "By the time I’d made all my girlfriends cum, my dick was painfully hard, and I longed for a release."
-    ""
+    "К тому времени, как все девушки испытали оргазм, мой член болезненно затвердел, и я жаждал разрядки."
 
 # game/episode023.rpy:2146
 translate russian ep023_group_sex_licking_ea5c4719:
 
     # "By the time I’d made both my sisters cum, my dick was painfully hard, and I longed for a release."
-    ""
+    "К тому времени, как обе мои сестры испытали оргазм, мой член болезненно затвердел, и я жаждал разрядки."
 
 # game/episode023.rpy:2148
 translate russian ep023_group_sex_licking_7fec6155:
 
     # "By the time I’d made both my girlfriends cum, my dick was painfully hard, and I longed for a release."
-    ""
+    "К тому времени, как обе мои подруги испытали оргазм, мой член болезненно затвердел, и я жаждал разрядки."
 
 # game/episode023.rpy:2179
 translate russian ep023_group_sex_fucking_8a1d058d:
 
     # "By grinding on top of me so intensely, my sister had smeared my abdomen with her own grool."
-    ""
+    "Сестра так интенсивно тёрлась об меня сверху, что перепачкала мой живот своими соками."
 
 # game/episode023.rpy:2181
 translate russian ep023_group_sex_fucking_8b922184:
 
     # "By grinding on top of me so intensely, my girlfriend had smeared my abdomen with her own grool."
-    ""
+    "Девушка так интенсивно тёрлась об меня сверху, что перепачкала мой живот своими соками."
 
 # game/episode023.rpy:2243
 translate russian ep023_group_sex_fucking_7c775073:
 
     # "Aven played with Lilly’s breasts, and I didn’t know where Eva was, until I felt her hand cupping my balls."
-    ""
+    "Эвин играла с грудью Лилли, и я понятия не имел, где Ева, пока не почувствовал её руку на своих яйцах."
 
 # game/episode023.rpy:2245
 translate russian ep023_group_sex_fucking_6a7cc454:
 
     # "I didn’t know where Eva was until I felt her hand cupping my balls."
-    ""
+    "Я понятия не имел, где Ева, пока не почувствовал её руку на своих яйцах."
 
 # game/episode023.rpy:2630
 translate russian ep023_group_sex_fucking_47d48f83:
 
     # c "Well, we fit on this bed together, so let’s all sleep together from now on."
-    c ""
+    c "Ну раз мы все помещаемся на этой кровати, давайте с этого момента будем спать вместе?"
 
 # game/episode023.rpy:2637
 translate russian ep023_group_sex_fucking_480f763d:
 
     # c "You have to admit, you all seem to be insatiable..."
-    c ""
+    c "Признайте же, что вы все ненасытны..."
 
-translate russian strings:
+# TODO: Translation updated at 2026-09-12 18:15
 
-    # game/episode023.rpy:125
-    old "Man"
-    new ""
+# game/episode023.rpy:142
+translate russian episode023_b048b836:
 
-    # game/episode023.rpy:2150
-    old "Fuck Eva"
-    new ""
+    # "The machines blare now, frantic noises, people on edge."
+    "Аппараты надрываются, раздаются тревожные звуки, люди на пределе."
 
-    # game/episode023.rpy:2150
-    old "Fuck Lilly"
-    new ""
+# game/episode023.rpy:326
+translate russian episode023_4bc66f48:
 
-    # game/episode023.rpy:2150
-    old "Fuck Aven"
-    new ""
+    # l "I miss my big brother, making me laugh or even just annoying the hell out of me."
+    l "Я скучаю по своему старшему брату, который заставлял меня смеяться или просто выводил меня из себя."
 
-    # game/episode023.rpy:2373
-    old "Creampie Eva"
-    new ""
+# game/episode023.rpy:328
+translate russian episode023_34c31a83:
 
-    # game/episode023.rpy:2373
-    old "Creampie Lilly"
-    new ""
+    # l "I miss my friend, making me laugh or even just annoying the hell out of me."
+    l "Я скучаю по своему другу, который заставлял меня смеяться или просто выводил меня из себя."
 
-    # game/episode023.rpy:2373
-    old "Creampie Aven"
-    new ""
+# game/episode023.rpy:419
+translate russian episode023_a3092952:
 
-    # game/episode023.rpy:2373
-    old "Cover their bodies"
-    new ""
+    # "The warm feel of her skin."
+    "Пульсирующее тепло её кожи."
 
-    # game/episode023.rpy:2373
-    old "Cover their faces"
-    new ""
+# game/episode023.rpy:513
+translate russian episode023_a047f240:
 
+    # c "I understood what made your body and the baby’s tick, so I fixed them."
+    c "До меня дошло, как всё устроено в твоём теле и в организме малыша, и я всё исправил."
+
+# game/episode023.rpy:527
+translate russian episode023_a31ffad1:
+
+    # t "Eva and her baby are as healthy as can be."
+    t "Ева и её ребёнок здоровы настолько, насколько это возможно."
+
+# game/episode023.rpy:529
+translate russian episode023_faa40c8b:
+
+    # t "Eva is as healthy as can be."
+    t "Ева и её малыш абсолютно здоровы."
+
+# game/episode023.rpy:535
+translate russian episode023_ccd60af8:
+
+    # na "The autodoc tells us that Eva and her baby are as healthy as can be."
+    na "Согласно отчёту автодока, Ева и её малыш здоровы настолько, насколько это возможно."
+
+# game/episode023.rpy:537
+translate russian episode023_a38954e8:
+
+    # na "The autodoc tells us that Eva is as healthy as can be."
+    na "Согласно отчёту автодока, Ева здорова настолько, насколько это возможно."
+
+# game/episode023.rpy:727
+translate russian ep023_test_ce591bb5:
+
+    # na "Stop as soon as you feel something is wrong."
+    na "Остановись, как только почувствуешь что-то неладное."
+
+# game/episode023.rpy:739
+translate russian ep023_test_ce591bb5_1:
+
+    # na "Stop as soon as you feel something is wrong."
+    na "Остановись, как только почувствуешь что-то неладное."
+
+# game/episode023.rpy:973
+translate russian ep023_crew_4fcf725f:
+
+    # c "Not to mention that his son somehow acquired the same power."
+    c "Не говоря уже о том, что его сын каким-то образом обрёл ту же силу."
+
+# game/episode023.rpy:1250
+translate russian ep023_crew_e376944e:
+
+    # c "I don’t want our child to grow up as prey, hunted by the Sovereignty."
+    c "Я не хочу, чтобы наш ребёнок рос добычей, за которой охотится Суверенитет."
+
+# game/episode023.rpy:1346
+translate russian ep023_crew_aec8cdb9:
+
+    # av "No Mom, I don’t want to know more."
+    av "Нет, мам, я не хочу больше ничего знать."
+
+# game/episode023.rpy:1348
+translate russian ep023_crew_2bfa9490:
+
+    # av "No Nadya, I don’t want to know more."
+    av "Нет, Надия, я не хочу больше ничего знать."
+
+# game/episode023.rpy:1373
+translate russian ep023_crew_bfe7a078:
+
+    # l "No Mom, I don’t want to know more."
+    l "Нет, мам, я не хочу больше ничего знать."
+
+# game/episode023.rpy:1375
+translate russian ep023_crew_c184f44d:
+
+    # l "No Nadya, I don’t want to know more."
+    l "Нет, Надия, я не хочу больше ничего знать."
+
+# game/episode023.rpy:1392
+translate russian ep023_crew_abd21a4e:
+
+    # e "No Mom, I don’t want to know more."
+    e "Нет, мам, я не хочу больше ничего знать."
+
+# game/episode023.rpy:1394
+translate russian ep023_crew_77a9cac4:
+
+    # e "No Nadya, I don’t want to know more."
+    e "Нет, Надия, я не хочу больше ничего знать."
+
+# game/episode023.rpy:1422
+translate russian ep023_crew_0f1544e1:
+
+    # na "We’d be all alone in the galaxy, running from the Sovereignty."
+    na "Мы оказались бы совсем одни во всей галактике, прячась от Суверенитета."
+
+# game/episode023.rpy:1423
+translate russian ep023_crew_8c7a2d22:
+
+    # na "My pregnancy would be a risk, a liability even."
+    na "Моя беременность стала бы риском, даже обузой."
+
+# game/episode023.rpy:1428
+translate russian ep023_crew_8de99fab:
+
+    # c "Shall we talk about happy things now?"
+    c "Может обсудим что-нибудь радостное?"
+
+# game/episode023.rpy:1429
+translate russian ep023_crew_376bfcdc:
+
+    # c "I’d say there’s been enough doom and gloom for one day."
+    c "Мне кажется, на сегодня и так хватило всего этого мрака."
+
+# game/episode023.rpy:1442
+translate russian ep023_crew_3f2fc647:
+
+    # na "The girls’ reaction just now was what I feared too."
+    na "Реакция девушек подтвердила мои худшие опасения."
+
+# game/episode023.rpy:2128
+translate russian ep023_group_sex_licking_fb8ab38a:
+
+    # "Both my sisters’ faces were wet with Aven’s ejaculate."
+    "Лица моих сестёр намокли от выделений Эвин."
+
+# game/episode023.rpy:2205
+translate russian ep023_group_sex_fucking_d64efb70:
+
+    # "I was pretty sure their offered breasts and pussies were a subtle reminder that they wanted to be fucked as well."
+    "Я был уверен, что их выставленные напоказ груди и киски — это завуалированное напоминание о том, что они тоже хотят, чтобы их оттрахали."
+
+# game/episode023.rpy:2207
+translate russian ep023_group_sex_fucking_a72bc1fe:
+
+    # "I was pretty sure their offered breasts and pussies were a subtle reminder that they wanted to be fucked again."
+    "Я был уверен, что их выставленные напоказ груди и киски — это завуалированное напоминание о том, что они хотят, чтобы их снова оттрахали."
+
+# game/episode023.rpy:2279
+translate russian ep023_group_sex_fucking_e590a344:
+
+    # av "Fuck your sister’s pussy hard, [p_name_short]."
+    av "Трахай эту киску ещё жёстче, [p_name_short]."
+
+# game/episode023.rpy:2290
+translate russian ep023_group_sex_fucking_a53fe6e1:
+
+    # e "Fuck your sister’s pussy hard, [p_name_short]."
+    e "Трахай киску своей сестры ещё жёстче, [p_name_short]."

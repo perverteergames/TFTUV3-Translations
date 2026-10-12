@@ -234,15 +234,10 @@ translate russian strings:
     old "Were trying to get into a relationship with Raene (Trans)?"
     new "Пытаешься построить отношения с Рэин (Транс)?"
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-10 19:12
 
 translate russian strings:
 
-    # game/continue.rpy:95
-    old "Anal"
-    new ""
-
     # game/continue.rpy:924
     old "The game is best enjoyed when you import a saved game from Season Two. If you've lost access to your season saves or just want to begin with Season Three you can select the most important choices from the first and second season below, all other decisions will be set to a default value."
-    new ""
-
+    new "Наибольшее удовольствие от игры можно получить, если импортировать сохранённую игру из Второго Сезона. Если вы потеряли доступ к своим сохранениям или просто хотите начать с Третьего Сезона, вы можете выбрать наиболее важные варианты из первого и второго сезонов ниже, все остальные решения будут установлены по умолчанию."

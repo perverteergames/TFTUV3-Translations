@@ -774,31 +774,54 @@ translate russian strings:
     old "Cocktail Trio"
     new "Коктейльное трио"
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-10 19:12
 
 translate russian strings:
 
     # game/scenes.rpy:3
     old "Coming Back For Seconds"
-    new ""
+    new "Возвращение за Добавкой"
 
     # game/scenes.rpy:3
     old "Inside Cé's"
-    new ""
+    new "Внутри Се"
 
     # game/scenes.rpy:3
     old "Episode #24"
-    new ""
+    new "Эпизод #24"
 
     # game/scenes.rpy:3
     old "Lost In The Translator"
-    new ""
+    new "Потерявшийся в Переводе"
 
     # game/scenes.rpy:3
     old "Uailea Union"
-    new ""
+    new "Союз Уайлии"
 
     # game/scenes.rpy:3
     old "Steamy Shower"
-    new ""
+    new "Горячий душ"
 
+# TODO: Translation updated at 2026-09-04 12:05
+
+translate russian strings:
+
+    # game/scenes.rpy:3
+    old "Transitory Thrusting"
+    new "Транзисторная возня"
+
+    # game/scenes.rpy:3
+    old "Rhenkoy Reaming"
+    new "Ренкойский римминг"
+
+    # game/scenes.rpy:3
+    old "The Queen and the Peen"
+    new "Королева и Хрен"
+
+    # game/scenes.rpy:3
+    old "Command & Conquer"
+    new "Command & Conquer"
+
+    # game/scenes.rpy:3
+    old "Priestly Perversion"
+    new "Жреческая порочность"

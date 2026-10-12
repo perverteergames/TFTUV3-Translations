@@ -5470,7 +5470,7 @@ translate russian ep023_raene_talk_e0dc1471:
 translate russian ep023_raene_talk_62fa1ff8:
 
     # "Raene got to her feet to embrace me."
-    "Рейн поднялась и заключила меня в объятия."
+    "Рэин поднялась и заключила меня в объятия."
 
 # game/episode023_conversations.rpy:1738
 translate russian ep023_raene_talk_fb8f7e1b:
@@ -8508,349 +8508,402 @@ translate russian strings:
     old "Just lie together"
     new "Просто полежать вместе"
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-10 19:12
 
 # game/episode023_conversations.rpy:176
 translate russian ep023_lilly_talk_6f4907eb:
 
     # "I kissed her again, and we settled on her bed."
-    ""
+    "Я снова поцеловал её, и мы устроились на её кровати."
 
 # game/episode023_conversations.rpy:192
 translate russian ep023_lilly_talk_9de3509c:
 
     # l "Oh yes, and you’re not going to like it."
-    l ""
+    l "А, да, и тебе это не понравится."
 
 # game/episode023_conversations.rpy:202
 translate russian ep023_lilly_talk_3ba007ba:
 
     # l "Their terror campaign has continued pretty much unabated."
-    l ""
+    l "Они не прекращают свою кампанию террора."
 
 # game/episode023_conversations.rpy:243
 translate russian ep023_lilly_talk_dbae051e:
 
     # c "Him and his newfound powers."
-    c ""
+    c "Он и его новообретённые способности."
 
 # game/episode023_conversations.rpy:275
 translate russian ep023_lilly_talk_a69cadac:
 
     # ag "The Sovereignty will never bow to terror, and so I’ve asked the Terran Galactic Navy to carry out a series of punitive actions against those territories that have a history of being outright hostile and disloyal to our great nation."
-    ag ""
+    ag "Суверенитет никогда не склонится перед террором, и поэтому я приказал Земному Галактическому Флоту провести серию карательных операций против территорий, которые проявляли постоянную враждебность и непокорность нашей великой нации."
 
 # game/episode023_conversations.rpy:276
 translate russian ep023_lilly_talk_c1c5bf79:
 
     # ag "Orbital bombardments are being carried out in the Dra-Hynyn and Ovalt Vhil systems at this time."
-    ag ""
+    ag "Сейчас системы Дра-Хинин и Овалт-Виль подвергаются орбитальным бомбардировкам."
 
 # game/episode023_conversations.rpy:277
 translate russian ep023_lilly_talk_aa344549:
 
     # ag "We will not hesitate to bring the full military might of the Sovereignty to bear against anyone who dares to oppose us."
-    ag ""
+    ag "Мы без колебаний применим всю военную мощь Суверенитета против любого, кто осмелится нам противостоять."
 
 # game/episode023_conversations.rpy:287
 translate russian ep023_lilly_talk_3a004664:
 
     # l "Those bombardments are a prelude to all-out war, aren’t they?"
-    l ""
+    l "Эти бомбардировки — прелюдия к тотальной войне?"
 
 # game/episode023_conversations.rpy:288
 translate russian ep023_lilly_talk_57a22d4e:
 
     # c "Yes, I also think the Council had been planning a false flag operation to legitimize those new military conquests on its own."
-    c ""
+    c "Да, я тоже полагаю, что Совет запланировал проведение операции под чужим знаменем с целью придания легитимности своим новым военным захватам."
 
 # game/episode023_conversations.rpy:302
 translate russian ep023_lilly_talk_c3136656:
 
     # c "I need to confirm some details first, but I’ll call a family meeting as soon as I have."
-    c ""
+    c "Сначала мне нужно уточнить кое-какие детали, но я созову семейное собрание, как только с этим закончу."
 
 # game/episode023_conversations.rpy:304
 translate russian ep023_lilly_talk_137f7ee0:
 
     # c "I need to confirm some details first, but I’ll call a meeting as soon as I have."
-    c ""
+    c "Сначала мне нужно уточнить кое-какие детали, но я созову собрание, как только с этим закончу."
 
 # game/episode023_conversations.rpy:306
 translate russian ep023_lilly_talk_001143f5:
 
     # c "Don’t worry, I’m not going to do anything rash."
-    c ""
+    c "Не волнуйся, я не собираюсь делать ничего опрометчивого."
 
 # game/episode023_conversations.rpy:308
 translate russian ep023_lilly_talk_ea5d98cf:
 
     # l "I trust you, [p_name_short]."
-    l ""
+    l "Я доверяю тебе, [p_name_short]."
 
 # game/episode023_conversations.rpy:309
 translate russian ep023_lilly_talk_0604019d:
 
     # c "And I love you."
-    c ""
+    c "И я люблю тебя."
 
 # game/episode023_conversations.rpy:396
 translate russian ep023_lilly_second_talk_2e9aa1c8:
 
     # "This might shock you, but I want you all to know that we chose this path for us, and we’re happy together."
-    ""
+    "Возможно, это вас шокирует, но я хочу, чтобы вы понимали: мы сами выбрали этот путь и счастливы вместе."
 
 # game/episode023_conversations.rpy:578
 translate russian ep023_lilly_second_talk_0208cc89:
 
     # av "It is, isn’t it?"
-    av ""
+    av "Да, правда ведь!"
 
 # game/episode023_conversations.rpy:579
 translate russian ep023_lilly_second_talk_d93540ff:
 
     # av "Congrats to you too!"
-    av ""
+    av "Поздравляю тебя тоже!"
 
 # game/episode023_conversations.rpy:607
 translate russian ep023_lilly_second_talk_44aefc18:
 
     # l "It’s the best ever!"
-    l ""
+    l "Это просто замечательно!"
 
 # game/episode023_conversations.rpy:690
 translate russian ep023_nadya_talk_76e26f48:
 
     # "I took my girlfriend in my arms and kissed her deeply."
-    ""
+    "Я притянул девушку к себе и и страстно её поцеловал."
 
 # game/episode023_conversations.rpy:707
 translate russian ep023_nadya_talk_46d487ef:
 
     # c "I know, and I don’t begrudge your concern at all."
-    c ""
+    c "Я понимаю и совсем не осуждаю твоё беспокойство."
 
 # game/episode023_conversations.rpy:738
 translate russian ep023_nadya_talk_dbc1b228:
 
     # na "In that case he has something to do with it."
-    na ""
+    na "В таком случае он как-то с этим связан."
 
 # game/episode023_conversations.rpy:850
 translate russian ep023_nadya_second_talk_373f1bd2:
 
     # c "We both decided we wanted this, and I still do."
-    c ""
+    c "Мы вместе приняли решение, и моё желание не угасло."
 
 # game/episode023_conversations.rpy:862
 translate russian ep023_nadya_second_talk_fc9b6787:
 
     # c "You won’t, and I won’t let anything happen to you and the baby."
-    c ""
+    c "Ничего с тобой и малышом не случится — я этого не допущу."
 
 # game/episode023_conversations.rpy:863
 translate russian ep023_nadya_second_talk_2bb9cdd8:
 
     # c "Shall we talk about happy things now, there’s been enough doom and gloom for one day, I’d say?"
-    c ""
+    c "Давай обсудим что-нибудь радостное, мне кажется, на сегодня и так хватило всего этого мрака."
 
 # game/episode023_conversations.rpy:907
 translate russian ep023_nadya_second_talk_333e8773:
 
     # "We lay together in companionable silence until the intercom crackled to announce that breakfast was ready."
-    ""
+    "Мы лежали вместе в уютной тишине, пока из интеркома не донеслось сообщение о готовности завтрака."
 
 # game/episode023_conversations.rpy:1048
 translate russian ep023_aven_talk_eaef5bf4:
 
     # av "The remaining soldiers all received a simultaneous radio broadcast, and then they just marched out, leaving us behind."
-    av ""
+    av "Оставшиеся солдаты одновременно что-то услышали по рации и после этого ушли строем, оставив нас одних."
 
 # game/episode023_conversations.rpy:1055
 translate russian ep023_aven_talk_33c4d3b1:
 
     # av "Considering what happened to you, I think that’s a reasonable assumption."
-    av ""
+    av "Принимая во внимание случившееся с тобой, думаю, это обоснованное предположение."
 
 # game/episode023_conversations.rpy:1148
 translate russian ep023_aven_second_talk_d4cad0e5:
 
     # av "This might shock you, but I want you all to know that we chose this path for us, and we’re happy together."
-    av ""
+    av "Возможно, это вас шокирует, но я хочу, чтобы вы понимали: мы сами выбрали этот путь и счастливы вместе."
 
 # game/episode023_conversations.rpy:1365
 translate russian ep023_thyia_talk_d23492b5:
 
     # ur "Sir, you shouldn’t squeeze those flesh protrusions in a lascivious manner."
-    ur ""
+    ur "Сэр, вам не следует сжимать эти выступающие участки тела в непристойной манере."
 
 # game/episode023_conversations.rpy:1405
 translate russian ep023_thyia_talk_e54cd966:
 
     # c "At least he has an off switch, which can’t be said for all loudmouthed prudes."
-    c ""
+    c "Зато у него есть выключатель, чего нельзя сказать обо всех болтливых занудах."
 
 # game/episode023_conversations.rpy:1450
 translate russian ep023_thyia_talk_ce00d2a3:
 
     # th "Have you thought about what you’re going to do now?"
-    th ""
+    th "Какие мысли у тебя насчёт того, чем заняться сейчас?"
 
 # game/episode023_conversations.rpy:1521
 translate russian ep023_vess_talk_321c5b87:
 
     # ve "No, you’re right."
-    ve ""
+    ve "Да, ты прав."
 
 # game/episode023_conversations.rpy:1581
 translate russian ep023_vess_talk_ef4ac925:
 
     # "Vess and I kissed goodbye and I went on my way again."
-    ""
+    "Мы с Весс поцеловались на прощание, после чего я отправился дальше."
 
 # game/episode023_conversations.rpy:1626
 translate russian ep023_vess_talk_54e14e52:
 
     # c "My father killed your former master as soon as he learned enough from the Confessor."
-    c ""
+    c "Мой отец разделался с твоим прежним хозяином, едва получив нужные сведения от Исповедника."
 
 # game/episode023_conversations.rpy:1630
 translate russian ep023_vess_talk_15b13be5:
 
     # c "Yes, I thought so too."
-    c ""
+    c "Да, мне тоже так казалось."
 
 # game/episode023_conversations.rpy:1637
 translate russian ep023_vess_talk_66e60e2c:
 
     # ve "The Handmaidens are more like a cult, so if the strong leader isn’t around anymore, I guess their morale would be in total disarray."
-    ve ""
+    ve "Прислужницы скорее напоминают культ, поэтому без могущественного лидера, полагаю, они впадут в полное уныние."
 
 # game/episode023_conversations.rpy:1716
 translate russian ep023_jade_celine_talk_16e9f3d6:
 
     # j "Not that bad, only minor stuff, apart from the compromised probes."
-    j ""
+    j "Не так уж и плохо, мелочи, если не считать взломанные зонды."
 
 # game/episode023_conversations.rpy:1739
 translate russian ep023_raene_talk_f2d25239:
 
     # "The door to Ziv’s quarters was ajar, and I could hear voices inside."
-    ""
+    "Дверь в каюту Зив была приоткрыта, и я слышал голоса внутри."
 
 # game/episode023_conversations.rpy:1805
 translate russian ep023_raene_talk_a9c3d37f:
 
     # c "You weren’t in your quarters, so I went and looked and found you here."
-    c ""
+    c "В твоей каюте тебя не было, поэтому я пошёл тебя искать и нашёл тебя здесь."
 
 # game/episode023_conversations.rpy:1846
 translate russian ep023_raene_talk_24eafd7f:
 
     # c "I’m happy for you, Raene!"
-    c ""
+    c "Я рад за тебя, Рэин!"
 
 # game/episode023_conversations.rpy:1853
 translate russian ep023_raene_talk_cad3cbe2:
 
     # c "I’m going to hash them out with some of the crew first, and then I’ll get back to you."
-    c ""
+    c "Сначала я обсужу всё кое с кем из команды, а потом свяжусь с вами."
 
 # game/episode023_conversations.rpy:2007
 translate russian ep023_nadya_sex_4db65f77:
 
     # "The contractions of her cunt heightened my pleasure immensely, and I was surprised by how quickly my orgasm arose."
-    ""
+    "Сокращения её пизды необычайно обострили мои ощущения, и я удивился тому, как быстро наступил мой оргазм."
 
 # game/episode023_conversations.rpy:2138
 translate russian ep023_raene_ziv_sex_f2d1366b:
 
     # ra "It’s just that you’re both looking at me like you want me."
-    ra ""
+    ra "Просто вы оба смотрите на меня так, будто хотите меня."
 
 # game/episode023_conversations.rpy:2173
 translate russian ep023_raene_ziv_sex_0ba895e3:
 
     # zi "I can’t wait to feel that tight ass of yours, Raene."
-    zi ""
+    zi "Мне не терпится ощутить твою тугую попку, Рэин."
 
 # game/episode023_conversations.rpy:2501
 translate russian ep023_raene_ziv_fucking_ec868b29:
 
     # "Raene, Ziv and I remained on the bed for a long while, talking and enjoying the afterglow."
-    ""
+    "Мы с Рэин и Зив ещё долго лежали на кровати, болтали и наслаждались послевкусием."
 
 # game/episode023_conversations.rpy:2609
 translate russian ep023_ziv_climax_eafa6779:
 
     # "I was the first to explode, pumping Ziv’s asshole full of warm seed."
-    ""
+    "Я извергся первым, наполнив задницу Зив тёплым семенем."
 
 # game/episode023_conversations.rpy:2628
 translate russian ep023_ziv_climax_a9af6eeb:
 
     # "Both Raene and I pulled out of Ziv and kneeled before her."
-    ""
+    "Мы с Рэин вышли из Зив и опустились перед ней на колени."
 
 # game/episode023_conversations.rpy:2630
 translate russian ep023_ziv_climax_629a7f0f:
 
     # "Both Raene and I kneeled before Ziv."
-    ""
+    "Мы с Рэин опустились перед ней на колени."
 
 # game/episode023_conversations.rpy:2644
 translate russian ep023_ziv_climax_a9af6eeb_1:
 
     # "Both Raene and I pulled out of Ziv and kneeled before her."
-    ""
+    "Мы с Рэин вышли из Зив и опустились перед ней на колени."
 
 # game/episode023_conversations.rpy:2646
 translate russian ep023_ziv_climax_629a7f0f_1:
 
     # "Both Raene and I kneeled before Ziv."
-    ""
+    "Мы с Рэин опустились перед ней на колени."
 
 # game/episode023_conversations.rpy:2700
 translate russian ep023_ziv_climax_309d7a68:
 
     # "Ziv kissed her friend, and together they exchanged the semen mixture."
-    ""
+    "Зив поцеловала свою подругу, и они обменялись смесью из слюны и спермы."
 
-translate russian strings:
+# TODO: Translation updated at 2026-09-12 18:15
 
-    # game/episode023_conversations.rpy:1351
-    old "Robot"
-    new ""
+# game/episode023_conversations.rpy:396
+translate russian ep023_lilly_second_talk_897cd3f4:
 
-    # game/episode023_conversations.rpy:2000
-    old "Fuck her ass"
-    new ""
+    # l "This might shock you, but I want you all to know that we chose this path for us, and we’re happy together."
+    l "Возможно, это вас шокирует, но я хочу, чтобы вы понимали: мы сами выбрали этот путь и счастливы вместе."
 
-    # game/episode023_conversations.rpy:2032
-    old "Creampie"
-    new ""
+# game/episode023_conversations.rpy:856
+translate russian ep023_nadya_second_talk_6ca12e31:
 
-    # game/episode023_conversations.rpy:2032
-    old "Anal creampie"
-    new ""
+    # na "What if you’d come out of that coma all changed?"
+    na "Что если бы ты вышел из комы совершенно другим человеком?"
 
-    # game/episode023_conversations.rpy:2032
-    old "Cover her body"
-    new ""
+# game/episode023_conversations.rpy:886
+translate russian ep023_nadya_second_talk_63d33849:
 
-    # game/episode023_conversations.rpy:2322
-    old "Vaginal"
-    new ""
+    # na "All my daughters pregnant and so am I."
+    na "Все мои дочери беременны, и я тоже."
 
-    # game/episode023_conversations.rpy:2548
-    old "Swallow"
-    new ""
+# game/episode023_conversations.rpy:888
+translate russian ep023_nadya_second_talk_b74acbe4:
 
-    # game/episode023_conversations.rpy:2580
-    old "Anal Creampie"
-    new ""
+    # na "Two of my daughters pregnant and so am I."
+    na "Две мои дочери беременны, и я тоже."
 
-    # game/episode023_conversations.rpy:2580
-    old "Cover her face"
-    new ""
+# game/episode023_conversations.rpy:890
+translate russian ep023_nadya_second_talk_14523485:
 
+    # na "One of my daughters pregnant and so am I."
+    na "Одна из моих дочерей беременна, и я тоже."
+
+# game/episode023_conversations.rpy:1104
+translate russian ep023_aven_second_talk_f7a7e92b:
+
+    # "Aven and I had both asked Nadya, Eva and Lilly to come to my quarters."
+    "Мы с Эвин попросили Надию, Еву и Лилли прийти ко мне."
+
+# game/episode023_conversations.rpy:1174
+translate russian ep023_aven_second_talk_55da9f64:
+
+    # "Everyone was silent, outrage emanating from Nadya, Eva and Lilly."
+    "Все молчали, а Надия, Эвин и Лилли были полны негодования."
+
+# game/episode023_conversations.rpy:1461
+translate russian ep023_thyia_talk_a812f084:
+
+    # th "Though even if you don’t have any news, you’re always welcome here."
+    th "Но даже если никаких новостей нет, ты всегда здесь желанный гость."
+
+# game/episode023_conversations.rpy:1637
+translate russian ep023_vess_talk_66e60e2c_1:
+
+    # ve "The Handmaidens are more like a cult, so if the strong leader isn’t around anymore, I guess their morale would be in total disarray."
+    ve "Прислужницы скорее напоминают культ, поэтому без могущественного лидера, полагаю, они впадут в полное уныние."
+
+# game/episode023_conversations.rpy:1788
+translate russian ep023_raene_talk_2c7b052f:
+
+    # c "It is, yes."
+    c "Да, именно."
+
+# game/episode023_conversations.rpy:2048
+translate russian ep023_nadya_sex_climax_c6ab27d4:
+
+    # "When my erection started to slacken, it slipped out of her slit."
+    "Когда возбуждение пошло на спад, мой член выскользнул из её промежности."
+
+# game/episode023_conversations.rpy:2055
+translate russian ep023_nadya_sex_climax_f0cc56a4:
+
+    # c "I’m going to stuff your asshole full of cum, Mom."
+    c "Твою задницу ждёт море моей спермы, мам."
+
+# game/episode023_conversations.rpy:2684
+translate russian ep023_ziv_climax_042fb4e9:
+
+    # "Ziv looked up at me and let Raene's and my cum slide down her throat."
+    "Зив посмотрела на меня и позволила нашей с Рэин сперме скатиться по горлу."
+
+# game/episode023_conversations.rpy:2686
+translate russian ep023_ziv_climax_1904eace:
+
+    # "Ziv looked up at me and let my cum slide down her throat."
+    "Зив посмотрела на меня и позволила моей сперме скатиться по горлу."
+
+# game/episode023_conversations.rpy:2690
+translate russian ep023_ziv_climax_35e91d85:
+
+    # c "Keep it in your mouth and give Raene a taste of herself, Ziv."
+    c "Зив, держи это во рту и позволь Рэин ощутить свой собственный вкус."

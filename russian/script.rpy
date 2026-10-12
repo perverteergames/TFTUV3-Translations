@@ -263,16 +263,16 @@ translate russian strings:
     new "Редактура"
 
     # game/script.rpy:394
-    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince and ThunderRob"
-    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince и ThunderRob"
+    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince and ThunderRob"
+    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Fhilb, Grubb, marcurion, Razielprince и ThunderRob"
 
     # game/script.rpy:394
     old "Testing"
     new "Тестирование"
 
     # game/script.rpy:394
-    old "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
-    new "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki и Razielprince"
+    old "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
+    new "HoboCop86, ThunderRob, Fhilb, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki и Razielprince"
 
     # game/script.rpy:394
     old "Translation"
@@ -406,31 +406,14 @@ translate russian strings:
     old "{a=[website]}[website]{/a}"
     new "{a=[website]}[website]{/a}"
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-10 19:12
 
 translate russian strings:
 
-    # game/script.rpy:242
-    old "Lilly"
-    new ""
+    # game/script.rpy:738
+    old "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince and ThunderRob"
+    new "Boerke, Dreamweaver, FckThisShtImOut, Freki, Philipp, Grubb, marcurion, Razielprince и ThunderRob"
 
-    # game/script.rpy:244
-    old "Eva"
-    new ""
-
-    # game/script.rpy:246
-    old "Aven"
-    new ""
-
-    # game/script.rpy:252
-    old "Jade"
-    new ""
-
-    # game/script.rpy:256
-    old "Ziv"
-    new ""
-
-    # game/script.rpy:260
-    old "Vess"
-    new ""
-
+    # game/script.rpy:738
+    old "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki and Razielprince"
+    new "HoboCop86, ThunderRob, Philipp, Boerke, Dreamweaver, Alorth, marcurion, gamersglory, GhostPhil, Grubb, RavenDarklock, Freki и Razielprince"

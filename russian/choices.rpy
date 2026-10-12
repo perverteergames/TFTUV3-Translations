@@ -36,7 +36,7 @@ translate russian strings:
 
     # game/choices.rpy:10
     old "Received a handjob from Jade."
-    new "Получил минет от Джейд."
+    new "Джейд тебе подрочила."
 
     # game/choices.rpy:10
     old "Scolded Jade."
@@ -1758,203 +1758,206 @@ translate russian strings:
     old "Had anal sex with Nadya."
     new "Занимался с Надией анальным сексом."
 
-# TODO: Translation updated at 2026-03-09 11:09
+# TODO: Translation updated at 2026-03-10 19:12
 
 translate russian strings:
 
     # game/choices.rpy:10
-    old "TGN Ypotryll"
-    new ""
-
-    # game/choices.rpy:10
-    old "TGN Enfield"
-    new ""
-
-    # game/choices.rpy:10
-    old "Vulpes Velox"
-    new ""
-
-    # game/choices.rpy:10
-    old "Nyiruan 12-Beta"
-    new ""
-
-    # game/choices.rpy:10
     old "Participated in the R'o orgy."
-    new ""
-
-    # game/choices.rpy:10
-    old "Ryūjin Prime"
-    new ""
-
-    # game/choices.rpy:10
-    old "Iron Bastard"
-    new ""
+    new "Участвовал в оргии Р'о."
 
     # game/choices.rpy:10
     old "Told Thim in no uncertain terms to be respectful to Vess."
-    new ""
+    new "Недвусмысленно попросил Тхима проявить уважение к Весс."
 
     # game/choices.rpy:10
     old "Meeting with geneticist Karan Hreir, who asks you to hunt for a boverin egg on Sagueliath. During your stay on Verdant Station, Ziv asks you to rescue Raene from her father on Verdigris. Possible visit to a rustic simulation for a corporation called ConVitæ."
-    new ""
-
-    # game/choices.rpy:10
-    old "Verdant Station"
-    new ""
+    new "Встреча с генетиком Караном Хрейром, который просит вас достать яйца боверина на Сагуелиафе. Во время последующего пребывания на станции Вердант Зив просит тебя спасти Рэин от её отца на Вердигрисе и возможное посещение деревенского имитации в корпорации под названием ConVitæ."
 
     # game/choices.rpy:10
     old "Supported Lilly's decision to join the boverin hunt on Sagueliath."
-    new ""
+    new "Поддержал решение Лилли присоединиться к охоте на боверина на Сагуелиафе."
 
     # game/choices.rpy:10
     old "Returning to Karan Hreir, you find him murdered and his base ransacked. Information about the warrior women, the Acarhyn, is found on the data core of one of Hreir's bots. The location of their planet is a secret and an information broker called Cetruvar had more information. Needing a large sum of money to get an invitation to one of the high-society parties Cetruvar organizes regularly, you set out to undertake several missions, including the retrieval of the remains of a hero for the Tubloshi. Raene and Ziv join the crew."
-    new ""
-
-    # game/choices.rpy:10
-    old "Luzane"
-    new ""
-
-    # game/choices.rpy:10
-    old "Hannah"
-    new ""
+    new "Вернувшись к Карану Хрейру, вы обнаруживаете, что он убит, а его база разграблена. Информация о женщинах-воительницах, Акархинах, найдена в ядре данных одного из ботов Хрейра. Местоположение их планеты держится в секрете, а у информационного посредника по имени Цетрувар имеется больше информации. Вам нужна куча денег, чтобы получить приглашение на одну из вечеринок, которые регулярно организует Цетрувар, поэтому вы отправляетесь выполнять вспомогательные задания, включающие в себя поиск останков героя Ренкой для Тублоши. К команде присоединяются Рэин и Зив."
 
     # game/choices.rpy:10
     old "Dismissed Jade to prevent her from having sex with you."
-    new ""
+    new "Пренебрежительным путём помешал Джейд заняться с тобой сексом."
 
     # game/choices.rpy:10
     old "The quest for a forger willing to produce invitations to Cetruvar's party takes you to Barranthis. However, the forger Vitriv is being held captive by crime boss Doarn. In order to get him released you strike a deal with Doarn to take out one of his competitors, Garomph. You find Garomph in a factory full of female cattle and ultimately kill him. Doarn releases Vitriv upon your return to his casino, but retaliates after learning about the destruction of Garomph's factory. Pursued by Doarn's lackeys, you flee into an asteroid belt."
-    new ""
-
-    # game/choices.rpy:10
-    old "Barranthis"
-    new ""
+    new "Поиски фальшивомонетчика, готового изготовить приглашения на вечеринку Цетрувара, приводят вас в Баррантис. Фальшивомонетчик Витрив находится в плену у криминального авторитета Доарна. Чтобы добиться его освобождения, вы заключаете сделку с Доарном, включающую в себя устранение одного из его конкурентов, Гаромфа. Вы находите Гаромфа на фабрике, полной женских особей и в конечном итоге убиваете его. Доарн освобождает Витрива после возвращения в его казино, но мстит, узнав о разрушении фабрики Гаромфа. Преследуемые приспешниками Доарна, вы улетаете в пояс астероидов."
 
     # game/choices.rpy:10
     old "Lost inside the asteroid belt, you are ambushed by an unknown ship and wake up as a captive at a research facility. The facility turns out to belong to ConVitæ where they experiment on the minds of their prisoners. After a confusing confinement, shaking up some of the relationships with the women of your crew, you manage to escape from the base on Höfel MDCL."
-    new ""
-
-    # game/choices.rpy:10
-    old "Höfel MDCL"
-    new ""
+    new "Затерявшись в поясе астероидов, вы попадаете в засаду неизвестного корабля, и ты просыпаешься пленником в исследовательском центре. Это учреждение - тюрьма ConVitæ, здесь они проводят эксперименты над сознанием своих заключённых. После сбивающего с толку заточения, перевернувшего некоторые из твоих отношений с девушками экипажа, вы сумели сбежать с Хёфельской ЛКМО."
 
     # game/choices.rpy:10
     old "Despite losing so many months in captivity, you forge ahead to Cetruvar's party on Almagest. Infiltrating the mansion, you encounter another team of purple-clad operatives who nearly kill Cetruvar. After incapicitating them you are forced to stay the night at the mansion. The nightly hours allow you to roam the mansion more freely and a search of Cetruvar's office finally yielded the location of the Acarhyn, a planet called Erigone where a Virgin Queen now rules. After a brief gunfight, you escape the mansion and head out to Erigone."
-    new ""
-
-    # game/choices.rpy:10
-    old "Almagest"
-    new ""
-
-    # game/choices.rpy:10
-    old "Erigone"
-    new ""
-
-    # game/choices.rpy:10
-    old "Rahia"
-    new ""
-
-    # game/choices.rpy:10
-    old "Athryn"
-    new ""
-
-    # game/choices.rpy:10
-    old "Frisa"
-    new ""
+    new "Несмотря на потерю многих месяцев в плену, вы продвигаетесь вперёд, к группе Цетрувара на Альмагесте. Проникнув в особняк, вы сталкиваетесь с другой командой одетых в фиолетовое оперативников, которые едва не убивают Цетрувара. После выведения их из строя, вы вынуждены остаться на ночь в особняке. Ночные часы позволили вам более свободно бродить по особняку, а обыск в кабинете Цетрувара наконец-то позволил установить местонахождение Акархинов - планета под названием Эригон, где сейчас правит Королева-Девственница. После короткой перестрелки вы покидаете особняк и направляетесь на Эригон."
 
     # game/choices.rpy:10
     old "A Hunt is called by the Virgin Queen to slay a beast threatening the Acarhyn and you are allowed to participate. The outcome of the Hunt will further cement your standing with the warrior or priest caste and possibly allow you to escape Erigone together with Eva. From Eva you also learn about the Prophecy that has motivated the Acarhyn to kidnap her and piqued the interest of a man called the Confessor and several high-ranking members of the Sovereignty elite, including your father Agust."
-    new ""
-
-    # game/choices.rpy:10
-    old "Caese"
-    new ""
-
-    # game/choices.rpy:10
-    old "Erylin"
-    new ""
+    new "Королева-девственница объявляет Охоту, чтобы убить зверя, угрожающего Акархину, и тебе разрешается принять в ней участие. Результат Охоты ещё больше укрепит твоё положение в касте воинов или жрецов и, возможно, позволит вам сбежать из Эригона вместе с Евой. От Евы вы также узнаете о Пророчестве, побудившем Акархинов похитить её и вызвавшем интерес человека, зовущимся Исповедником, а также нескольких высокопоставленных членов элиты Суверенитета, включая твоего отца Агуста."
 
     # game/choices.rpy:10
     old "Neither accepted nor declined Erylin's dinner invitation."
-    new ""
-
-    # game/choices.rpy:10
-    old "Keodele"
-    new ""
+    new "Не принял и не отклонил приглашение Эрилин на ужин."
 
     # game/choices.rpy:10
     old "Empathized with Vess after she told you about her youth."
-    new ""
+    new "Сопереживал Весс после того, как она рассказала тебе о своей юности."
 
     # game/choices.rpy:10
     old "Was kind to Vess after she spilled the details of her betrayal."
-    new ""
+    new "Был добр к Весс после того, как она рассказала подробности своего предательства."
 
     # game/choices.rpy:10
     old "Was furious with Vess after she spilled the details of her betrayal."
-    new ""
+    new "Разъярился на Весс после того, как она рассказала подробности своего предательства."
 
     # game/choices.rpy:10
     old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after your friend Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
-    new ""
+    new "Поскольку твой отец активно участвует в поисках Пророчества, вы решаете отправиться на Кеплер XIV, где ежегодно отдыхает Агуст, и потребовать от него ответов. Твоя мать Ив рассказывает тебе о местонахождении Агуста, эксклюзивного борделя под названием Театр чувств, расположенного на луне удовольствий, вращающейся вокруг Кеплера XIV.\n\nБордель оказывается ловушкой, и твой отец захватывает тебя в плен и доставляет на захваченный им корабль ЗГФ Джакулус. Агуст охотится за твоей подругой Евой и пытает тебя, чтобы ты выдал информацию. После того, как Ева и остальная команда чудом избегают поимки, твой отец выбрасывает тебя из воздушного шлюза в жертву Сколгинам, которые, предположительно, могут рассказать ему больше о Пророчестве."
 
     # game/choices.rpy:10
     old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after his daughter Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
-    new ""
-
-    # game/choices.rpy:10
-    old "Kepler XIV"
-    new ""
+    new "Поскольку твой отец активно участвует в поисках Пророчества, вы решаете отправиться на Кеплер XIV, где ежегодно отдыхает Агуст, и потребовать от него ответов. Твоя мать Ив рассказывает тебе о местонахождении Агуста, эксклюзивного борделя под названием Театр чувств, расположенного на луне удовольствий, вращающейся вокруг Кеплера XIV.\n\nБордель оказывается ловушкой, и твой отец захватывает тебя в плен и доставляет на захваченный им корабль ЗГФ Джакулус. Агуст охотится за своей дочерью Евой и пытает тебя, чтобы ты выдал информацию. После того, как Ева и остальная команда чудом избегают поимки, твой отец выбрасывает тебя из воздушного шлюза в жертву Сколгинам, которые, предположительно, могут рассказать ему больше о Пророчестве."
 
     # game/choices.rpy:10
     old "Gave one of the Tyuarene anal."
-    new ""
-
-    # game/choices.rpy:10
-    old "TGN Jaculus"
-    new ""
-
-    # game/choices.rpy:10
-    old "Kvi"
-    new ""
-
-    # game/choices.rpy:10
-    old "Douvis"
-    new ""
-
-    # game/choices.rpy:10
-    old "Uailea"
-    new ""
-
-    # game/choices.rpy:10
-    old "Scolguin"
-    new ""
+    new "Занялся с одной из Тюаринских девушек анальным сексом."
 
     # game/choices.rpy:10
     old "The information from the Scolguin Queen leads you to Taagmar, where the next piece of the puzzle stands, an ancient gateway. Taagmar is already under attack by Sovereignty forces, led by your father and sanctioned by the Sovereignty Council. As Taagmar is an active warzone, you need to plan your approach to the planet carefully.\n\nWhile gathering information on the nearby Altum Station, you encounter the mercenary Glixken again, who is now working for the Bloodhound Kvi and the Sovereignty. Eva is separated from the rest of the crew and almost falls into Glixken's hands. You manage to extract Eva from enemy territory and flee Altum Station, with Glixken and his mercs in hot pursuit. Your shuttle is shot down by Glixken and you crash on a desert planet."
-    new ""
-
-    # game/choices.rpy:10
-    old "Altum Station"
-    new ""
+    new "Информация от королевы Сколгинов приводит вас к Таагмару, где находится следующий кусочек головоломки, древние врата. Таагмар уже атакован силами Суверенитета, возглавляемыми твоим отцом и санкционированным Советом Суверенитета. Поскольку Таагмар является зоной активных боевых действий, вам необходимо тщательно спланировать свой подход к планете.\n\nСобирая информацию на близлежащей станции Альтум, вы вновь сталкиваетесь с наёмником Гликскеном, который теперь работает на Ищейку Кви и Суверенитет. Ева отделяется от остальной команды и чуть не попадает в руки Гликскена. Вам удаётся вытащить Еву с вражеской территории и сбежать со станции Альтум, а Гликскен и его наёмники преследуют вас по горячим следам. Ваш шаттл сбивает Гликскен, и вы терпите крушение на необитаемой планете."
 
     # game/choices.rpy:10
     old "Alone with Eva on the desert planet you wait for rescue. After a skirmish with the mercs, resulting in the killing of Glixken, you and the rest of the crew of the Iron Bastard are reunited. Armed with the knowledge gathered on Altum Station, you head out to Taagmar.\n\nNavigating the conflict on Taagmar's surface, disguised as Sovereignty soldiers, you reach the gateway in the middle of the capital. Agust, Erylin and the Confessor perform a ritual to open the gateway and you slip through, together with the rest of the Sovereignty forces.\n\nAfter passing the gate you're on another planet, its surface filled with dusty ruins. The Sovereignty forces are centered near a large temple which they attempt to breach. You rejoin the enemy as they gain access to the temple and find a large glowing crystal called the Key."
-    new ""
+    new "Оставшись наедине с Евой на пустынной планете, вы ждёте спасения. После стычки с наёмниками, в результате которой был убит Гликскен, вы и остальная команда Железного ублюдка воссоединяетесь. Вооружившись знаниями, собранными на станции Альтум, вы отправляетесь в Таагмар.\n\nПройдя через конфликт на поверхности Таагмара, замаскировавшись под солдат Суверенитета, вы добираетесь до врат в центре столицы. Агуст, Эрилин и Исповедник проводят ритуал по открытию врат, и вы проскальзываете через них вместе с остальными силами Суверенитета.\n\nПосле прохождения врат вы оказываетесь на другой планете, поверхность которой заполнена пыльными руинами. Силы Суверенитета сосредотачиваются возле большого храма, в который они пытаются проникнуть. Вы присоединяетесь к врагу, когда он получает доступ к храму и находит большой светящийся кристалл, называемый Ключом."
 
     # game/choices.rpy:10
     old "Spied on Thyia masturbating."
-    new ""
-
-    # game/choices.rpy:10
-    old "Paclerara"
-    new ""
+    new "Подсмотрел, как Тхия мастурбирует."
 
     # game/choices.rpy:10
     old "Apologized to Ziv."
-    new ""
+    new "Извинился перед Зив."
 
-    # game/choices.rpy:10
-    old "Petrarch"
-    new ""
+# TODO: Translation updated at 2026-09-12 18:15
 
+translate russian strings:
+
+    # game/choices.rpy:11
+    old "Reunion with Hannah and talks with the Tubloshi. After their agreement to join the coalition against the Sovereignty you travel to Uailea to enlist the help of the Rhenkoy."
+    new "Воссоединение с Ханной и переговоры с Тублоши. После их согласия присоединиться к коалиции против Суверенитета вы отправляетесь на Уайлию, чтобы привлечь Ренкой на свою сторону."
+
+    # game/choices.rpy:11
+    old "Hannah is pregnant with your child."
+    new "Ханна ждёт от тебя ребёнка."
+
+    # game/choices.rpy:11
+    old "Tubloshi Warship"
+    new "Военный корабль Тублоши"
+
+    # game/choices.rpy:11
+    old "Had sex with Hannah."
+    new "Занимался сексом с Ханной."
+
+    # game/choices.rpy:11
+    old "Creampied Hannah a second time."
+    new "Во второй раз кончил в Ханну."
+
+    # game/choices.rpy:11
+    old "Engaged in piss play with Hannah."
+    new "Предавались с Ханной играм с мочой."
+
+    # game/choices.rpy:11
+    old "Placated Tubloshi during negotations."
+    new "Задобрил Тублоши во время переговоров."
+
+    # game/choices.rpy:11
+    old "Didn't placate Tubloshi during negotations."
+    new "Не задобрил Тублоши во время переговоров."
+
+    # game/choices.rpy:11
+    old "Bribed Nkoy Arlya."
+    new "Дал взятку Нкой Арлии."
+
+    # game/choices.rpy:11
+    old "Refused to bribe Nkoy Arlya."
+    new "Отказался давать взятку Нкой Арлии."
+
+    # game/choices.rpy:11
+    old "Went on mission to save the Rhenkoy diplomats."
+    new "Отправился на миссию по спасению дипломатов Ренкой."
+
+    # game/choices.rpy:11
+    old "Declined to go on mission to save the Rhenkoy diplomats."
+    new "Отказался отправиться на миссию по спасению дипломатов Ренкой."
+
+    # game/choices.rpy:11
+    old "Went on mission to save Nkoy Rhedia."
+    new "Отправился на миссию по спасению Нкой Редии."
+
+    # game/choices.rpy:11
+    old "Declined to go on mission to save Nkoy Rhedia."
+    new "Отказался отправиться на миссию по спасению Нкой Редии."
+
+    # game/choices.rpy:11
+    old "Episode #25"
+    new "Эпизод #25"
+
+    # game/choices.rpy:11
+    old "Return to Erigone where a battle between the Warrior and Priest caste is fought. The victorious caste joins the fight against the Sovereignty."
+    new "Вернулся на Эригон, где идёт битва между кастами Воинов и Жрецов. Победившая каста присоединяется к борьбе против Суверенитета."
+
+    # game/choices.rpy:11
+    old "Had sex with Nadya."
+    new "Занимался сексом с Надией."
+
+    # game/choices.rpy:11
+    old "Ziv is pregnant with your child."
+    new "Зив ждёт от тебя ребёнка."
+
+    # game/choices.rpy:11
+    old "Had sex with Ziv."
+    new "Занимался сексом с Зив."
+
+    # game/choices.rpy:11
+    old "Condemned the practice of creating Brutes."
+    new "Осудил практику создания Чудищ."
+
+    # game/choices.rpy:11
+    old "Remained diplomatic about the practice of creating Brutes."
+    new "Дипломатично отозвался о практике создания Чудищ."
+
+    # game/choices.rpy:11
+    old "Seduced Keodele."
+    new "Соблазнил Кеодели."
+
+    # game/choices.rpy:11
+    old "Had sex with Rahia."
+    new "Занимался сексом с Рахией."
+
+    # game/choices.rpy:11
+    old "Had sex with Keodele."
+    new "Занимался сексом с Кеодели."
+
+    # game/choices.rpy:11
+    old "Had sex with Eva and Raene."
+    new "Занимался сексом с Евой и Рэин."
+
+    # game/choices.rpy:11
+    old "Rescued Rahia."
+    new "Спас Рахию."
+
+    # game/choices.rpy:11
+    old "Rescued Keodele."
+    new "Спас Кеодели."
+
+    # game/choices.rpy:11
+    old "Rescued neither Rahia nor Keodele."
+    new "Не спас ни Рахию, ни Кеодели."
