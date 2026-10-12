@@ -551,11 +551,11 @@ translate french strings:
 
     old "Italiano (parziale)"
     new "Italiano (parziale)"
-# TODO: Translation updated at 2026-03-08 21:48
+
 
 translate french strings:
 
-    # game/screens.rpy:706
+
     old "Yes {size=-5}(Submissive){/size}"
     new "Oui {size=-5}(Soumise){/size}"
-
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

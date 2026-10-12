@@ -658,1133 +658,2064 @@ translate french strings:
     old "Switch to her pussy"
     new "Passe à sa chatte"
 
-# TODO: Translation updated at 2026-03-05 22:02
 
-# game/extras.rpy:128
+
+
 translate french extra_scene_48_cc762671:
 
-    # "Raene was still sucking me, her moans muffled by my dick inside her mouth."
+
     "Raene continuait à me sucer, ses gémissements étouffés par ma bite dans sa bouche."
 
-# game/extras.rpy:140
+
 translate french extra_scene_48_df62dd2c:
 
-    # "Precum already coated the head, and I used it to lube Raene’s cock and give it an intense massage with the palm of my hand."
+
     "Du liquide pré-éjaculatoire recouvrait déjà le gland, et je m'en suis servi pour lubrifier la bite de Raene et lui faire un massage intense avec la paume de ma main."
 
-# game/extras.rpy:147
+
 translate french extra_scene_48_9470fb99:
 
-    # c "I want you to cum inside her, Ziv."
+
     c "Je veux que tu jouisses en elle, Ziv."
 
-# game/extras.rpy:182
+
 translate french extra_scene_48_c944e8d4:
 
-    # "My re-entry into her asshole went very smoothly, as Ziv had loosened her up for me."
+
     "Ma réentrée dans son trou du cul s'est faite en douceur, car Ziv l'avait bien préparée pour moi."
 
-# game/extras.rpy:183
+
 translate french extra_scene_48_29e91e4f:
 
-    # c "I love fucking that tight asshole of yours, Raene."
+
     c "J'adore baiser ton petit cul serré, Raene."
 
-# game/extras.rpy:215
+
 translate french extra_scene_49_6d264083:
 
-    # "Remaining in the same position, I pushed against my girlfriend’s anus."
+
     "Restant dans la même position, j'ai poussé contre l'anus de ma copine."
 
-# game/extras.rpy:227
+
 translate french extra_scene_49_63ea9cbe:
 
-    # "I pushed my dick in further, my girlfriend moaning with every inch disappearing into her ass."
+
     "J'ai enfoncé ma bite plus profondément, ma copine gémissant à chaque centimètre qui disparaissait dans son cul."
 
-# game/extras.rpy:258
+
 translate french extra_scene_49_3498d486:
 
-    # c "Oh Mom, your tight butt feels so fucking good!"
+
     c "Oh maman, ton petit cul serré est tellement bon !"
 
-# game/extras.rpy:269
+
 translate french extra_scene_49_54cb9a9c:
 
-    # "I had a choice to make, stay inside my mother’s warm, tight asshole, or plunge myself inside her equally welcoming cunt again."
+
     "J'avais un choix à faire : rester dans le trou du cul chaud et serré de ma mère ou me replonger dans sa chatte tout aussi accueillante."
 
-# game/extras.rpy:271
+
 translate french extra_scene_49_1b76b1d9:
 
-    # "I had a choice to make, stay inside Nadya’s warm, tight asshole, or plunge myself inside her equally welcoming cunt again."
+
     "J'avais un choix à faire : rester dans le trou du cul chaud et serré de Nadya ou me replonger dans sa chatte tout aussi accueillante."
 
-# game/extras.rpy:275
+
 translate french extra_scene_49_c58501fb:
 
-    # "Her butthole felt too good, so I continued my thrusts unabated."
+
     "Son trou du cul était trop bon, alors j'ai continué à la baiser sans relâche."
 
-# game/extras.rpy:301
+
 translate french extra_scene_50_ea1ff85b:
 
-    # "Is Hannah pregnant in this scene?"
+
     "Hannah est-elle enceinte dans cette scène ?"
 
-# game/extras.rpy:305
+
 translate french extra_scene_50_6d33622a:
 
-    # "Hannah pregnant"
+
     "Hannah enceinte"
 
-# game/extras.rpy:308
+
 translate french extra_scene_50_295565db:
 
-    # "Hannah not pregnant"
+
     "Hannah pas enceinte"
 
-# game/extras.rpy:310
+
 translate french extra_scene_50_37de0311:
 
-    # "Do you want to enable watersports for this scene?"
+
     "Tu veux activer les jeux uros pour cette scène ?"
 
-# game/extras.rpy:314
+
 translate french extra_scene_50_e1b3f2a2:
 
-    # "Watersports enabled"
+
     "Jeux uros activés"
 
-# game/extras.rpy:317
+
 translate french extra_scene_50_9a79f488:
 
-    # "Watersports disabled"
+
     "Jeux uros désactivés"
 
-# game/extras.rpy:319
+
 translate french extra_scene_50_c83f4350:
 
-    # "I must have fallen asleep, because the next thing I remembered was waking up with a raging hard-on."
+
     "J'ai dû m'endormir, car la seule chose dont je me souviens ensuite, c'est de m'être réveillé avec une érection monstrueuse."
 
-# game/extras.rpy:324
+
 translate french extra_scene_50_3b036aae:
 
-    # "The most surprising thing were Hannah’s lips, wrapped around my erection."
+
     "Le plus surprenant, c'étaient les lèvres d'Hannah, enroulées autour de mon érection."
 
-# game/extras.rpy:325
+
 translate french extra_scene_50_ecdc6673:
 
-    # c "Mmmm, you woke me up."
+
     c "Mmmm, tu m'as réveillé."
 
-# game/extras.rpy:326
+
 translate french extra_scene_50_1f1a397b:
 
-    # ha "It just looked too good to leave alone."
+
     ha "C'était trop bon pour que je m'en aille."
 
-# game/extras.rpy:327
+
 translate french extra_scene_50_f0911094:
 
-    # ha "Should I stop?"
+
     ha "Dois-je m'arrêter ?"
 
-# game/extras.rpy:328
+
 translate french extra_scene_50_eb46fe9f:
 
-    # c "No!"
+
     c "Non !"
 
-# game/extras.rpy:333
+
 translate french extra_scene_50_9823423a:
 
-    # "Hannah continued sucking my cock, while I stroked her body."
+
     "Hannah a continué à me sucer pendant que je caressais son corps."
 
-# game/extras.rpy:334
+
 translate french extra_scene_50_de8db0bc:
 
-    # "She gasped as I grazed my fingers over her nipples and they were hard in seconds."
+
     "Elle a haleté quand j'ai effleuré ses tétons avec mes doigts, et ils sont devenus durs en quelques secondes."
 
-# game/extras.rpy:335
+
 translate french extra_scene_50_d32321f9:
 
-    # c "I want to be inside you again."
+
     c "Je veux te pénétrer à nouveau."
 
-# game/extras.rpy:337
+
 translate french extra_scene_50_b09df2dd:
 
-    # "Hannah managed one long and teasing suck and freed my penis from her mouth."
+
     "Hannah m'a fait une longue succion taquine, puis a libéré mon pénis de sa bouche."
 
-# game/extras.rpy:339
+
 translate french extra_scene_50_507dc0a7:
 
-    # c "First, I need to use the bathroom real quick."
+
     c "Je dois d'abord aller aux toilettes rapidement."
 
-# game/extras.rpy:340
+
 translate french extra_scene_50_c4fb2059:
 
-    # c "Had too much to drink, I think."
+
     c "J'ai trop bu, je crois."
 
-# game/extras.rpy:342
+
 translate french extra_scene_50_1dfc61aa:
 
-    # ha "No!{w} Don’t go!"
+
     ha "Non ! {w} Ne pars pas !"
 
-# game/extras.rpy:344
+
 translate french extra_scene_50_5f70c2ec:
 
-    # ha "Just let it all go over my body."
+
     ha "Laisse tout couler sur mon corps."
 
-# game/extras.rpy:349
+
 translate french extra_scene_50_7b71ea3e:
 
-    # "Hannah moved to the floor, spread her legs and began to finger herself."
+
     "Hannah s'est allongée sur le sol, a écarté les jambes et a commencé à se caresser."
 
-# game/extras.rpy:350
+
 translate french extra_scene_50_9f08e3d9:
 
-    # "As I positioned myself in front of her, she was looking expectantly at my dick."
+
     "Alors que je me positionnais devant elle, elle regardait ma bite avec impatience."
 
-# game/extras.rpy:352
+
 translate french extra_scene_50_d3385439:
 
-    # ha "I want it all over my breasts, body and pussy."
+
     ha "Je veux que tu te vides sur mes seins, mon corps et ma chatte."
 
-# game/extras.rpy:354
+
 translate french extra_scene_50_30ea9638:
 
-    # ha "I want it all over my breasts and pussy."
+
     ha "Je veux que tu te vides sur mes seins et ma chatte."
 
-# game/extras.rpy:355
+
 translate french extra_scene_50_f3c52eda:
 
-    # ha "And don’t you want to fill my mouth with your piss?"
+
     ha "Et tu ne veux pas remplir ma bouche avec ta pisse ?"
 
-# game/extras.rpy:356
+
 translate french extra_scene_50_71275664:
 
-    # "I could only grunt and focused on fulfilling her wish."
+
     "Je ne pouvais que grogner et me concentrer pour exaucer son souhait."
 
-# game/extras.rpy:361
+
 translate french extra_scene_50_00dad131:
 
-    # "Finally, a steady stream of urine splattered on Hannah’s tits."
+
     "Finalement, un jet d'urine régulier a éclaboussé les seins d'Hannah."
 
-# game/extras.rpy:362
+
 translate french extra_scene_50_4606cf33:
 
-    # ha "That’s it!"
+
     ha "C'est ça !"
 
-# game/extras.rpy:367
+
 translate french extra_scene_50_92a02467:
 
-    # "I pissed inside Hannah’s open mouth until she closed it and swallowed."
+
     "J'ai pissé dans la bouche ouverte d'Hannah jusqu'à ce qu'elle la ferme et avale."
 
-# game/extras.rpy:368
+
 translate french extra_scene_50_898d9aad:
 
-    # ha "Mmmmm, I want more!"
+
     ha "Mmmmm, j'en veux encore !"
 
-# game/extras.rpy:371
+
 translate french extra_scene_50_7b94d7c9:
 
-    # "The next stream hit her pregnant belly and streaks of piss ran down to her thighs."
+
     "Le jet suivant a frappé son ventre de femme enceinte et des traînées de pisse ont coulé jusqu'à ses cuisses."
 
-# game/extras.rpy:374
+
 translate french extra_scene_50_7c84301a:
 
-    # "The next stream hit her toned abdomen and streaks of piss ran down to her thighs."
+
     "Le jet suivant a frappé son abdomen tonique et des traînées de pisse ont coulé jusqu'à ses cuisses."
 
-# game/extras.rpy:379
+
 translate french extra_scene_50_8a54352f:
 
-    # "Wetting her fingers with my urine, she began to finger herself."
+
     "Après avoir mouillé ses doigts avec ma pisse, elle a commencé à se doigter."
 
-# game/extras.rpy:380
+
 translate french extra_scene_50_63ac80e7:
 
-    # ha "That was so hot."
+
     ha "C'était tellement excitant."
 
-# game/extras.rpy:381
+
 translate french extra_scene_50_2fb27a45:
 
-    # ha "I think I’m ready to be fucked now."
+
     ha "Je pense que je suis prête à me faire baiser maintenant."
 
-# game/extras.rpy:384
+
 translate french extra_scene_50_b834ea5a:
 
-    # "She draped her wet pregnant body onto the bed and opened her legs for me."
+
     "Elle a étendu son corps de femme enceinte mouillé sur le lit et m'a ouvert les jambes."
 
-# game/extras.rpy:387
+
 translate french extra_scene_50_36df11d8:
 
-    # "She draped her wet body onto the bed and opened her legs for me."
+
     "Elle s'allongea sur le lit et écarta les jambes pour moi."
 
-# game/extras.rpy:388
+
 translate french extra_scene_50_57bd3d93:
 
-    # ha "Please fuck my piss-stained hole..."
+
     ha "S'il te plaît, baise mon trou taché d'urine..."
 
-# game/extras.rpy:392
+
 translate french extra_scene_50_bf542491:
 
-    # "She draped her pregnant body before me on the bed and opened her legs."
+
     "Elle s'allongea devant moi sur le lit et écarta les jambes."
 
-# game/extras.rpy:395
+
 translate french extra_scene_50_1306b105:
 
-    # "She draped her body before me on the bed and opened her legs."
+
     "Elle s'allongea devant moi sur le lit et écarta les jambes."
 
-# game/extras.rpy:396
+
 translate french extra_scene_50_a0f0df8a:
 
-    # ha "Please fuck me!"
+
     ha "S'il te plaît, baise-moi !"
 
-# game/extras.rpy:401
+
 translate french extra_scene_50_0f0f3ccd:
 
-    # "Laying behind her, I grabbed hold of her legs."
+
     "Allongé derrière elle, j'attrapai ses jambes."
 
-# game/extras.rpy:402
+
 translate french extra_scene_50_550397f9:
 
-    # "I entered her wet gash in one fell swoop."
+
     "Je pénétrai d'un seul coup dans sa chatte humide."
 
-# game/extras.rpy:403
+
 translate french extra_scene_50_68270a39:
 
-    # "Hannah gritted her teeth and let out a low moan."
+
     "Hannah a serré les dents et a laissé échapper un gémissement grave."
 
-# game/extras.rpy:404
+
 translate french extra_scene_50_1b3a696f:
 
-    # c "Fuck, you feel so good!"
+
     c "Putain, c'est trop bon !"
 
-# game/extras.rpy:405
+
 translate french extra_scene_50_87731e6e:
 
-    # "Hannah wriggled her ass against my abdomen, desperate to get fucked."
+
     "Hannah a remué son cul contre mon ventre, désespérée de se faire baiser."
 
-# game/extras.rpy:411
+
 translate french extra_scene_50_a430859a:
 
-    # "I started thrusting, one hand clamped around her swollen belly."
+
     "J'ai commencé à la pénétrer, une main agrippée à son ventre gonflé."
 
-# game/extras.rpy:413
+
 translate french extra_scene_50_446453d2:
 
-    # "I started thrusting, one hand clamped around her breast."
+
     "J'ai commencé à la pénétrer, une main agrippée à sa poitrine."
 
-# game/extras.rpy:414
+
 translate french extra_scene_50_07e9d409:
 
-    # c "I’m not going to hold back."
+
     c "Je ne vais pas me retenir."
 
-# game/extras.rpy:416
+
 translate french extra_scene_50_4c7db5bd:
 
-    # c "I’m going to fuck you like the dirty piss slut that you are."
+
     c "Je vais te baiser comme la sale salope pisseuse que tu es."
 
-# game/extras.rpy:418
+
 translate french extra_scene_50_869bda29:
 
-    # c "I’m going to fuck you like the dirty slut that you are."
+
     c "Je vais te baiser comme la sale salope que tu es."
 
-# game/extras.rpy:419
+
 translate french extra_scene_50_a9642689:
 
-    # ha "Yes, please fuck me hard, [p_name_short]!"
+
     ha "Oui, baise-moi fort, [p_name_short] !"
 
-# game/extras.rpy:425
+
 translate french extra_scene_50_a3cf92a0:
 
-    # "Keeping her slippery wet body tightly against mine, I fucked her with short, but furious thrusts."
+
     "En gardant son corps glissant et humide fermement contre le mien, je l'ai baisée avec des coups de reins courts mais furieux."
 
-# game/extras.rpy:427
+
 translate french extra_scene_50_f206993a:
 
-    # "Keeping her body tightly against mine, I fucked her with short, but furious thrusts."
+
     "En gardant son corps fermement contre le mien, je l'ai baisée avec des coups de reins courts mais furieux."
 
-# game/extras.rpy:428
+
 translate french extra_scene_50_78b55ebc:
 
-    # "Hannah’s breath came out in ragged gasps."
+
     "Hannah haletait bruyamment."
 
-# game/extras.rpy:430
+
 translate french extra_scene_50_94012f59:
 
-    # "A heady smell of piss, mixed with the emanations of our bodies, filled the room and heightened the fevered rush that had us both in thrall."
+
     "Une odeur capiteuse de pisse, mélangée aux émanations de nos corps, emplissait la pièce et intensifiait la fièvre qui nous tenait tous les deux en esclavage."
 
-# game/extras.rpy:432
+
 translate french extra_scene_50_8f34943a:
 
-    # "The smell of pure sex filled the room and heightened the fevered rush that had us both in thrall."
+
     "L'odeur du sexe pur emplissait la pièce et intensifiait la fièvre qui nous tenait tous les deux en esclavage."
 
-# game/extras.rpy:433
+
 translate french extra_scene_50_1136d500:
 
-    # "I wanted a better view of Hannah’s body, so I pulled her on top of me."
+
     "Je voulais mieux voir le corps d'Hannah, alors je l'ai tirée sur moi."
 
-# game/extras.rpy:434
+
 translate french extra_scene_50_1fce7b9f:
 
-    # c "I want you to ride me."
+
     c "Je veux que tu me chevauches."
 
-# game/extras.rpy:439
+
 translate french extra_scene_50_651f333c:
 
-    # "Hannah steadied herself on top of me and began to move."
+
     "Hannah s'est stabilisée sur moi et a commencé à bouger."
 
-# game/extras.rpy:441
+
 translate french extra_scene_50_ff77cd4b:
 
-    # "Her majestic belly and full breasts bounced on the rhythm."
+
     "Son ventre majestueux et ses seins pleins rebondissaient au rythme de ses mouvements."
 
-# game/extras.rpy:443
+
 translate french extra_scene_50_e99b31d2:
 
-    # "Her full breasts bounced on the rhythm."
+
     "Ses seins pleins rebondissaient au rythme de ses mouvements."
 
-# game/extras.rpy:444
+
 translate french extra_scene_50_45453c42:
 
-    # "She sank ever lower on top of my cock, taking my shaft deeper every time."
+
     "Elle s'enfonçait de plus en plus sur ma bite, prenant mon membre plus profondément à chaque fois."
 
-# game/extras.rpy:445
+
 translate french extra_scene_50_055ad04c:
 
-    # ha "You feel so good inside me!"
+
     ha "Tu es si bon en moi !"
 
-# game/extras.rpy:450
+
 translate french extra_scene_50_700cb1ed:
 
-    # "Her movements became more frantic, as sure sign she was close to her climax."
+
     "Ses mouvements sont devenus plus frénétiques, signe indéniable qu'elle était proche de l'orgasme."
 
-# game/extras.rpy:456
+
 translate french extra_scene_50_4ce092b2:
 
-    # "As my thrusts became more erratic, my dick suddenly slipped out of her pussy."
+
     "Alors que mes coups de reins devenaient plus saccadés, ma bite a soudainement glissé hors de sa chatte."
 
-# game/extras.rpy:457
+
 translate french extra_scene_50_3b4321df:
 
-    # "Hannah bit her lip and looked me in the eye, a glint of mischief in her gaze."
+
     "Hannah s'est mordu la lèvre et m'a regardé dans les yeux, une lueur malicieuse dans le regard."
 
-# game/extras.rpy:462
+
 translate french extra_scene_50_11366a21:
 
-    # "Before I knew what she was doing, Hannah released a burst of pee from her pussy."
+
     "Avant que je ne comprenne ce qu'elle faisait, Hannah a laissé échapper un jet de pisse de sa chatte."
 
-# game/extras.rpy:463
+
 translate french extra_scene_50_456beb60:
 
-    # "Warm piss splattered on my chest and streaked her thighs."
+
     "De la pisse chaude a éclaboussé ma poitrine et a coulé le long de ses cuisses."
 
-# game/extras.rpy:464
+
 translate french extra_scene_50_c1e24584:
 
-    # ha "That’s such a relief."
+
     ha "C'est un tel soulagement."
 
-# game/extras.rpy:465
+
 translate french extra_scene_50_09861943:
 
-    # c "Mmmm, you’re such a dirty whore!"
+
     c "Mmmm, t'es une vraie salope !"
 
-# game/extras.rpy:470
+
 translate french extra_scene_50_a161c79b:
 
-    # "Smiling, Hannah reinserted my cock in her dripping wet pussy and began to ride me once more."
+
     "Souriante, Hannah réinséra ma bite dans sa chatte dégoulinante et recommença à me chevaucher."
 
-# game/extras.rpy:476
+
 translate french extra_scene_50_380cdd96:
 
-    # "She was at her peak in seconds, moaning loudly."
+
     "Elle atteignit l'orgasme en quelques secondes, gémissant bruyamment."
 
-# game/extras.rpy:482
+
 translate french extra_scene_50_b3817bb2:
 
-    # ha "Oh, [p_name_short]!{w} Your cock is making me cum!"
+
     ha "Oh, [p_name_short] ! {w} Ta bite me fait jouir !"
 
-# game/extras.rpy:483
+
 translate french extra_scene_50_36e4a792:
 
-    # ha "I’m cum-"
+
     ha "Je jouis..."
 
-# game/extras.rpy:484
+
 translate french extra_scene_50_5aab4998:
 
-    # ha "Oh, fuck yes!"
+
     ha "Oh, oui, putain !"
 
-# game/extras.rpy:485
+
 translate french extra_scene_50_b003df73:
 
-    # c "That’s it, cum all over my dick."
+
     c "C'est ça, jouis sur ma bite."
 
-# game/extras.rpy:489
+
 translate french extra_scene_50_d190032d:
 
-    # c "I’m going to shoot you so full of cum!"
+
     c "Je vais te remplir de sperme !"
 
-# game/extras.rpy:490
+
 translate french extra_scene_50_a23bf666:
 
-    # "Just as Hannah came all over my cock, I was ready too."
+
     "Au moment où Hannah jouissait sur ma bite, j'étais prêt moi aussi."
 
-# game/extras.rpy:495
+
 translate french extra_scene_50_f0ded3db:
 
-    # "Her body came down heavily on my abdomen and I shot my seed inside her, right at that moment."
+
     "Son corps s'est abattu lourdement sur mon abdomen et j'ai déversé ma semence en elle, à ce moment précis."
 
-# game/extras.rpy:496
+
 translate french extra_scene_50_f6dbbffe:
 
-    # c "Fuck, yes!"
+
     c "Putain, oui !"
 
-# game/extras.rpy:497
+
 translate french extra_scene_50_4436a632:
 
-    # ha "Yes, [p_name_short]!{w} Your cum feels so good inside me!"
+
     ha "Oui, [p_name_short] !{w} Ton sperme est si bon en moi !"
 
-# game/extras.rpy:505
+
 translate french extra_scene_50_d25e8665:
 
-    # "Cum oozed out of her pulsating gash and mixed with the rivulets of piss already covering her body."
+
     "Le sperme coulait de sa chatte palpitante et se mélangeait aux ruisseaux de pisse qui recouvraient déjà son corps."
 
-# game/extras.rpy:507
+
 translate french extra_scene_50_71a7b8d3:
 
-    # "Cum oozed out of her pulsating gash."
+
     "Le sperme coulait de sa chatte palpitante."
 
-# game/extras.rpy:511
+
 translate french extra_scene_50_4f14908d:
 
-    # c "I’m going to defile that pregnant body of yours with my cum!"
+
     c "Je vais souiller ton corps de femme enceinte avec mon sperme !"
 
-# game/extras.rpy:513
+
 translate french extra_scene_50_c8280af3:
 
-    # c "I’m going to defile that body of yours with my cum!"
+
     c "Je vais souiller ton corps avec mon sperme !"
 
-# game/extras.rpy:514
+
 translate french extra_scene_50_ce069f1b:
 
-    # ha "Yes, please! "
+
     ha "Oui, s'il te plaît !"
 
-# game/extras.rpy:515
+
 translate french extra_scene_50_71a5adf1:
 
-    # ha "Oh, [p_name_short], give it to me!"
+
     ha "Oh, [p_name_short], donne-le-moi !"
 
-# game/extras.rpy:516
+
 translate french extra_scene_50_f6dbbffe_1:
 
-    # c "Fuck, yes!"
+
     c "Putain, oui !"
 
-# game/extras.rpy:522
+
 translate french extra_scene_50_1564a2ae:
 
-    # "I shot my cum all over her pregnant belly."
+
     "J'ai fini par jouir sur son ventre de femme enceinte."
 
-# game/extras.rpy:524
+
 translate french extra_scene_50_90a9a0d5:
 
-    # "I shot my cum all over her body."
+
     "J'ai joui sur tout son corps."
 
-# game/extras.rpy:532
+
 translate french extra_scene_50_f6e55d67:
 
-    # "Cum dripped from her breasts and mixed with the rivulets of piss already covering her body."
+
     "Le sperme coulait de ses seins et se mélangeait aux filets d'urine qui recouvraient déjà son corps."
 
-# game/extras.rpy:534
+
 translate french extra_scene_50_202a93d3:
 
-    # "Cum dripped from her heaving breasts."
+
     "Le sperme coulait de ses seins haletants."
 
-# game/extras.rpy:539
+
 translate french extra_scene_50_1b4e45aa:
 
-    # "With quivering legs, she dropped next to me."
+
     "Les jambes tremblantes, elle s'est effondrée à côté de moi."
 
-# game/extras.rpy:540
+
 translate french extra_scene_50_630913ec:
 
-    # ha "That was a great second round."
+
     ha "C'était un super deuxième round."
 
-# game/extras.rpy:541
+
 translate french extra_scene_50_a95ce96c:
 
-    # c "I’d say, you dirty girl."
+
     c "Je dirais que t'es une fille coquine."
 
-# game/extras.rpy:542
+
 translate french extra_scene_50_a2ac1704:
 
-    # ha "I have my moments."
+
     ha "J'ai mes moments."
 
-# game/extras.rpy:543
+
 translate french extra_scene_50_43cd7330:
 
-    # c "I hope you have a lot of them in the future."
+
     c "J'espère que t'en auras beaucoup à l'avenir."
 
-# game/extras.rpy:544
+
 translate french extra_scene_50_7cb9d498:
 
-    # ha "Count on it."
+
     ha "Compte là-dessus."
 
-# game/extras.rpy:549
+
 translate french extra_scene_50_88df2342:
 
-    # "We both fell asleep again, Hannah lying snugly in my arms."
+
     "On s'est tous les deux rendormis, Hannah blottie dans mes bras."
 
-# game/extras.rpy:560
+
 translate french extra_scene_51_1ad6e068:
 
-    # "We were both naked in seconds."
+
     "On était tous les deux nus en quelques secondes."
 
-# game/extras.rpy:561
+
 translate french extra_scene_51_6e1d398d:
 
-    # c "Damn, you don’t realize how much I love that tight body of yours."
+
     c "Putain, tu ne te rends pas compte à quel point j'aime ton corps ferme."
 
-# game/extras.rpy:563
+
 translate french extra_scene_51_eed0a1a3:
 
-    # ce "You might feel different when I start to show."
+
     ce "Tu penseras peut-être différemment quand je commencerai à montrer."
 
-# game/extras.rpy:564
+
 translate french extra_scene_51_18be6fc7:
 
-    # c "Nonsense, there’s nothing more beautiful than a pregnant woman."
+
     c "N'importe quoi, il n'y a rien de plus beau qu'une femme enceinte."
 
-# game/extras.rpy:565
+
 translate french extra_scene_51_72fc1d9c:
 
-    # c "If you don’t watch out, I’ll knock you up again as soon as the baby’s been born."
+
     c "Si tu ne fais pas attention, je te remettrai enceinte dès que le bébé sera né."
 
-# game/extras.rpy:566
+
 translate french extra_scene_51_74f47c77:
 
-    # ce "You know what?"
+
     ce "Tu sais quoi ?"
 
-# game/extras.rpy:567
+
 translate french extra_scene_51_b0e5542a:
 
-    # ce "That turns me on so much."
+
     ce "Ça m'excite tellement."
 
-# game/extras.rpy:569
+
 translate french extra_scene_51_0a8850de:
 
-    # "I parted her legs and began to lick her pussy."
+
     "J'ai écarté ses jambes et j'ai commencé à lui lécher la chatte."
 
-# game/extras.rpy:570
+
 translate french extra_scene_51_0d620213:
 
-    # "Céline tasted of salt and I noticed she was already very wet."
+
     "Céline avait un goût salé et j'ai remarqué qu'elle était déjà très mouillée."
 
-# game/extras.rpy:572
+
 translate french extra_scene_51_4154b584:
 
-    # ce "Oh, [p_name_short]!"
+
     ce "Oh, [p_name_short] !"
 
-# game/extras.rpy:573
+
 translate french extra_scene_51_c3d68a3f:
 
-    # ce "Yes, right there!"
+
     ce "Oui, juste là !"
 
-# game/extras.rpy:575
+
 translate french extra_scene_51_e16b016a:
 
-    # "Her clawing hands mussed my hair and she moaned deeply."
+
     "Ses mains griffues ébouriffaient mes cheveux et elle gémissait profondément."
 
-# game/extras.rpy:576
+
 translate french extra_scene_51_3b355d69:
 
-    # "I had her near a climax in moments, so she wasn’t amused when I suddenly stopped caressing her clit with my tongue."
+
     "Je l'ai amenée au bord de l'orgasme en quelques instants, alors elle n'a pas apprécié que j'arrête soudainement de caresser son clitoris avec ma langue."
 
-# game/extras.rpy:577
+
 translate french extra_scene_51_92e6982c:
 
-    # ce "No!{w} Don’t stop, I was so close!"
+
     ce "Non ! {w} N'arrête pas, j'étais si près du but !"
 
-# game/extras.rpy:578
+
 translate french extra_scene_51_f531bc2c:
 
-    # c "I’m sure I have something better for you."
+
     c "Je suis sûr que j'ai quelque chose de mieux pour toi."
 
-# game/extras.rpy:580
+
 translate french extra_scene_51_5b6f57a1:
 
-    # "She eyed my erect cock greedily, as I pushed it against her lower lips."
+
     "Elle regarda mon sexe en érection avec avidité, alors que je le poussais contre ses lèvres inférieures."
 
-# game/extras.rpy:581
+
 translate french extra_scene_51_b32eff7d:
 
-    # ce "Mmmm, yes, push it in!"
+
     ce "Mmmm, oui, enfonce-le !"
 
-# game/extras.rpy:582
+
 translate french extra_scene_51_39b017d8:
 
-    # ce "I want to feel you inside me!"
+
     ce "Je veux te sentir en moi !"
 
-# game/extras.rpy:584
+
 translate french extra_scene_51_9f5e59f7:
 
-    # "Slowly, I slipped into her tunnel."
+
     "Lentement, je m'enfonçai dans son tunnel."
 
-# game/extras.rpy:585
+
 translate french extra_scene_51_63ed6549:
 
-    # "Céline held her breath, waiting for me to be fully rooted inside her."
+
     "Céline retint son souffle, attendant que je sois complètement enfoncé en elle."
 
-# game/extras.rpy:586
+
 translate french extra_scene_51_6596a634:
 
-    # "I took my time, ignoring Céline’s attempts to push me in faster."
+
     "Je pris mon temps, ignorant les tentatives de Céline pour me pousser à aller plus vite."
 
-# game/extras.rpy:587
+
 translate french extra_scene_51_6c41c86d:
 
-    # c "I love how tight you are."
+
     c "J'adore comme tu es serrée."
 
-# game/extras.rpy:589
+
 translate french extra_scene_51_fa70d3b8:
 
-    # "Céline gasped as I began to thrust."
+
     "Céline haleta quand je commençai à la pénétrer."
 
-# game/extras.rpy:590
+
 translate french extra_scene_51_88bf3373:
 
-    # ce "Oh yes, right there!"
+
     ce "Oh oui, juste là !"
 
-# game/extras.rpy:591
+
 translate french extra_scene_51_7d6d8948:
 
-    # "I massaged Céline’s breasts while I fucked her, her nipples hard against the palms of my hands."
+
     "Je massai les seins de Céline pendant que je la baisais, ses tétons durs contre la paume de mes mains."
 
-# game/extras.rpy:593
+
 translate french extra_scene_51_53d45fd6:
 
-    # "Céline wrapped her legs around me, desperate for my cock."
+
     "Céline enroula ses jambes autour de moi, désespérée d'avoir ma bite."
 
-# game/extras.rpy:594
+
 translate french extra_scene_51_f5756f22:
 
-    # ce "Harder!{w} Fuck me harder, please, [p_name_short]!"
+
     ce "Plus fort ! {w} Baise-moi plus fort, s'il te plaît, [p_name_short] !"
 
-# game/extras.rpy:595
+
 translate french extra_scene_51_e81061f0:
 
-    # "Céline was clearly hungry for control, so I let her have it."
+
     "Céline avait clairement envie de prendre le contrôle, alors je l'ai laissée faire."
 
-# game/extras.rpy:597
+
 translate french extra_scene_51_291f61bd:
 
-    # "I pulled out of her and dragged her on top of me so I could have a good view of her pert round ass."
+
     "Je me suis retiré d'elle et je l'ai tirée sur moi pour avoir une bonne vue sur son cul rond et rebondi."
 
-# game/extras.rpy:598
+
 translate french extra_scene_51_8db533a3:
 
-    # "She took the hint and started riding me cowgirl."
+
     "Elle a compris l'allusion et a commencé à me chevaucher en cowgirl."
 
-# game/extras.rpy:600
+
 translate french extra_scene_51_04ac64f2:
 
-    # "Céline rode me deep and hard."
+
     "Céline m'a chevauché profondément et vigoureusement."
 
-# game/extras.rpy:601
+
 translate french extra_scene_51_2a81574e:
 
-    # "I had my hands clamped on her flanks, steadying her, so she wouldn’t slip off my cock."
+
     "J'avais mes mains agrippées à ses hanches pour la stabiliser, afin qu'elle ne glisse pas de ma bite."
 
-# game/extras.rpy:603
+
 translate french extra_scene_51_f310a0de:
 
-    # "With each thrust, I could feel her become wetter and wetter."
+
     "À chaque coup de rein, je la sentais devenir de plus en plus humide."
 
-# game/extras.rpy:604
+
 translate french extra_scene_51_64ef0987:
 
-    # "Her moans turned into hoarse screams, when I gathered her legs and took control again."
+
     "Ses gémissements se sont transformés en cris rauques lorsque j'ai rassemblé ses jambes et repris le contrôle."
 
-# game/extras.rpy:605
+
 translate french extra_scene_51_e1e992a3:
 
-    # "Holding her, I fired off a series of furious thrusts, angled deep inside her wet slit."
+
     "La tenant fermement, j'ai donné une série de coups de rein furieux, enfonçant profondément ma queue dans sa fente humide."
 
-# game/extras.rpy:607
+
 translate french extra_scene_51_ae0d1e2b:
 
-    # ce "Oh, [p_name_short]!{w} [p_name_short]!{w} Yes!{w} Yes!"
+
     ce "Oh, [p_name_short] ! {w} [p_name_short] ! {w} Oui ! {w} Oui !"
 
-# game/extras.rpy:608
+
 translate french extra_scene_51_bd04aec4:
 
-    # "Juice spattered from her pussy on my thighs and I knew she was ready to orgasm."
+
     "Du jus de sa chatte éclaboussait mes cuisses et je savais qu'elle était prête à jouir."
 
-# game/extras.rpy:609
+
 translate french extra_scene_51_8ad32879:
 
-    # "Just as Céline was getting into the zone, I felt my climax coming on as well."
+
     "Au moment où Céline atteignait l'extase, j'ai senti mon orgasme arriver aussi."
 
-# game/extras.rpy:613
+
 translate french extra_scene_51_2a6dece0:
 
-    # c "I’m going to shoot you so full of cum."
+
     c "Je vais te remplir de sperme."
 
-# game/extras.rpy:614
+
 translate french extra_scene_51_6e8d7dbe:
 
-    # ce "Yes, [p_name_short]!{w} Cum in my pussy!"
+
     ce "Oui, [p_name_short] ! {w} Éjacule dans ma chatte !"
 
-# game/extras.rpy:615
+
 translate french extra_scene_51_2334be64:
 
-    # ce "I want it so bad!"
+
     ce "J'en ai tellement envie !"
 
-# game/extras.rpy:616
+
 translate french extra_scene_51_a3d57c78:
 
-    # ce "I-"
+
     ce "Je..."
 
-# game/extras.rpy:618
+
 translate french extra_scene_51_8edd0cbf:
 
-    # "Céline orgasmed."
+
     "Céline a joui."
 
-# game/extras.rpy:619
+
 translate french extra_scene_51_fe177937:
 
-    # "Right at the same time, I thrust my dick to the balls in her wet cunt and unloaded."
+
     "Au même moment, j'ai enfoncé ma bite jusqu'aux couilles dans sa chatte humide et j'ai déchargé."
 
-# game/extras.rpy:620
+
 translate french extra_scene_51_74c7be8c:
 
-    # "Thick ropes of cum flooded her vagina."
+
     "Des jets épais de sperme ont inondé son vagin."
 
-# game/extras.rpy:621
+
 translate french extra_scene_51_1cce1f8d:
 
-    # c "Fuck yes, Céline!"
+
     c "Putain, oui, Céline !"
 
-# game/extras.rpy:622
+
 translate french extra_scene_51_a821bffa:
 
-    # c "I’m flooding your pussy with my cum."
+
     c "Je remplis ta chatte de mon sperme."
 
-# game/extras.rpy:623
+
 translate french extra_scene_51_f287b58a:
 
-    # ce "I-I-I can feel it!"
+
     ce "Je... je... je le sens !"
 
-# game/extras.rpy:624
+
 translate french extra_scene_51_db7adbfb:
 
-    # ce "It’s so warm!"
+
     ce "C'est tellement chaud !"
 
-# game/extras.rpy:625
+
 translate french extra_scene_51_89591ca0:
 
-    # ce "I love it!"
+
     ce "J'adore ça !"
 
-# game/extras.rpy:628
+
 translate french extra_scene_51_231e90b0:
 
-    # "Céline shuddered on top of me, her orgasm coursing through her body."
+
     "Céline a frissonné sur moi, son orgasme parcourant tout son corps."
 
-# game/extras.rpy:629
+
 translate french extra_scene_51_805e2177:
 
-    # "It heightened my own climax as well, and I made a veritable mess of her pussy."
+
     "Ça a aussi intensifié mon propre orgasme, et j'ai vraiment mis son sexe en pagaille."
 
-# game/extras.rpy:630
+
 translate french extra_scene_51_3734f352:
 
-    # "When my dick slipped out of her, a steady stream of hot cum pulsed out of her slit."
+
     "Quand ma bite a glissé hors d'elle, un jet régulier de sperme chaud a jailli de sa fente."
 
-# game/extras.rpy:633
+
 translate french extra_scene_51_566cae65:
 
-    # c "I’m going to make a mess of your body!"
+
     c "Je vais mettre ton corps en pagaille !"
 
-# game/extras.rpy:634
+
 translate french extra_scene_51_527147d0:
 
-    # ce "Yes, [p_name_short]!{w} Cum all over me!"
+
     ce "Oui, [p_name_short] !{w} Jouis sur moi !"
 
-# game/extras.rpy:635
+
 translate french extra_scene_51_2334be64_1:
 
-    # ce "I want it so bad!"
+
     ce "J'en ai tellement envie !"
 
-# game/extras.rpy:636
+
 translate french extra_scene_51_a3d57c78_1:
 
-    # ce "I-"
+
     ce "Je..."
 
-# game/extras.rpy:638
+
 translate french extra_scene_51_8edd0cbf_1:
 
-    # "Céline orgasmed."
+
     "Céline a joui."
 
-# game/extras.rpy:639
+
 translate french extra_scene_51_57686cba:
 
-    # "Right at the same time, I pulled out of her and shot thick ropes of cum all over her body."
+
     "Au même moment, je me suis retiré d'elle et j'ai giclé d'épaisses giclées de sperme sur tout son corps."
 
-# game/extras.rpy:642
+
 translate french extra_scene_51_1cce1f8d_1:
 
-    # c "Fuck yes, Céline!"
+
     c "Putain, oui, Céline !"
 
-# game/extras.rpy:643
+
 translate french extra_scene_51_c87edef9:
 
-    # c "I’m painting your body with my cum."
+
     c "Je recouvre ton corps de mon sperme."
 
-# game/extras.rpy:644
+
 translate french extra_scene_51_9196facc:
 
-    # ce "T-T-There’s so much of it!"
+
     ce "Il y en a tellement !"
 
-# game/extras.rpy:645
+
 translate french extra_scene_51_db7adbfb_1:
 
-    # ce "It’s so warm!"
+
     ce "C'est tellement chaud !"
 
-# game/extras.rpy:646
+
 translate french extra_scene_51_89591ca0_1:
 
-    # ce "I love it!"
+
     ce "J'adore ça !"
 
-# game/extras.rpy:647
+
 translate french extra_scene_51_231e90b0_1:
 
-    # "Céline shuddered on top of me, her orgasm coursing through her body."
+
     "Céline a frissonné sur moi, son orgasme parcourant tout son corps."
 
-# game/extras.rpy:649
+
 translate french extra_scene_51_9dcd1c9f:
 
-    # "Céline lost her balance and collapsed on top of me."
+
     "Céline a perdu l'équilibre et s'est effondrée sur moi."
 
-# game/extras.rpy:650
+
 translate french extra_scene_51_50f84341:
 
-    # "We kissed passionately and stayed in each other’s arms for a long time."
+
     "On s'est embrassés passionnément et on est restés dans les bras l'un de l'autre pendant un long moment."
 
-# game/extras.rpy:652
+
 translate french extra_scene_51_427d5be7:
 
-    # "When the ship alerted us to a navigational issue, we separated to go back to our duties."
+
     "Quand le navire nous a alertés d'un problème de navigation, on s'est séparés pour retourner à nos tâches."
 
-# TODO: Translation updated at 2026-03-09 09:42
 
-# game/extras.rpy:386
+
+
 translate french extra_scene_50_293c49f1:
 
-    # c "Sorry, maybe another time."
+
     c "Désolé, peut-être une autre fois."
 
-# game/extras.rpy:387
+
 translate french extra_scene_50_fb13c37a:
 
-    # c "Back in a sec."
+
     c "Je reviens tout de suite."
 
-# game/extras.rpy:389
+
 translate french extra_scene_50_2e86b561:
 
-    # "I rushed to the toilet, while Hannah waited impatiently on me."
+
     "Je me suis précipitée aux toilettes, tandis qu'Hannah m'attendait avec impatience."
 
-# game/extras.rpy:392
+
 translate french extra_scene_50_768e8a8e:
 
-    # "Her brief moment of disappointment faded as soon as I re-entered her quarters."
+
     "Son bref moment de déception s'est dissipé dès que je suis rentré dans ses quartiers."
 
-# game/extras.rpy:393
+
 translate french extra_scene_50_abadf2b5:
 
-    # "Hannah draped her pregnant body before me on the bed and opened her legs."
+
     "Hannah s'allongea devant moi sur le lit et écarta les jambes."
 
-# game/extras.rpy:396
+
 translate french extra_scene_50_768e8a8e_1:
 
-    # "Her brief moment of disappointment faded as soon as I re-entered her quarters."
+
     "Son bref moment de déception s'est dissipé dès que je suis rentré dans ses quartiers."
 
-# game/extras.rpy:397
+
 translate french extra_scene_50_b05df2ad:
 
-    # "Hannah draped her body before me on the bed and opened her legs."
+
     "Hannah s'est allongée devant moi sur le lit et a écarté les jambes."
 
 translate french strings:
 
-    # game/extras.rpy:337
+
     old "Piss on Hannah"
     new "Pisse sur Hannah"
 
-    # game/extras.rpy:337
+
     old "Don’t piss on her"
     new "Ne lui pisse pas dessus."
+
+# game/extras.rpy:260
+translate french extra_scene_49_41b96347:
+
+    # "My mother let out long moans every time my dick thrust into her tight asshole."
+    "Ma mère poussait de longs gémissements à chaque fois que ma bite s’enfonçait dans son trou du cul serré."
+
+# game/extras.rpy:262
+translate french extra_scene_49_7e560861:
+
+    # "Nadya let out long moans every time my dick thrust into her tight asshole."
+    "Nadya poussait de longs gémissements à chaque fois que ma bite s’enfonçait dans son trou du cul serré."
+
+# game/extras.rpy:477
+translate french extra_scene_50_9aad8146:
+
+    # "Her movements became more frantic, a sure sign she was close to her climax."
+    "Ses mouvements devenaient de plus en plus frénétiques, signe indéniable qu’elle était sur le point de jouir."
+
+# game/extras.rpy:631
+translate french extra_scene_51_5fb28984:
+
+    # "Her moans turned into hoarse screams as I grabbed her legs and took control again."
+    "Ses gémissements se transformèrent en cris rauques quand j’attrapai ses jambes et repris le contrôle."
+
+# game/extras.rpy:688
+translate french extra_scene_52_3a47dd47:
+
+    # "We weren’t due to arrive at Erigone for several hours, so the crew had some leisure time to spend."
+    "On n’allait pas arriver à Erigone avant plusieurs heures, donc l’équipage avait un peu de temps libre à passer."
+
+# game/extras.rpy:689
+translate french extra_scene_52_c8bf5a98:
+
+    # "I was planning on getting some sleep, because I had a feeling we wouldn’t be getting much rest once we arrived on the Acarhyn planet."
+    "J’avais prévu de dormir un peu, parce que j’avais le sentiment qu’on n’aurait pas beaucoup de repos une fois arrivés sur la planète Acarhyn."
+
+# game/extras.rpy:696
+translate french extra_scene_52_6bff9cc8:
+
+    # "When I opened the door to my quarters, I found my mother lying on my bed, dressed in nothing but a nightdress."
+    "Quand j’ai ouvert la porte de ma cabine, j’ai trouvé ma mère allongée sur mon lit, vêtue uniquement d’une chemise de nuit."
+
+# game/extras.rpy:698
+translate french extra_scene_52_0ec3b67b:
+
+    # "When I opened the door to my quarters, I found my Nadya lying on my bed, dressed in nothing but a nightdress."
+    "Quand j’ai ouvert la porte de ma cabine, j’ai trouvé ma Nadya allongée sur mon lit, vêtue uniquement d’une chemise de nuit."
+
+# game/extras.rpy:699
+translate french extra_scene_52_b99244f8:
+
+    # "As often happened, I was struck by how sexy she was."
+    "Comme souvent, j’ai été frappé par son côté sexy."
+
+# game/extras.rpy:700
+translate french extra_scene_52_f03e92b8:
+
+    # c "That’s a very nice surprise."
+    c "C’est une très belle surprise."
+
+# game/extras.rpy:701
+translate french extra_scene_52_f05b2236:
+
+    # na "Quick, close the door and join me."
+    na "Vite, ferme la porte et rejoins-moi."
+
+# game/extras.rpy:703
+translate french extra_scene_52_813555fb:
+
+    # "We were kissing as soon as I jumped on the bed."
+    "On s’est embrassés dès que j’ai sauté sur le lit."
+
+# game/extras.rpy:704
+translate french extra_scene_52_d2acfcef:
+
+    # c "You were quick in getting here."
+    c "Tu n’as pas traîné pour venir."
+
+# game/extras.rpy:705
+translate french extra_scene_52_0e789b79:
+
+    # na "I couldn’t think of a better way to pass these hours than with you."
+    na "Je ne voyais pas de meilleure façon de passer ces heures qu’avec toi."
+
+# game/extras.rpy:707
+translate french extra_scene_52_f8b4d7b5:
+
+    # "We kissed some more and were naked by the time we finished."
+    "On s’est embrassés encore un peu et on était nus quand on a eu fini."
+
+# game/extras.rpy:709
+translate french extra_scene_52_99b64f5b:
+
+    # c "You’re so beautiful, Mom."
+    c "T’es tellement belle, maman."
+
+# game/extras.rpy:711
+translate french extra_scene_52_4da2ce67:
+
+    # c "You’re so beautiful, Nadya."
+    c "T’es tellement belle, Nadya."
+
+# game/extras.rpy:712
+translate french extra_scene_52_5f8dde2e:
+
+    # na "I love hearing you say that."
+    na "J’adore t’entendre dire ça."
+
+# game/extras.rpy:714
+translate french extra_scene_52_e737a260:
+
+    # "I underwrote my words by kissing my mother’s naked body."
+    "J’ai appuyé mes paroles en embrassant le corps nu de ma mère."
+
+# game/extras.rpy:716
+translate french extra_scene_52_93ebf3d8:
+
+    # "I underwrote my words by kissing her naked body."
+    "J’ai appuyé mes paroles en embrassant son corps nu."
+
+# game/extras.rpy:718
+translate french extra_scene_52_4a6c1088:
+
+    # "Starting with her full breasts, I worked my way down to her slit."
+    "En commençant par ses seins bien ronds, je suis descendu jusqu’à sa fente."
+
+# game/extras.rpy:719
+translate french extra_scene_52_c3076539:
+
+    # "Dotting her soft skin with kisses, I made sure to avoid contact with her pussy, heightening her arousal with each kiss."
+    "En parsemant sa peau douce de baisers, je me suis assuré d’éviter tout contact avec sa chatte, attisant son excitation à chaque baiser."
+
+# game/extras.rpy:721
+translate french extra_scene_52_ec4c5c72:
+
+    # na "Mmmm, [p_name_short], I want you to fuck me."
+    na "Mmmm, [p_name_short], j’ai envie que tu me baises."
+
+# game/extras.rpy:723
+translate french extra_scene_52_8ca52a01:
+
+    # "As my mother spread her legs, I wrapped my body around hers and pushed my dick against her pussy."
+    "Alors que ma mère écartait les jambes, j’ai enroulé mon corps autour du sien et j’ai poussé ma bite contre sa chatte."
+
+# game/extras.rpy:725
+translate french extra_scene_52_e24e94a6:
+
+    # "As Nadya spread her legs, I wrapped my body around hers and pushed my dick against her pussy."
+    "Alors que Nadya écartait les jambes, j’enroulais mon corps autour du sien et pressais ma bite contre sa chatte."
+
+# game/extras.rpy:726
+translate french extra_scene_52_e7c0d3b2:
+
+    # na "Mmmm, yes!"
+    na "Mmmm, oui !"
+
+# game/extras.rpy:728
+translate french extra_scene_52_88356793:
+
+    # "Licking her breast, I began to push myself inside her."
+    "En léchant son sein, je commençais à m’enfoncer en elle."
+
+# game/extras.rpy:730
+translate french extra_scene_52_a4951c3a:
+
+    # c "I love how wet you are, Mom."
+    c "J’adore comme tu es mouillée, maman."
+
+# game/extras.rpy:731
+translate french extra_scene_52_62373633:
+
+    # na "All because of you, [p_name_short]."
+    na "Tout ça grâce à toi, [p_name_short]."
+
+# game/extras.rpy:734
+translate french extra_scene_52_8888c398:
+
+    # "I began fucking my mother in earnest and soon had her moaning loudly."
+    "J’ai commencé à baiser ma mère pour de bon et je l’ai vite fait gémir bruyamment."
+
+# game/extras.rpy:736
+translate french extra_scene_52_51158de4:
+
+    # "I began fucking Nadya in earnest and soon had her moaning loudly."
+    "J’ai commencé à baiser Nadya pour de bon et je l’ai vite fait gémir bruyamment."
+
+# game/extras.rpy:738
+translate french extra_scene_52_44e7c678:
+
+    # "She cradled my head in her arm to indicate I shouldn’t stop licking her erect nipple."
+    "Elle a pris ma tête dans ses bras pour me faire comprendre que je ne devais pas arrêter de lécher son téton dressé."
+
+# game/extras.rpy:740
+translate french extra_scene_52_a4e69105:
+
+    # na "Oh [p_name_short], your dick feels so good inside my pussy."
+    na "Oh [p_name_short], ta bite fait tellement de bien à l'intérieur de ma chatte."
+
+# game/extras.rpy:741
+translate french extra_scene_52_02aca944:
+
+    # na "Please don’t stop."
+    na "S’il te plaît, n’arrête pas."
+
+# game/extras.rpy:742
+translate french extra_scene_52_6f2d3a7e:
+
+    # "I could have my way with her for a long time in this position, but I longed for more control."
+    "J’aurais pu continuer à la baiser longtemps dans cette position, mais j’avais envie d’avoir plus de contrôle."
+
+# game/extras.rpy:743
+translate french extra_scene_52_3306ff6f:
+
+    # c "I want a better look at that beautiful ass of yours."
+    c "Je veux mieux voir ton magnifique cul."
+
+# game/extras.rpy:745
+translate french extra_scene_52_3f6fa20b:
+
+    # "Slipping my dick out of my mother’s wet slit, I helped her get up on all fours and admired her butt."
+    "En retirant ma bite de la fente humide de ma mère, je l’ai aidée à se mettre à quatre pattes et j’ai admiré ses fesses."
+
+# game/extras.rpy:747
+translate french extra_scene_52_e29a52ff:
+
+    # "Slipping my dick out of my girlfriend’s wet slit, I helped her get up on all fours and admired her butt."
+    "En retirant ma bite de la fente humide de ma copine, je l’ai aidée à se mettre à quatre pattes et j’ai admiré ses fesses."
+
+# game/extras.rpy:748
+translate french extra_scene_52_17190241:
+
+    # c "Beautiful and all mine."
+    c "Magnifiques et rien qu’à moi."
+
+# game/extras.rpy:749
+translate french extra_scene_52_929a13a0:
+
+    # na "Yes, all yours."
+    na "Oui, rien qu’à toi."
+
+# game/extras.rpy:751
+translate french extra_scene_52_6dd69286:
+
+    # "Grabbing her by the hips, I slid inside her again."
+    "En l’attrapant par les hanches, je me suis enfoncé à nouveau en elle."
+
+# game/extras.rpy:752
+translate french extra_scene_52_90f027df:
+
+    # "Her cunt was warm and welcoming, slick with her own juices."
+    "Sa chatte était chaude et accueillante, luisante de ses propres sécrétions."
+
+# game/extras.rpy:753
+translate french extra_scene_52_bd11022a:
+
+    # "Holding her tight, I thrust steadily, admiring her body respond to the rhythm."
+    "En la serrant fort contre moi, je la pénétrais à un rythme régulier, admirant son corps réagir au rythme."
+
+# game/extras.rpy:755
+translate french extra_scene_52_b661c4c6:
+
+    # "Her breasts bounced and the flesh of her round ass quivered whenever I rammed my dick to the balls inside her pussy."
+    "Ses seins rebondissaient et la chair de son cul rond frémissait chaque fois que j’enfonçais ma bite jusqu’aux couilles au fond de sa chatte."
+
+# game/extras.rpy:757
+translate french extra_scene_52_da98e60e:
+
+    # na "Oh son, you’re fucking me so well!"
+    na "Oh mon fils, tu me baises tellement bien !"
+
+# game/extras.rpy:758
+translate french extra_scene_52_83a71593:
+
+    # c "Yes Mom, I love your pussy."
+    c "Oui maman, j’adore ta chatte."
+
+# game/extras.rpy:760
+translate french extra_scene_52_f483f1c9:
+
+    # na "Oh [p_name_short], you’re fucking me so well!"
+    na "Oh [p_name_short], tu me baises tellement bien !"
+
+# game/extras.rpy:761
+translate french extra_scene_52_8bc15436:
+
+    # c "Yes Nadya, I love your pussy."
+    c "Oui Nadya, j’adore ta chatte."
+
+# game/extras.rpy:763
+translate french extra_scene_52_5d42ba64:
+
+    # c "I love fucking you like this so much."
+    c "J’adore tellement te baiser comme ça."
+
+# game/extras.rpy:764
+translate french extra_scene_52_d97523d3:
+
+    # na "Just don’t stop!{w} Keep fucking me like this!"
+    na "N’arrête surtout pas ! {w} Continue à me baiser comme ça !"
+
+# game/extras.rpy:767
+translate french extra_scene_52_90ea76dc:
+
+    # "I did as I was told, sending waves of pleasure through my mother’s body."
+    "J’ai fait ce qu’on m’a dit, faisant parcourir des vagues de plaisir à travers le corps de ma mère."
+
+# game/extras.rpy:769
+translate french extra_scene_52_c2241b33:
+
+    # "I did as I was told, sending waves of pleasure through Nadya’s body."
+    "J’ai fait ce qu’on m’a dit, faisant parcourir des vagues de plaisir à travers le corps de Nadya."
+
+# game/extras.rpy:770
+translate french extra_scene_52_1b1b58bc:
+
+    # "Her moans became ever more hoarse and I just knew I had her on the edge."
+    "Ses gémissements devenaient de plus en plus rauques et je savais que je l’avais amenée au bord de l’orgasme."
+
+# game/extras.rpy:772
+translate french extra_scene_52_7b787856:
+
+    # "A few quick thrusts confirmed my suspicions, as my mother orgasmed loudly with my cock deep inside."
+    "Quelques coups de reins rapides ont confirmé mes soupçons, alors que ma mère jouissait bruyamment avec ma bite enfoncée au plus profond d’elle."
+
+# game/extras.rpy:774
+translate french extra_scene_52_1a9aaeae:
+
+    # "A few quick thrusts confirmed my suspicions, as my girlfriend orgasmed loudly with my cock deep inside."
+    "Quelques coups de reins rapides ont confirmé mes soupçons, alors que ma copine jouissait bruyamment avec ma bite enfoncée au plus profond d’elle."
+
+# game/extras.rpy:776
+translate french extra_scene_52_43eede3a:
+
+    # na "Oh fuck, [p_name_short]!{w} I’m-"
+    na "Oh putain, [p_name_short] ! {w} Je…"
+
+# game/extras.rpy:777
+translate french extra_scene_52_035ac1e3:
+
+    # na "I’m cumming!"
+    na "Je jouis !"
+
+# game/extras.rpy:780
+translate french extra_scene_52_842086e4:
+
+    # "She shuddered violently as I kept fucking her pussy."
+    "Elle a frissonné violemment pendant que je continuais à lui baiser la chatte."
+
+# game/extras.rpy:782
+translate french extra_scene_52_0c7d2441:
+
+    # "The intensity of her orgasm nearly made her collapse on the bed, but I pulled her upper body against me to prevent that."
+    "L’intensité de son orgasme faillit la faire s’effondrer sur le lit, mais j’ai attiré le haut de son corps contre moi pour l’en empêcher."
+
+# game/extras.rpy:783
+translate french extra_scene_52_92096c2a:
+
+    # "Massaging her breasts, I kept on fucking her."
+    "Tout en lui massant les seins, j’ai continué à la baiser."
+
+# game/extras.rpy:784
+translate french extra_scene_52_b6bddafb:
+
+    # na "Mmm, [p_name_short], that feels so good!"
+    na "Mmm, [p_name_short], c’est tellement bon !"
+
+# game/extras.rpy:786
+translate french extra_scene_52_c1d003c2:
+
+    # na "Do you like your mommy’s wet pussy?"
+    na "Tu aimes la chatte mouillée de ta maman ?"
+
+# game/extras.rpy:787
+translate french extra_scene_52_c4406fbe:
+
+    # c "I love it, Mom!"
+    c "J’adore ça, maman !"
+
+# game/extras.rpy:789
+translate french extra_scene_52_02a894f8:
+
+    # "My cock was coated in my mother’s love juices and I could feel I was close to orgasming too."
+    "Ma bite était recouverte du jus d’amour de ma mère et je sentais que j’étais moi aussi sur le point de jouir."
+
+# game/extras.rpy:791
+translate french extra_scene_52_a60424a1:
+
+    # na "Do you like my wet pussy?"
+    na "Tu aimes ma chatte toute mouillée ?"
+
+# game/extras.rpy:792
+translate french extra_scene_52_349466b9:
+
+    # c "I love it!"
+    c "J’adore ça !"
+
+# game/extras.rpy:794
+translate french extra_scene_52_cb8e57cb:
+
+    # "My cock was coasted in my girlfriend’s love juices and I could feel I was close to orgasming too."
+    "Ma bite était recouverte des jus d’amour de ma copine et je sentais que j’étais moi aussi sur le point de jouir."
+
+# game/extras.rpy:795
+translate french extra_scene_52_bc731fec:
+
+    # "Holding her soft breasts tightly, I fucked her slit with renewed fervor."
+    "En serrant fort ses seins doux, je lui ai défoncé la chatte avec une ferveur renouvelée."
+
+# game/extras.rpy:798
+translate french extra_scene_52_54339ac0:
+
+    # c "Oh Mom, I’m about to-"
+    c "Oh maman, je vais…"
+
+# game/extras.rpy:800
+translate french extra_scene_52_786b45e6:
+
+    # c "Oh Nadya, I’m about to-"
+    c "Oh Nadya, je vais…"
+
+# game/extras.rpy:801
+translate french extra_scene_52_6bdc38ee:
+
+    # na "Are you going to cum for me, [p_name_short]?"
+    na "Tu vas jouir pour moi, [p_name_short] ?"
+
+# game/extras.rpy:802
+translate french extra_scene_52_91ef6ddc:
+
+    # na "Please do, you deserve it!"
+    na "S’il te plaît, fais-le, tu le mérites !"
+
+# game/extras.rpy:808
+translate french extra_scene_52_2a8ba35f:
+
+    # c "I’m going to cum inside you!"
+    c "Je vais jouir en toi !"
+
+# game/extras.rpy:810
+translate french extra_scene_52_a66fec78:
+
+    # na "Yes baby, cum inside your mother."
+    na "Oui, chéri, jouis dans ta mère."
+
+# game/extras.rpy:812
+translate french extra_scene_52_31b059e3:
+
+    # na "Yes baby, cum inside me."
+    na "Oui bébé, jouis en moi."
+
+# game/extras.rpy:813
+translate french extra_scene_52_3a7e0523:
+
+    # na "Give it to me."
+    na "Donne-le-moi."
+
+# game/extras.rpy:816
+translate french extra_scene_52_29c29749:
+
+    # "My dick disappeared to the root and spurted cum deep inside my mother’s pussy."
+    "Ma bite a disparu jusqu’à la racine et a giclé du sperme au plus profond de la chatte de ma mère."
+
+# game/extras.rpy:817
+translate french extra_scene_52_1b77a50d:
+
+    # c "Oh Mom!"
+    c "Oh maman !"
+
+# game/extras.rpy:818
+translate french extra_scene_52_182b5119:
+
+    # na "Yes baby, that’s it, all that cum belongs to mommy!"
+    na "Oui mon chéri, c'est ça, tout ce sperme, c'est à maman !"
+
+# game/extras.rpy:821
+translate french extra_scene_52_03e5a1ec:
+
+    # "When my dick escaped from her pussy, cum oozed out of my mother’s wet slit immediately."
+    "Quand ma bite s’est retirée de sa chatte, du sperme a immédiatement coulé de la fente humide de ma mère."
+
+# game/extras.rpy:823
+translate french extra_scene_52_2d6a7067:
+
+    # "My dick disappeared to the root and spurted cum deep inside my girlfriend’s pussy."
+    "Ma bite a disparu jusqu’à la racine et a giclé du sperme au plus profond de la chatte de ma copine."
+
+# game/extras.rpy:824
+translate french extra_scene_52_2aebb001:
+
+    # c "Oh Nadya!"
+    c "Oh Nadya !"
+
+# game/extras.rpy:825
+translate french extra_scene_52_e3a2a9a2:
+
+    # na "Yes baby, that’s it, all that cum belongs to me!"
+    na "Oui mon chéri, c'est ça, tout ce sperme, c'est à moi !"
+
+# game/extras.rpy:828
+translate french extra_scene_52_4fdda363:
+
+    # "When my dick escaped from her pussy, cum oozed out of my girlfriend’s wet slit immediately."
+    "Quand ma bite est sortie de sa chatte, du sperme a immédiatement coulé de la fente humide de ma copine."
+
+# game/extras.rpy:831
+translate french extra_scene_52_ddd577b6:
+
+    # c "I’m going to cum all over you!"
+    c "Je vais jouir partout sur toi !"
+
+# game/extras.rpy:833
+translate french extra_scene_52_f76988ab:
+
+    # na "Yes baby, cum on your mother."
+    na "Oui bébé, jouis sur ta mère."
+
+# game/extras.rpy:835
+translate french extra_scene_52_85620f71:
+
+    # na "Yes baby, cum on me."
+    na "Oui bébé, jouis sur moi."
+
+# game/extras.rpy:836
+translate french extra_scene_52_3a7e0523_1:
+
+    # na "Give it to me."
+    na "Donne-le-moi."
+
+# game/extras.rpy:839
+translate french extra_scene_52_89f2f214:
+
+    # "My dick escaped from her pussy and I spurted cum all over my mother’s back."
+    "Ma bite est sortie de sa chatte et j’ai giclé du sperme partout sur le dos de ma mère."
+
+# game/extras.rpy:840
+translate french extra_scene_52_1b77a50d_1:
+
+    # c "Oh Mom!"
+    c "Oh maman !"
+
+# game/extras.rpy:841
+translate french extra_scene_52_182b5119_1:
+
+    # na "Yes baby, that’s it, all that cum belongs to mommy!"
+    na "Oui mon chéri, c'est ça, tout ce sperme, c'est à maman !"
+
+# game/extras.rpy:844
+translate french extra_scene_52_4cb22baa:
+
+    # "My mother’s back dripped with warm semen."
+    "Le dos de ma mère dégoulinait de sperme chaud."
+
+# game/extras.rpy:846
+translate french extra_scene_52_20ce012e:
+
+    # "My dick escaped from her pussy and I spurted cum all over my girlfriend’s back."
+    "Ma bite s’est retirée de sa chatte et j’ai giclé du sperme partout sur le dos de ma copine."
+
+# game/extras.rpy:847
+translate french extra_scene_52_2aebb001_1:
+
+    # c "Oh Nadya!"
+    c "Oh Nadya !"
+
+# game/extras.rpy:848
+translate french extra_scene_52_e3a2a9a2_1:
+
+    # na "Yes baby, that’s it, all that cum belongs to me!"
+    na "Oui mon chéri, c'est ça, tout ce sperme, c'est à moi !"
+
+# game/extras.rpy:851
+translate french extra_scene_52_6bb84638:
+
+    # "My girlfriend’s back dripped with warm semen."
+    "Le dos de ma copine dégoulinait de sperme chaud."
+
+# game/extras.rpy:853
+translate french extra_scene_52_a26e9ba0:
+
+    # "Exhausted, we exchanged one last kiss and fell asleep together."
+    "Épuisés, on s’est échangé un dernier baiser et on s’est endormis ensemble."
+
+# game/extras.rpy:855
+translate french extra_scene_52_3d84ad2c:
+
+    # "We awoke to Céline’s message warning us that we were near Erigone."
+    "On s’est réveillés avec un message de Céline nous avertissant qu’on était près d’Érigone."
+
+# game/extras.rpy:856
+translate french extra_scene_52_fd044a6e:
+
+    # "Hastily, we both got dressed and headed to the bridge."
+    "À la hâte, on s’est rhabillés tous les deux et on s’est dirigés vers le pont."
+
+# game/extras.rpy:868
+translate french extra_scene_53_3ff42d9e:
+
+    # c "You mentioned you were thinking about me before."
+    c "Tu as dit tout à l’heure que tu pensais à moi."
+
+# game/extras.rpy:869
+translate french extra_scene_53_c3149eae:
+
+    # zi "I was..."
+    zi "C’est vrai…"
+
+# game/extras.rpy:870
+translate french extra_scene_53_8ea541b8:
+
+    # zi "You were touching me like this, until my nipples were hard."
+    zi "Tu me caressais comme ça, jusqu’à ce que mes tétons soient durs."
+
+# game/extras.rpy:871
+translate french extra_scene_53_988157a7:
+
+    # zi "I became so wet and I longed for the feel of your cock in my mouth."
+    zi "J’étais toute mouillée et j’avais tellement envie de sentir ta bite dans ma bouche."
+
+# game/extras.rpy:872
+translate french extra_scene_53_0417cc36:
+
+    # "I gently coerced Ziv down to my crotch, where my erection was already present at full strength."
+    "J’ai doucement poussé Ziv vers mon entrejambe, où ma bite était déjà en pleine érection."
+
+# game/extras.rpy:873
+translate french extra_scene_53_cbf77c1b:
+
+    # "She undressed me in seconds."
+    "Elle m’a déshabillé en quelques secondes."
+
+# game/extras.rpy:875
+translate french extra_scene_53_fb4efaa8:
+
+    # "She took my dick in her hungry mouth and began to suck me."
+    "Elle a pris ma bite dans sa bouche avide et a commencé à me sucer."
+
+# game/extras.rpy:876
+translate french extra_scene_53_c75380b3:
+
+    # "I reached for Ziv’s dick and began to stroke her."
+    "J’ai attrapé la bite de Ziv et j’ai commencé à la caresser."
+
+# game/extras.rpy:877
+translate french extra_scene_53_889f9c70:
+
+    # c "You’re such a good cocksucker, Ziv."
+    c "T’es vraiment douée pour sucer, Ziv."
+
+# game/extras.rpy:879
+translate french extra_scene_53_9136e6bf:
+
+    # "Ziv moaned, as I ran my fingers over the exposed tip of her dick."
+    "Ziv gémit quand je passai mes doigts sur le bout de sa bite."
+
+# game/extras.rpy:880
+translate french extra_scene_53_9196232c:
+
+    # "She blew me harder in response."
+    "En réponse, elle me suça encore plus fort."
+
+# game/extras.rpy:882
+translate french extra_scene_53_f842515b:
+
+    # "Precum oozed out of Ziv’s dick intermittently and I could feel she had a taste of my own pre-ejaculate as well."
+    "Du liquide pré-éjaculatoire s’écoulait par intermittence de la bite de Ziv et je sentais qu’elle goûtait aussi à mon propre liquide pré-éjaculatoire."
+
+# game/extras.rpy:883
+translate french extra_scene_53_081240bd:
+
+    # "We were both in danger of blowing our loads prematurely and I didn’t want to miss the opportunity to fuck her."
+    "On risquait toutes les deux de jouir trop vite et je ne voulais pas rater l’occasion de la baiser."
+
+# game/extras.rpy:884
+translate french extra_scene_53_b578d208:
+
+    # "I gently disentangled myself from her and positioned Ziv on her back."
+    "Je me suis doucement dégagé d’elle et j’ai allongé Ziv sur le dos."
+
+# game/extras.rpy:886
+translate french extra_scene_53_ef8c65df:
+
+    # "Spreading her legs, I penetrated her."
+    "En écartant ses jambes, je l’ai pénétrée."
+
+# game/extras.rpy:887
+translate french extra_scene_53_0722e2ca:
+
+    # "Ziv clasped her hands on my buttocks and attempted to push me in further."
+    "Ziv a agrippé mes fesses à pleines mains et a essayé de m’enfoncer plus profondément."
+
+# game/extras.rpy:888
+translate french extra_scene_53_76874786:
+
+    # zi "That feels so good, [p_name]."
+    zi "C’est trop bon, [p_name]."
+
+# game/extras.rpy:890
+translate french extra_scene_53_991d24be:
+
+    # "As I started to fuck her, I bowed to her breasts and started sucking on her nipples."
+    "Alors que je commençais à la baiser, je me suis penché vers ses seins et j’ai commencé à lui sucer les tétons."
+
+# game/extras.rpy:891
+translate french extra_scene_53_18970a4c:
+
+    # c "I love your breasts, Ziv."
+    c "J’adore tes seins, Ziv."
+
+# game/extras.rpy:892
+translate french extra_scene_53_ea10e390:
+
+    # c "And I love how your tight wet pussy makes me feel."
+    c "Et j’adore ce que me fait ressentir ta chatte serrée et humide."
+
+# game/extras.rpy:894
+translate french extra_scene_53_31c066f7:
+
+    # "I shifted my attention to Ziv’s cock again and began to stroke her."
+    "J’ai de nouveau porté mon attention sur la bite de Ziv et j’ai commencé à la caresser."
+
+# game/extras.rpy:895
+translate french extra_scene_53_69b3abaa:
+
+    # zi "Oh!{w} That’s it, right there!"
+    zi "Oh ! {w} C’est ça, juste là !"
+
+# game/extras.rpy:897
+translate french extra_scene_53_5f820088:
+
+    # "Soon, my hands were covered in her precum and my dick was coated in her juices."
+    "Très vite, mes mains étaient recouvertes de son liquide pré-éjaculatoire et ma bite était enduite de ses jus."
+
+# game/extras.rpy:898
+translate french extra_scene_53_052b4dc4:
+
+    # "I could last a long time fucking her like this, but I wanted Ziv on top of me for a while."
+    "J’aurais pu tenir longtemps en la baisant comme ça, mais je voulais que Ziv soit au-dessus de moi pendant un moment."
+
+# game/extras.rpy:899
+translate french extra_scene_53_1c0af108:
+
+    # c "Ride me, Ziv."
+    c "Chevauche-moi, Ziv."
+
+# game/extras.rpy:900
+translate french extra_scene_53_e108e106:
+
+    # "She nodded breathlessly and I slipped out of her."
+    "Elle acquiesça, à bout de souffle, et je me suis retiré d’elle."
+
+# game/extras.rpy:902
+translate french extra_scene_53_ca65fb99:
+
+    # "Mounting me in a hurry, she immediately began to ride me."
+    "Elle s’est précipitée sur moi et a tout de suite commencé à me chevaucher."
+
+# game/extras.rpy:903
+translate french extra_scene_53_541d6d8a:
+
+    # zi "Oh [p_name_short]!{w} [p_name_short]!"
+    zi "Oh [p_name_short] ! {w} [p_name_short] !"
+
+# game/extras.rpy:905
+translate french extra_scene_53_361bcd03:
+
+    # "Her dick was flopping on our rhythm, I longed to take it in my hand, but Ziv had me pinned down on the bed."
+    "Sa bite battait au rythme de nos mouvements, j’avais envie de la prendre dans ma main, mais Ziv me maintenait cloué au lit."
+
+# game/extras.rpy:906
+translate french extra_scene_53_21e5265f:
+
+    # "She didn’t hold back and came down heavily on my cock, burying myself deep into her vagina."
+    "Elle ne se retenait pas et s’abattait de tout son poids sur ma bite, m’enfonçant profondément dans son vagin."
+
+# game/extras.rpy:908
+translate french extra_scene_53_55b9cfc3:
+
+    # "Precum still dripped from her cock onto my balls, covering everything in a wet sheen."
+    "Du liquide pré-éjaculatoire coulait encore de sa bite sur mes couilles, recouvrant tout d’un voile humide."
+
+# game/extras.rpy:909
+translate french extra_scene_53_df6dd7a8:
+
+    # "Ziv’s moans became louder and louder and I was sure she was hitting the final stretch."
+    "Les gémissements de Ziv devenaient de plus en plus forts et j’étais sûr qu’elle approchait de la ligne d’arrivée."
+
+# game/extras.rpy:910
+translate french extra_scene_53_a9eca021:
+
+    # "I wouldn’t last long either."
+    "Moi non plus, je n’allais pas tenir longtemps."
+
+# game/extras.rpy:914
+translate french extra_scene_53_605bdba9:
+
+    # c "I’m going to cum inside you."
+    c "Je vais jouir en toi."
+
+# game/extras.rpy:916
+translate french extra_scene_53_dcf2333a:
+
+    # zi "Yes, I want that!"
+    zi "Oui, j’en ai envie !"
+
+# game/extras.rpy:917
+translate french extra_scene_53_3bef19d2:
+
+    # "Ziv picked up the pace and brought us to new heights."
+    "Ziv a accéléré le rythme et nous a fait atteindre de nouveaux sommets."
+
+# game/extras.rpy:918
+translate french extra_scene_53_eaa3c1f1:
+
+    # c "Ziv! I’m cumming!"
+    c "Ziv ! Je jouis !"
+
+# game/extras.rpy:919
+translate french extra_scene_53_260dbad2:
+
+    # zi "I’m cumming too!"
+    zi "Moi aussi, je jouis !"
+
+# game/extras.rpy:921
+translate french extra_scene_53_50aee764:
+
+    # "As I shot Ziv’s pussy full of cum, her dick shot long strings of cum as well."
+    "Alors que je remplissais la chatte de Ziv de sperme, sa bite projetait elle aussi de longs filets de sperme."
+
+# game/extras.rpy:922
+translate french extra_scene_53_a8fefae3:
+
+    # "Her pussy was flooded with seed and her own ejaculate had covered her belly and breasts."
+    "Sa chatte était inondée de sperme et son propre éjaculat avait recouvert son ventre et ses seins."
+
+# game/extras.rpy:923
+translate french extra_scene_53_0ccee217:
+
+    # "Ziv must also have reached her vaginal climax, because she shuddered so violently on top of me."
+    "Ziv avait dû elle aussi atteindre l’orgasme vaginal, car elle tremblait violemment au-dessus de moi."
+
+# game/extras.rpy:926
+translate french extra_scene_53_0e68f47d:
+
+    # "Her pussy became even wetter and my dick slipped out of her."
+    "Sa chatte est devenue encore plus humide et ma bite a glissé hors d’elle."
+
+# game/extras.rpy:927
+translate french extra_scene_53_898214fa:
+
+    # "Cum streamed out of her pulsing slit."
+    "Du sperme coulait de sa fente palpitante."
+
+# game/extras.rpy:930
+translate french extra_scene_53_9f8272ff:
+
+    # c "I’m going to cum!"
+    c "Je vais jouir !"
+
+# game/extras.rpy:932
+translate french extra_scene_53_141ed186:
+
+    # zi "Me too!"
+    zi "Moi aussi !"
+
+# game/extras.rpy:933
+translate french extra_scene_53_3bef19d2_1:
+
+    # "Ziv picked up the pace and brought us to new heights."
+    "Ziv a accéléré le rythme et nous a fait atteindre de nouveaux sommets."
+
+# game/extras.rpy:934
+translate french extra_scene_53_2c36c42d:
+
+    # zi "Oh [p_name_short]!"
+    zi "Oh [p_name_short] !"
+
+# game/extras.rpy:936
+translate french extra_scene_53_f6ce6193:
+
+    # "Ziv must have reached a vaginal orgasm just before I slipped out of her, because she began to shudder violently on top of me."
+    "Ziv a dû atteindre un orgasme vaginal juste avant que je ne glisse hors d’elle, car elle s’est mise à trembler violemment sur moi."
+
+# game/extras.rpy:937
+translate french extra_scene_53_bf531655:
+
+    # "My dick had slipped from her pussy and I was spraying cum all over her body."
+    "Ma bite avait glissé hors de sa chatte et j’éclaboussais son corps de sperme."
+
+# game/extras.rpy:940
+translate french extra_scene_53_d77c9e02:
+
+    # "Ziv’s dick shot long strings of cum as well, mixing with mine."
+    "La bite de Ziv projetait elle aussi de longs filets de sperme, qui se mêlaient aux miens."
+
+# game/extras.rpy:941
+translate french extra_scene_53_4383fced:
+
+    # "Her body was dripping with hot seed as she struggled to retain her position."
+    "Son corps ruisselait de sperme chaud alors qu’elle luttait pour rester en place."
+
+# game/extras.rpy:943
+translate french extra_scene_53_cea9cb30:
+
+    # "With a large sigh, she collapsed beside me."
+    "Avec un grand soupir, elle s’est effondrée à côté de moi."
+
+# game/extras.rpy:944
+translate french extra_scene_53_bba6054c:
+
+    # "I held her in my arms as we both fell asleep."
+    "Je l’ai serrée dans mes bras et on s’est endormis tous les deux."
+
+# game/extras.rpy:950
+translate french extra_scene_53_c408b016:
+
+    # "We slumbered for a while, until it was time to head back to the Citadel."
+    "On a somnolé un moment, jusqu’à ce qu’il soit temps de retourner à la Citadelle."
+
+# game/extras.rpy:952
+translate french extra_scene_53_24ddfa4a:
+
+    # "We slumbered for a while, until it was time to head back to the Shipyards."
+    "On a somnolé un moment, jusqu’à ce qu’il soit temps de retourner aux Chantiers navals."
+
+translate french strings:
+
+    # game/extras.rpy:687
+    old "En-route to Erigone"
+    new "En route vers Érigone"
+
 

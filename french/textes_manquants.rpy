@@ -47,3 +47,13 @@ translate french strings:
 
     old "Chairwoman"
     new "Présidente"
+
+    old "Lock Scenes"
+    new "Vérouiller les Scenes"
+
+    old "Mod"
+    new "Mod"
+
+    old "Unlock Scenes"
+    new "Dévérouiller les Scenes"
+

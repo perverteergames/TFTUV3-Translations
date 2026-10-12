@@ -1556,3 +1556,39 @@ translate french strings:
     old "    [name!q] [attributes!q]"
     new "    [name!q] [attributes!q]"
 
+    # renpy/common/000statements.rpy:28
+    old "Click to play the video."
+    new "Clique pour lancer la vidéo."
+
+    # renpy/common/00accessibility.rpy:180
+    old "Mono Audio"
+    new "Mono Audio"
+
+    # renpy/common/00accessibility.rpy:246
+    old "Kerning"
+    new "Espacement"
+
+    # renpy/common/00accessibility.rpy:288
+    old "Self-Voicing and Audio"
+    new "Lecture automatique et audio"
+
+    # renpy/common/00accessibility.rpy:292
+    old "Text"
+    new "Text"
+
+    # renpy/common/00preferences.rpy:602
+    old "mono audio"
+    new "mono audio"
+
+    # renpy/common/00preferences.rpy:611
+    old "font kerning"
+    new "espacement entre les caractères"
+
+    # renpy/common/00updater.rpy:1935
+    old "An error has occurred:"
+    new "Une erreur s'est produite :"
+
+    # renpy/common/00updater.rpy:1992
+    old "An error occurred when trying to download game data:"
+    new "Une erreur s'est produite lors de la tentative de téléchargement des données du jeu :"
+

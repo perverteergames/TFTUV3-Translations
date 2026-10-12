@@ -8629,309 +8629,406 @@ translate french ep023_raene_ziv_sex_1b87b155:
 
     "Ses mots sortirent un peu tremblants, mais une fois que Raene se fut installée sur le lit et eut enroulé ses mains autour de ma bite, elle sembla plus sûre d'elle."
 
-# game/episode023_conversations.rpy:176
+
 translate french ep023_lilly_talk_6f4907eb:
 
-    # "I kissed her again, and we settled on her bed."
+
     "Je l'ai embrassée à nouveau, et on s'est installés sur son lit."
 
-# game/episode023_conversations.rpy:192
+
 translate french ep023_lilly_talk_9de3509c:
 
-    # l "Oh yes, and you’re not going to like it."
+
     l "Oh oui, et tu ne vas pas aimer ça."
 
-# game/episode023_conversations.rpy:202
+
 translate french ep023_lilly_talk_3ba007ba:
 
-    # l "Their terror campaign has continued pretty much unabated."
+
     l "Leur campagne de terreur s'est poursuivie sans relâche."
 
-# game/episode023_conversations.rpy:243
+
 translate french ep023_lilly_talk_dbae051e:
 
-    # c "Him and his newfound powers."
+
     c "Lui et ses nouveaux pouvoirs."
 
-# game/episode023_conversations.rpy:275
+
 translate french ep023_lilly_talk_a69cadac:
 
-    # ag "The Sovereignty will never bow to terror, and so I’ve asked the Terran Galactic Navy to carry out a series of punitive actions against those territories that have a history of being outright hostile and disloyal to our great nation."
+
     ag "La Souveraineté ne cédera jamais à la terreur, et j'ai donc demandé à la Marine galactique terrienne de mener une série d'actions punitives contre les territoires qui ont toujours été ouvertement hostiles et déloyaux envers notre grande nation."
 
-# game/episode023_conversations.rpy:276
+
 translate french ep023_lilly_talk_c1c5bf79:
 
-    # ag "Orbital bombardments are being carried out in the Dra-Hynyn and Ovalt Vhil systems at this time."
+
     ag "Des bombardements orbitaux sont actuellement en cours dans les systèmes Dra-Hynyn et Ovalt Vhil."
 
-# game/episode023_conversations.rpy:277
+
 translate french ep023_lilly_talk_aa344549:
 
-    # ag "We will not hesitate to bring the full military might of the Sovereignty to bear against anyone who dares to oppose us."
+
     ag "On n'hésitera pas à utiliser toute la puissance militaire de la Souveraineté contre quiconque osera s'opposer à nous."
 
-# game/episode023_conversations.rpy:287
+
 translate french ep023_lilly_talk_3a004664:
 
-    # l "Those bombardments are a prelude to all-out war, aren’t they?"
+
     l "Ces bombardements sont le prélude à une guerre totale, n'est-ce pas ?"
 
-# game/episode023_conversations.rpy:288
+
 translate french ep023_lilly_talk_57a22d4e:
 
-    # c "Yes, I also think the Council had been planning a false flag operation to legitimize those new military conquests on its own."
+
     c "Oui, je pense aussi que le Conseil avait prévu une opération sous faux pavillon pour légitimer ces nouvelles conquêtes militaires."
 
-# game/episode023_conversations.rpy:302
+
 translate french ep023_lilly_talk_c3136656:
 
-    # c "I need to confirm some details first, but I’ll call a family meeting as soon as I have."
+
     c "Je dois d'abord confirmer certains détails, mais je convoquerai une réunion de famille dès que ce sera fait."
 
-# game/episode023_conversations.rpy:304
+
 translate french ep023_lilly_talk_137f7ee0:
 
-    # c "I need to confirm some details first, but I’ll call a meeting as soon as I have."
+
     c "Je dois d'abord confirmer certains détails, mais je convoquerai une réunion dès que ce sera fait."
 
-# game/episode023_conversations.rpy:306
+
 translate french ep023_lilly_talk_001143f5:
 
-    # c "Don’t worry, I’m not going to do anything rash."
+
     c "Ne t'inquiète pas, je ne vais rien faire de précipité."
 
-# game/episode023_conversations.rpy:308
+
 translate french ep023_lilly_talk_ea5d98cf:
 
-    # l "I trust you, [p_name_short]."
+
     l "Je te fais confiance, [p_name_short]."
 
-# game/episode023_conversations.rpy:309
+
 translate french ep023_lilly_talk_0604019d:
 
-    # c "And I love you."
+
     c "Et je t'aime."
 
-# game/episode023_conversations.rpy:396
+
 translate french ep023_lilly_second_talk_2e9aa1c8:
 
-    # "This might shock you, but I want you all to know that we chose this path for us, and we’re happy together."
+
     "Ça va peut-être vous choquer, mais je veux que vous sachiez qu'on a choisi cette voie pour nous, et qu'on est heureux ensemble."
 
-# game/episode023_conversations.rpy:578
+
 translate french ep023_lilly_second_talk_0208cc89:
 
-    # av "It is, isn’t it?"
+
     av "C'est vrai, n'est-ce pas ?"
 
-# game/episode023_conversations.rpy:579
+
 translate french ep023_lilly_second_talk_d93540ff:
 
-    # av "Congrats to you too!"
+
     av "Félicitations à toi aussi !"
 
-# game/episode023_conversations.rpy:607
+
 translate french ep023_lilly_second_talk_44aefc18:
 
-    # l "It’s the best ever!"
+
     l "C'est génial !"
 
-# game/episode023_conversations.rpy:690
+
 translate french ep023_nadya_talk_76e26f48:
 
-    # "I took my girlfriend in my arms and kissed her deeply."
+
     "J'ai pris ma copine dans mes bras et je l'ai embrassée passionnément."
 
-# game/episode023_conversations.rpy:707
+
 translate french ep023_nadya_talk_46d487ef:
 
-    # c "I know, and I don’t begrudge your concern at all."
+
     c "Je sais, et je ne te reproche pas du tout de t'inquiéter."
 
-# game/episode023_conversations.rpy:738
+
 translate french ep023_nadya_talk_dbc1b228:
 
-    # na "In that case he has something to do with it."
+
     na "Dans ce cas, il a quelque chose à voir avec ça."
 
-# game/episode023_conversations.rpy:850
+
 translate french ep023_nadya_second_talk_373f1bd2:
 
-    # c "We both decided we wanted this, and I still do."
+
     c "On a tous les deux décidé qu'on voulait ça, et c'est toujours le cas."
 
-# game/episode023_conversations.rpy:862
+
 translate french ep023_nadya_second_talk_fc9b6787:
 
-    # c "You won’t, and I won’t let anything happen to you and the baby."
+
     c "Tu ne le feras pas, et je ne laisserai rien t'arriver, ni à toi ni au bébé."
 
-# game/episode023_conversations.rpy:863
+
 translate french ep023_nadya_second_talk_2bb9cdd8:
 
-    # c "Shall we talk about happy things now, there’s been enough doom and gloom for one day, I’d say?"
+
     c "Et si on parlait de choses plus joyeuses maintenant, on a eu assez de morosité pour aujourd'hui, non ?"
 
-# game/episode023_conversations.rpy:907
+
 translate french ep023_nadya_second_talk_333e8773:
 
-    # "We lay together in companionable silence until the intercom crackled to announce that breakfast was ready."
+
     "On est restés allongés ensemble dans un silence complice jusqu'à ce que l'interphone grésille pour annoncer que le petit-déjeuner était prêt."
 
-# game/episode023_conversations.rpy:1048
+
 translate french ep023_aven_talk_eaef5bf4:
 
-    # av "The remaining soldiers all received a simultaneous radio broadcast, and then they just marched out, leaving us behind."
+
     av "Les soldats restants ont tous reçu un message radio simultané, puis ils sont simplement partis, nous laissant derrière eux."
 
-# game/episode023_conversations.rpy:1055
+
 translate french ep023_aven_talk_33c4d3b1:
 
-    # av "Considering what happened to you, I think that’s a reasonable assumption."
+
     av "Vu ce qui t'est arrivé, je pense que c'est une hypothèse raisonnable."
 
-# game/episode023_conversations.rpy:1148
+
 translate french ep023_aven_second_talk_d4cad0e5:
 
-    # av "This might shock you, but I want you all to know that we chose this path for us, and we’re happy together."
+
     av "Ça va peut-être vous choquer, mais je veux que vous sachiez qu'on a choisi cette voie pour nous, et qu'on est heureux ensemble."
 
-# game/episode023_conversations.rpy:1365
+
 translate french ep023_thyia_talk_d23492b5:
 
-    # ur "Sir, you shouldn’t squeeze those flesh protrusions in a lascivious manner."
+
     ur "Monsieur, vous ne devriez pas presser ces protubérances de chair de manière lascive."
 
-# game/episode023_conversations.rpy:1405
+
 translate french ep023_thyia_talk_e54cd966:
 
-    # c "At least he has an off switch, which can’t be said for all loudmouthed prudes."
+
     c "Au moins, il a un bouton d'arrêt, ce qui n'est pas le cas de tous les prudes bruyants."
 
-# game/episode023_conversations.rpy:1450
+
 translate french ep023_thyia_talk_ce00d2a3:
 
-    # th "Have you thought about what you’re going to do now?"
+
     th "As-tu réfléchi à ce que tu vas faire maintenant ?"
 
-# game/episode023_conversations.rpy:1521
+
 translate french ep023_vess_talk_321c5b87:
 
-    # ve "No, you’re right."
+
     ve "Non, tu as raison."
 
-# game/episode023_conversations.rpy:1581
+
 translate french ep023_vess_talk_ef4ac925:
 
-    # "Vess and I kissed goodbye and I went on my way again."
+
     "Vess et moi nous sommes embrassés pour nous dire au revoir, puis j'ai repris ma route."
 
-# game/episode023_conversations.rpy:1626
+
 translate french ep023_vess_talk_54e14e52:
 
-    # c "My father killed your former master as soon as he learned enough from the Confessor."
+
     c "Mon père a tué ton ancien maître dès qu'il en a appris assez de la Confesseuse."
 
-# game/episode023_conversations.rpy:1630
+
 translate french ep023_vess_talk_15b13be5:
 
-    # c "Yes, I thought so too."
+
     c "Oui, je le pensais aussi."
 
-# game/episode023_conversations.rpy:1637
+
 translate french ep023_vess_talk_66e60e2c:
 
-    # ve "The Handmaidens are more like a cult, so if the strong leader isn’t around anymore, I guess their morale would be in total disarray."
+
     ve "Les Servantes sont plutôt comme une secte, donc si leur chef fort n'est plus là, j'imagine que leur moral doit être complètement en ruine."
 
-# game/episode023_conversations.rpy:1716
+
 translate french ep023_jade_celine_talk_16e9f3d6:
 
-    # j "Not that bad, only minor stuff, apart from the compromised probes."
+
     j "Pas si grave, juste des trucs mineurs, à part les sondes compromises."
 
-# game/episode023_conversations.rpy:1739
+
 translate french ep023_raene_talk_f2d25239:
 
-    # "The door to Ziv’s quarters was ajar, and I could hear voices inside."
+
     "La porte des quartiers de Ziv était entrouverte et je pouvais entendre des voix à l'intérieur."
 
-# game/episode023_conversations.rpy:1805
+
 translate french ep023_raene_talk_a9c3d37f:
 
-    # c "You weren’t in your quarters, so I went and looked and found you here."
+
     c "Tu n'étais pas dans tes quartiers, alors je suis allé te chercher et je t'ai trouvée ici."
 
-# game/episode023_conversations.rpy:1846
+
 translate french ep023_raene_talk_24eafd7f:
 
-    # c "I’m happy for you, Raene!"
+
     c "Je suis content pour toi, Raene !"
 
-# game/episode023_conversations.rpy:1853
+
 translate french ep023_raene_talk_cad3cbe2:
 
-    # c "I’m going to hash them out with some of the crew first, and then I’ll get back to you."
+
     c "Je vais d'abord en discuter avec certains membres de l'équipage, puis je reviendrai vers toi."
 
-# game/episode023_conversations.rpy:2007
+
 translate french ep023_nadya_sex_4db65f77:
 
-    # "The contractions of her cunt heightened my pleasure immensely, and I was surprised by how quickly my orgasm arose."
+
     "Les contractions de sa chatte ont intensifié mon plaisir de manière incroyable, et j'ai été surpris par la rapidité avec laquelle j'ai atteint l'orgasme."
 
-# game/episode023_conversations.rpy:2138
+
 translate french ep023_raene_ziv_sex_f2d1366b:
 
-    # ra "It’s just that you’re both looking at me like you want me."
+
     ra "C'est juste que vous me regardez tous les deux comme si vous me désiriez."
 
-# game/episode023_conversations.rpy:2173
+
 translate french ep023_raene_ziv_sex_0ba895e3:
 
-    # zi "I can’t wait to feel that tight ass of yours, Raene."
+
     zi "J'ai hâte de sentir ton cul serré, Raene."
 
-# game/episode023_conversations.rpy:2501
+
 translate french ep023_raene_ziv_fucking_ec868b29:
 
-    # "Raene, Ziv and I remained on the bed for a long while, talking and enjoying the afterglow."
+
     "Raene, Ziv et moi sommes restés longtemps sur le lit, à discuter et à profiter de la douceur de l'après-amour."
 
-# game/episode023_conversations.rpy:2609
+
 translate french ep023_ziv_climax_eafa6779:
 
-    # "I was the first to explode, pumping Ziv’s asshole full of warm seed."
+
     "J'ai été le premier à exploser, remplissant le cul de Ziv de mon sperme chaud."
 
-# game/episode023_conversations.rpy:2628
+
 translate french ep023_ziv_climax_a9af6eeb:
 
-    # "Both Raene and I pulled out of Ziv and kneeled before her."
+
     "Raene et moi, on s'est retirés de Ziv et on s'est agenouillés devant elle."
 
-# game/episode023_conversations.rpy:2630
+
 translate french ep023_ziv_climax_629a7f0f:
 
-    # "Both Raene and I kneeled before Ziv."
+
     "Raene et moi, on s'est agenouillés devant Ziv."
 
-# game/episode023_conversations.rpy:2644
+
 translate french ep023_ziv_climax_a9af6eeb_1:
 
-    # "Both Raene and I pulled out of Ziv and kneeled before her."
+
     "Raene et moi, on s'est retirés de Ziv et on s'est agenouillés devant elle."
 
-# game/episode023_conversations.rpy:2646
+
 translate french ep023_ziv_climax_629a7f0f_1:
 
-    # "Both Raene and I kneeled before Ziv."
+
     "Raene et moi, on s'est agenouillés devant Ziv."
 
-# game/episode023_conversations.rpy:2700
+
 translate french ep023_ziv_climax_309d7a68:
 
-    # "Ziv kissed her friend, and together they exchanged the semen mixture."
+
     "Ziv a embrassé son amie, et ensemble, elles ont échangé le mélange de sperme."
+
+# game/episode023_conversations.rpy:396
+translate french ep023_lilly_second_talk_897cd3f4:
+
+    # l "This might shock you, but I want you all to know that we chose this path for us, and we’re happy together."
+    l "Ça va peut-être te choquer, mais je veux que vous sachiez tous qu’on a choisi cette voie pour nous, et qu’on est heureux ensemble."
+
+# game/episode023_conversations.rpy:856
+translate french ep023_nadya_second_talk_6ca12e31:
+
+    # na "What if you’d come out of that coma all changed?"
+    na "Et si tu sortais de ce coma complètement transformé ?"
+
+# game/episode023_conversations.rpy:886
+translate french ep023_nadya_second_talk_63d33849:
+
+    # na "All my daughters pregnant and so am I."
+    na "Toutes mes filles sont enceintes, et moi aussi."
+
+# game/episode023_conversations.rpy:888
+translate french ep023_nadya_second_talk_b74acbe4:
+
+    # na "Two of my daughters pregnant and so am I."
+    na "Deux de mes filles sont enceintes, et moi aussi."
+
+# game/episode023_conversations.rpy:890
+translate french ep023_nadya_second_talk_14523485:
+
+    # na "One of my daughters pregnant and so am I."
+    na "Une de mes filles est enceinte, et moi aussi."
+
+# game/episode023_conversations.rpy:1104
+translate french ep023_aven_second_talk_f7a7e92b:
+
+    # "Aven and I had both asked Nadya, Eva and Lilly to come to my quarters."
+    "Aven et moi avions demandé à Nadya, Eva et Lilly de venir dans mes appartements."
+
+# game/episode023_conversations.rpy:1174
+translate french ep023_aven_second_talk_55da9f64:
+
+    # "Everyone was silent, outrage emanating from Nadya, Eva and Lilly."
+    "Tout le monde restait silencieux, Nadya, Eva et Lilly débordaient d'indignation."
+
+# game/episode023_conversations.rpy:1461
+translate french ep023_thyia_talk_a812f084:
+
+    # th "Though even if you don’t have any news, you’re always welcome here."
+    th "Mais même si tu n’as pas de nouvelles, tu es toujours la bienvenue ici."
+
+# game/episode023_conversations.rpy:1637
+translate french ep023_vess_talk_66e60e2c_1:
+
+    # ve "The Handmaidens are more like a cult, so if the strong leader isn’t around anymore, I guess their morale would be in total disarray."
+    ve "Les Servantes ressemblent plus à une secte, donc si leur chef charismatique n’est plus là, j’imagine que leur moral serait complètement en lambeaux."
+
+# game/episode023_conversations.rpy:1788
+translate french ep023_raene_talk_2c7b052f:
+
+    # c "It is, yes."
+    c "C’est vrai, oui."
+
+# game/episode023_conversations.rpy:2048
+translate french ep023_nadya_sex_climax_c6ab27d4:
+
+    # "When my erection started to slacken, it slipped out of her slit."
+    "Quand mon érection a commencé à faiblir, mon sexe a glissé hors de sa fente."
+
+# game/episode023_conversations.rpy:2055
+translate french ep023_nadya_sex_climax_f0cc56a4:
+
+    # c "I’m going to stuff your asshole full of cum, Mom."
+    c "Je vais te remplir le cul de sperme, maman."
+
+# game/episode023_conversations.rpy:2684
+translate french ep023_ziv_climax_042fb4e9:
+
+    # "Ziv looked up at me and let Raene's and my cum slide down her throat."
+    "Ziv a levé les yeux vers moi et a laissé le sperme de Raene et le mien couler dans sa gorge."
+
+# game/episode023_conversations.rpy:2686
+translate french ep023_ziv_climax_1904eace:
+
+    # "Ziv looked up at me and let my cum slide down her throat."
+    "Ziv a levé les yeux vers moi et a laissé mon sperme couler dans sa gorge."
+
+# game/episode023_conversations.rpy:2690
+translate french ep023_ziv_climax_35e91d85:
+
+    # c "Keep it in your mouth and give Raene a taste of herself, Ziv."
+    c "Garde ça dans ta bouche et fais goûter à Raene ce qu’elle a en elle, Ziv."
+
+
+translate french strings:
+
+    # game/episode023_conversations.rpy:1838
+    old "Propose to have sex [gr][mt](Threesome)"
+    new "Proposer d'avoir des relations sexuelles [gr][mt](Partie à trois)"
 

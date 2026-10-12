@@ -49,3 +49,24 @@ translate french strings:
 
     old "Steamy Shower"
     new "Douche torride"
+
+    # game/scenes.rpy:3
+    old "Transitory Thrusting"
+    new "Poussée transitoire"
+
+    # game/scenes.rpy:3
+    old "Rhenkoy Reaming"
+    new "Alaisage Rhenkoy"
+
+    # game/scenes.rpy:3
+    old "The Queen and the Peen"
+    new "La reine et le pénis"
+
+    # game/scenes.rpy:3
+    old "Command & Conquer"
+    new "Commander et conquérir"
+
+    # game/scenes.rpy:3
+    old "Priestly Perversion"
+    new "Perversion religieuse"
+

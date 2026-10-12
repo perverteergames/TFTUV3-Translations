@@ -215,3 +215,4 @@ translate french strings:
 
     old "Unread"
     new "Non lu"
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

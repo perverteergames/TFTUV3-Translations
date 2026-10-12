@@ -7773,309 +7773,484 @@ translate french ep023_group_sex_fucking_40b6acaf:
 
     "Je ne voulais rien d'autre, mais j'avais aussi d'autres besoins à satisfaire."
 
-# game/episode023.rpy:57
+
 translate french episode023_80dd9b2f:
 
-    # "The lights in the room emitted a humming sound, and soon I perceived every single mechanical part in the temple, from the air filters to the groan of a generator far below."
+
     "Les lumières de la pièce faisaient un petit bruit, et j'ai vite senti chaque partie mécanique du temple, des filtres à air au grondement d'un générateur loin en dessous."
 
-# game/episode023.rpy:228
+
 translate french episode023_fe0cf46c:
 
-    # na "And at the same time, I couldn’t be happier."
+
     na "Et en même temps, je ne pouvais pas être plus heureuse."
 
-# game/episode023.rpy:246
+
 translate french episode023_8e946706:
 
-    # na "This is such a special moment, and I’m sure Eva and I will bond even more as we progress into motherhood."
+
     na "C'est un moment tellement spécial, et je suis sûre qu'Eva et moi allons nous rapprocher encore plus à mesure que nous avancerons dans la maternité."
 
-# game/episode023.rpy:248
+
 translate french episode023_7bbe5278:
 
-    # na "But you have to be a part of it too, I simply won’t settle for anything less."
+
     na "Mais tu dois aussi en faire partie, je ne me contenterai pas de moins."
 
-# game/episode023.rpy:276
+
 translate french episode023_7de3eb3d:
 
-    # ra "Eva is out of the medbay, the autodoc declared her healthy again."
+
     ra "Eva est sortie de l'infirmerie, l'autodoc l'a déclarée en bonne santé."
 
-# game/episode023.rpy:354
+
 translate french episode023_eac3edd8:
 
-    # th "Lilly bursts into tears randomly and I get that she’s sad, but it’s almost like she’s hormonal or something."
+
     th "Lilly fond en larmes sans raison et je comprends qu'elle soit triste, mais c'est presque comme si c'était hormonal ou quelque chose comme ça."
 
-# game/episode023.rpy:356
+
 translate french episode023_6be2de5b:
 
-    # th "Aven bursts into tears randomly and I get that she’s sad, but it’s almost like she’s hormonal or something."
+
     th "Aven fond en larmes sans raison apparente et je comprends qu'elle soit triste, mais c'est presque comme si elle était sous l'influence de ses hormones ou quelque chose comme ça."
 
-# game/episode023.rpy:358
+
 translate french episode023_be658b24:
 
-    # th "Nadya bursts into tears randomly and I get that she’s sad, but it’s almost like she’s hormonal or something."
+
     th "Nadya fond en larmes sans raison apparente et je comprends qu'elle soit triste, mais c'est presque comme si elle était sous l'influence de ses hormones ou quelque chose comme ça."
 
-# game/episode023.rpy:379
+
 translate french episode023_57603866:
 
-    # th "Yeah, I am."
+
     th "Oui, c'est vrai."
 
-# game/episode023.rpy:381
+
 translate french episode023_996d5e35:
 
-    # th "I’m going back to the engine room to see if I can get that stupid robot of mine to fall in line."
+
     th "Je retourne à la salle des machines pour voir si je peux faire en sorte que mon stupide robot se mette au travail."
 
-# game/episode023.rpy:497
+
 translate french episode023_88e73660:
 
-    # c "You were dead, and I couldn’t live with that."
+
     c "Tu étais mort, et je ne pouvais pas vivre avec ça."
 
-# game/episode023.rpy:550
+
 translate french episode023_56524555:
 
-    # t "I think this is far enough, as exertion goes."
+
     t "Je pense que ça suffit comme effort."
 
-# game/episode023.rpy:556
+
 translate french episode023_ac889366:
 
-    # na "I think this is far enough, as exertion goes."
+
     na "Je pense que ça suffit comme effort."
 
-# game/episode023.rpy:578
+
 translate french episode023_8356c041:
 
-    # c "We’re nowhere near that planet, are we?"
+
     c "On est loin de cette planète, non ?"
 
-# game/episode023.rpy:614
+
 translate french episode023_8c714597:
 
-    # "When I could roam around the immediate surroundings of the medbay without needing several hours of sleep afterward, Thim deemed me fit enough for release out of the medbay."
+
     "Quand j'ai pu me promener dans les environs immédiats de l'infirmerie sans avoir besoin de plusieurs heures de sommeil après, Thim m'a jugé assez en forme pour sortir de l'infirmerie."
 
-# game/episode023.rpy:616
+
 translate french episode023_4ee63d89:
 
-    # "When I could roam around the immediate surroundings of the medbay without needing several hours of sleep afterward, the autodoc deemed me fit enough for release out of the medbay."
+
     "Quand j'ai pu me promener dans les environs immédiats de l'infirmerie sans avoir besoin de plusieurs heures de sommeil après, l'autodoc m'a jugé assez en forme pour sortir de l'infirmerie."
 
-# game/episode023.rpy:623
+
 translate french episode023_cf24eb80:
 
-    # "As I was exiting the medbay to take up permanent residence in my quarters again, I ran into Kit, who immediately bundled me up in a tight embrace."
+
     "Alors que je sortais de l'infirmerie pour réintégrer définitivement mes quartiers, je suis tombé sur Kit, qui m'a immédiatement serré dans ses bras."
 
-# game/episode023.rpy:641
+
 translate french episode023_e0f2be8d:
 
-    # ki "Yeah, me."
+
     ki "Oui, moi."
 
-# game/episode023.rpy:758
+
 translate french ep023_test_08c590d0:
 
-    # "Nadya gasped, and I could feel Thim’s disbelieving eyes upon me."
+
     "Nadya a poussé un cri de surprise, et j'ai senti le regard incrédule de Thim posé sur moi."
 
-# game/episode023.rpy:813
+
 translate french ep023_test_1e86de3d:
 
-    # "The awareness came more readily now, and I had the object floating in seconds."
+
     "La prise de conscience a été plus rapide cette fois-ci, et j'ai fait flotter l'objet en quelques secondes."
 
-# game/episode023.rpy:940
+
 translate french ep023_crew_964aa129:
 
-    # c "Of course, I’m going to train and see how far I can push myself, but we can’t ignore the edge my abilities would give me."
+
     c "Bien sûr, je vais m'entraîner et voir jusqu'où je peux aller, mais on ne peut pas ignorer l'avantage que mes capacités me donneraient."
 
-# game/episode023.rpy:949
+
 translate french ep023_crew_c58e04f1:
 
-    # l "The Council has been massacred, and we think it’s his doing."
+
     l "Le Conseil a été massacré, et on pense que c'est son œuvre."
 
-# game/episode023.rpy:962
+
 translate french ep023_crew_87f19f79:
 
-    # c "They’re likely going to invade their neighbors very soon, using the attack on the Council as a pretext."
+
     c "Ils vont probablement envahir leurs voisins très bientôt, en utilisant l'attaque contre le Conseil comme prétexte."
 
-# game/episode023.rpy:972
+
 translate french ep023_crew_1e01f824:
 
-    # c "The inconvenient truth of how he got his special powers by sacrificing an innocent girl is something he probably won’t tolerate."
+
     c "La vérité dérangeante sur la façon dont il a obtenu ses pouvoirs spéciaux en sacrifiant une fille innocente est quelque chose qu'il ne tolérera probablement pas."
 
-# game/episode023.rpy:976
+
 translate french ep023_crew_9825f484:
 
-    # c "Yes, he will."
+
     c "Si, il le fera."
 
-# game/episode023.rpy:994
+
 translate french ep023_crew_08c124e9:
 
-    # c "Then there are those domestic terrorists, like the Auric Exemplar."
+
     c "Et puis, il y a ces terroristes nationaux, comme l'Auric Exemplar."
 
-# game/episode023.rpy:1000
+
 translate french ep023_crew_2ae08a0f:
 
-    # c "Running and hiding until we’re found out and killed by Sovereignty operatives."
+
     c "On va courir et se cacher jusqu'à ce qu'on soit découverts et tués par les agents de la Souveraineté."
 
-# game/episode023.rpy:1256
+
 translate french ep023_crew_6273f75c:
 
-    # c "The resistance will be planned carefully and with as little risk as possible."
+
     c "La résistance sera planifiée avec soin et avec le moins de risques possible."
 
-# game/episode023.rpy:1263
+
 translate french ep023_crew_804c8600:
 
-    # c "Agust and I have undergone the same power transfer, so we should be evenly matched."
+
     c "Agust et moi avons subi le même transfert de pouvoir, donc on devrait être à égalité."
 
-# game/episode023.rpy:1413
+
 translate french ep023_crew_373f1bd2:
 
-    # c "We both decided we wanted this, and I still do."
+
     c "On a tous les deux décidé qu'on voulait ça, et c'est toujours le cas."
 
-# game/episode023.rpy:1418
+
 translate french ep023_crew_6ca12e31:
 
-    # na "What if you’d come out of that coma all changed?"
+
     na "Et si tu sortais de ce coma complètement transformée ?"
 
-# game/episode023.rpy:1423
+
 translate french ep023_crew_fc9b6787:
 
-    # c "You won’t, and I won’t let anything happen to you and the baby."
+
     c "Ça n'arrivera pas, et je ne laisserai rien t'arriver, ni à toi ni au bébé."
 
-# game/episode023.rpy:1424
+
 translate french ep023_crew_2bb9cdd8:
 
-    # c "Shall we talk about happy things now, there’s been enough doom and gloom for one day, I’d say?"
+
     c "Et si on parlait de choses plus joyeuses maintenant, on a eu assez de catastrophes pour aujourd'hui, non ?"
 
-# game/episode023.rpy:1480
+
 translate french ep023_crew_8b2422f6:
 
-    # "I left the girls talking exuberantly about Nadya’s happy news and prepared to inform the rest of the crew."
+
     "J'ai laissé les filles discuter avec enthousiasme de la bonne nouvelle de Nadya et je me suis préparée à informer le reste de l'équipage."
 
-# game/episode023.rpy:1519
+
 translate french ep023_tubloshi_00998f18:
 
-    # ha "You may dock with our ship, and we will welcome you personally."
+
     ha "Vous pouvez accoster à notre vaisseau, on vous accueillera personnellement."
 
-# game/episode023.rpy:1537
+
 translate french ep023_tubloshi_448ae811:
 
-    # "Finally, the doors opened and two giant Tubloshi warriors came in, with Hannah in front."
+
     "Enfin, les portes se sont ouvertes et deux guerriers Tubloshi géants sont entrés, avec Hannah devant."
 
-# game/episode023.rpy:1557
+
 translate french ep023_tubloshi_5ff3ccae:
 
-    # "Did she forget me and invite someone else into her bed in the meantime?"
+
     "M'avait-elle oublié et invité quelqu'un d'autre dans son lit entre-temps ?"
 
-# game/episode023.rpy:1919
+
 translate french ep023_group_sex_licking_14217b10:
 
-    # "Lilly writhed under our attention, her moans becoming increasingly more jagged."
+
     "Lilly se tordait sous notre regard, ses gémissements devenant de plus en plus saccadés."
 
-# game/episode023.rpy:2005
+
 translate french ep023_group_sex_licking_fc98a105:
 
-    # "My tongue began its journey across my sister’s wet slit, from her taint to the hood, where her throbbing clit was on full display."
+
     "Ma langue a commencé son voyage à travers la fente humide de ma sœur, de son périnée jusqu'au capuchon, où son clitoris palpitant était pleinement visible."
 
-# game/episode023.rpy:2011
+
 translate french ep023_group_sex_licking_7c5ec479:
 
-    # "My tongue began its journey across Eva’s wet slit, from her taint to the hood, where her throbbing clit was on full display."
+
     "Ma langue a commencé son voyage à travers la fente humide d'Eva, de son périnée jusqu'au capuchon, où son clitoris palpitant était pleinement visible."
 
-# game/episode023.rpy:2090
+
 translate french ep023_group_sex_licking_9431ba85:
 
-    # "Eva muffled Aven’s screams by tongue kissing her, and I knew we were in the final stretches."
+
     "Eva a étouffé les cris d'Aven en l'embrassant avec la langue, et j'ai su que nous étions dans la dernière ligne droite."
 
-# game/episode023.rpy:2141
+
 translate french ep023_group_sex_licking_e52feb33:
 
-    # "By the time I’d made all my sisters cum, my dick was painfully hard, and I longed for a release."
+
     "Au moment où j'ai fait jouir toutes mes sœurs, ma bite était douloureusement dure, et j'avais envie de me libérer."
 
-# game/episode023.rpy:2143
+
 translate french ep023_group_sex_licking_c94fe9bb:
 
-    # "By the time I’d made all my girlfriends cum, my dick was painfully hard, and I longed for a release."
+
     "Au moment où j'ai fait jouir toutes mes copines, ma bite était douloureusement dure, et j'avais envie de me libérer."
 
-# game/episode023.rpy:2146
+
 translate french ep023_group_sex_licking_ea5c4719:
 
-    # "By the time I’d made both my sisters cum, my dick was painfully hard, and I longed for a release."
+
     "Au moment où j'ai fait jouir mes deux sœurs, ma bite était douloureusement dure, et j'avais envie de me libérer."
 
-# game/episode023.rpy:2148
+
 translate french ep023_group_sex_licking_7fec6155:
 
-    # "By the time I’d made both my girlfriends cum, my dick was painfully hard, and I longed for a release."
+
     "Quand j'ai fait jouir mes deux copines, ma bite était super dure et j'avais vraiment envie de me lâcher."
 
-# game/episode023.rpy:2179
+
 translate french ep023_group_sex_fucking_8a1d058d:
 
-    # "By grinding on top of me so intensely, my sister had smeared my abdomen with her own grool."
+
     "En se frottant contre moi de manière intense, ma sœur avait recouvert mon ventre de sa propre cyprine."
 
-# game/episode023.rpy:2181
+
 translate french ep023_group_sex_fucking_8b922184:
 
-    # "By grinding on top of me so intensely, my girlfriend had smeared my abdomen with her own grool."
+
     "En se frottant contre moi de manière intense, ma copine avait recouvert mon ventre de sa propre cyprine."
 
-# game/episode023.rpy:2243
+
 translate french ep023_group_sex_fucking_7c775073:
 
-    # "Aven played with Lilly’s breasts, and I didn’t know where Eva was, until I felt her hand cupping my balls."
+
     "Aven jouait avec les seins de Lilly, et je ne savais pas où était Eva, jusqu'à ce que je sente sa main enserrer mes couilles."
 
-# game/episode023.rpy:2245
+
 translate french ep023_group_sex_fucking_6a7cc454:
 
-    # "I didn’t know where Eva was until I felt her hand cupping my balls."
+
     "Je ne savais pas où était Eva jusqu'à ce que je sente sa main enserrer mes couilles."
 
-# game/episode023.rpy:2630
+
 translate french ep023_group_sex_fucking_47d48f83:
 
-    # c "Well, we fit on this bed together, so let’s all sleep together from now on."
+
     c "Bon, on tient tous sur ce lit, alors dormons tous ensemble à partir de maintenant."
 
-# game/episode023.rpy:2637
+
 translate french ep023_group_sex_fucking_480f763d:
 
-    # c "You have to admit, you all seem to be insatiable..."
+
     c "Il faut bien l'admettre, vous semblez tous insatiables..."
+
+# game/episode023.rpy:142
+translate french episode023_b048b836:
+
+    # "The machines blare now, frantic noises, people on edge."
+    "Les machines vrombissent maintenant, c'est un vacarme effréné, tout le monde est à cran."
+
+# game/episode023.rpy:326
+translate french episode023_4bc66f48:
+
+    # l "I miss my big brother, making me laugh or even just annoying the hell out of me."
+    l "Mon grand frère me manque, quand il me faisait rire ou même juste quand il m'énervait à mort."
+
+# game/episode023.rpy:328
+translate french episode023_34c31a83:
+
+    # l "I miss my friend, making me laugh or even just annoying the hell out of me."
+    l "Mon amie me manque, quand elle me faisait rire ou même juste quand elle m'énervait à mort."
+
+# game/episode023.rpy:419
+translate french episode023_a3092952:
+
+    # "The warm feel of her skin."
+    "La chaleur de sa peau."
+
+# game/episode023.rpy:513
+translate french episode023_a047f240:
+
+    # c "I understood what made your body and the baby’s tick, so I fixed them."
+    c "J'ai compris ce qui faisait fonctionner ton corps et celui du bébé, alors je les ai réparés."
+
+# game/episode023.rpy:527
+translate french episode023_a31ffad1:
+
+    # t "Eva and her baby are as healthy as can be."
+    t "Eva et son bébé sont en parfaite santé."
+
+# game/episode023.rpy:529
+translate french episode023_faa40c8b:
+
+    # t "Eva is as healthy as can be."
+    t "Eva est en parfaite santé."
+
+# game/episode023.rpy:535
+translate french episode023_ccd60af8:
+
+    # na "The autodoc tells us that Eva and her baby are as healthy as can be."
+    na "L’Autodoc nous dit qu’Eva et son bébé sont en parfaite santé."
+
+# game/episode023.rpy:537
+translate french episode023_a38954e8:
+
+    # na "The autodoc tells us that Eva is as healthy as can be."
+    na "L’Autodoc nous dit qu’Eva est en parfaite santé."
+
+# game/episode023.rpy:727
+translate french ep023_test_ce591bb5:
+
+    # na "Stop as soon as you feel something is wrong."
+    na "Arrête dès que tu sens que quelque chose ne va pas."
+
+# game/episode023.rpy:739
+translate french ep023_test_ce591bb5_1:
+
+    # na "Stop as soon as you feel something is wrong."
+    na "Arrête dès que tu sens que quelque chose ne va pas."
+
+# game/episode023.rpy:973
+translate french ep023_crew_4fcf725f:
+
+    # c "Not to mention that his son somehow acquired the same power."
+    c "Sans parler du fait que son fils a, d’une manière ou d’une autre, acquis le même pouvoir."
+
+# game/episode023.rpy:1250
+translate french ep023_crew_e376944e:
+
+    # c "I don’t want our child to grow up as prey, hunted by the Sovereignty."
+    c "Je ne veux pas que notre enfant grandisse en tant que proie, traqué par la Souveraineté."
+
+# game/episode023.rpy:1346
+translate french ep023_crew_aec8cdb9:
+
+    # av "No Mom, I don’t want to know more."
+    av "Non maman, je ne veux pas en savoir plus."
+
+# game/episode023.rpy:1348
+translate french ep023_crew_2bfa9490:
+
+    # av "No Nadya, I don’t want to know more."
+    av "Non Nadya, je ne veux pas en savoir plus."
+
+# game/episode023.rpy:1373
+translate french ep023_crew_bfe7a078:
+
+    # l "No Mom, I don’t want to know more."
+    l "Non maman, je ne veux pas en savoir plus."
+
+# game/episode023.rpy:1375
+translate french ep023_crew_c184f44d:
+
+    # l "No Nadya, I don’t want to know more."
+    l "Non Nadya, je ne veux pas en savoir plus."
+
+# game/episode023.rpy:1392
+translate french ep023_crew_abd21a4e:
+
+    # e "No Mom, I don’t want to know more."
+    e "Non maman, je ne veux pas en savoir plus."
+
+# game/episode023.rpy:1394
+translate french ep023_crew_77a9cac4:
+
+    # e "No Nadya, I don’t want to know more."
+    e "Non Nadya, je ne veux pas en savoir plus."
+
+# game/episode023.rpy:1422
+translate french ep023_crew_0f1544e1:
+
+    # na "We’d be all alone in the galaxy, running from the Sovereignty."
+    na "On serait tout seuls dans la galaxie, à fuir la Souveraineté."
+
+# game/episode023.rpy:1423
+translate french ep023_crew_8c7a2d22:
+
+    # na "My pregnancy would be a risk, a liability even."
+    na "Ma grossesse serait un risque, voire un fardeau."
+
+# game/episode023.rpy:1428
+translate french ep023_crew_8de99fab:
+
+    # c "Shall we talk about happy things now?"
+    c "Et si on parlait de choses joyeuses maintenant ?"
+
+# game/episode023.rpy:1429
+translate french ep023_crew_376bfcdc:
+
+    # c "I’d say there’s been enough doom and gloom for one day."
+    c "Je dirais qu’on a eu assez de morosité pour aujourd’hui."
+
+# game/episode023.rpy:1442
+translate french ep023_crew_3f2fc647:
+
+    # na "The girls’ reaction just now was what I feared too."
+    na "La réaction des filles tout à l’heure, c’est exactement ce que je craignais."
+
+# game/episode023.rpy:2128
+translate french ep023_group_sex_licking_fb8ab38a:
+
+    # "Both my sisters’ faces were wet with Aven’s ejaculate."
+    "Les visages de mes deux sœurs étaient couverts de l’éjaculat d’Aven."
+
+# game/episode023.rpy:2205
+translate french ep023_group_sex_fucking_d64efb70:
+
+    # "I was pretty sure their offered breasts and pussies were a subtle reminder that they wanted to be fucked as well."
+    "J’étais presque sûre que leurs seins et leurs chattes offerts étaient un rappel subtil qu’elles voulaient se faire baiser elles aussi."
+
+# game/episode023.rpy:2207
+translate french ep023_group_sex_fucking_a72bc1fe:
+
+    # "I was pretty sure their offered breasts and pussies were a subtle reminder that they wanted to be fucked again."
+    "J’étais presque sûre que leurs seins et leurs chattes offerts étaient un rappel subtil qu’elles voulaient se faire baiser à nouveau."
+
+# game/episode023.rpy:2279
+translate french ep023_group_sex_fucking_e590a344:
+
+    # av "Fuck your sister’s pussy hard, [p_name_short]."
+    av "Baise la chatte de ta sœur à fond, [p_name_short]."
+
+# game/episode023.rpy:2290
+translate french ep023_group_sex_fucking_a53fe6e1:
+
+    # e "Fuck your sister’s pussy hard, [p_name_short]."
+    e "Baise la chatte de ta sœur à fond, [p_name_short]."
+
 

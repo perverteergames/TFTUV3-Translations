@@ -17,6 +17,6 @@ translate french strings:
     new "Merci à HoboCop86, Philipp, Alorth, Grubb, FckThisShtImOut, Rory-Mercury91 et Jumanji223 pour leurs tests. \n\nUn grand merci à mes principaux contributeurs. Vous êtes géniaux ! Parmi mes mécènes passés et présents, on trouve : \n{i}"
 
 
-    old "Rory-Mercury91 {i}(French){/i}, MyPrettyWolfy {i}(Russian){/i}, Bomber86 (German), Tacito (Italian)"
-    new "Rory-Mercury91 {i}(Français){/i}, MyPrettyWolfy {i}(Russe){/i}, Bomber86 (Allemand), Tacito (italien)"
+    old "Rory-Mercury91 {i}(French){/i}, MyPrettyWolfy {i}(Russian){/i}, Bomber86 (German), Bad75 (Italian)"
+    new "Rory-Mercury91 {i}(Français){/i}, MyPrettyWolfy {i}(Russe){/i}, Bomber86 (Allemand), Bad75 (Italien)"
 

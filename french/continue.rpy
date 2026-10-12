@@ -231,3 +231,4 @@ translate french strings:
 
     old "The game is best enjoyed when you import a saved game from Season Two. If you've lost access to your season saves or just want to begin with Season Three you can select the most important choices from the first and second season below, all other decisions will be set to a default value."
     new "Pour profiter au max du jeu, importe une sauvegarde de la saison 2. Si t'as plus accès à tes sauvegardes ou que tu veux juste commencer la saison 3, tu peux choisir les options les plus importantes des saisons 1 et 2 ci-dessous. Toutes les autres décisions seront réglées sur une valeur par défaut."
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

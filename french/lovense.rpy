@@ -93,4 +93,4 @@ translate french strings:
 
     old "Not connected to a Lovense toy. Please check your connection in the game's preferences."
     new "Pas connecté à un jouet Lovense. Vérifie ta connexion dans les préférences du jeu."
-
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

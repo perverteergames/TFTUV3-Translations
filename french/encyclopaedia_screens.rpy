@@ -11,4 +11,4 @@ translate french strings:
 
     old "Codex: {0}"
     new "Codex : {0}"
-
+# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

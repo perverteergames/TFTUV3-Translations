@@ -76,3 +76,7 @@ translate french strings:
     old "U.R.G.H."
     new "R.U.G.H."
 
+    # game/defaults.rpy:3
+    old "Velnia"
+    new "Velnia"
+
