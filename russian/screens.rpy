@@ -756,3 +756,23 @@ translate russian strings:
     old "Harem: %s"
     new "Гарем: %s"
 
+# TODO: Translation updated at 2026-10-12 17:02
+
+translate russian strings:
+
+    # game/screens.rpy:1527
+    old "Русский (частично)"
+    new ""
+
+    # game/screens.rpy:1529
+    old "Français"
+    new ""
+
+    # game/screens.rpy:1530
+    old "Deutsch (teilweise)"
+    new ""
+
+    # game/screens.rpy:1533
+    old "Italiano (parziale)"
+    new ""
+

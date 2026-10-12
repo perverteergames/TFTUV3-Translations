@@ -250,3 +250,15 @@ translate russian strings:
     old "Didn't have sex with Keodele"
     new "Не занимался сексом с Кеодели"
 
+# TODO: Translation updated at 2026-10-12 17:02
+
+translate russian strings:
+
+    # game/patches.rpy:13
+    old "Priest Caste"
+    new ""
+
+    # game/patches.rpy:110
+    old "Had sex with Keodele"
+    new ""
+

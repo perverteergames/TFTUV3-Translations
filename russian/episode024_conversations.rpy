@@ -2006,3 +2006,11 @@ translate russian ep024_na_av_sex_2e7892c9:
     # "Aven walked up to me, and we exchanged a deep tongue kiss, while my mother took my dick in her mouth."
     "Эвин подошла ко мне, и мы обменялись глубоким поцелуем с языком, в то время как моя мать взяла мой член в рот."
 
+# TODO: Translation updated at 2026-10-12 17:02
+
+# game/episode024_conversations.rpy:363
+translate russian ep024_na_av_sex_c0437bb8:
+
+    # "They covered my dick in their saliva, a warm, wet mess."
+    ""
+

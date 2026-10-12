@@ -11980,3 +11980,71 @@ translate russian strings:
     old "Snowball"
     new "Игра в снежки"
 
+# TODO: Translation updated at 2026-10-12 17:02
+
+# game/episode025.rpy:275
+translate russian ep025_erigone_rahia_f38cd16b:
+
+    # rah "The autopsy confirmed that one caught the common cold and her body couldn’t handle the symptoms."
+    rah ""
+
+# game/episode025.rpy:531
+translate russian ep025_erigone_council_080a6a21:
+
+    # rah "We will strike decisively and end this conflict in one fell swoop, after which all of Erigon’s military might will be available to the alliance."
+    rah ""
+
+# game/episode025.rpy:538
+translate russian ep025_erigone_council_225d99a6:
+
+    # e "We agree that the conflict with the Priest caste must be resolved first and grant you full permission to deal with the situation as you see fit."
+    e ""
+
+# game/episode025.rpy:876
+translate russian ep025_erigone_battle_1fb36e2b:
+
+    # c "I’d understand if you’d rather keep Eva company."
+    c ""
+
+# game/episode025.rpy:1469
+translate russian ep025_erigone_aftermath_55ca7a79:
+
+    # "The former High Priestess was standing barefoot on the rough wooden boards and looked rather less stately than before."
+    ""
+
+# game/episode025.rpy:2337
+translate russian ep025_citadel_rahia_b0bf8026:
+
+    # rah "The Scriptures prescribe that we will need to find a new Queen when the sad day when our current Queen passes away arrives."
+    rah ""
+
+# game/episode025.rpy:2348
+translate russian ep025_citadel_rahia_8e4198a6:
+
+    # rah "Our Queen has chosen a strong and formidable father for Her child and an ensured pure bloodline."
+    rah ""
+
+# game/episode025.rpy:2376
+translate russian ep025_citadel_rahia_2368fb7c:
+
+    # rah "Though that doesn’t mean I won’t crush her without a second thought."
+    rah ""
+
+# game/episode025.rpy:2562
+translate russian ep025_shipyard_keodele_c798f700:
+
+    # keo "Our Creator has prescribed that we begin our Quest for a Queen anew, should the sad day arrive when our current Queen expires."
+    keo ""
+
+# game/episode025.rpy:2714
+translate russian ep025_citadel_rahia_sex_2cf2dabb:
+
+    # rah "You want to put your dick in my warm, wet hole, don’t you?"
+    rah ""
+
+# game/episode025.rpy:2772
+translate russian ep025_citadel_rahia_sex_599e42f9:
+
+    # "Planting my feet wide, I pushed and pulled the Acarhyn woman with my dick lodged firmly inside her tight, wet hole."
+    ""
+

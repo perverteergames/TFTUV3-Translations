@@ -17523,3 +17523,23 @@ translate russian extra_scene_53_24ddfa4a:
     # "We slumbered for a while, until it was time to head back to the Shipyards."
     "Мы немного вздремнули, пока не настало время возвращаться на Верфи."
 
+# TODO: Translation updated at 2026-10-12 17:02
+
+# game/extras.rpy:794
+translate russian extra_scene_52_74fa9e6f:
+
+    # "My cock was coated in my girlfriend’s love juices and I could feel I was close to orgasming too."
+    ""
+
+# game/extras.rpy:879
+translate russian extra_scene_53_d14501b6:
+
+    # "Ziv moaned as I ran my fingers over the exposed tip of her dick."
+    ""
+
+# game/extras.rpy:892
+translate russian extra_scene_53_d29274be:
+
+    # c "And I love how your tight, wet pussy makes me feel."
+    c ""
+

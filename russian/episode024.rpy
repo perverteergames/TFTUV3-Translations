@@ -8890,3 +8890,155 @@ translate russian strings:
     old "Contracts are securely handled by android representatives and stored in the Vault of Dipoturn."
     new "Обработка и хранение контрактов осуществляется андроидами в защищённом Хранилище Дипотурна."
 
+# TODO: Translation updated at 2026-10-12 17:02
+
+# game/episode024.rpy:611
+translate russian ep024_hannah_28f4f7f9_1:
+
+    # ha "I am, nothing much has changed to be honest."
+    ha ""
+
+# game/episode024.rpy:612
+translate russian ep024_hannah_27f8ed19_1:
+
+    # c "Well, I wish I could say the same."
+    c ""
+
+# game/episode024.rpy:613
+translate russian ep024_hannah_4211b7aa_1:
+
+    # c "Quite a lot has happened since we last saw each other."
+    c ""
+
+# game/episode024.rpy:615
+translate russian ep024_hannah_d6c04b21_1:
+
+    # "Hannah stepped in closer as I talked, until our bodies were nearly touching."
+    ""
+
+# game/episode024.rpy:616
+translate russian ep024_hannah_8c8080b9_1:
+
+    # ha "I want to hear all about it."
+    ha ""
+
+# game/episode024.rpy:617
+translate russian ep024_hannah_3f8cf74f_1:
+
+    # ha "But there’s something I’d like to do first."
+    ha ""
+
+# game/episode024.rpy:618
+translate russian ep024_hannah_59fe9738_1:
+
+    # "She pawed at my shirt, but I had to take her hand and stop her."
+    ""
+
+# game/episode024.rpy:619
+translate russian ep024_hannah_ea2b69e7_1:
+
+    # c "I’m sorry, Hannah, but I can’t do this."
+    c ""
+
+# game/episode024.rpy:621
+translate russian ep024_hannah_16ea41d1_1:
+
+    # ha "Why?"
+    ha ""
+
+# game/episode024.rpy:622
+translate russian ep024_hannah_90ca8a0a_1:
+
+    # c "As I said, a lot has happened."
+    c ""
+
+# game/episode024.rpy:624
+translate russian ep024_hannah_37cd9dfe_1:
+
+    # c "I’ve made a promise to someone I love."
+    c ""
+
+# game/episode024.rpy:625
+translate russian ep024_hannah_8e166d61_1:
+
+    # c "I don’t want to break that promise."
+    c ""
+
+# game/episode024.rpy:627
+translate russian ep024_hannah_a027db01_1:
+
+    # ha "How noble..."
+    ha ""
+
+# game/episode024.rpy:629
+translate russian ep024_hannah_3b95d89c:
+
+    # c "I’m not the same person as I was before, Hannah."
+    c ""
+
+# game/episode024.rpy:630
+translate russian ep024_hannah_2389393d_1:
+
+    # ha "Why did you come back to my room then?"
+    ha ""
+
+# game/episode024.rpy:631
+translate russian ep024_hannah_d010545c_1:
+
+    # c "I just wanted to talk, two friends catching up."
+    c ""
+
+# game/episode024.rpy:633
+translate russian ep024_hannah_ed880052_1:
+
+    # ha "And I wanted to fuck."
+    ha ""
+
+# game/episode024.rpy:634
+translate russian ep024_hannah_cac1ede2_1:
+
+    # ha "Guess we both won’t be getting our way."
+    ha ""
+
+# game/episode024.rpy:635
+translate russian ep024_hannah_ab0c4a93_1:
+
+    # c "Hannah-"
+    c ""
+
+# game/episode024.rpy:637
+translate russian ep024_hannah_26c75057_1:
+
+    # ha "Just go, [p_name]."
+    ha ""
+
+# game/episode024.rpy:639
+translate russian ep024_hannah_be3fe603_1:
+
+    # ha "I’d like to be alone."
+    ha ""
+
+# game/episode024.rpy:641
+translate russian ep024_hannah_c2883965_1:
+
+    # "I left Hannah and went back to Ziv and Aven to wait on the Tubloshi verdict."
+    ""
+
+# game/episode024.rpy:1329
+translate russian ep024_sharard_756dded1:
+
+    # j "The building manager is quite livid about it."
+    j ""
+
+# game/episode024.rpy:1748
+translate russian ep024_hannah_sex_da0ac3b6:
+
+    # "I wanted to bury my cock deep inside her tight, wet cunt and remain in that perfect moment of bliss."
+    ""
+
+translate russian strings:
+
+    # game/episode024.rpy:608
+    old "Keep your distance"
+    new ""
+
