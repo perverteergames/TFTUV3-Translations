@@ -1961,3 +1961,4 @@ translate russian strings:
     # game/choices.rpy:11
     old "Rescued neither Rahia nor Keodele."
     new "Не спас ни Рахию, ни Кеодели."
+

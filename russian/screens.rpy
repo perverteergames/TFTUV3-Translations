@@ -755,3 +755,4 @@ translate russian strings:
     # game/screens.rpy:848
     old "Harem: %s"
     new "Гарем: %s"
+

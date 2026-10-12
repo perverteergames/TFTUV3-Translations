@@ -49,3 +49,4 @@ translate russian strings:
     # game/options.rpy:49
     old "Rory-Mercury91 {i}(French){/i}, MyPrettyWolfy {i}(Russian){/i}, Bomber86 (German), Bad75 (Italian)"
     new "Rory-Mercury91 {i}(French){/i}, MyPrettyWolfy {i}(Русский){/i}, Bomber86 (German), Bad75 (Italian)"
+

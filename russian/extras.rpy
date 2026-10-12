@@ -17522,3 +17522,4 @@ translate russian extra_scene_53_24ddfa4a:
 
     # "We slumbered for a while, until it was time to head back to the Shipyards."
     "Мы немного вздремнули, пока не настало время возвращаться на Верфи."
+

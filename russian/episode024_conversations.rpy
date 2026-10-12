@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2026-03-10 19:12
+# TODO: Translation updated at 2026-03-10 19:12
 
 # game/episode024_conversations.rpy:55
 translate russian ep024_celine_talk_f3cc108d:
@@ -2005,3 +2005,4 @@ translate russian ep024_na_av_sex_2e7892c9:
 
     # "Aven walked up to me, and we exchanged a deep tongue kiss, while my mother took my dick in her mouth."
     "Эвин подошла ко мне, и мы обменялись глубоким поцелуем с языком, в то время как моя мать взяла мой член в рот."
+

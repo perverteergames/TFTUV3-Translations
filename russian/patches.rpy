@@ -249,3 +249,4 @@ translate russian strings:
     # game/patches.rpy:107
     old "Didn't have sex with Keodele"
     new "Не занимался сексом с Кеодели"
+

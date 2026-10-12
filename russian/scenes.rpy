@@ -825,3 +825,4 @@ translate russian strings:
     # game/scenes.rpy:3
     old "Priestly Perversion"
     new "Жреческая порочность"
+

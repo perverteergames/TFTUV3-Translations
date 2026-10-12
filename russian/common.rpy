@@ -1348,3 +1348,4 @@ translate russian strings:
     old "{size=-3}[config.version!q]\n[renpy.version_only!q]\n[renpy.platform!q]{/size}"
     new "{size=-3}[config.version!q]\n[renpy.version_only!q]\n[renpy.platform!q]{/size}"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+

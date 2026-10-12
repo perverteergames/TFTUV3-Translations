@@ -21,3 +21,4 @@ translate russian strings:
     # game/defaults.rpy:3
     old "Velnia"
     new "Велния"
+

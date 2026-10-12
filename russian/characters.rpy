@@ -205,3 +205,6 @@ translate russian strings:
     # game/characters.rpy:171
     old "Skeda"
     new "Скеда"
+
+
+

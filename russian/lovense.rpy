@@ -89,3 +89,4 @@ translate russian strings:
     # game/lovense.rpy:447
     old "{b}NOTE:{/b} If you make a purchase by clicking the button above, I may earn a small commission at no extra cost to you. I only recommend products I personally use and trust."
     new "{b}ПРИМЕЧАНИЕ:{/b} Если вы совершите покупку, нажав на кнопку выше, я могу получить небольшую комиссию без каких-либо дополнительных затрат для вас. Я рекомендую только те продукты, которыми пользуюсь лично и которым доверяю."
+

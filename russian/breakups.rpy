@@ -1753,3 +1753,4 @@ translate russian breakup_eva_a0ed6a6c:
 
     # "I retreated and closed the door behind me, leaving Eva to dissolve into tears."
     "Я отступил и закрыл за собой дверь, оставив Еву заливаться слезами."
+

@@ -11979,3 +11979,4 @@ translate russian strings:
     # game/episode025.rpy:3649
     old "Snowball"
     new "Игра в снежки"
+

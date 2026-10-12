@@ -241,3 +241,4 @@ translate russian strings:
     # game/continue.rpy:924
     old "The game is best enjoyed when you import a saved game from Season Two. If you've lost access to your season saves or just want to begin with Season Three you can select the most important choices from the first and second season below, all other decisions will be set to a default value."
     new "Наибольшее удовольствие от игры можно получить, если импортировать сохранённую игру из Второго Сезона. Если вы потеряли доступ к своим сохранениям или просто хотите начать с Третьего Сезона, вы можете выбрать наиболее важные варианты из первого и второго сезонов ниже, все остальные решения будут установлены по умолчанию."
+
