@@ -76,7 +76,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Comforted Lilly after desertion."
-    new "Consolou Lilly após a deserção,"
+    new "Consolou Lilly após a deserção."
 
     # game/choices.rpy:10
     old "TGN Enfield"
@@ -140,7 +140,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Reassured Vess she could always talk to you."
-    new "Assegurou Vess que tinha que falar com você."
+    new "Assegurou Vess que sempre poderia falar com você."
 
     # game/choices.rpy:10
     old "Iron Bastard"
@@ -156,7 +156,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Got angry with Thyia about delaying the cargo run to Nyiruan 12-Beta."
-    new "Ficou irritado com Thyia pelo atraso da entrega de carga Nyiruan 12-Beta."
+    new "Ficou irritado com Thyia pelo atraso da entrega de carga a Nyiruan 12-Beta."
 
     # game/choices.rpy:10
     old "Told Céline you love her."
@@ -220,7 +220,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Accepted Ziv's mission."
-    new "Ela aceitou a missão da Ziv."
+    new "Aceitou a missão da Ziv."
 
     # game/choices.rpy:10
     old "Verdant Station"
@@ -240,7 +240,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Admonished Lilly about joining the boverin hunt on Sagueliath."
-    new "Deu bronca na Lilly  ter entrado na caçada ao boverino em Sagueliath."
+    new "Deu bronca na Lilly por ter entrado na caçada ao boverino em Sagueliath."
 
     # game/choices.rpy:10
     old "Sagueliath"
@@ -380,7 +380,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Got angry with Aven for being half-naked."
-    new "Ficou irritado com Aven por estar sem-nua."
+    new "Ficou irritado com Aven por estar seminua."
 
     # game/choices.rpy:10
     old "Had drinks with Thyia and Lilly."
@@ -388,7 +388,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Forced Ziv to tell the truth about Raene."
-    new "Forçou Ziv a contar a verdade a Raene."
+    new "Forçou Ziv a contar a verdade sobre Raene."
 
     # game/choices.rpy:10
     old "Asked rude questions about Ziv's genitals."
@@ -436,7 +436,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Dimissed Jade to prevent her from having sex with you."
-    new "Mandou Jade embora para impedir de fazer sexo com você."
+    new "Mandou Jade embora para impedi-la de fazer sexo com você."
 
     # game/choices.rpy:10
     old "Apologized to Jade for sexually dominating her."
@@ -448,7 +448,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "The quest for a forger willing to produce invitations to Cetruvar's party takes you to Barranthis. The forger Vitriv is being held captive by crime boss Doarn. In order to get him released you strike a deal with Doarn to take out one of his competitors, Garomph. You find Garomph in a factory full of female cattle and ultimately kill him. Doarn releases Vitriv upon your return to his casino, but retaliates after learning about the destruction of Garomph's factory. Pursued by Doarn's lackeys, you flee into an asteroid belt."
-    new "Sua busca por um forjador que esteja disposto a criar convites para a festa de Cetruvar o leva a Barranthis. Entretanto, o forjador Vitriv está sendo mantido refém pelo chefe do crime Doarn. Para conseguir soltá-lo, você faz um acordo com Doarn para matar um de seus competidores, Garomph. Você encontra Garomph numa fábrica cheia de mulheres tratadas com gado, e acaba matando-o. Doarn solta Vitriv quando você retora ao cassino dele, mas retala quando descobre sobre a destruição da fábrica de Garomph. Perseguido pelos capangas de Doarn, vocês escapam para um cinturão de asteroides."
+    new "Sua busca por um forjador que esteja disposto a criar convites para a festa de Cetruvar o leva a Barranthis. Entretanto, o forjador Vitriv está sendo mantido refém pelo chefe do crime Doarn. Para conseguir soltá-lo, você faz um acordo com Doarn para matar um de seus competidores, Garomph. Você encontra Garomph numa fábrica cheia de mulheres tratadas como gado, e acaba matando-o. Doarn solta Vitriv quando você retora ao cassino dele, mas retala quando descobre sobre a destruição da fábrica de Garomph. Perseguido pelos capangas de Doarn, vocês escapam para um cinturão de asteroides."
 
     # game/choices.rpy:10
     old "Agreed to help Vitriv."
@@ -472,7 +472,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Allowed Céline to make you cum with her feet in the restaurant."
-    new "Permitiu que Céline que o fizesse gozar com os pés no restaurante."
+    new "Permitiu que Céline o fizesse gozar com os pés no restaurante."
 
     # game/choices.rpy:10
     old "Kissed Vess."
@@ -512,7 +512,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Spied on the serving girl having sex with her mistress."
-    new "Espiou na servente fazendo sexo com sua mestra."
+    new "Espiou a servente fazendo sexo com sua mestra."
 
     # game/choices.rpy:10
     old "Watched the serving girl get pissed on by her mistress."
@@ -580,7 +580,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Fucked one of the pregnant women from Garomph's factory."
-    new "Transou com umas mulheres grávidas da fábrica de Garomph."
+    new "Transou com uma das mulheres grávidas da fábrica de Garomph."
 
     # game/choices.rpy:10
     old "Brushed Jade off when she questioned you about shooting Garomph."
@@ -600,7 +600,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Lost inside the asteroid belt, you are ambushed by an unknown ship and wake up as a captive at a research facility. The facility turns out to be a ConVitæ where they experiment on the minds of their prisoners. After a confusing confinement, shaking up some of the relationships with the women of your crew, you manage to escape from the base on Höfel MDCL."
-    new "Perdidos num cinturão de asteroides, vocês foram emboscados por uma análise conhecida e acordaram presos numa instalação de pesquisa. A instalação acabou pertencendo a ConVitæ, onde fazer um experimentos nas mentes dos prisioneiros. Após um confinamento confuso, causando uma mudança nos seus relacionamentos com as mulheres de sua tripulação, você consegue escapar da base em Höfel MDCL."
+    new "Perdidos num cinturão de asteroides, vocês foram emboscados por uma nave desconhecida e acordaram presos numa instalação de pesquisa. A instalação acabou pertencendo a ConVitæ, onde fazer um experimentos nas mentes dos prisioneiros. Após um confinamento confuso, causando uma mudança nos seus relacionamentos com as mulheres de sua tripulação, você consegue escapar da base em Höfel MDCL."
 
     # game/choices.rpy:10
     old "Ignored the women in the simulation."
@@ -664,7 +664,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Confirmed your sexual attraction to Nadya."
-    new "Confirmou sua atração sexual Nadya."
+    new "Confirmou sua atração sexual pela Nadya."
 
     # game/choices.rpy:10
     old "Confirmed your sexual attraction to Chrone."
@@ -680,7 +680,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Creampied Dr. Chrone Moora."
-    new "Gozou dentro da Dr. Chrone Moora."
+    new "Gozou dentro da Dra. Chrone Moora."
 
     # game/choices.rpy:10
     old "Shot the guards while escaping the ConVitæ facility on Höfel MDCL."
@@ -695,10 +695,6 @@ translate portuguese strings:
     new "Episódio 7"
 
     # game/choices.rpy:10
-    old "Despite losing so many months in captivity, you forge ahead to Cetruvar's party on Almagest. Infiltrating the mansion, you encounter another team of purple-clad operatives who nearly kill Cetruvar. After incapicitating them you are forced to stay the night at the mansion. The nightly hours allowed you to roam the mansion more freely and a search of Cetruvar's office finally yielded the location of the Acarhyn, a planet called Erigone where a Virgin Queen now rules. After a brief gunfight, you escape the mansion and head out to Erigone."
-    new "Apesar de perder tantos meses em cativeiro, você forjam caminho para a festa de Cetruvar em Almagest.  infiltrando a mansão, vocês encontram outro time de agentes de roxo que quase matam Cetruvar. Após incapacitá-los, vocês são forçados a passar a noite na mansão. O horário noturno permite que você ande pela mansão mais livremente, uma busca no escritório de Cetruvar finalmente resulta na localização das Acarhyn, um planeta chamado Erigone onde uma Rainha Virgem agora comanda. Após um breve tiroteio, vocês escapam da mansão e vão para Erigone."
-
-    # game/choices.rpy:10
     old "Watched the Egg ceremony."
     new "Assistiu a cerimônia do ovo."
 
@@ -708,7 +704,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Kissed Thyia again during the undercover mission at Cetruvar's mansion."
-    new "Beijo Thyia novamente durante a missão secreta na mansão de Cetruvar."
+    new "Beijou Thyia novamente durante a missão secreta na mansão de Cetruvar."
 
     # game/choices.rpy:10
     old "Told Nadya the truth about your relationship with Aven or Lilly."
@@ -724,7 +720,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Reassured Lilly you'd keep her safe."
-    new "Assegurou à Lilly que a manteria segurança."
+    new "Assegurou à Lilly que a manteria segura."
 
     # game/choices.rpy:10
     old "Didn't press Lilly about sharing her feelings with you."
@@ -784,7 +780,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Apologized to Eva about leaving her in the simulation."
-    new "Você se desculpou com Eva por tê-la na simulação."
+    new "Você se desculpou a Eva por tê-la deixado na simulação."
 
     # game/choices.rpy:10
     old "Kissed Lilly in the simulation."
@@ -792,7 +788,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Altered Lilly's simulation profile."
-    new "Alterou o perfil da Lilly simulação."
+    new "Alterou o perfil da Lilly na simulação."
 
     # game/choices.rpy:10
     old "Wiped the simulation with Lilly and Eva."
@@ -820,7 +816,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Told Ziv you weren't looking to be friends with her."
-    new "Falou para que não estava atrás de amizade com ela."
+    new "Falou para Ziv que não estava atrás de amizade com ela."
 
     # game/choices.rpy:10
     old "Didn't comment on Ziv's or Raene's sexuality or gender."
@@ -844,7 +840,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Rebuked Nadya about wanting to go on the expedition."
-    new "Rejeitou Nadya sobre a sua vontade de participar da expedição."
+    new "Rejeitou a vontade de Nadya de participar da expedição."
 
     # game/choices.rpy:10
     old "Accepted Rahia's offer to have sex with her."
@@ -924,7 +920,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Ridiculed Thim after him thanking you."
-    new "Fez chacota de Thim após agradecê-lo."
+    new "Fez chacota de Thim após ele o agradecer."
 
     # game/choices.rpy:10
     old "Thim became a friend."
@@ -1016,7 +1012,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Sided with the priest caste on Erigone."
-    new "Ficou do lado das casta das sacerdotisas em Erigone."
+    new "Ficou do lado da casta das sacerdotisas em Erigone."
 
     # game/choices.rpy:10
     old "Made no alliances on Erigone."
@@ -1076,7 +1072,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Left Athryn in the clutches of the plant."
-    new "Deixou Athryn atacada pela planta."
+    new "Deixou Athryn nas garras da planta."
 
     # game/choices.rpy:10
     old "Gave Céline anal."
@@ -1092,7 +1088,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "The celebration of your victory ends in a double betrayal. Vess turns out to be a reluctant spy working for the Confessor, sending your location to him and his handmaidens. Erylin and her priest caste strike a deal with him upon arrival, inciting a civil war. Together with Eva and the rest of the crew, you escape to Aegisthus Shipyards where the Iron Bastard has been patched up and flee Erigone."
-    new "A comemoração da sua vitória acaba em uma traição dupla. Aparentemente, Vess é uma espiã para o Confessor, enviando sua localização para as atendentes dele. Chegando lá, Erylin e sua casta de sacerdotisas fazem um acordo com ele, incitando uma guerra civil. Junto de Eva e o resto da tripulação, você escapa para o Estaleiro Aegisthus, onde a Bastarda de Ferro foi consertada, e corre de Erigone."
+    new "A comemoração da sua vitória acaba em uma traição dupla. Aparentemente, Vess é uma espiã relutante para o Confessor, enviando sua localização para as atendentes dele. Chegando lá, Erylin e sua casta de sacerdotisas fazem um acordo com ele, incitando uma guerra civil. Junto de Eva e o resto da tripulação, você escapa para o Estaleiro Aegisthus, onde a Bastarda de Ferro foi consertada, e corre de Erigone."
 
     # game/choices.rpy:10
     old "Got angry with Vess after her betrayal."
@@ -1264,7 +1260,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Offered Jade have sex with the Tyuarene official to gain access to the Theater of Senses."
-    new "Ofereceu a Jade sexo com a oficial Tyuarene para ganhar acesso ao Teatro dos Sentidos."
+    new "Propôs que Jade fizesse sexo com a oficial Tyuarene para ganhar acesso ao Teatro dos Sentidos."
 
     # game/choices.rpy:10
     old "Had a threesome with Jade and the Tyuarene official."
@@ -1340,7 +1336,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Told the truth about loving Céline to Lilly."
-    new "Contou a verdade sobre amar Céline e Lilly."
+    new "Contou a verdade a Lilly sobre amar Céline."
 
     # game/choices.rpy:10
     old "Entered the simulation together with Eva on Douvis."
@@ -1356,7 +1352,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Uailea, the Rhenkoy homeworld, is your next destination. Ziv's people have imprisoned a squadron of Scolguin and you want to speak with one of them to learn the location of the ever-moving Scolguin fleet."
-    new "Uailea, o planeta natal das Rhenkoy, é seu próximo destino. O povo da Ziv prendeu um esquadrão de Scolguin e você quer falar algum dos indivíduos para descobrir a localização da frota sempre móvel Scolguin."
+    new "Uailea, o planeta natal das Rhenkoy, é seu próximo destino. O povo da Ziv prendeu um esquadrão de Scolguin e você quer falar com um dos indivíduos para descobrir a localização da frota sempre móvel Scolguin."
 
     # game/choices.rpy:10
     old "You didn't spare the followers of Nkoy Rhedia during the raid on their camp."
@@ -1376,7 +1372,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Made Lilly apologize to Céline because of their jealous row."
-    new "Fez Lilly se pedir desculpas a Céline por seu ciúme."
+    new "Fez Lilly pedir desculpas a Céline por seu ciúme."
 
     # game/choices.rpy:10
     old "Took responsibility for not telling Lilly and Céline earlier about your romantic involvements."
@@ -1460,7 +1456,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Told Alt Eva you love her real-world counterpart."
-    new "Falou para a outra Eva que ama a ela verdadeira."
+    new "Falou para a outra Eva que ama a Eva verdadeira."
 
     # game/choices.rpy:10
     old "Kissed Alt Eva in the simulation."
@@ -1472,7 +1468,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Told Eva the truth about the simulation."
-    new "A verdade sobre a simulação para Eva."
+    new "Contou para Eva a verdade sobre a simulação."
 
     # game/choices.rpy:10
     old "Declared your love to Eva."
@@ -1540,7 +1536,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Let Nadya become the subject of the deal with the Scolguin Queen, allowing her access to Nadya's memories."
-    new "Deixou Nadya lidar com a Rainha Scolguin, permitindo que ela tivesse acesso às memórias da Nadya."
+    new "Deixou que a Rainha Scolguin tivesser acesso acesso às memórias da dela."
 
     # game/choices.rpy:10
     old "Fucked the Scolguin prisoner."
@@ -1592,7 +1588,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Alone with Eva on the desert planet you wait for rescue. After a skirmish with the mercs, resulting in the killing of Glixken, you and the rest of the crew of the Iron Bastard are reunited. Armed with the knowledge gathered on Altum Station, you head out to Taagmar.\n\nNavigating the conflict on Taagmar's surface, disguised as Sovereignty soldiers, you reach the gateway in the middle of the capital. Agust, Erylin and the Confessor perform a ritual to open the gateway and you slip through, together with the rest of the Sovereignty forces.\n\nAfter passing the gate you're on another planet, its surface filled with dusty ruins. The Sovereignty forces are centered near a large temple which they attempt to breach. You rejoined the enemy when the gained access to the temple and found a large glowing crystal called the Key."
-    new "A sós com Eva em um planeta desconhecido, você espera ser resgatado. Após combate com mercenários, resultando na morte de Glixken, você se reúne com o resto da tripulação da Bastarda de Ferro. Armados com o conhecimento adquirido na Estação Altum, vocês vão em direção a Taagmar.\n\nNavegando pelo conflito  na superfície de Taagmar disfarçados de soldados da Soberania, vocês chegam no portal no meio da capital. Agust, Erylin e o Confessor fazem um ritual para abrir o portal e você entra de fininho, junto com o resto das forças da Soberania\n\nApós passar pelo Portal, vocês se encontram em outro planeta, sua superfície cheia de ruínas empoeiradas. As forças da Soberania se juntaram perto de um grande templo que estão tentando arrombar. Você se junta novamente ao inimigo quando conseguem acesso ao templo e descobrem um cristal brilhante chamado de A Chave."
+    new "A sós com Eva em um planeta desconhecido, você espera ser resgatado. Após combate com mercenários, resultando na morte de Glixken, você se reúne com o resto da tripulação da Bastarda de Ferro. Armados com o conhecimento adquirido na Estação Altum, vocês vão em direção a Taagmar.\n\nNavegando pelo conflito  na superfície de Taagmar disfarçados de soldados da Soberania, vocês chegam no portal no meio da capital. Agust, Erylin e o Confessor fazem um ritual para abrir o portal e você entra de fininho, junto com o resto das forças da Soberania.\n\nApós passar pelo Portal, vocês se encontram em outro planeta, sua superfície cheia de ruínas empoeiradas. As forças da Soberania se juntaram perto de um grande templo que estão tentando arrombar. Você se junta novamente ao inimigo quando conseguem acesso ao templo e descobrem um cristal brilhante chamado de A Chave."
 
     # game/choices.rpy:10
     old "Let Thyia kill Glixken."
@@ -1608,7 +1604,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Proposed a harem to Eva."
-    new "Propôs hum harém a Eva."
+    new "Propôs um harém a Eva."
 
     # game/choices.rpy:10
     old "Ruins"
@@ -1628,7 +1624,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Proposed a harem to Ziv."
-    new "Propôs hum harém a Ziv."
+    new "Propôs um harém a Ziv."
 
     # game/choices.rpy:10
     old "Lied to Ziv about your love life."
@@ -1640,11 +1636,11 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "As the Key is about to be transported to the TGN Jaculus, you hijack the transport and drive it to your own ship instead. Before Agust learns about the theft, you have already made your way back to the Iron Bastard and left Taagmar far behind. During the following night, Eva is drawn inexplicably to the Key and is later found next to it in a coma.\n\nRushing to the nearest medical facility, you arrive on Paclerara, the new Twi'll homeworld. In the care of the Twi'll, Eva eventually regains consciousness and tells you about the memories the Key has unlocked in her mind."
-    new "Enquanto a Chave é transportada para a MTG Jaculus, você rouba o transporte e o dirige até a sua nave. Antes que Agust descubra do roubo, você já voltou para Bastarda de Ferro e deixou Taagmar para trás. Na noite seguinte, Eva é inexplicavelmente chamada pela Chave, e depois é encontrada em coma ao lado dela\n\nCorrendo até o hospital mais perto, vocês chegam em Paclerara, o planeta natal Twi'll. Sob os cuidados das Twi'll, Eva eventualmente acorda e o aviso sobre as memórias que a Chave liberou em sua mente."
+    new "Enquanto a Chave é transportada para a MTG Jaculus, você rouba o transporte e o dirige até a sua nave. Antes que Agust descubra do roubo, você já voltou para Bastarda de Ferro e deixou Taagmar para trás. Na noite seguinte, Eva é inexplicavelmente chamada pela Chave, e depois é encontrada em coma ao lado dela.\n\nCorrendo até o hospital mais perto, vocês chegam em Paclerara, o planeta natal Twi'll. Sob os cuidados das Twi'll, Eva eventualmente acorda e o avisa sobre as memórias que a Chave liberou em sua mente."
 
     # game/choices.rpy:10
     old "As the Key is about to be transported to the TGN Jaculus, you hijack the transport and drive it to your own ship instead. Before Agust learns about the theft, you have already made your way back to the Iron Bastard and left Taagmar far behind. During the following night, Eva is drawn inexplicably to the Key and is later found next to it in a coma.\n\nRushing to the nearest medical facility, you arrive on Paclerara, the new Twi'll homeworld. In the care of the Twi'll, your sister eventually regains consciousness and tells you about the memories the Key has unlocked in her mind."
-    new "Enquanto a Chave é transportada para a MTG Jaculus, você rouba o transporte e o dirige até a sua nave. Antes que Agust descubra do roubo, você já voltou para Bastarda de Ferro e deixou Taagmar para trás. Na noite seguinte, Eva é inexplicavelmente chamada pela Chave, e depois é encontrada em coma ao lado dela\n\nCorrendo até o hospital mais perto, vocês chegam em Paclerara, o planeta natal Twi'll. Sob os cuidados das Twi'll, sua irmã eventualmente acorda e o aviso sobre as memórias que a Chave liberou em sua mente."
+    new "Enquanto a Chave é transportada para a MTG Jaculus, você rouba o transporte e o dirige até a sua nave. Antes que Agust descubra do roubo, você já voltou para Bastarda de Ferro e deixou Taagmar para trás. Na noite seguinte, Eva é inexplicavelmente chamada pela Chave, e depois é encontrada em coma ao lado dela.\n\nCorrendo até o hospital mais perto, vocês chegam em Paclerara, o planeta natal Twi'll. Sob os cuidados das Twi'll, sua irmã eventualmente acorda e o avisa sobre as memórias que a Chave liberou em sua mente."
 
     # game/choices.rpy:10
     old "Allowed Thim to leave the crew."
@@ -1724,7 +1720,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Accepted Skeda's offer and betrayed the Marleybone Irregulars."
-    new "Em aceitou a oferta de Skeda e traiu os Irregulares de Marleybone."
+    new "Aceitou a oferta de Skeda e traiu os Irregulares de Marleybone."
 
     # game/choices.rpy:10
     old "Killed Skeda, the mercenary boss of Skeda's Skivs."
@@ -1780,7 +1776,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Having arrived on Petrarch, you discover ancient signs of habitation and a temple holding further clues to the meaning of the Prophecy. Meanwhile, your plans have been betrayed and Agust has learned your whereabouts."
-    new "Chegando em Petrarch, vocês descobrem sinais antigos de habitação, e um templo que guarda mais pistas para o significado da Profecia. Enquanto isso, seus planos são atrapalhados, e Agust descobre sua localização."
+    new "Chegando em Petrarch, vocês descobrem sinais antigos de habitação, e um templo que guarda mais pistas sobre significado da Profecia. Enquanto isso, seus planos são descobertos, e Agust descobre sua localização."
 
     # game/choices.rpy:10
     old "Eva announced her pregnancy."
@@ -1832,7 +1828,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Agreed to have kids with Ziv."
-    new "Aceitou ter filhos como Ziv."
+    new "Aceitou ter filhos com Ziv."
 
     # game/choices.rpy:10
     old "Had a threesome with Vess and Céline."
@@ -1888,19 +1884,19 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Dismissed Jade to prevent her from having sex with you."
-    new "Mandou Jade embora para impedir de fazer sexo com você."
+    new "Mandou Jade embora para impedi-la de fazer sexo com você."
 
     # game/choices.rpy:10
     old "The quest for a forger willing to produce invitations to Cetruvar's party takes you to Barranthis. However, the forger Vitriv is being held captive by crime boss Doarn. In order to get him released you strike a deal with Doarn to take out one of his competitors, Garomph. You find Garomph in a factory full of female cattle and ultimately kill him. Doarn releases Vitriv upon your return to his casino, but retaliates after learning about the destruction of Garomph's factory. Pursued by Doarn's lackeys, you flee into an asteroid belt."
-    new "Sua busca por um forjador que esteja disposto a criar convites para a festa de Cetruvar o leva a Barranthis. Entretanto, o forjador Vitriv está sendo mantido refém pelo chefe do crime Doarn. Para conseguir soltá-lo, você faz um acordo com Doarn para matar um de seus competidores, Garomph. Você encontra Garomph numa fábrica cheia de mulheres tratadas com gado, e acaba matando-o. Doarn solta Vitriv quando você retora ao cassino dele, mas retala quando descobre sobre a destruição da fábrica de Garomph. Perseguido pelos capangas de Doarn, vocês escapam para um cinturão de asteroides."
+    new "Sua busca por um forjador que esteja disposto a criar convites para a festa de Cetruvar o leva a Barranthis. Entretanto, o forjador Vitriv está sendo mantido refém pelo chefe do crime Doarn. Para conseguir soltá-lo, você faz um acordo com Doarn para matar um de seus competidores, Garomph. Você encontra Garomph numa fábrica cheia de mulheres tratadas como gado, e acaba matando-o. Doarn solta Vitriv quando você retorna ao cassino dele, mas retalia após descobrir sobre a destruição da fábrica de Garomph. Perseguido pelos capangas de Doarn, vocês escapam para um cinturão de asteroides."
 
     # game/choices.rpy:10
     old "Lost inside the asteroid belt, you are ambushed by an unknown ship and wake up as a captive at a research facility. The facility turns out to belong to ConVitæ where they experiment on the minds of their prisoners. After a confusing confinement, shaking up some of the relationships with the women of your crew, you manage to escape from the base on Höfel MDCL."
-    new "Perdidos num cinturão de asteroides, vocês foram emboscados por uma análise conhecida e acordaram presos numa instalação de pesquisa. A instalação acabou pertencendo a ConVitæ, onde fazer um experimentos nas mentes dos prisioneiros. Após um confinamento confuso, causando uma mudança nos seus relacionamentos com as mulheres de sua tripulação, você consegue escapar da base em Höfel MDCL."
+    new "Perdidos num cinturão de asteroides, vocês foram emboscados por uma nave desconhecida e acordaram presos numa instalação de pesquisa. A instalação acabou pertencendo a ConVitæ, onde fazem experimentos nas mentes dos prisioneiros. Após um confinamento confuso, causando uma mudança nos seus relacionamentos com as mulheres de sua tripulação, você consegue escapar da base em Höfel MDCL."
 
     # game/choices.rpy:10
     old "Despite losing so many months in captivity, you forge ahead to Cetruvar's party on Almagest. Infiltrating the mansion, you encounter another team of purple-clad operatives who nearly kill Cetruvar. After incapicitating them you are forced to stay the night at the mansion. The nightly hours allow you to roam the mansion more freely and a search of Cetruvar's office finally yielded the location of the Acarhyn, a planet called Erigone where a Virgin Queen now rules. After a brief gunfight, you escape the mansion and head out to Erigone."
-    new "Apesar de perder tantos meses em cativeiro, você forjam caminho para a festa de Cetruvar em Almagest.  infiltrando a mansão, vocês encontram outro time de agentes de roxo que quase matam Cetruvar. Após incapacitá-los, vocês são forçados a passar a noite na mansão. O horário noturno permite que você ande pela mansão mais livremente, uma busca no escritório de Cetruvar finalmente resulta na localização das Acarhyn, um planeta chamado Erigone onde uma Rainha Virgem agora comanda. Após um breve tiroteio, vocês escapam da mansão e vão para Erigone."
+    new "Apesar de perder tantos meses em cativeiro, vocês forjam caminho para a festa de Cetruvar em Almagest. Infiltrando a mansão, vocês encontram outro time de agentes de roxo que quase matam Cetruvar. Após incapacitá-los, vocês são forçados a passar a noite na mansão. O horário noturno permite que você ande pela mansão mais livremente, uma busca no escritório de Cetruvar finalmente resulta na localização das Acarhyn, um planeta chamado Erigone onde uma Rainha Virgem agora comanda. Após um breve tiroteio, vocês escapam da mansão e vão para Erigone."
 
     # game/choices.rpy:10
     old "A Hunt is called by the Virgin Queen to slay a beast threatening the Acarhyn and you are allowed to participate. The outcome of the Hunt will further cement your standing with the warrior or priest caste and possibly allow you to escape Erigone together with Eva. From Eva you also learn about the Prophecy that has motivated the Acarhyn to kidnap her and piqued the interest of a man called the Confessor and several high-ranking members of the Sovereignty elite, including your father Agust."
@@ -1940,7 +1936,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Alone with Eva on the desert planet you wait for rescue. After a skirmish with the mercs, resulting in the killing of Glixken, you and the rest of the crew of the Iron Bastard are reunited. Armed with the knowledge gathered on Altum Station, you head out to Taagmar.\n\nNavigating the conflict on Taagmar's surface, disguised as Sovereignty soldiers, you reach the gateway in the middle of the capital. Agust, Erylin and the Confessor perform a ritual to open the gateway and you slip through, together with the rest of the Sovereignty forces.\n\nAfter passing the gate you're on another planet, its surface filled with dusty ruins. The Sovereignty forces are centered near a large temple which they attempt to breach. You rejoin the enemy as they gain access to the temple and find a large glowing crystal called the Key."
-    new "A sós com Eva em um planeta desconhecido, você espera ser resgatado. Após combate com mercenários, resultando na morte de Glixken, você se reúne com o resto da tripulação da Bastarda de Ferro. Armados com o conhecimento adquirido na Estação Altum, vocês vão em direção a Taagmar.\n\nNavegando pelo conflito  na superfície de Taagmar disfarçados de soldados da Soberania, vocês chegam no portal no meio da capital. Agust, Erylin e o Confessor fazem um ritual para abrir o portal e você entra de fininho, junto com o resto das forças da Soberania\n\nApós passar pelo Portal, vocês se encontram em outro planeta, sua superfície cheia de ruínas empoeiradas. As forças da Soberania se juntaram perto de um grande templo que estão tentando arrombar. Você se junta novamente ao inimigo quando conseguem acesso ao templo e descobrem um cristal brilhante chamado de A Chave."
+    new "A sós com Eva em um planeta desconhecido, você espera ser resgatado. Após combate com mercenários, resultando na morte de Glixken, você se reúne com o resto da tripulação da Bastarda de Ferro. Armados com o conhecimento adquirido na Estação Altum, vocês vão em direção a Taagmar.\n\nNavegando pelo conflito  na superfície de Taagmar disfarçados de soldados da Soberania, vocês chegam no portal no meio da capital. Agust, Erylin e o Confessor fazem um ritual para abrir o portal e você entra de fininho, junto com o resto das forças da Soberania.\n\nApós passar pelo Portal, vocês se encontram em outro planeta, sua superfície cheia de ruínas empoeiradas. As forças da Soberania se juntaram perto de um grande templo que estão tentando arrombar. Você se junta novamente ao inimigo quando conseguem acesso ao templo e descobrem um cristal brilhante chamado de A Chave."
 
     # game/choices.rpy:10
     old "Spied on Thyia masturbating."
@@ -2118,3 +2114,94 @@ translate portuguese strings:
     old "Declined to go on mission to save Nkoy Rhedia."
     new "Recusou sair em uma missão para salvar Nkoy Rhedia."
 
+# TODO: Translation updated at 2026-08-30 15:48
+
+translate portuguese strings:
+
+    # game/choices.rpy:10
+    old "Episode #25"
+    new "Episódio 25"
+
+    # game/choices.rpy:10
+    old "Return to Erigone where a battle between the Warrior and Priest caste is fought. The victorious caste joins the fight against the Sovereignty."
+    new "Voltou para Erigone, onde houve uma batalha entre as castas das Guerreiras e Sacerdotisas. A casta vitoriosa se junta à luta acontra a Soberania."
+
+    # game/choices.rpy:10
+    old "Had sex with Nadya."
+    new "Fez sexo com Nadya."
+
+    # game/choices.rpy:1.0
+    old "Ziv is pregnant with your child."
+    new "Ziv está grávida de você."
+
+    # game/choices.rpy:10
+    old "Had sex with Ziv."
+    new "Fez sexo com Ziv."
+
+    # game/choices.rpy:10
+    old "Condemned the practice of creating Brutes."
+    new "Condenou a prática de criação de Brutamontes."
+
+    # game/choices.rpy:10
+    old "Remained diplomatic about the practice of creating Brutes."
+    new "Permaneceu diplomático quanto à prática de criação de Brutamontes."
+
+    # game/choices.rpy:10
+    old "Seduced Keodele."
+    new "Seduziu Keodele."
+
+    # game/choices.rpy:10
+    old "Had sex with Rahia."
+    new "Fez sexo com Rahia."
+
+    # game/choices.rpy:10
+    old "Had sex with Keodele."
+    new "Fez sexo com Keodele."
+
+    # game/choices.rpy:10
+    old "Had sex with Eva and Raene."
+    new "Fez sexo com Eva e Raene."
+
+    # game/choices.rpy:10
+    old "Rescued Rahia."
+    new "Resgatou Rahia."
+
+    # game/choices.rpy:10
+    old "Rescued Keodele."
+    new "Resgatou Keodele."
+
+    # game/choices.rpy:10
+    old "Rescued neither Rahia nor Keodele."
+    new "Não resgatou Rahia ou Keodele."
+
+# TODO: Translation updated at 2026-09-24 11:31
+
+translate portuguese strings:
+
+    # game/choices.rpy:10
+    old "Intimidated Raene to share more information about herself."
+    new ""
+
+    # game/choices.rpy:10
+    old "Ridiculed Thim after he thanked you."
+    new ""
+
+    # game/choices.rpy:10
+    old "Refused to take Vess back on the Iron Bastard."
+    new ""
+
+    # game/choices.rpy:10
+    old "Proposed that Jade have sex with the Tyuarene official to gain access to the Theater of Senses."
+    new ""
+
+    # game/choices.rpy:10
+    old "Placated Tubloshi during negotiations."
+    new ""
+
+    # game/choices.rpy:10
+    old "Didn't placate Tubloshi during negotiations."
+    new ""
+
+    # game/choices.rpy:10
+    old "Episode #26"
+    new ""
