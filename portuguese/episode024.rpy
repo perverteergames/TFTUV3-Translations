@@ -9137,3 +9137,11 @@ translate portuguese strings:
     old "Keep your distance"
     new ""
 
+# TODO: Translation updated at 2026-10-29 12:17
+
+# game/episode024.rpy:1748
+translate portuguese ep024_hannah_sex_da0ac3b6:
+
+    # "I wanted to bury my cock deep inside her tight, wet cunt and remain in that perfect moment of bliss."
+    ""
+

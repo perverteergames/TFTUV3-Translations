@@ -2205,3 +2205,11 @@ translate portuguese strings:
     # game/choices.rpy:10
     old "Episode #26"
     new ""
+# TODO: Translation updated at 2026-10-29 12:17
+
+translate portuguese strings:
+
+    # game/choices.rpy:10
+    old "Despite losing so many months in captivity, you forge ahead to Cetruvar's party on Almagest. Infiltrating the mansion, you encounter another team of purple-clad operatives who nearly kill Cetruvar. After incapacitating them you are forced to stay the night at the mansion. The nightly hours allow you to roam the mansion more freely and a search of Cetruvar's office finally yielded the location of the Acarhyn, a planet called Erigone where a Virgin Queen now rules. After a brief gunfight, you escape the mansion and head out to Erigone."
+    new ""
+

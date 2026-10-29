@@ -2803,3 +2803,11 @@ translate portuguese extra_scene_53_d14501b6:
     # "Ziv moaned as I ran my fingers over the exposed tip of her dick."
     ""
 
+# TODO: Translation updated at 2026-10-29 12:17
+
+# game/extras.rpy:892
+translate portuguese extra_scene_53_d29274be:
+
+    # c "And I love how your tight, wet pussy makes me feel."
+    c ""
+
