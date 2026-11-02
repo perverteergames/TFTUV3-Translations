@@ -164,7 +164,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Told Thim in no uncertains terms to be respectful to Vess."
-    new "Deixou bem claro para Thim ser respeitoso com  Vess."
+    new "Deixou bem claro para Thim ser respeitoso com Vess."
 
     # game/choices.rpy:10
     old "Dismissed Nadya's attempt to reconnect."
@@ -400,7 +400,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Saw Ziv injecting Raene with something."
-    new "Viu Ziv injetando Raene com alguma coisa."
+    new "Viu Ziv injetando algo na Raene."
 
     # game/choices.rpy:10
     old "Confronted Ziv and Raene about the injections."
@@ -464,7 +464,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Apologized to Lilly about how you treated her."
-    new "Pediu desculpas a Lilly pela maneira como tratou."
+    new "Pediu desculpas a Lilly pela maneira como a tratou."
 
     # game/choices.rpy:10
     old "Asked Céline to keep your relationship a secret."
@@ -592,7 +592,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Punished Jade for asking about shooting Garomph."
-    new "Puniu Jade por perguntar sobre tiro em Garomph."
+    new "Puniu Jade por perguntar sobre o tiro em Garomph."
 
     # game/choices.rpy:10
     old "Episode #6"
@@ -1008,7 +1008,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Sided with the warrior caste on Erigone."
-    new "Ficou do lado das casta das guerreiras em Erigone."
+    new "Ficou do lado da casta das guerreiras em Erigone."
 
     # game/choices.rpy:10
     old "Sided with the priest caste on Erigone."
@@ -1048,7 +1048,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Gave Ziv a handjob."
-    new "Bateu uma punheta  na Ziv."
+    new "Bateu uma punheta na Ziv."
 
     # game/choices.rpy:10
     old "Licked Ziv's pussy."
@@ -1180,11 +1180,11 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbitting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after your friend Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
-    new "Com seu pai  participando ativamente da busca da Profecia, você decide ir a Kepler XIV onde Agust tira férias anualmente e exigir respostas. Sua mãe Yve dá a localização de Agust, um bordel exclusivo chamado Teatro dos sentidos, situado numa lua dedicada ao prazer orbitando Kepler XIV.\n\nO bordel na verdade é uma armadilha, e você é capturado por seu pai e levado para a nave que ele tomou, MTG Jaculus. Agust está atrás de sua amiga Eva e o tortura para extrair essa informação. Quando Eva e a tripulação escapam por pouco de serem capturados, seu pai o joga para fora da escotilha como sacrifício para uma espécie chamada Scolguin, que aparentemente pode contar mais para ele sobre a Profecia."
+    new "Com seu pai participando ativamente da busca pela Profecia, você decide ir a Kepler XIV onde Agust tira férias anualmente e exigir respostas. Sua mãe Yve dá a localização de Agust, um bordel exclusivo chamado Teatro dos sentidos, situado numa lua dedicada ao prazer orbitando Kepler XIV.\n\nO bordel na verdade é uma armadilha, e você é capturado por seu pai e levado para a nave que ele tomou, MTG Jaculus. Agust está atrás de sua amiga Eva e o tortura para extrair essa informação. Quando Eva e a tripulação escapam por pouco de serem capturados, seu pai o joga para fora da escotilha como sacrifício para uma espécie chamada Scolguin, que aparentemente pode contar mais para ele sobre a Profecia."
 
     # game/choices.rpy:10
     old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbitting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after his daughter Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
-    new "Com seu pai  participando ativamente da busca da Profecia, você decide ir a Kepler XIV onde Agust tira férias anualmente e exigir respostas. Sua mãe Yve dá a localização de Agust, um bordel exclusivo chamado Teatro dos sentidos, situado numa lua dedicada ao prazer orbitando Kepler XIV.\n\nO bordel na verdade é uma armadilha, e você é capturado por seu pai e levado para a nave dele, MTG Jaculus. Agust está atrás da filha Eva e o tortura para extrair essa informação. Quando Eva e a tripulação escapam por pouco de serem capturados, seu pai o joga para fora da escotilha como sacrifício para uma espécie chamada Scolguin, que aparentemente pode contar mais para ele sobre a Profecia."
+    new "Com seu pai participando ativamente da busca pela Profecia, você decide ir a Kepler XIV onde Agust tira férias anualmente e exigir respostas. Sua mãe Yve dá a localização de Agust, um bordel exclusivo chamado Teatro dos sentidos, situado numa lua dedicada ao prazer orbitando Kepler XIV.\n\nO bordel na verdade é uma armadilha, e você é capturado por seu pai e levado para a nave dele, MTG Jaculus. Agust está atrás da filha Eva e o tortura para extrair essa informação. Quando Eva e a tripulação escapam por pouco de serem capturados, seu pai o joga para fora da escotilha como sacrifício para uma espécie chamada Scolguin, que aparentemente pode contar mais para ele sobre a Profecia."
 
     # game/choices.rpy:10
     old "Embraced Nadya after her wishing you good luck."
@@ -1320,7 +1320,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Declared your love to Vess while she was in the brig."
-    new "Declarou o Seu Amor Pela Vess quando ela estava na prisão."
+    new "Declarou o seu amor a Vess quando ela estava na prisão."
 
     # game/choices.rpy:10
     old "Made Vess your servant."
@@ -1492,7 +1492,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Broke up with Jade following your actions regarding the followers of Nkoy Rhedia."
-    new "Terminou com Jade Seguindo suas ações quanto às seguidoras da Nkoy Rhedia."
+    new "Terminou com Jade após suas ações quanto às seguidoras da Nkoy Rhedia."
 
     # game/choices.rpy:10
     old "Engaged in piss play with Jade."
@@ -1528,7 +1528,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Made a deal with the Scolguin Queen to let her have access to your memories."
-    new "Fez um acordo com Rainha Scolguin para deixar que acesse suas memórias."
+    new "Fez um acordo com Rainha Scolguin para permitir que ela acesse suas memórias."
 
     # game/choices.rpy:10
     old "Supplicant’s Stone"
@@ -1536,7 +1536,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Let Nadya become the subject of the deal with the Scolguin Queen, allowing her access to Nadya's memories."
-    new "Deixou que a Rainha Scolguin tivesser acesso acesso às memórias da dela."
+    new "Deixou Nadya como parte principal do acordo com a Rainha Scolguin, permitindo que acesso às memórias de Nadya."
 
     # game/choices.rpy:10
     old "Fucked the Scolguin prisoner."
@@ -1588,7 +1588,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Alone with Eva on the desert planet you wait for rescue. After a skirmish with the mercs, resulting in the killing of Glixken, you and the rest of the crew of the Iron Bastard are reunited. Armed with the knowledge gathered on Altum Station, you head out to Taagmar.\n\nNavigating the conflict on Taagmar's surface, disguised as Sovereignty soldiers, you reach the gateway in the middle of the capital. Agust, Erylin and the Confessor perform a ritual to open the gateway and you slip through, together with the rest of the Sovereignty forces.\n\nAfter passing the gate you're on another planet, its surface filled with dusty ruins. The Sovereignty forces are centered near a large temple which they attempt to breach. You rejoined the enemy when the gained access to the temple and found a large glowing crystal called the Key."
-    new "A sós com Eva em um planeta desconhecido, você espera ser resgatado. Após combate com mercenários, resultando na morte de Glixken, você se reúne com o resto da tripulação da Bastarda de Ferro. Armados com o conhecimento adquirido na Estação Altum, vocês vão em direção a Taagmar.\n\nNavegando pelo conflito  na superfície de Taagmar disfarçados de soldados da Soberania, vocês chegam no portal no meio da capital. Agust, Erylin e o Confessor fazem um ritual para abrir o portal e você entra de fininho, junto com o resto das forças da Soberania.\n\nApós passar pelo Portal, vocês se encontram em outro planeta, sua superfície cheia de ruínas empoeiradas. As forças da Soberania se juntaram perto de um grande templo que estão tentando arrombar. Você se junta novamente ao inimigo quando conseguem acesso ao templo e descobrem um cristal brilhante chamado de A Chave."
+    new "A sós com Eva em um planeta desconhecido, você espera ser resgatado. Após combate com mercenários, resultando na morte de Glixken, você se reúne com o resto da tripulação da Bastarda de Ferro. Armados com o conhecimento adquirido na Estação Altum, vocês vão em direção a Taagmar.\n\nNavegando pelo conflito na superfície de Taagmar disfarçados de soldados da Soberania, vocês chegam no portal no meio da capital. Agust, Erylin e o Confessor fazem um ritual para abrir o portal e você entra de fininho, junto com o resto das forças da Soberania.\n\nApós passar pelo Portal, vocês se encontram em outro planeta, sua superfície cheia de ruínas empoeiradas. As forças da Soberania se juntaram perto de um grande templo que estão tentando arrombar. Você se junta novamente ao inimigo quando conseguem acesso ao templo e descobrem um cristal brilhante chamado de A Chave."
 
     # game/choices.rpy:10
     old "Let Thyia kill Glixken."
@@ -1704,7 +1704,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Thim deserted the crew."
-    new "Thim desertou a tripulação."
+    new "Thim desertou da tripulação."
 
     # game/choices.rpy:10
     old "Used stealth to sneak into the base on Aretine."
@@ -1868,7 +1868,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Told Thim in no uncertain terms to be respectful to Vess."
-    new "Deixou bem claro para Thim ser respeitoso com  Vess."
+    new "Deixou bem claro para Thim ser respeitoso com Vess."
 
     # game/choices.rpy:10
     old "Meeting with geneticist Karan Hreir, who asks you to hunt for a boverin egg on Sagueliath. During your stay on Verdant Station, Ziv asks you to rescue Raene from her father on Verdigris. Possible visit to a rustic simulation for a corporation called ConVitæ."
@@ -1920,11 +1920,11 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after your friend Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
-    new "Com seu pai  participando ativamente da busca da Profecia, você decide ir a Kepler XIV onde Agust tira férias anualmente e exigir respostas. Sua mãe Yve dá a localização de Agust, um bordel exclusivo chamado Teatro dos sentidos, situado numa lua dedicada ao prazer orbitando Kepler XIV.\n\nO bordel na verdade é uma armadilha, e você é capturado por seu pai e levado para a nave que ele tomou, MTG Jaculus. Agust está atrás de sua amiga Eva e o tortura para extrair essa informação. Quando Eva e a tripulação escapam por pouco de serem capturados, seu pai o joga para fora da escotilha como sacrifício para uma espécie chamada Scolguin, que aparentemente pode contar mais para ele sobre a Profecia."
+    new "Com seu pai participando ativamente da busca da Profecia, você decide ir a Kepler XIV onde Agust tira férias anualmente e exigir respostas. Sua mãe Yve dá a localização de Agust, um bordel exclusivo chamado Teatro dos sentidos, situado numa lua dedicada ao prazer orbitando Kepler XIV.\n\nO bordel na verdade é uma armadilha, e você é capturado por seu pai e levado para a nave que ele tomou, MTG Jaculus. Agust está atrás de sua amiga Eva e o tortura para extrair essa informação. Quando Eva e a tripulação escapam por pouco de serem capturados, seu pai o joga para fora da escotilha como sacrifício para uma espécie chamada Scolguin, que aparentemente pode contar mais para ele sobre a Profecia."
 
     # game/choices.rpy:10
     old "With your father being an active player in the pursuit of the Prophecy, you decide to go to Kepler XIV where Agust vacations annually and demand answers from him. Your mother Yve provides you with the location of Agust, an exclusive brothel called the Theater of Senses, situated on a pleasure moon orbiting Kepler XIV.\n\nThe brothel turns out to be a trap and you are captured by your father and taken to his commandeered ship, the TGN Jaculus. Agust is after his daughter Eva and tortures you to give up the information. After Eva and the rest of the crew narrowly avoid capture, your father throws you out of an airlock as a sacrifice to a species called the Scolguin, who supposedly can tell him more about the Prophecy."
-    new "Com seu pai  participando ativamente da busca da Profecia, você decide ir a Kepler XIV onde Agust tira férias anualmente e exigir respostas. Sua mãe Yve dá a localização de Agust, um bordel exclusivo chamado Teatro dos sentidos, situado numa lua dedicada ao prazer orbitando Kepler XIV.\n\nO bordel na verdade é uma armadilha, e você é capturado por seu pai e levado para a nave dele, MTG Jaculus. Agust está atrás da filha Eva e o tortura para extrair essa informação. Quando Eva e a tripulação escapam por pouco de serem capturados, seu pai o joga para fora da escotilha como sacrifício para uma espécie chamada Scolguin, que aparentemente pode contar mais para ele sobre a Profecia."
+    new "Com seu pai participando ativamente da busca da Profecia, você decide ir a Kepler XIV onde Agust tira férias anualmente e exigir respostas. Sua mãe Yve dá a localização de Agust, um bordel exclusivo chamado Teatro dos sentidos, situado numa lua dedicada ao prazer orbitando Kepler XIV.\n\nO bordel na verdade é uma armadilha, e você é capturado por seu pai e levado para a nave dele, MTG Jaculus. Agust está atrás da filha Eva e o tortura para extrair essa informação. Quando Eva e a tripulação escapam por pouco de serem capturados, seu pai o joga para fora da escotilha como sacrifício para uma espécie chamada Scolguin, que aparentemente pode contar mais para ele sobre a Profecia."
 
     # game/choices.rpy:10
     old "Gave one of the Tyuarene anal."
@@ -1936,7 +1936,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Alone with Eva on the desert planet you wait for rescue. After a skirmish with the mercs, resulting in the killing of Glixken, you and the rest of the crew of the Iron Bastard are reunited. Armed with the knowledge gathered on Altum Station, you head out to Taagmar.\n\nNavigating the conflict on Taagmar's surface, disguised as Sovereignty soldiers, you reach the gateway in the middle of the capital. Agust, Erylin and the Confessor perform a ritual to open the gateway and you slip through, together with the rest of the Sovereignty forces.\n\nAfter passing the gate you're on another planet, its surface filled with dusty ruins. The Sovereignty forces are centered near a large temple which they attempt to breach. You rejoin the enemy as they gain access to the temple and find a large glowing crystal called the Key."
-    new "A sós com Eva em um planeta desconhecido, você espera ser resgatado. Após combate com mercenários, resultando na morte de Glixken, você se reúne com o resto da tripulação da Bastarda de Ferro. Armados com o conhecimento adquirido na Estação Altum, vocês vão em direção a Taagmar.\n\nNavegando pelo conflito  na superfície de Taagmar disfarçados de soldados da Soberania, vocês chegam no portal no meio da capital. Agust, Erylin e o Confessor fazem um ritual para abrir o portal e você entra de fininho, junto com o resto das forças da Soberania.\n\nApós passar pelo Portal, vocês se encontram em outro planeta, sua superfície cheia de ruínas empoeiradas. As forças da Soberania se juntaram perto de um grande templo que estão tentando arrombar. Você se junta novamente ao inimigo quando conseguem acesso ao templo e descobrem um cristal brilhante chamado de A Chave."
+    new "A sós com Eva em um planeta desconhecido, você espera ser resgatado. Após combate com mercenários, resultando na morte de Glixken, você se reúne com o resto da tripulação da Bastarda de Ferro. Armados com o conhecimento adquirido na Estação Altum, vocês vão em direção a Taagmar.\n\nNavegando pelo conflito na superfície de Taagmar disfarçados de soldados da Soberania, vocês chegam no portal no meio da capital. Agust, Erylin e o Confessor fazem um ritual para abrir o portal e você entra de fininho, junto com o resto das forças da Soberania.\n\nApós passar pelo Portal, vocês se encontram em outro planeta, sua superfície cheia de ruínas empoeiradas. As forças da Soberania se juntaram perto de um grande templo que estão tentando arrombar. Você se junta novamente ao inimigo quando conseguem acesso ao templo e descobrem um cristal brilhante chamado de A Chave."
 
     # game/choices.rpy:10
     old "Spied on Thyia masturbating."
@@ -2124,7 +2124,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Return to Erigone where a battle between the Warrior and Priest caste is fought. The victorious caste joins the fight against the Sovereignty."
-    new "Voltou para Erigone, onde houve uma batalha entre as castas das Guerreiras e Sacerdotisas. A casta vitoriosa se junta à luta acontra a Soberania."
+    new "Voltou para Erigone, onde houve uma batalha entre as castas das Guerreiras e Sacerdotisas. A casta vitoriosa se junta à luta contra a Soberania."
 
     # game/choices.rpy:10
     old "Had sex with Nadya."
@@ -2172,7 +2172,7 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Rescued neither Rahia nor Keodele."
-    new "Não resgatou Rahia ou Keodele."
+    new "Não resgatou Rahia nem Keodele."
 
 # TODO: Translation updated at 2026-09-24 11:31
 
@@ -2180,36 +2180,44 @@ translate portuguese strings:
 
     # game/choices.rpy:10
     old "Intimidated Raene to share more information about herself."
-    new ""
+    new "Intimidou Raene a compartilhar mais informações sobre ela."
 
     # game/choices.rpy:10
     old "Ridiculed Thim after he thanked you."
-    new ""
+    new "Fez chacota de Thim após ele o agradecer."
 
     # game/choices.rpy:10
     old "Refused to take Vess back on the Iron Bastard."
-    new ""
+    new "Recusou-se a levar Vess de volta na Bastarda de Ferro."
 
     # game/choices.rpy:10
     old "Proposed that Jade have sex with the Tyuarene official to gain access to the Theater of Senses."
-    new ""
+    new "Propôs que Jade que fizesse sexo com a oficial Tyuarene para conseguir acessar o Teatro dos Sentidos."
 
     # game/choices.rpy:10
     old "Placated Tubloshi during negotiations."
-    new ""
+    new "Acalmou os Tubloshi durante as negociações."
 
     # game/choices.rpy:10
     old "Didn't placate Tubloshi during negotiations."
-    new ""
+    new "Não acalmou os Tubloshi durante as negociações."
 
     # game/choices.rpy:10
     old "Episode #26"
-    new ""
+    new "Episódio 26"
 # TODO: Translation updated at 2026-10-29 12:17
 
 translate portuguese strings:
 
     # game/choices.rpy:10
     old "Despite losing so many months in captivity, you forge ahead to Cetruvar's party on Almagest. Infiltrating the mansion, you encounter another team of purple-clad operatives who nearly kill Cetruvar. After incapacitating them you are forced to stay the night at the mansion. The nightly hours allow you to roam the mansion more freely and a search of Cetruvar's office finally yielded the location of the Acarhyn, a planet called Erigone where a Virgin Queen now rules. After a brief gunfight, you escape the mansion and head out to Erigone."
+    new "Apesar de perder tantos meses em cativeiro, você segue em frente para a festa de Cetruvar em Almagest. Ao se infiltrar na mansão, encontra outra equipe de agentes vestidos de roxo que quase matam Cetruvar. Após incapacitá-los, você é forçado a passar a noite lá. A calada da noite permite vasculhar o lugar com mais calma, e uma busca no escritório de Cetruvar finalmente revela a localização das Acarhyn: um planeta chamado Erigone, agora governado por uma Rainha Virgem. Após uma rápida troca de tiros, você escapa da mansão e segue para Erigone."
+
+# TODO: Translation updated at 2026-11-02 12:03
+
+translate portuguese strings:
+
+    # game/choices.rpy:10
+    old "Placated the Tubloshi during negotiations."
     new ""
 

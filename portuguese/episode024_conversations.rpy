@@ -118,7 +118,7 @@ translate portuguese ep024_celine_talk_208c6999:
 translate portuguese ep024_celine_talk_4e7445bc:
 
     # c "I’m going to use the comms to broadcast it to the universe in a bit."
-    c "Daqui a pouco eu vou  anunciar no comunicador da nave para o universo ficar sabendo."
+    c "Daqui a pouco eu vou anunciar no comunicador da nave para o universo ficar sabendo."
 
 # game/episode024_conversations.rpy:83
 translate portuguese ep024_celine_talk_cf1fbad7:
@@ -250,7 +250,7 @@ translate portuguese ep024_celine_talk_4e8c7062:
 translate portuguese ep024_celine_talk_923abdc1:
 
     # c "But don’t stretch yourself too thin."
-    c "Mas não vai exagerar,  viu. "
+    c "Mas não vai exagerar, viu."
 
 # game/episode024_conversations.rpy:113
 translate portuguese ep024_celine_talk_d19cf212:
@@ -916,13 +916,13 @@ translate portuguese ep024_na_av_sex_e51f3418:
 translate portuguese ep024_na_av_sex_7585fb56:
 
     # na "Imagine your fingers are your brother’s cock."
-    na "Imagina os seus dedos no pau do seu irmão."
+    na "Imagina que os seus dedos são pau do seu irmão."
 
 # game/episode024_conversations.rpy:313
 translate portuguese ep024_na_av_sex_05df38ae:
 
     # na "Imagine your fingers are [p_name_short]’s cock."
-    na "Imagina os seus dedos no pau do [p_name_short]."
+    na "Imagina que os seus dedos são o do [p_name_short]."
 
 # game/episode024_conversations.rpy:315
 translate portuguese ep024_na_av_sex_71c7fa6c:
@@ -940,7 +940,7 @@ translate portuguese ep024_na_av_sex_bf70b724:
 translate portuguese ep024_na_av_sex_29746725:
 
     # av "I want him to fuck me hard."
-    av "Eu quero que ele coma gostoso."
+    av "Eu quero que ele me coma gostoso."
 
 # game/episode024_conversations.rpy:319
 translate portuguese ep024_na_av_sex_8e1f9b03:
@@ -976,7 +976,7 @@ translate portuguese ep024_na_av_sex_7724cab9:
 translate portuguese ep024_na_av_sex_0ed092b4:
 
     # c "I think I even heard someone moaning my name."
-    c "Acho que até eu ouvi alguém gemendo meu nome."
+    c "Acho que até ouvi alguém gemendo meu nome."
 
 # game/episode024_conversations.rpy:328
 translate portuguese ep024_na_av_sex_44568427:
@@ -1372,7 +1372,7 @@ translate portuguese ep024_na_av_sex_2b7325bc:
 translate portuguese ep024_na_av_sex_6144570b:
 
     # "Balancing on the bench, I began to fuck my mother with steady thrusts."
-    "Me equilibrando no banco, eu comecei a enfiar na mãe com um ritmo constante."
+    "Me equilibrando no banco, eu comecei a meter na mãe com um ritmo constante."
 
 # game/episode024_conversations.rpy:458
 translate portuguese ep024_na_av_sex_5c16cc5f:
@@ -1396,7 +1396,7 @@ translate portuguese ep024_na_av_sex_ef5e8a0b:
 translate portuguese ep024_na_av_sex_b6fc23f8:
 
     # "I tried to fuck her harder and saw my mother’s ass bounce as I slammed into her with increasing ferociousness."
-    "Eu tentei meter mais forte e vi a bunda da mãe balançando quando eu batia com força na sua bunda."
+    "Eu tentei meter mais forte e vi a bunda da mãe balançando quando eu batia com força contra ela."
 
 # game/episode024_conversations.rpy:465
 translate portuguese ep024_na_av_sex_bfce8043:
@@ -1498,7 +1498,7 @@ translate portuguese ep024_na_av_sex_a9d2ad71:
 translate portuguese ep024_na_av_sex_b3de7264:
 
     # "I already knew I wanted to finish inside Aven."
-    "Eu já sabia que queria gozar dentro da minha Aven."
+    "Eu já sabia que queria gozar dentro da Aven."
 
 # game/episode024_conversations.rpy:500
 translate portuguese ep024_na_av_sex_d8d959b1:
@@ -1522,7 +1522,7 @@ translate portuguese ep024_na_av_sex_e36803af:
 translate portuguese ep024_na_av_sex_1ca359b7:
 
     # "I could feel we were both close and began a series of short hard thrusts."
-    "Eu senti que estávamos perto de gozar, enfiando com movimentos curtos fortes."
+    "Eu senti que estávamos perto de gozar, enfiando com movimentos curtos e fortes."
 
 # game/episode024_conversations.rpy:507
 translate portuguese ep024_na_av_sex_2f5de31d:
@@ -1654,7 +1654,7 @@ translate portuguese ep024_na_av_sex_e36803af_1:
 translate portuguese ep024_na_av_sex_1ca359b7_1:
 
     # "I could feel we were both close and began a series of short hard thrusts."
-    "Eu senti que estávamos perto de gozar, enfiando com movimentos curtos fortes."
+    "Eu senti que estávamos perto de gozar, enfiando com movimentos curtos e fortes."
 
 # game/episode024_conversations.rpy:554
 translate portuguese ep024_na_av_sex_d649131f:
@@ -1990,7 +1990,7 @@ translate portuguese ep024_na_av_climax_6544e461:
 translate portuguese ep024_na_av_climax_2bd2c266:
 
     # av "That’s how you make a slut of mom!"
-    av "É assim que se faz a Mãe virar uma puta!"
+    av "É assim que se faz a mãe virar uma puta!"
 
 # game/episode024_conversations.rpy:672
 translate portuguese ep024_na_av_climax_53956d37:
@@ -2318,7 +2318,7 @@ translate portuguese ep024_na_av_fucking_ef5e8a0b:
 translate portuguese ep024_na_av_fucking_b6fc23f8:
 
     # "I tried to fuck her harder and saw my mother’s ass bounce as I slammed into her with increasing ferociousness."
-    "Eu tentei meter mais forte e vi a bunda da mãe balançando quando eu batia com força na sua bunda."
+    "Eu tentei meter mais forte e vi a bunda da mãe balançando quando eu batia com força contra ela."
 
 # game/episode024_conversations.rpy:475
 translate portuguese ep024_na_av_fucking_bfce8043:
@@ -2444,7 +2444,7 @@ translate portuguese ep024_na_av_fucking_e36803af:
 translate portuguese ep024_na_av_fucking_1ca359b7:
 
     # "I could feel we were both close and began a series of short hard thrusts."
-    "Eu senti que estávamos perto de gozar, enfiando com movimentos curtos fortes."
+    "Eu senti que estávamos perto de gozar, enfiando com movimentos curtos e fortes."
 
 # game/episode024_conversations.rpy:518
 translate portuguese ep024_na_av_fucking_2f5de31d:
@@ -2576,7 +2576,7 @@ translate portuguese ep024_na_av_fucking_e36803af_1:
 translate portuguese ep024_na_av_fucking_1ca359b7_1:
 
     # "I could feel we were both close and began a series of short hard thrusts."
-    "Eu senti que estávamos perto de gozar, enfiando com movimentos curtos fortes."
+    "Eu senti que estávamos perto de gozar, enfiando com movimentos curtos e fortes."
 
 # game/episode024_conversations.rpy:565
 translate portuguese ep024_na_av_fucking_d649131f:
@@ -2830,7 +2830,7 @@ translate portuguese ep024_na_av_fucking_bd8f0326:
 translate portuguese ep024_na_av_fucking_a8bb0bee:
 
     # av "Now cum inside Mom!"
-    av "Agora goza dentro da Mãe!"
+    av "Agora goza dentro da mãe!"
 
 # TODO: Translation updated at 2026-08-30 15:48
 
@@ -2858,5 +2858,5 @@ translate portuguese ep024_na_av_sex_2e7892c9:
 translate portuguese ep024_na_av_sex_c0437bb8:
 
     # "They covered my dick in their saliva, a warm, wet mess."
-    ""
+    "Elas melaram meu pau de saliva, numa lambança quente e molhada."
 

@@ -16,7 +16,7 @@ translate portuguese ep025_erigone_sermon_c23c10ed:
 translate portuguese ep025_erigone_thyia_eb76d642:
 
     # "A call rounding up all available troops roused us from our cuddling."
-    "Uma chamada a todas tropas disponíveis nos acordou do nosso abraço."
+    "Uma chamada a todas as tropas disponíveis nos acordou do nosso abraço."
 
 # TODO: Translation updated at 2026-08-30 15:48
 
@@ -96,7 +96,7 @@ translate portuguese episode025_9c06534a:
 translate portuguese episode025_92474673:
 
     # e "We thank you."
-    e "Estamos agradecidos."
+    e "Agradecemos."
 
 # game/episode025.rpy:91
 translate portuguese episode025_f5627722:
@@ -126,7 +126,7 @@ translate portuguese episode025_248fa3d5:
 translate portuguese episode025_8871399a:
 
     # c "It seems Rahia has survived whatever war they’ve been fighting with the Priest caste so far."
-    c "Parece que a Rahia sobreviveu a guerra que elas lutaram com as Sacerdotisas."
+    c "Parece que a Rahia sobreviveu à guerra que elas lutaram com as Sacerdotisas."
 
 # game/episode025.rpy:100
 translate portuguese episode025_8184c7e4:
@@ -300,7 +300,7 @@ translate portuguese episode025_dfab6f02:
 translate portuguese episode025_a50c9c26:
 
     # "The Citadel and immediate environs were deemed safe and its border patrolled heavily."
-    "A Cidadela e seus arredores eram seguras, e sua fronteira tinha forte patrulha."
+    "A Cidadela e seus arredores eram considerados seguros, e sua fronteira tinha forte patrulha."
 
 # game/episode025.rpy:143
 translate portuguese episode025_69d45064:
@@ -336,7 +336,7 @@ translate portuguese episode025_dfab6f02_1:
 translate portuguese episode025_4be7fe43:
 
     # "The Shipyards and immediate environs were deemed safe and its border patrolled heavily."
-    "As docas e seus arredores eram seguras, e sua fronteira tinha forte patrulha."
+    "As Docas e seus arredores considerados seguros, e sua fronteira tinha forte patrulha."
 
 # game/episode025.rpy:151
 translate portuguese episode025_aceb520b:
@@ -426,7 +426,7 @@ translate portuguese ep025_erigone_rahia_1788fd64:
 translate portuguese ep025_erigone_rahia_798dce2f:
 
     # rah "After your departure, there were months of heavy fighting where we managed to recapture the Citadel."
-    rah "Após sua partida, houveram meses de intensas batalhas, e conseguimos recapturar a Cidadela."
+    rah "Após sua partida, conseguimos recapturar a Cidadela depois de meses de intensas batalhas."
 
 # game/episode025.rpy:210
 translate portuguese ep025_erigone_rahia_775057aa:
@@ -522,7 +522,7 @@ translate portuguese ep025_erigone_rahia_72424132:
 translate portuguese ep025_erigone_rahia_d814d3c3:
 
     # rah "It’s been a while since the last attack, but intelligence suggests that they’re gearing up for a large strike soon."
-    rah "Faz um tempo desde o último ataque, mas nossa inteligência sugere que estão preparando para um forte ataque em breve."
+    rah "Faz um tempo desde o último ataque, mas nossa inteligência sugere que estão se preparando para um forte em larga escala em breve."
 
 # game/episode025.rpy:237
 translate portuguese ep025_erigone_rahia_280dc0a5:
@@ -594,7 +594,7 @@ translate portuguese ep025_erigone_rahia_d609384e:
 translate portuguese ep025_erigone_rahia_d8cf8a15:
 
     # rah "The majority are prisoners and the local populace, by my reports."
-    rah "A maioria é de prisioneiras locais, de acordo com os meus relatórios."
+    rah "A maioria é de prisioneiras e da população local, de acordo com os meus relatórios."
 
 # game/episode025.rpy:256
 translate portuguese ep025_erigone_rahia_302e366a:
@@ -690,7 +690,7 @@ translate portuguese ep025_erigone_rahia_e57aa939:
 translate portuguese ep025_erigone_rahia_baa4623e:
 
     # rah "She died of blood poisoning within hours after the cut became infected."
-    rah "Ela morreu de infeção sanguínea horas depois do corte infeccionar."
+    rah "Ela morreu de infecção sanguínea horas depois do corte infeccionar."
 
 # game/episode025.rpy:281
 translate portuguese ep025_erigone_rahia_32f27d87:
@@ -720,13 +720,13 @@ translate portuguese ep025_erigone_rahia_93b1c5b5:
 translate portuguese ep025_erigone_rahia_d37e9228:
 
     # rah "The Citadel has staved off the attacks from the Priest caste so far and I’m confident we’ll do so again."
-    rah "A Cidadela defendeu contra ataques das Sacerdotisas até agora, e estou confiante que vamos fazer de novo."
+    rah "A Cidadela resistiu contra ataques das Sacerdotisas até agora, e estou confiante que vamos fazer de novo."
 
 # game/episode025.rpy:300
 translate portuguese ep025_erigone_rahia_bfdda158:
 
     # rah "You’re safe within the walls of the Citadel, but I urge Your Majesty to evacuate as soon as the tide of battle turns against us."
-    rah "Vocês estão seguros dentro da Cidadela, mas peço que Vossa Majestade Evacue assim que começarmos a perder."
+    rah "Vocês estão seguros dentro da Cidadela, mas peço que Vossa Majestade evacue assim que parecer que vamos perder."
 
 # game/episode025.rpy:305
 translate portuguese ep025_erigone_rahia_2e8a5fe0:
@@ -852,7 +852,7 @@ translate portuguese ep025_erigone_rahia_2c8f8589:
 translate portuguese ep025_erigone_rahia_0026b10c:
 
     # rah "I will say this though, as long as the civil war on Erigone has not been resolved, I don’t see how we can make a meaningful contribution to a possible war effort."
-    rah "Mas vou dizer isso, enquanto　essa guerra civil em Erigone continuar, não sei como podemos contribuir muito numa possível guerra."
+    rah "Mas vou dizer isso, enquanto essa guerra civil em Erigone continuar, não sei como podemos contribuir muito numa possível guerra."
 
 # game/episode025.rpy:350
 translate portuguese ep025_erigone_rahia_24366554:
@@ -888,13 +888,13 @@ translate portuguese ep025_erigone_keodele_2512af87:
 translate portuguese ep025_erigone_keodele_dcc5a8d8:
 
     # "All personnel were clearly briefed on our arrival and we were not stopped once."
-    "Estava aparente que todas as funcionárias já sabiam da nossa chega, e não nos pararam uma vez."
+    "Estava aparente que todas as funcionárias já sabiam da nossa chegada, e não nos pararam uma vez."
 
 # game/episode025.rpy:369
 translate portuguese ep025_erigone_keodele_d12a78ea:
 
     # "A contingent of priests was waiting for us in one of the hangar bays, Keodele in front."
-    "Um grupo de sacerdotisa estava esperando numa das baías do hangar, com Keodele na frente."
+    "Um grupo de sacerdotisas estava esperando numa das baías do hangar, com Keodele na frente."
 
 # game/episode025.rpy:370
 translate portuguese ep025_erigone_keodele_0241d947:
@@ -918,7 +918,7 @@ translate portuguese ep025_erigone_keodele_46748f57:
 translate portuguese ep025_erigone_keodele_43757ceb:
 
     # keo "We are once more honored by Your Presence."
-    keo "Estamos novamente honrada com Sua Presença."
+    keo "Estamos novamente honradas por Vossa Presença."
 
 # game/episode025.rpy:376
 translate portuguese ep025_erigone_keodele_2446e0e4:
@@ -1026,7 +1026,7 @@ translate portuguese ep025_erigone_keodele_a8cdd9ea:
 translate portuguese ep025_erigone_keodele_395ec5e6:
 
     # keo "It’s my hope that you will personally attend one of the Holy Sermons."
-    keo "Espero que atenda pessoalmente um dos Sermões Sagrados."
+    keo "Espero que possa assistir pessoalmente um dos Sermões Sagrados."
 
 # game/episode025.rpy:413
 translate portuguese ep025_erigone_keodele_1cc98dda:
@@ -1044,7 +1044,7 @@ translate portuguese ep025_erigone_keodele_628dd240:
 translate portuguese ep025_erigone_keodele_a1449ba2:
 
     # e "We’d be honored to attend one of your sermons."
-    e "Ficaríamos honrados em participar de um de seus sermões."
+    e "Seria uma honra participarmos de um de seus sermões."
 
 # game/episode025.rpy:421
 translate portuguese ep025_erigone_keodele_841d4507:
@@ -1068,7 +1068,7 @@ translate portuguese ep025_erigone_keodele_ab3cd007:
 translate portuguese ep025_erigone_keodele_92474673:
 
     # e "We thank you."
-    e "Estamos agradecidos."
+    e "Agradecemos."
 
 # game/episode025.rpy:429
 translate portuguese ep025_erigone_keodele_f6beabc6:
@@ -1086,7 +1086,7 @@ translate portuguese ep025_erigone_keodele_6f29973e:
 translate portuguese ep025_erigone_keodele_19169806:
 
     # e "There’s a war brewing between the Sovereignty and the rest of the known universe and without a strong coalition to oppose them, the outcome looks grim."
-    e "Existe uma guerra entre a Soberania e o resto universo, e sem uma aliança poderosa, o futuro não parece nada legal."
+    e "Existe uma guerra entre a Soberania e o resto do universo, e sem uma aliança poderosa, o futuro não parece nada legal."
 
 # game/episode025.rpy:433
 translate portuguese ep025_erigone_keodele_0869fac6:
@@ -1248,7 +1248,7 @@ translate portuguese ep025_erigone_council_b60275a7:
 translate portuguese ep025_erigone_council_7a1879c7:
 
     # "All the gathered officers nodded in assent and looked at Eva to give her final approval."
-    "Todo o comando assentou e olhou para Eva, aguardando sua aprovação final."
+    "Todo o comando assentiu e olhou para Eva, aguardando sua aprovação final."
 
 # game/episode025.rpy:493
 translate portuguese ep025_erigone_council_1ed32b1d:
@@ -1266,7 +1266,7 @@ translate portuguese ep025_erigone_council_b5596d49:
 translate portuguese ep025_erigone_council_2e27981a:
 
     # e "And we are certain the Warrior caste will prevail and that together we will be able to usher our nation into a time of peace and prosperity."
-    e "E estamos certos que a casta das Guerreiras vencerá e que juntos poderemos levar nossa nação a uma era de paz e prosperidade."
+    e "E temos certeza que a casta das Guerreiras vencerá e que juntas poderemos levar nossa nação a uma era de paz e prosperidade."
 
 # game/episode025.rpy:496
 translate portuguese ep025_erigone_council_d47322eb:
@@ -1374,7 +1374,7 @@ translate portuguese ep025_erigone_council_5379db5b:
 translate portuguese ep025_erigone_council_51135858:
 
     # rah "With Erigone still divided in civil war, we cannot afford to focus our efforts on two fronts."
-    rah "Com Erigone ainda dividida por uma guerra civil, não podemos nos focar em duas frontes."
+    rah "Com Erigone ainda dividida por uma guerra civil, não podemos nos focar em duas frentes."
 
 # game/episode025.rpy:528
 translate portuguese ep025_erigone_council_fbad2743:
@@ -1392,7 +1392,7 @@ translate portuguese ep025_erigone_council_1d74edfc:
 translate portuguese ep025_erigone_council_0c20ed5c:
 
     # rah "We will strike divisively and end this conflict in one fell swoop, after which all of Erigon’s military might will be available to the alliance."
-    rah "Vamos fazer um ataque definitivo e acabar de vez com esse conflito. Depois disso, o poderio militar de Erigone estará disponível à aliança. "
+    rah "Vamos fazer um ataque definitivo e acabar de vez com esse conflito. Depois disso, o poderio militar de Erigone estará disponível à aliança."
 
 # game/episode025.rpy:535
 translate portuguese ep025_erigone_council_92474673:
@@ -1518,7 +1518,7 @@ translate portuguese ep025_erigone_council_20d59369:
 translate portuguese ep025_erigone_council_c14aca59:
 
     # "Bickering good-naturedly, we headed back to Eva’s quarters."
-    "Ainda em tom de brincadeira, voltamos aposentos da Eva."
+    "Ainda em tom de brincadeira, voltamos aos aposentos da Eva."
 
 # game/episode025.rpy:575
 translate portuguese ep025_erigone_council_7207060f:
@@ -1560,7 +1560,7 @@ translate portuguese ep025_erigone_sermon_ead6a6e6:
 translate portuguese ep025_erigone_sermon_12968fba:
 
     # e "We are pleased to attend your sermon, High Priestess."
-    e "Estamos felizes de atender seu sermão, Sacerdotisa Chefe."
+    e "Estamos felizes em assistir seu sermão, Sacerdotisa Chefe."
 
 # game/episode025.rpy:594
 translate portuguese ep025_erigone_sermon_f374e906:
@@ -1572,7 +1572,7 @@ translate portuguese ep025_erigone_sermon_f374e906:
 translate portuguese ep025_erigone_sermon_b446359f:
 
     # "I could tell she was paving the way for something and considering the rapt attention of her audience, she was succeeding."
-    "Estava aparente que ela estava se preparando para alguma coisa, e considerando a completa atenção do publico, estava conseguindo."
+    "Estava aparente que ela estava se preparando para alguma coisa, e considerando a completa atenção do público, estava conseguindo."
 
 # game/episode025.rpy:597
 translate portuguese ep025_erigone_sermon_ff29d223:
@@ -1638,7 +1638,7 @@ translate portuguese ep025_erigone_sermon_40deaa3a:
 translate portuguese ep025_erigone_sermon_edbf7904:
 
     # keo "Another regiment of Brutes has matured, who will help us achieve our victory."
-    keo "Outro batalhão de Brutamontes foi desenvolvido, elas nos ajudarão a alcançar vitória."
+    keo "Outro batalhão de Brutamontes foi desenvolvido, elas nos ajudarão a alcançar a vitória."
 
 # game/episode025.rpy:611
 translate portuguese ep025_erigone_sermon_639e51f2:
@@ -1740,7 +1740,7 @@ translate portuguese ep025_erigone_sermon_22a7678b:
 translate portuguese ep025_erigone_sermon_d3dc1630:
 
     # keo "We will crush the Warrior caste and deal with their civil disobedience once and for all."
-    keo "Iremos acabar com as Guerreiras e lidar com sua desobediência civil delas de uma vez por todas."
+    keo "Iremos acabar com as Guerreiras e lidar com sua desobediência civil de uma vez por todas."
 
 # game/episode025.rpy:655
 translate portuguese ep025_erigone_sermon_14259d8b:
@@ -2184,7 +2184,7 @@ translate portuguese ep025_erigone_battle_8a54e1ed:
 translate portuguese ep025_erigone_battle_b40dd230:
 
     # e "We say no to the scheming, the cronyism and outright bribery that has come to symbolize the Priest caste."
-    e "Rejeitamos as conspirações, politicagem e subornos que passaram a simbolizar as Sacerdotisas."
+    e "Rejeitamos as conspirações, o apadrinhamento e subornos descarados que passaram a simbolizar as Sacerdotisas."
 
 # game/episode025.rpy:823
 translate portuguese ep025_erigone_battle_60cdad02:
@@ -2238,13 +2238,13 @@ translate portuguese ep025_erigone_battle_d6631c7d:
 translate portuguese ep025_erigone_battle_973034b2:
 
     # "The loyalty of the Warriors was by no means a sure thing, but a public appearance by their Virgin Queen certainly helped."
-    "A lealdade das guerreiras não era certeza, mas a aparência pública de sua Rainha Virgem certamente ajudou."
+    "A lealdade das Guerreiras não era certeza, mas uma aparição pública de sua Rainha Virgem certamente ajudou."
 
 # game/episode025.rpy:844
 translate portuguese ep025_erigone_battle_48f1096a:
 
     # "The loyalty of the Priests was by no means a sure thing, but a public appearance by their Virgin Queen certainly helped."
-    "A lealdade das Sacerdotisas não era certeza, mas a aparência pública de sua Rainha Virgem certamente ajudou."
+    "A lealdade das Sacerdotisas não era certeza, mas uma aparição pública de sua Rainha Virgem certamente ajudou."
 
 # game/episode025.rpy:852
 translate portuguese ep025_erigone_battle_8f12b348:
@@ -2310,7 +2310,7 @@ translate portuguese ep025_erigone_battle_42055667:
 translate portuguese ep025_erigone_battle_c80e9693:
 
     # l "Though I can’t say I’m looking forward to being on the Bastard while it provides air support."
-    l "Mas não diria que estou ansiosa para na Bastarda enquanto ela estiver dando apoio aéreo."
+    l "Mas não diria que estou ansiosa para ficar na Bastarda enquanto ela estiver dando apoio aéreo."
 
 # game/episode025.rpy:872
 translate portuguese ep025_erigone_battle_529c8141:
@@ -2388,13 +2388,13 @@ translate portuguese ep025_erigone_battle_5254fa93:
 translate portuguese ep025_erigone_battle_14f9de13:
 
     # "Flying formation, we quickly covered a lot of ground."
-    "Voando em formação, nós cobrimos uma grade área."
+    "Voando em formação, rapidamente cobrimos uma grande área."
 
 # game/episode025.rpy:905
 translate portuguese ep025_erigone_battle_c37d11e8:
 
     # "Explosions could be seen in the distance and smoke trailed on the horizon."
-    "Dava para ver uma fumaça subindo no horizonte."
+    "Dava para ver explosões ao longe e fumaça subindo no horizonte."
 
 # game/episode025.rpy:906
 translate portuguese ep025_erigone_battle_fbb5585c:
@@ -2670,13 +2670,13 @@ translate portuguese ep025_erigone_battle_f6ff01e3:
 translate portuguese ep025_erigone_battle_ed0322bf:
 
     # "Sensing the game was up, the remaining two Priests tried to flee, several long range missiles trailing their ships."
-    "Percebendo que haviam perdidos, as naves das Sacerdotisas tentaram fugir, correndo de vários mísseis de longo alcance as perseguindo."
+    "Percebendo que haviam perdido, as naves das Sacerdotisas tentaram fugir, correndo de vários mísseis de longo alcance as perseguindo."
 
 # game/episode025.rpy:987
 translate portuguese ep025_erigone_battle_b8ff9c50:
 
     # "Sensing the game was up, the remaining two Warriors tried to flee, several long range missiles trailing their ships."
-    "Percebendo que haviam perdidos, as naves das Guerreiras tentaram fugir, correndo de vários mísseis de longo alcance as perseguindo."
+    "Percebendo que haviam perdido, as naves das Guerreiras tentaram fugir, correndo de vários mísseis de longo alcance as perseguindo."
 
 # game/episode025.rpy:988
 translate portuguese ep025_erigone_battle_eee783a6:
@@ -3156,7 +3156,7 @@ translate portuguese ep025_erigone_rescue_0c617617:
 translate portuguese ep025_erigone_rescue_e70a3143:
 
     # "The Brute lifted the helpless Acarhyn off her feet and swung her into the air, eventually impaling her on the Brute’s wicked sword."
-    "A Brutamontes levantou a Acarhyn indefesa e a balançou no ar, eventualmente a empalando na sua espada gigante."
+    "A Brutamontes levantou a Acarhyn indefesa e a balançou no ar, por fim a empalando na sua espada gigante."
 
 # game/episode025.rpy:1136
 translate portuguese ep025_erigone_rescue_e19b41b0:
@@ -3288,7 +3288,7 @@ translate portuguese ep025_erigone_rescue_ae964380:
 translate portuguese ep025_erigone_rescue_7acb5423:
 
     # "However, her armor had caught fire and she was furiously swatting away the flames."
-    "Mas sua armadura pegou fogo, e ela estava estava alucinada tentando apagar as chamas."
+    "Mas sua armadura pegou fogo, e ela estava alucinada tentando apagar as chamas."
 
 # game/episode025.rpy:1166
 translate portuguese ep025_erigone_rescue_528aadf1:
@@ -3342,7 +3342,7 @@ translate portuguese ep025_erigone_rescue_578ee754:
 translate portuguese ep025_erigone_rescue_d0825503:
 
     # "The Bastard came into view, it’s cargo bay door already opening."
-    "Foi aí que vimos a Bastarda, as portas da baia de carga já se abrindo."
+    "Foi aí que vimos a Bastarda, as portas da baía de carga já se abrindo."
 
 # game/episode025.rpy:1178
 translate portuguese ep025_erigone_rescue_b4fe89af:
@@ -3366,7 +3366,7 @@ translate portuguese ep025_erigone_rescue_6e5d6c5c:
 translate portuguese ep025_erigone_rescue_33894058:
 
     # "We were near the cargo hold when the Bastard’s cannon swung toward the colossal creature."
-    "já estávamos perto da baía de carga quando o canhão da Bastarda mirou na criatura gigante."
+    "Já estávamos perto da baía de carga quando o canhão da Bastarda mirou na criatura gigante."
 
 # game/episode025.rpy:1184
 translate portuguese ep025_erigone_rescue_203e4bd9:
@@ -3396,7 +3396,7 @@ translate portuguese ep025_erigone_rescue_e9cfdd7e:
 translate portuguese ep025_erigone_rescue_490e77c4:
 
     # "Several mechs came through the foliage, blocking our way forward."
-    "Vários robôs de combate pareceram da floresta, bloqueando o nosso caminho."
+    "Vários robôs de combate durgiram da floresta, bloqueando o nosso caminho."
 
 # game/episode025.rpy:1193
 translate portuguese ep025_erigone_rescue_f5ad950f:
@@ -4026,7 +4026,7 @@ translate portuguese ep025_erigone_aftermath_53921eb5:
 translate portuguese ep025_erigone_aftermath_43577c94:
 
     # "Some intermittent gunfire could be heard during the night, but eventually this all stopped."
-    "Dava para ouvir barulhos de tiro pela noite, mas eventualmente isso tudo parou."
+    "Dava para ouvir barulhos de tiro pela noite, mas depois de um tempo, isso tudo parou."
 
 # game/episode025.rpy:1447
 translate portuguese ep025_erigone_aftermath_32fd5cb3:
@@ -4038,13 +4038,13 @@ translate portuguese ep025_erigone_aftermath_32fd5cb3:
 translate portuguese ep025_erigone_aftermath_7754fc85:
 
     # "A steady stream of captured priests were led into the Citadel during the early morning."
-    "Várias sacerdotisas capturadas estavam sendo levadas à Cidadela cedo de manhã."
+    "Várias Sacerdotisas capturadas estavam sendo levadas à Cidadela cedo de manhã."
 
 # game/episode025.rpy:1454
 translate portuguese ep025_erigone_aftermath_3e105349:
 
     # "The trial of Keodele took place around midday in the courtyard of the Citadel."
-    "O julgamento da Keodele ocorreu perto do meio dia no pátio da Cidadela."
+    "O julgamento da Keodele ocorreu perto do meio-dia no pátio da Cidadela."
 
 # game/episode025.rpy:1455
 translate portuguese ep025_erigone_aftermath_c5a90a19:
@@ -4056,7 +4056,7 @@ translate portuguese ep025_erigone_aftermath_c5a90a19:
 translate portuguese ep025_erigone_aftermath_527f6c57:
 
     # "A group of Acarhyn stood on the side of the platform and served as a jury."
-    "Um grupo de Acarhyn estava do lado da plataforma, servindo de juri."
+    "Um grupo de Acarhyn estava do lado da plataforma, servindo de júri."
 
 # game/episode025.rpy:1461
 translate portuguese ep025_erigone_aftermath_39dbfc87:
@@ -4104,7 +4104,7 @@ translate portuguese ep025_erigone_aftermath_6b679e9f:
 translate portuguese ep025_erigone_aftermath_96621cda:
 
     # rah "Erigone will be rebuilt and returned to its former glory."
-    rah "Erigone será reconstruída e voltara à glória de antes."
+    rah "Erigone será reconstruída e voltará a seus tempos de glória."
 
 # game/episode025.rpy:1471
 translate portuguese ep025_erigone_aftermath_38c13164:
@@ -4182,7 +4182,7 @@ translate portuguese ep025_erigone_aftermath_ef866aa5:
 translate portuguese ep025_erigone_aftermath_da479a11:
 
     # rah "Furthermore, you are accused of giving the order to perform experiments on unwilling Acarhyn."
-    rah "Além também é acusada de dar a ordem para conduzir os experimentos em Acarhyn contra a própria vontades delas."
+    rah "Além disso, também é acusada de dar a ordem para conduzir os experimentos em Acarhyn contra a própria vontade delas."
 
 # game/episode025.rpy:1488
 translate portuguese ep025_erigone_aftermath_9f3d8bb8:
@@ -4212,7 +4212,7 @@ translate portuguese ep025_erigone_aftermath_5c0f6cf4:
 translate portuguese ep025_erigone_aftermath_74bf7f87:
 
     # rah "Do you deny conspiring against the Warrior caste?"
-    rah "Você nega conspirar contra a caste Guerreira?"
+    rah "Você nega conspirar contra a casta das Guerreira?"
 
 # game/episode025.rpy:1495
 translate portuguese ep025_erigone_aftermath_0785f90e:
@@ -4272,7 +4272,7 @@ translate portuguese ep025_erigone_aftermath_8998a2b6:
 translate portuguese ep025_erigone_aftermath_a5f00871:
 
     # "It fell to Eva to read out the sentence."
-    "Erra estava encarregada de ler a sentença."
+    "Eva ficou encarregada de ler a sentença."
 
 # game/episode025.rpy:1514
 translate portuguese ep025_erigone_aftermath_7565a4a7:
@@ -4308,7 +4308,7 @@ translate portuguese ep025_erigone_aftermath_d5d1d8e6:
 translate portuguese ep025_erigone_aftermath_1142065e:
 
     # keo "You may kill me, but my dream of a better Erigone will live on in the hearts of my true believers."
-    keo "Vocês podem me matar,mas o meu sonho de um melhor Erigone viverá nos corações das minhas seguidoras mais devotas."
+    keo "Vocês podem me matar, mas o meu sonho de uma melhor Erigone viverá nos corações das minhas seguidoras mais devotas."
 
 # game/episode025.rpy:1525
 translate portuguese ep025_erigone_aftermath_465f16fd:
@@ -4500,19 +4500,19 @@ translate portuguese ep025_erigone_aftermath_43577c94_1:
 translate portuguese ep025_erigone_aftermath_4c1ecc18:
 
     # "Keodele was right in presuming that any remaining resistance would soon be broken."
-    "Rahia estava com razão em achar que qualquer resistência logo seria destruída."
+    "Keodele estava com razão em achar que qualquer resistência logo seria destruída."
 
 # game/episode025.rpy:1582
 translate portuguese ep025_erigone_aftermath_77183b2c:
 
     # "A steady stream of captured priests were led into the Shipyards during the early morning."
-    "Várias guerreiras capturadas estavam sendo levadas à Cidadela cedo de manhã."
+    "Várias sacerdotisas capturadas estavam sendo levadas às Docas cedo de manhã."
 
 # game/episode025.rpy:1587
 translate portuguese ep025_erigone_aftermath_7fc435aa:
 
     # "The trial of Rahia took place around midday."
-    "O julgamento da Rahia aconteceu perto do meio dia."
+    "O julgamento de Rahia aconteceu perto do meio-dia."
 
 # game/episode025.rpy:1588
 translate portuguese ep025_erigone_aftermath_db39e09a:
@@ -4560,7 +4560,7 @@ translate portuguese ep025_erigone_aftermath_fcce5175:
 translate portuguese ep025_erigone_aftermath_1101fc12:
 
     # keo "Together, we will rebuild Erigone and return it to its rightful glory."
-    keo "Juntas reconstruiremos Erigone e trazê-la de volta a seus tempos de glória."
+    keo "Juntas reconstruiremos Erigone e a traremos de volta a seus tempos de glória."
 
 # game/episode025.rpy:1602
 translate portuguese ep025_erigone_aftermath_c30906d1:
@@ -4572,13 +4572,13 @@ translate portuguese ep025_erigone_aftermath_c30906d1:
 translate portuguese ep025_erigone_aftermath_79e2653b:
 
     # keo "The Priest caste is the ultimate authority on Erigone, as it should have been from the very start."
-    keo "A nossa caste será a autoridade máxima de Erigone, como deveria ter sido desde o começo."
+    keo "A nossa casta será a autoridade máxima de Erigone, como deveria ter sido desde o começo."
 
 # game/episode025.rpy:1605
 translate portuguese ep025_erigone_aftermath_d50b2907:
 
     # keo "We will bring peace and prosperity to these lands."
-    keo "Taremos paz e prosperidade a essas terras."
+    keo "Traremos paz e prosperidade a essas terras."
 
 # game/episode025.rpy:1606
 translate portuguese ep025_erigone_aftermath_02cd598b:
@@ -4596,7 +4596,7 @@ translate portuguese ep025_erigone_aftermath_cc39db72:
 translate portuguese ep025_erigone_aftermath_eee080b7:
 
     # keo "Rahia, former Commander of the Warrior caste, is the first to learn of her fate."
-    keo "Rahia, a ex-Comandante das Guerreira, é a primeira a descobrir seu destino."
+    keo "Rahia, a ex-Comandante da caste das Guerreira, é a primeira a descobrir seu destino."
 
 # game/episode025.rpy:1610
 translate portuguese ep025_erigone_aftermath_4a6d2c62:
@@ -4614,7 +4614,7 @@ translate portuguese ep025_erigone_aftermath_ea1e18eb:
 translate portuguese ep025_erigone_aftermath_ce045cd0:
 
     # keo "Rahia, you stand accused of high treason in your attempt to eradicate the Warrior caste and subvert the power that rightfully belongs to the Priest caste."
-    keo "Rahia, você é acusada de traição à pátria na sua tentativa de erradicar a casta das Sacerdotisas e sua tentativa de tomar o poder que pertencia às Sacerdotisas."
+    keo "Rahia, você é acusada de traição à pátria ao tentar erradicar a casta das Sacerdotisas e tentar tomar seu legítimo poder."
 
 # game/episode025.rpy:1614
 translate portuguese ep025_erigone_aftermath_8fdc5659:
@@ -4632,7 +4632,7 @@ translate portuguese ep025_erigone_aftermath_80adb918:
 translate portuguese ep025_erigone_aftermath_edc7e8a0:
 
     # rah "The teachings of Keodele and her ilk will be your ruin."
-    rah "Os ensinamentos de Keodele e suas capangas será a sua ruína."
+    rah "Os ensinamentos de Keodele e suas capangas serão a sua ruína."
 
 # game/episode025.rpy:1618
 translate portuguese ep025_erigone_aftermath_c6380bfd:
@@ -4704,7 +4704,7 @@ translate portuguese ep025_erigone_aftermath_d9101374:
 translate portuguese ep025_erigone_aftermath_28574089:
 
     # keo "We formally pledge our support to the alliance against the Sovereignty."
-    keo "Nós viemos jurar apoio à aliança contra a Soberania. "
+    keo "Nós viemos jurar apoio à aliança contra a Soberania."
 
 # game/episode025.rpy:1642
 translate portuguese ep025_erigone_aftermath_92474673_2:
@@ -4794,19 +4794,19 @@ translate portuguese ep025_erigone_aftermath_179fa86e:
 translate portuguese ep025_erigone_aftermath_2b0326fd:
 
     # "Those meetings were exhausting, as she had to deal with several warring factions among the Warrior caste."
-    "Ela teve que lidar com fárias facções opostas dentro da casta das Guerreiras, algo certamente cansativo."
+    "Ela teve que lidar com várias facções opostas dentro da casta das Guerreiras, algo certamente cansativo."
 
 # game/episode025.rpy:1671
 translate portuguese ep025_erigone_aftermath_31f816f1:
 
     # "Those meetings were exhausting, as she had to deal with several warring factions among the Priest caste."
-    "Ela teve que lidar com fárias facções opostas dentro da casta das Sacerdotisas, algo certamente cansativo."
+    "Ela teve que lidar com várias facções opostas dentro da casta das Sacerdotisas, algo certamente cansativo."
 
 # game/episode025.rpy:1672
 translate portuguese ep025_erigone_aftermath_08c2640f:
 
     # "The caste had no clear leader and the power vacuum created a slew of problems."
-    "A caste não tinha uma líder, e o vazio que ficou no poder criou vários problemas."
+    "A casta não tinha uma líder, e o vazio que ficou no poder criou vários problemas."
 
 # game/episode025.rpy:1673
 translate portuguese ep025_erigone_aftermath_de355ead:
@@ -5316,7 +5316,7 @@ translate portuguese ep025_erigone_e_aca8de24:
 translate portuguese ep025_erigone_e_1244497d:
 
     # e "Be done with all that we are involved at the moment."
-    e "Acabar com isso tudo isso que estamos fazendo."
+    e "Acabar com tudo isso que estamos fazendo."
 
 # game/episode025.rpy:1852
 translate portuguese ep025_erigone_e_0cd670e0:
@@ -5382,7 +5382,7 @@ translate portuguese ep025_erigone_e_62b9a7fa:
 translate portuguese ep025_erigone_e_c7a622ee:
 
     # "When dinner was announced, we had to leave, but not before promising Eva I’d meet her later."
-    "Tivemos que sair quando o jantar foi anunciado, mas não antes de eu prometer Eva que a veria mais tarde."
+    "Tivemos que sair quando o jantar foi anunciado, mas não antes de eu prometer a Eva que a veria mais tarde."
 
 # game/episode025.rpy:1896
 translate portuguese ep025_erigone_e_13158e12:
@@ -5442,7 +5442,7 @@ translate portuguese ep025_quarters_ziv_197d4735:
 translate portuguese ep025_quarters_ziv_0dbd9e7e:
 
     # "There was a nervous quality to her voice, easily detectable because she normally appeared so composed."
-    "Tinha um certo nervosismo na voz dela, algo fácil de notar porque era sempre parecia tão controlada."
+    "Havia um certo nervosismo na voz dela, algo fácil de notar porque ela sempre parecia tão controlada."
 
 # game/episode025.rpy:1918
 translate portuguese ep025_quarters_ziv_e4403132:
@@ -6186,7 +6186,7 @@ translate portuguese ep025_erigone_grove_f0ea3cf0:
 translate portuguese ep025_erigone_grove_674a4186:
 
     # "Raene looked as if she were about to flee in shame for a split second, but eventually made her way down to us."
-    "Por um momento,Raene parecia que estava para correr de vergonha, mas eventualmente veio na nossa direção."
+    "Por um instante, Raene parecia que estava para correr de vergonha, mas acabou vindo na nossa direção."
 
 # game/episode025.rpy:2122
 translate portuguese ep025_erigone_grove_2392320f:
@@ -6660,7 +6660,7 @@ translate portuguese ep025_citadel_rahia_f217913a:
 translate portuguese ep025_citadel_rahia_bdea6038:
 
     # rah "What remains of the Warriors will join your cause in any event."
-    rah "O que restar da caste apoiaria a sua causa de qualquer forma."
+    rah "O que restar da casta apoiaria a sua causa de qualquer forma."
 
 # game/episode025.rpy:2295
 translate portuguese ep025_citadel_rahia_fe2ff987:
@@ -6708,7 +6708,7 @@ translate portuguese ep025_citadel_rahia_5c14ecc1:
 translate portuguese ep025_citadel_rahia_01390aaa:
 
     # c "Eva is one of the most compassionate and responsible people I’ve known."
-    c "Eva é uma das pessoas mais compreensíveis e responsáveis que eu conheço."
+    c "Eva é uma das pessoas mais compreensivas e responsáveis que eu conheço."
 
 # game/episode025.rpy:2305
 translate portuguese ep025_citadel_rahia_172cba37:
@@ -6732,7 +6732,7 @@ translate portuguese ep025_citadel_rahia_8d8b0a55:
 translate portuguese ep025_citadel_rahia_778e96fa:
 
     # rah "Nevertheless, I have seen the qualities you describe and I’m sure they’ll have a positive bearing on how the Warrior caste will evaluate their contribution to your proposed alliance."
-    rah "De qualquer forma, eu vejo as qualidades que você descreve, e tenho certeza que terão um efeito positivo em como a caste Guerreira avalia a própria contribuição à aliança que você propôs."
+    rah "De qualquer forma, eu vejo as qualidades que você descreve, e tenho certeza que terão um efeito positivo em como a casta das Guerreira avalia a própria contribuição à aliança que você propôs."
 
 # game/episode025.rpy:2312
 translate portuguese ep025_citadel_rahia_6c1cb0e5:
@@ -7224,13 +7224,13 @@ translate portuguese ep025_citadel_rahia_a535112c:
 translate portuguese ep025_citadel_rahia_2c68d665:
 
     # c "To Erigone!"
-    c "A Erigone"
+    c "À Erigone!"
 
 # game/episode025.rpy:2429
 translate portuguese ep025_citadel_rahia_030dc579:
 
     # rah "To Erigone!"
-    rah "A Erigone!"
+    rah "À Erigone!"
 
 # game/episode025.rpy:2431
 translate portuguese ep025_citadel_rahia_7d46a611:
@@ -7362,7 +7362,7 @@ translate portuguese ep025_citadel_rahia_dd20ffbf:
 translate portuguese ep025_citadel_rahia_15aeab89:
 
     # c "Another toast then."
-    c "Então vamos fazer outro brinde"
+    c "Outro brinde, então."
 
 # game/episode025.rpy:2463
 translate portuguese ep025_citadel_rahia_5935db8e:
@@ -7452,7 +7452,7 @@ translate portuguese ep025_shipyard_keodele_b25a9cda:
 translate portuguese ep025_shipyard_keodele_8e9ff71d:
 
     # "Keodele’s quarters were as spartan as ours, the Priest caste evidently had to adjust quickly when they were forced to make the shipyards their permanent base."
-    "Os aposentos da Keodele era tão espartano quanto os outros. Ficou claro que as Sacerdotisas tiveram que se ajustar rapidamente quando foram forçadas a fazer das docas a sua base permanente."
+    "Os aposentos da Keodele eram tão espartanos quanto os outros. Ficou claro que as Sacerdotisas tiveram que se ajustar rapidamente quando foram forçadas a fazer das docas a sua base permanente."
 
 # game/episode025.rpy:2492
 translate portuguese ep025_shipyard_keodele_81b14739:
@@ -7500,7 +7500,7 @@ translate portuguese ep025_shipyard_keodele_17eb9c1e:
 translate portuguese ep025_shipyard_keodele_9e6fa6ea:
 
     # keo "Dire times ask for desperate measures."
-    keo "Tempos difíceis requererem medidas drásticas."
+    keo "Tempos difíceis requerem medidas drásticas."
 
 # game/episode025.rpy:2507
 translate portuguese ep025_shipyard_keodele_12880e23:
@@ -7596,7 +7596,7 @@ translate portuguese ep025_shipyard_keodele_a3b94c44:
 translate portuguese ep025_shipyard_keodele_54c2cb25:
 
     # keo "Once you’ve secured your team’s cooperation, I’ll have my Priests reach out to your pilot and engineer."
-    keo "Quando garantir a cooperação da sua tripulação, farei as minhas Sacerdotisas entrarem em contanto com sua piloto e engenheira."
+    keo "Quando garantir a cooperação da sua tripulação, farei as minhas Sacerdotisas entrarem em contato com sua piloto e engenheira."
 
 # game/episode025.rpy:2528
 translate portuguese ep025_shipyard_keodele_d7009c60:
@@ -7686,13 +7686,13 @@ translate portuguese ep025_shipyard_keodele_4d8342eb:
 translate portuguese ep025_shipyard_keodele_35d51394:
 
     # c "I thought Acarhyn pregnancies were commonly celebrated openly, because they’re so rare."
-    c "Achei que gravidez das Acarhyn era comemorada abertamente, visto que são tão raras."
+    c "Achei que a gravidez das Acarhyn era comemorada abertamente, visto que são tão raras."
 
 # game/episode025.rpy:2548
 translate portuguese ep025_shipyard_keodele_215c23fb:
 
     # keo "Acarhyn reproduction is a struggle, as intended by our Creator."
-    keo "Reprodução paras as Acarhyn é difícil, como determinou nossa Criadora."
+    keo "Reprodução é difícil para as Acarhyn, como determinou nossa Criadora."
 
 # game/episode025.rpy:2549
 translate portuguese ep025_shipyard_keodele_54c6266b:
@@ -9366,19 +9366,19 @@ translate portuguese ep025_shipyard_keodele_sex_e85760d3:
 translate portuguese ep025_shipyard_keodele_sex_4fc3578d:
 
     # "The fact that she was still stark naked, with seed dripping out of her cunt, did nothing to diminish that."
-    "O fato que ela ainda estava completamente nua com sêmen escorrendo de sua boceta não reduziu em nada essa sensação."
+    "O fato de que ela ainda estava completamente nua com sêmen escorrendo de sua boceta não reduziu em nada essa sensação."
 
 # game/episode025.rpy:3015
 translate portuguese ep025_shipyard_keodele_sex_1b21a65b:
 
     # "The fact that she was still stark naked, with seed plastered on her body, did nothing to diminish that."
-    "O fato que ela ainda estava completamente nua com sêmen no corpo todo não reduziu em nada essa sensação."
+    "O fato de que ela ainda estava completamente nua com sêmen no corpo todo não reduziu em nada essa sensação."
 
 # game/episode025.rpy:3017
 translate portuguese ep025_shipyard_keodele_sex_ae4ef8c1:
 
     # "The fact that she was still stark naked, with seed plastered on her face, did nothing to diminish that."
-    "O fato que ela ainda estava completamente nua com sêmen no rosto todo não reduziu em nada essa sensação."
+    "O fato de que ela ainda estava completamente nua com sêmen no rosto todo não reduziu em nada essa sensação."
 
 # game/episode025.rpy:3018
 translate portuguese ep025_shipyard_keodele_sex_e4cca71e:
@@ -9516,13 +9516,13 @@ translate portuguese ep025_erigone_e_ra_sex_8bbc1951:
 translate portuguese ep025_erigone_e_ra_sex_6b35d5bc:
 
     # "Her breasts were proudly on display, the pregnant swell of her belly hidden partly underwater."
-    "Seus seios orgulhosamente estavam à amostra, e sua barriga grávida parcialmente escondida pela água."
+    "Seus seios orgulhosamente estavam à mostra, e sua barriga grávida parcialmente escondida pela água."
 
 # game/episode025.rpy:3105
 translate portuguese ep025_erigone_e_ra_sex_789fa8d7:
 
     # "Her breasts were proudly on display, the rest of her lithe body hidden partly underwater."
-    "Seus seios orgulhosamente estavam à amostra, e o resto do seu corpo esguio parcialmente escondido pela água."
+    "Seus seios orgulhosamente estavam à mostra, e o resto do seu corpo esguio parcialmente escondido pela água."
 
 # game/episode025.rpy:3111
 translate portuguese ep025_erigone_e_ra_sex_2424c342:
@@ -9888,7 +9888,7 @@ translate portuguese ep025_e_ra_sex_choices_89ed18f4:
 translate portuguese ep025_e_ra_sex_choices_878869be:
 
     # "I could feel that she wanted to pick up the pace, but our position and the fact that she had Raene’s dick in her mouth prevented her from doing that to the fullest."
-    "Eu senti que ela estava querendo acelerar, mas a nossa posição e o fato que ela estava com o pau da Raene na boca impediu isso."
+    "Eu senti que ela estava querendo acelerar, mas a nossa posição e o fato de que ela estava com o pau da Raene na boca impediram isso."
 
 # game/episode025.rpy:3283
 translate portuguese ep025_e_ra_sex_choices_7732c01d:
@@ -11166,7 +11166,7 @@ translate portuguese ep025_e_ra_dp_8190f82d:
 translate portuguese ep025_e_ra_dp_8eda85ab:
 
     # "Slowly, I inched inside her pussy."
-    "Eu dui entrando devarzinho na sua boceta."
+    "Eu fui entrando devagarzinho na sua boceta."
 
 # game/episode025.rpy:3851
 translate portuguese ep025_e_ra_dp_a025fc09:
@@ -11556,7 +11556,7 @@ translate portuguese ep025_e_ra_orgasm_choices_e8e95a55:
 translate portuguese ep025_e_ra_orgasm_choices_5c1d019c:
 
     # "She lapped up the cum that still trickled out of Eva’s ass and cleaned up as well as she could."
-    "Ela lambeu o sêmen que ainda escorria da boceta da Eva e limpou o máximo que podia."
+    "Ela lambeu o sêmen que ainda escorria da bunda da Eva e limpou o máximo que podia."
 
 # game/episode025.rpy:4018
 translate portuguese ep025_e_ra_orgasm_choices_20fee447:
@@ -11580,7 +11580,7 @@ translate portuguese ep025_e_ra_orgasm_choices_92226ebe_1:
 translate portuguese ep025_e_ra_orgasm_choices_6486000d:
 
     # e "Yes, please give it to me!"
-    e "Isso, eu eu quero tudo!"
+    e "Isso, eu quero tudo!"
 
 # game/episode025.rpy:4023
 translate portuguese ep025_e_ra_orgasm_choices_45b6ca7c:
@@ -11616,7 +11616,7 @@ translate portuguese ep025_e_ra_orgasm_choices_2a8ba35f_1:
 translate portuguese ep025_e_ra_orgasm_choices_749e96b3:
 
     # e "Yes, I want you to cum inside me!"
-    e "Isso, eu quero que você dentro de mim!"
+    e "Isso, eu quero que você goze dentro de mim!"
 
 # game/episode025.rpy:4036
 translate portuguese ep025_e_ra_orgasm_choices_df45e3b2_1:
@@ -12079,377 +12079,409 @@ translate portuguese ep025_e_ra_dp_8bb5d8a9:
 translate portuguese episode025_3e6413d0:
 
     # "A bustle of activity went on day and night, which was a marked change from living on the Bastard."
-    ""
+    "O movimento não parava dia e noite, um contraste gritante com a vida na Bastarda."
 
 # game/episode025.rpy:143
 translate portuguese episode025_427c0af5:
 
     # "The Citadel and immediate environs were deemed safe and its borders patrolled heavily."
-    ""
+    "A Cidadela e seus arredores considerados seguros, e sua fronteira tinha forte patrulha."
 
 # game/episode025.rpy:150
 translate portuguese episode025_3e6413d0_1:
 
     # "A bustle of activity went on day and night, which was a marked change from living on the Bastard."
-    ""
+    "O movimento não parava dia e noite, um contraste gritante com a vida na Bastarda."
 
 # game/episode025.rpy:151
 translate portuguese episode025_400526b7:
 
     # "The Shipyards and immediate environs were deemed safe and its borders patrolled heavily."
-    ""
+    "As Docas e seus arredores eram considerados seguros, e sua fronteira tinha forte patrulha."
 
 # game/episode025.rpy:214
 translate portuguese ep025_erigone_rahia_bf0cb5c1:
 
     # rah "She did."
-    rah ""
+    rah "Sim."
 
 # game/episode025.rpy:215
 translate portuguese ep025_erigone_rahia_1322eb0c:
 
     # rah "I believe she was to take the entire Priest caste with her, but many refused."
-    rah ""
+    rah "Acredito que ela queria levar toda a casta de Sacerdotisas com ela, mas muitas recusaram."
 
 # game/episode025.rpy:217
 translate portuguese ep025_erigone_rahia_d887540c:
 
     # rah "It was her own daughter, Keodele, who led the revolt."
-    rah ""
+    rah "Foi sua própria filha, Keodele, que liderou a revolta."
 
 # game/episode025.rpy:219
 translate portuguese ep025_erigone_rahia_8eabe267:
 
     # rah "It was her own acolyte, Keodele, who led the revolt."
-    rah ""
+    rah "Foi sua própria seguidora, Keodele, que liderou a revolta."
 
 # game/episode025.rpy:220
 translate portuguese ep025_erigone_rahia_c1b77330:
 
     # c "Typical..."
-    c ""
+    c "Típico..."
 
 # game/episode025.rpy:222
 translate portuguese ep025_erigone_rahia_ea4af332:
 
     # rah "At first we counted our blessings, but Keodele turned out to be much worse than Erylin."
-    rah ""
+    rah "No começo achamos que tivemos sorte, mas Keodele acabou sendo muito pior que Erylin."
 
 # game/episode025.rpy:344
 translate portuguese ep025_erigone_rahia_95cf122a:
 
     # c "But the location of the planet is known to the Sovereignty, as is its significance."
-    c ""
+    c "Mas a Soberania sabe da localização do planeta, além de sua importância."
 
 # game/episode025.rpy:350
 translate portuguese ep025_erigone_rahia_b2050a67:
 
     # c "The new leader of the Sovereignty is my father."
-    c ""
+    c "O novo líder da Soberania é o meu pai."
 
 # game/episode025.rpy:351
 translate portuguese ep025_erigone_rahia_b5ba29c7:
 
     # c "I’m fairly certain he’ll view the conquest of Erigone, ruled by a friend of son, as a nice propaganda stunt."
-    c ""
+    c "É quase certeza que ele vai ver a conquista de Erigone, liderada por uma amiga de seu filho, como uma bela jogada de marketing."
 
 # game/episode025.rpy:392
 translate portuguese ep025_erigone_keodele_543f797d:
 
     # keo "Over the many months we have, slowly but surely, regained control of large swaths of Erigone."
-    keo ""
+    keo "Durante vários meses fomos recuperando aos poucos o controle de várias partes de Erigone."
 
 # game/episode025.rpy:521
 translate portuguese ep025_erigone_council_85a8f1e1:
 
     # e "The subjugation of Erigone or perhaps worse is almost a certainty if we do not act now."
-    e ""
+    e "A dominação de Erigone é o que vai acontecer se não agirmos agora, ou até coisa pior."
 
 # game/episode025.rpy:535
 translate portuguese ep025_erigone_council_080a6a21:
 
     # rah "We will strike decisively and end this conflict in one fell swoop, after which all of Erigon’s military might will be available to the alliance."
-    rah ""
+    rah "Vamos lançar um ataque definitivo e acabar de vez com esse conflito. Depois disso, o poderio militar de Erigone estará disponível à aliança."
 
 # game/episode025.rpy:546
 translate portuguese ep025_erigone_council_8ff386cc:
 
     # rah "Teams are already on their way to prepare for the ambush."
-    rah ""
+    rah "Já temos times a caminho para preparar a emboscada."
 
 # game/episode025.rpy:607
 translate portuguese ep025_erigone_sermon_e6b8fa23:
 
     # keo "Once we have achieved this, the Priest caste will venture out at the behest of our Queen and spread the Holy Word of our Creator to the rest of the universe."
-    keo ""
+    keo "Quando conseguirmos isto, a nossa casta das Sacerdotisas se aventurará a pedido de nossa Rainha e espalhará a Palavra Sagrada de nossa criadora por todo o universo."
 
 # game/episode025.rpy:706
 translate portuguese ep025_erigone_sermon_6c9cfbe5:
 
     # keo "Considering the first Brute lasted only two hours, I’d say that’s great progress indeed."
-    keo ""
+    keo "Considerando que a primeira Brutamontes viveu por apenas duas horas, eu diria que foi um grande progresso."
 
 # game/episode025.rpy:717
 translate portuguese ep025_erigone_sermon_9535b778:
 
     # "Eva was clearly horrified by Keodele’s clinical discussions of what amounted to human experimentation."
-    ""
+    "Eva estava claramente horrorizada pela maneira clínica de como Keodele discutia o que basicamente se resumia a experimentos humanos."
 
 # game/episode025.rpy:828
 translate portuguese ep025_erigone_battle_567ab859:
 
     # e "We say no to the scheming, the ruthlessness and outright brutalism that has come to symbolize the Warrior caste."
-    e ""
+    e "Rejeitamos as conspirações, a crueldade e pura brutalidade que passaram a simbolizar a casta das Guerreiras."
 
 # game/episode025.rpy:829
 translate portuguese ep025_erigone_battle_b88614ce:
 
     # e "Erigone belongs to the true Acarhyn."
-    e ""
+    e "Erigone pertence às verdadeiras Acarhyn."
 
 # game/episode025.rpy:877
 translate portuguese ep025_erigone_battle_f4c5dd7c:
 
     # c "It was an explicit request from Rahia, so it didn’t seem like something we could refuse."
-    c ""
+    c "Foi um pedido explícito da Rahia, então não parecia que dava para recusar."
 
 # game/episode025.rpy:879
 translate portuguese ep025_erigone_battle_8cfaf462:
 
     # c "It was an explicit request from Keodele, so it didn’t seem like something we could refuse."
-    c ""
+    c "Foi um pedido explícito da Keodele, então não parecia que dava para recusar."
 
 # game/episode025.rpy:880
 translate portuguese ep025_erigone_battle_1fb36e2b:
 
     # c "I’d understand if you’d rather keep Eva company."
-    c ""
+    c "Eu entendo se você prefere fazer companhia para a Eva."
 
 # game/episode025.rpy:895
 translate portuguese ep025_erigone_battle_14021404:
 
     # "Acarhyn engineers had loaded the Bastard with several bombs, arguably the first time the ship’s bays were actually loaded with ordnance."
-    ""
+    "Engenheiras Acarhyn equiparam a Bastarda com várias bombas, marcando provavelmente a primeira vez que as baías foram usadas para carregar munição."
 
 # game/episode025.rpy:948
 translate portuguese ep025_erigone_battle_ef80cb9f:
 
     # "Several other ships in our formation had scored direct hits, leaving the enemy convoy in complete disarray."
-    ""
+    "Várias outras naves da nossa formação acertaram seus alvos, deixando o grupo de veículos completamente atordoado."
 
 # game/episode025.rpy:990
 translate portuguese ep025_erigone_battle_786b1755:
 
     # "Sensing the game was up, the remaining two Priest ships tried to flee, several long range missiles trailing their ships."
-    ""
+    "Percebendo que haviam perdido, as últimas duas naves das Sacerdotisas tentaram fugir, com vários mísseis de longo alcance as perseguindo."
 
 # game/episode025.rpy:992
 translate portuguese ep025_erigone_battle_5f8869dc:
 
     # "Sensing the game was up, the remaining two Warrior ships tried to flee, several long range missiles trailing their ships."
-    ""
+    "Percebendo que haviam perdido, as últimas duas naves das Guerreiras tentaram fugir, com vários mísseis de longo alcance as perseguindo."
 
 # game/episode025.rpy:1136
 translate portuguese ep025_erigone_rescue_5b50737e:
 
     # "One of the Warriors was able to sink her sword in the left calf of one of the Brute’s."
-    ""
+    "Uma das Guerreiras conseguiu enterrar sua espada na panturrilha esquerda de uma das Brutamontes."
 
 # game/episode025.rpy:1182
 translate portuguese ep025_erigone_rescue_e7c716a4:
 
     # "The Bastard came into view, its cargo bay door already opening."
-    ""
+    "Foi aí que vimos a Bastarda, as portas da baia de carga já se abrindo."
 
 # game/episode025.rpy:1397
 translate portuguese ep025_erigone_aftermath_2fe7ad2a:
 
     # e "Your pledge of allegiance is honorable and just, befitting a true Acarhyn."
-    e ""
+    e "Seu juramento de lealdade é honrado e justo, digno de uma verdadeira Acarhyn."
 
 # game/episode025.rpy:1452
 translate portuguese ep025_erigone_aftermath_019bd793:
 
     # e "Thank you, Commander."
-    e ""
+    e "Obrigada, Comandante."
 
 # game/episode025.rpy:1461
 translate portuguese ep025_erigone_aftermath_68bc3e54:
 
     # "A steady stream of captured Priests were led into the Citadel during the early morning."
-    ""
+    "Várias Sacerdotisas capturadas estavam sendo levadas à Cidadela cedo de manhã."
 
 # game/episode025.rpy:1473
 translate portuguese ep025_erigone_aftermath_55ca7a79:
 
     # "The former High Priestess was standing barefoot on the rough wooden boards and looked rather less stately than before."
-    ""
+    "A ex-Sacerdotisa Chefe estava descalça no chão de tábuas e não parecia tão imponente quanto antes."
 
 # game/episode025.rpy:1530
 translate portuguese ep025_erigone_aftermath_cbb66ef0:
 
     # keo "Everything I did was for the benefit of Acarhynkind."
-    keo ""
+    keo "Tudo que fiz, foi pelo bem das Acarhyn."
 
 # game/episode025.rpy:1558
 translate portuguese ep025_erigone_aftermath_2fe7ad2a_1:
 
     # e "Your pledge of allegiance is honorable and just, befitting a true Acarhyn."
-    e ""
+    e "Seu juramento de lealdade é honrado e justo, digno de uma verdadeira Acarhyn."
 
 # game/episode025.rpy:1594
 translate portuguese ep025_erigone_aftermath_46f73865:
 
     # "A steady stream of captured Warriors were led into the Shipyards during the early morning."
-    ""
+    "Várias Guerreiras capturadas estavam sendo levadas às Docas cedo de manhã."
 
 # game/episode025.rpy:1606
 translate portuguese ep025_erigone_aftermath_8350ea97:
 
     # "It was clear she had been treated badly, but her gaze was defiant."
-    ""
+    "Estava claro que não a trataram bem, mas seu olhar ainda era desafiador."
 
 # game/episode025.rpy:1614
 translate portuguese ep025_erigone_aftermath_8d6367c1:
 
     # keo "The Warrior caste is hereby disbanded and any remaining member will be hunted and killed."
-    keo ""
+    keo "A casta das Guerreiras está dissolvida por ordem expressa, e todas integrantes serão caçadas e mortas."
 
 # game/episode025.rpy:1625
 translate portuguese ep025_erigone_aftermath_21e700ef:
 
     # keo "Rahia, you stand accused of high treason in your attempt to eradicate the Priest caste and subvert the power that rightfully belongs to the Priest caste."
-    keo ""
+    keo "Rahia, você é acusada de traição à pátria ao tentar erradicar a casta das Sacerdotisas e tentar tomar seu legítimo poder."
 
 # game/episode025.rpy:1655
 translate portuguese ep025_erigone_aftermath_2fe7ad2a_2:
 
     # e "Your pledge of allegiance is honorable and just, befitting a true Acarhyn."
-    e ""
+    e "Seu juramento de lealdade é honrado e justo, digno de uma verdadeira Acarhyn."
 
 # game/episode025.rpy:1659
 translate portuguese ep025_erigone_aftermath_8c2fb98f:
 
     # keo "We have full control of Erigone and will continue to repair and restore the planet in the image of our Creator."
-    keo ""
+    keo "Temos completo controle de Erigone e continuaremos a restaurar o planeta na imagem de nossa Criadora."
 
 # game/episode025.rpy:1741
 translate portuguese ep025_erigone_aftermath_39536990:
 
     # av "We were indirectly responsible for killing their master..."
-    av ""
+    av "Somos indiretamente responsáveis por matar sua mestra..."
 
 # game/episode025.rpy:1906
 translate portuguese ep025_erigone_e_9da083b3:
 
     # "When dinner was announced, we had to leave, but not before I promised Eva I’d meet her later."
-    ""
+    "Tivemos que sair quando o jantar foi anunciado, mas não antes de eu prometer a Eva que a veria mais tarde."
 
 # game/episode025.rpy:1941
 translate portuguese ep025_quarters_ziv_17719216:
 
     # zi "It’s a delicate matter."
-    zi ""
+    zi "É um assunto delicado."
 
 # game/episode025.rpy:1942
 translate portuguese ep025_quarters_ziv_7131704a:
 
     # zi "That’s why I requested us to meet on the Iron Bastard."
-    zi ""
+    zi "Por isso pedi uma reunião na Bastarda de Ferro."
 
 # game/episode025.rpy:2342
 translate portuguese ep025_citadel_rahia_609a3b67:
 
     # rah "The Scriptures prescribe that we will need to find a new Queen when the sad day that our current Queen passes away arrives."
-    rah ""
+    rah "As Escrituras ditam que vamos precisar encontrar uma nova Rainha quando chegar o triste dia que a nossa atual Rainha morrer."
 
 # game/episode025.rpy:2353
 translate portuguese ep025_citadel_rahia_ac3f73ae:
 
     # rah "Our Queen has chosen a strong and formidable father for Her child and ensured a pure bloodline."
-    rah ""
+    rah "A Rainha escolheu um pai forte e formidável para Sua criança, garantindo uma linhagem pura."
 
 # game/episode025.rpy:2381
 translate portuguese ep025_citadel_rahia_2368fb7c:
 
     # rah "Though that doesn’t mean I won’t crush her without a second thought."
-    rah ""
+    rah "Mas isso não quer dizer que não vou acabar com ela sem pestanejar."
 
 # game/episode025.rpy:2520
 translate portuguese ep025_shipyard_keodele_8126b31c:
 
     # keo "Dire times call for desperate measures."
-    keo ""
+    keo "Tempos difíceis requerem medidas drásticas."
 
 # game/episode025.rpy:2552
 translate portuguese ep025_shipyard_keodele_f566659f:
 
     # c "I’m glad you think Eva’s presence will be beneficial to morale."
-    c ""
+    c "Que bom que você acha que a presença da Eva vai ajudar na moral."
 
 # game/episode025.rpy:2570
 translate portuguese ep025_shipyard_keodele_c798f700:
 
     # keo "Our Creator has prescribed that we begin our Quest for a Queen anew, should the sad day arrive when our current Queen expires."
-    keo ""
+    keo "Nossa Criadora decretou que devemos buscar uma nova Rainha, caso chegue o triste dia que nossa atual Rainha venha a falecer."
 
 # game/episode025.rpy:2580
 translate portuguese ep025_shipyard_keodele_58181f87:
 
     # keo "My congratulations on behalf of the Priest caste."
-    keo ""
+    keo "Dou os parabéns em nome das Sacerdotisas."
 
 # game/episode025.rpy:2582
 translate portuguese ep025_shipyard_keodele_c7761b51:
 
     # keo "It warms my heart to think that our Queen has chosen a strong and formidable father, in accordance with the strictures laid out by our Creator."
-    keo ""
+    keo "Fico muito feliz em saber que nossa Rainha escolheu um pai tão forte e formidável, de acordo com as escrituras deixadas por nossa Criadora."
 
 # game/episode025.rpy:2616
 translate portuguese ep025_shipyard_keodele_770b8ff1:
 
     # keo "Yes, the only lodestar I have are the Teachings of our Creator."
-    keo ""
+    keo "Sim, o único norte que tenho para me guiar são os Ensinamentos de nossa Criadora."
 
 # game/episode025.rpy:2722
 translate portuguese ep025_citadel_rahia_sex_2cf2dabb:
 
     # rah "You want to put your dick in my warm, wet hole, don’t you?"
-    rah ""
+    rah "Quer meter esse pau na minha bocetinha molhada, né?"
 
 # game/episode025.rpy:2739
 translate portuguese ep025_citadel_rahia_sex_3a67af2d:
 
     # "The Acarhyn woman struggled playfully and we tussled good-naturedly."
-    ""
+    "A Acarhyn fingiu tentar escapar, e continuamos brincando."
 
 # game/episode025.rpy:2780
 translate portuguese ep025_citadel_rahia_sex_599e42f9:
 
     # "Planting my feet wide, I pushed and pulled the Acarhyn woman with my dick lodged firmly inside her tight, wet hole."
-    ""
+    "Abrindo bem as pernas, puxei e empurrei a Acarhyn com meu pau enterrado até o fim no seu buraquinho."
 
 # game/episode025.rpy:3339
 translate portuguese ep025_e_ra_sex_choices_1201ddb4:
 
     # "Her breasts and pregnant belly bobbed to the rhythm of my thrusts."
-    ""
+    "Seus seios e barriga grávida balançavam no ritmo das minhas enfiadas."
 
 # game/episode025.rpy:3341
 translate portuguese ep025_e_ra_sex_choices_0fb95aac:
 
     # "Her breasts bobbed to the rhythm of my thrusts."
-    ""
+    "Seus seios balançavam no ritmo das minhas enfiadas."
 
 # game/episode025.rpy:3459
 translate portuguese ep025_e_ra_sex_choices_9f03e492:
 
     # "Raene took one of Eva’s nipples in her mouth and started to suckle on it."
-    ""
+    "Raene botou um dos mamilos da Eva na boca e começou a chupar."
 
 # game/episode025.rpy:3767
 translate portuguese ep025_e_ra_dp_49e42c85:
 
     # "I took one of Eva’s nipples in my mouth and started to suckle on it."
+    "Eu botei a boca num dos mamilos da Eva e comecei a chupar."
+
+# TODO: Translation updated at 2026-11-02 12:03
+
+# game/episode025.rpy:351
+translate portuguese ep025_erigone_rahia_924574ec:
+
+    # c "I’m fairly certain he’ll view the conquest of Erigone, ruled by a friend of his son, as a nice propaganda stunt."
+    c ""
+
+# game/episode025.rpy:521
+translate portuguese ep025_erigone_council_fddc9de4:
+
+    # e "The subjugation of Erigone, or perhaps worse, is almost a certainty if we do not act now."
+    e ""
+
+# game/episode025.rpy:1474
+translate portuguese ep025_erigone_aftermath_3ed86856:
+
+    # "Her gaze was defiant, though."
     ""
+
+# game/episode025.rpy:1498
+translate portuguese ep025_erigone_aftermath_f100118f:
+
+    # rah "Keodele, you stand accused of high treason for attempting to eradicate the Warrior caste."
+    rah ""
+
+# game/episode025.rpy:1625
+translate portuguese ep025_erigone_aftermath_3bba2849:
+
+    # keo "Rahia, you stand accused of high treason for attempting to eradicate the Priest caste and subvert the power that rightfully belongs to it."
+    keo ""
 

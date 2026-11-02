@@ -22,7 +22,7 @@ translate portuguese extra_scene_48_54c70c3a:
 translate portuguese extra_scene_48_7b5cbcac:
 
     # "Raene’s writhing against the onslaught of my hard dick caused it to slip out of her."
-    "Raene se debateu tanto com o ataque do meu pau que o mesmo saiu dela."
+    "Raene se debateu tanto com o ataque do meu pau que ele acabou saindo dela."
 
 # game/extras.rpy:59
 translate portuguese extra_scene_48_3841909b:
@@ -130,7 +130,7 @@ translate portuguese extra_scene_48_c0891fff:
 translate portuguese extra_scene_48_fdac68a4:
 
     # "She’d become such a skilled cocksucker that I hovered near the edge in moments."
-    "Ela ficou tão boa em chupar pau, que dentro de momentos eu já estava pronto para gozar."
+    "Ela ficou tão boa em chupar pau que em questão de segundos eu já estava pronto para gozar."
 
 # game/extras.rpy:84
 translate portuguese extra_scene_48_b87dd1eb:
@@ -208,7 +208,7 @@ translate portuguese extra_scene_48_30a90778:
 translate portuguese extra_scene_48_bf6a593a:
 
     # "I kept jerking Raene’s cock, which pulsed warmly in my hand."
-    "Eu continuei masturbando o pau da Raene pulsando quente na minha mão."
+    "Eu continuei masturbando o pau da Raene, que pulsava quente na minha mão."
 
 # game/extras.rpy:103
 translate portuguese extra_scene_48_77291291:
@@ -538,7 +538,7 @@ translate portuguese extra_scene_49_759b5cb1:
 translate portuguese extra_scene_49_6cc94e3f:
 
     # "Still rooted inside her, I made my mother flip onto her stomach."
-    "Ainda bem fundo, eu fiz a mãe virar de barriga."
+    "Ainda bem fundo, eu fiz a mãe virar de bruços."
 
 # game/extras.rpy:203
 translate portuguese extra_scene_49_f457bb96:
@@ -1018,7 +1018,7 @@ translate portuguese extra_scene_50_8f34943a:
 translate portuguese extra_scene_50_1136d500:
 
     # "I wanted a better view of Hannah’s body, so I pulled her on top of me."
-    "Como eu estava com vontade de ver  o corpo da Hannah, botei ela em cima de mim."
+    "Como eu estava com vontade de ver o corpo da Hannah, botei ela em cima de mim."
 
 # game/extras.rpy:392
 translate portuguese extra_scene_50_1fce7b9f:
@@ -1096,7 +1096,7 @@ translate portuguese extra_scene_50_c1e24584:
 translate portuguese extra_scene_50_09861943:
 
     # c "Mmmm, you’re such a dirty whore!"
-    c "Mmmm, putinha imunda você!"
+    c "Mmmm, putinha imunda você, hein!"
 
 # game/extras.rpy:428
 translate portuguese extra_scene_50_a161c79b:
@@ -1288,7 +1288,7 @@ translate portuguese extra_scene_51_6e1d398d:
 translate portuguese extra_scene_51_eed0a1a3:
 
     # ce "You might feel different when I start to show."
-    ce "Talvez você não pense assim quando a barriguinha começar a mostrar."
+    ce "Talvez você não pense assim quando a barriguinha começar a aparecer."
 
 # game/extras.rpy:522
 translate portuguese extra_scene_51_18be6fc7:
@@ -1444,7 +1444,7 @@ translate portuguese extra_scene_51_e81061f0:
 translate portuguese extra_scene_51_291f61bd:
 
     # "I pulled out of her and dragged her on top of me so I could have a good view of her pert round ass."
-    "Eu tirei meu pau fora e puxei ela em cima de mim, assim eeu teria uma visão melhor da sua bunda redonda."
+    "Eu tirei meu pau fora e puxei ela em cima de mim, assim eu teria uma visão melhor da sua bunda redonda."
 
 # game/extras.rpy:556
 translate portuguese extra_scene_51_8db533a3:
@@ -2024,7 +2024,7 @@ translate portuguese extra_scene_52_a4951c3a:
 translate portuguese extra_scene_52_62373633:
 
     # na "All because of you, [p_name_short]."
-    na "É tudo por causa de você, [p_name_short]."
+    na "É tudo graças a você, [p_name_short]."
 
 # game/extras.rpy:710
 translate portuguese extra_scene_52_8888c398:
@@ -2108,7 +2108,7 @@ translate portuguese extra_scene_52_90f027df:
 translate portuguese extra_scene_52_bd11022a:
 
     # "Holding her tight, I thrust steadily, admiring her body respond to the rhythm."
-    "Segurando bem ela, admirei seu corpo respondendo ao ritmo."
+    "Segurando bem ela, continuei metendo firme enquanto admirava seu corpo respondendo ao ritmo."
 
 # game/extras.rpy:731
 translate portuguese extra_scene_52_b661c4c6:
@@ -2210,7 +2210,7 @@ translate portuguese extra_scene_52_0c7d2441:
 translate portuguese extra_scene_52_92096c2a:
 
     # "Massaging her breasts, I kept on fucking her."
-    "Eu continuei metendo enquato massageava seus seios."
+    "Massageando seus seios, continuei metendo."
 
 # game/extras.rpy:760
 translate portuguese extra_scene_52_b6bddafb:
@@ -2240,7 +2240,7 @@ translate portuguese extra_scene_52_5ff81430:
 translate portuguese extra_scene_52_a60424a1:
 
     # na "Do you like my wet pussy?"
-    na "Está gostando da boceta minha molhada?"
+    na "Está gostando da minha boceta molhada?"
 
 # game/extras.rpy:768
 translate portuguese extra_scene_52_349466b9:
@@ -2528,7 +2528,7 @@ translate portuguese extra_scene_53_081240bd:
 translate portuguese extra_scene_53_b578d208:
 
     # "I gently disentangled myself from her and positioned Ziv on her back."
-    "Eu me soltei dela com cuidado e fiz a Ziv ficar de costas."
+    "Eu me soltei dela com cuidado e fiz a Ziv deitar de costas."
 
 # game/extras.rpy:862
 translate portuguese extra_scene_53_ef8c65df:
@@ -2780,7 +2780,7 @@ translate portuguese strings:
 
     # game/extras.rpy:663
     old "En-route to Erigone"
-    new "A caminho de Erigone."
+    new "A caminho de Erigone"
 
 
 # TODO: Translation updated at 2026-09-24 11:31
@@ -2789,19 +2789,19 @@ translate portuguese strings:
 translate portuguese extra_scene_52_02a894f8:
 
     # "My cock was coated in my mother’s love juices and I could feel I was close to orgasming too."
-    ""
+    "Meu pau estava todo melado da minha mãe, e senti que eu também estava quase gozando."
 
 # game/extras.rpy:794
 translate portuguese extra_scene_52_74fa9e6f:
 
     # "My cock was coated in my girlfriend’s love juices and I could feel I was close to orgasming too."
-    ""
+    "Meu pau estava todo melado da minha namorada, e senti que eu também estava quase gozando."
 
 # game/extras.rpy:879
 translate portuguese extra_scene_53_d14501b6:
 
     # "Ziv moaned as I ran my fingers over the exposed tip of her dick."
-    ""
+    "Ziv gemeu quando eu passei os dedos na cabeça exposta do seu pau."
 
 # TODO: Translation updated at 2026-10-29 12:17
 
@@ -2809,5 +2809,5 @@ translate portuguese extra_scene_53_d14501b6:
 translate portuguese extra_scene_53_d29274be:
 
     # c "And I love how your tight, wet pussy makes me feel."
-    c ""
+    c "E eu adoro como essa sua boceta apertada faz eu me sentir."
 

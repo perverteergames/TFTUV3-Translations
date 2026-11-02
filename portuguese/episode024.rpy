@@ -46,7 +46,7 @@ translate portuguese episode024_079df4ea:
 translate portuguese episode024_3fec40c6:
 
     # ag "You see, Velnia, you are the only member of the Council still alive, apart from me of course."
-    ag "É que Velnia, você é a única membro do conselho ainda é viva. Tirando eu, é claro."
+    ag "É que Velnia, você é a única membro do conselho ainda viva. Tirando eu, é claro."
 
 # game/episode024.rpy:49
 translate portuguese episode024_9d6890c9:
@@ -118,13 +118,13 @@ translate portuguese episode024_7ec801e2:
 translate portuguese episode024_33db95b9:
 
     # ag "A leader who will guide them on the path to achieve the supremacy the Sovereignty so rightly deserves."
-    ag "Um líder que os guiará o caminho da supremacia que a Soberania tanto merece."
+    ag "Um líder que os guiará ao caminho da supremacia que a Soberania tanto merece."
 
 # game/episode024.rpy:65
 translate portuguese episode024_ef579122:
 
     # ag "The era of human domination has finally begun, and I will be its shepherd."
-    ag "A era da dominação humana finalmente começou, e eu serei o seu pastor"
+    ag "A era da dominação humana finalmente começou, e eu serei o seu pastor."
 
 # game/episode024.rpy:67
 translate portuguese episode024_0c121629:
@@ -160,7 +160,7 @@ translate portuguese episode024_bc4e544e:
 translate portuguese episode024_7d23adc6:
 
     # ag "Surveillance footage and logs about me, which could put a dent in the trust the good people of the Sovereignty have in me, should they fall into the wrong hands."
-    ag "Gravações de segurança e registre sobre mim, que, caso caíssem nas mãos erradas, poderiam causar um problema na confiança que as pessoas Soberania puseram em mim."
+    ag "Gravações de segurança e registros sobre mim, que, caso caíssem nas mãos erradas, poderiam causar uma erosão na confiança que as pessoas da Soberania puseram em mim."
 
 # game/episode024.rpy:75
 translate portuguese episode024_c749e135:
@@ -190,7 +190,7 @@ translate portuguese episode024_2b870632:
 translate portuguese episode024_c1066646:
 
     # vel "Aaaah! Aaah! You motherfucker!"
-    vel "Aaaah! Aah! seu filho da puta!"
+    vel "Aaaai! Aah! Seu filho da puta!"
 
 # game/episode024.rpy:81
 translate portuguese episode024_d5926495:
@@ -298,7 +298,7 @@ translate portuguese episode024_3f42f57a:
 translate portuguese episode024_3106effe:
 
     # zi "Yes, they were very held back in their response."
-    zi "É, a resposta dele foi bem contida."
+    zi "É, a resposta deles foi bem contida."
 
 # game/episode024.rpy:116
 translate portuguese episode024_af7bf4a7:
@@ -478,7 +478,7 @@ translate portuguese ep024_tubloshi_928f5818:
 translate portuguese ep024_tubloshi_5951d2b8:
 
     # ha "We are surprised you would contact us again and suspect a higher purpose behind ‚your call."
-    ha "Estamos surpresos por ter nos contactado novamente, e suspeitamos um propósito maior por trás disso."
+    ha "Estamos surpresos por ter nos contactado novamente, e suspeitamos de um propósito maior por trás disso."
 
 # game/episode024.rpy:213
 translate portuguese ep024_tubloshi_35cb38d9:
@@ -508,13 +508,13 @@ translate portuguese ep024_tubloshi_c23eef8b:
 translate portuguese ep024_tubloshi_fa6f50ea:
 
     # c "I have reason to believe that the Sovereignty is planning on aggressively expanding its borders, subjugating any species that it encounters."
-    c "Tenho motivos para crer que Soberania está planejando expandir o seu território agressivamente, subjugando todas as espécies que encontrar."
+    c "Tenho motivos para crer que a Soberania está planejando expandir seu território agressivamente, subjugando todas as espécies que encontrar."
 
 # game/episode024.rpy:219
 translate portuguese ep024_tubloshi_b7efa349:
 
     # c "My father is not a reasonable man, and with the full power of the Sovereignty and any allies behind him, I think he will be capable of anything."
-    c "O meu pai não é muito razoável, e com todo o poder da soberania e os aliados que eles têm, acho que é capaz de qualquer coisa."
+    c "O meu pai não é muito razoável, e com todo o poder da Soberania e os aliados que eles têm, acho que é capaz de qualquer coisa."
 
 # game/episode024.rpy:220
 translate portuguese ep024_tubloshi_b8b827f8:
@@ -544,7 +544,7 @@ translate portuguese ep024_tubloshi_963e22b3:
 translate portuguese ep024_tubloshi_41bc59b9:
 
     # ha "The news you bring is troublesome, but our own intelligence corroborates your claims."
-    ha "A notícia que nos trás é preocupante, mas a nossa própria rede inteligência confirma o que diz."
+    ha "A notícia que nos traz é preocupante, mas a nossa própria rede de inteligência confirma o que diz."
 
 # game/episode024.rpy:226
 translate portuguese ep024_tubloshi_b94b9b3f:
@@ -562,7 +562,7 @@ translate portuguese ep024_tubloshi_bd809c7b:
 translate portuguese ep024_tubloshi_8e1f8d95:
 
     # ha "We know of several weaker systems that have rallied behind the Sovereignty’s cause."
-    ha "Temos conhecimento de vários sistemas menores que se juntaram à causa  da Soberania."
+    ha "Temos conhecimento de vários sistemas menores que se juntaram à causa da Soberania."
 
 # game/episode024.rpy:229
 translate portuguese ep024_tubloshi_a89172f7:
@@ -592,7 +592,7 @@ translate portuguese ep024_tubloshi_29b2589a:
 translate portuguese ep024_tubloshi_8574ccc4:
 
     # c "My father has hurt me and my family on several occasions."
-    c "Meu pai machucou eu e minha família em várias ocasiões."
+    c "Meu pai machucou a mim e a minha família em várias ocasiões."
 
 # game/episode024.rpy:235
 translate portuguese ep024_tubloshi_be590183:
@@ -670,7 +670,7 @@ translate portuguese ep024_tubloshi_1939e747_1:
 translate portuguese ep024_tubloshi_670dc06d_1:
 
     # c "I’m asking you humbly to become our first partners in this endeavor."
-    c "Seu heroísmo não tem rival, e é uma inspiração para todos."
+    c "Peço humildemente que se tornem nossos primeiros parceiros nessa jornada."
 
 # game/episode024.rpy:257
 translate portuguese ep024_tubloshi_3c029f7e:
@@ -874,7 +874,7 @@ translate portuguese ep024_tubloshi_agreement_ba410b4a:
 translate portuguese ep024_tubloshi_agreement_c85a809a:
 
     # "This went on for several hours, until most of the Tubloshi were lying drunk under the table."
-    "Isso continuou por horas, até a maioria dos Tubloshi estar bêbados debaixo da mesa."
+    "Isso continuou por horas, até a maioria dos Tubloshi estarem bêbados debaixo da mesa."
 
 # game/episode024.rpy:314
 translate portuguese ep024_tubloshi_agreement_66a764af:
@@ -886,7 +886,7 @@ translate portuguese ep024_tubloshi_agreement_66a764af:
 translate portuguese ep024_tubloshi_agreement_6706b6c6:
 
     # "When Kyl Zaghav staggered to stand, we knew the meeting was officially over."
-    "Na hora Kyl Zaghav já estava com dificuldade para ficar de pé, percebemos que a reunião tinha acabado."
+    "Quando Kyl Zaghav já estava com dificuldade para ficar de pé, percebemos que a reunião tinha acabado."
 
 # game/episode024.rpy:316
 translate portuguese ep024_tubloshi_agreement_fb106e05:
@@ -898,7 +898,7 @@ translate portuguese ep024_tubloshi_agreement_fb106e05:
 translate portuguese ep024_tubloshi_agreement_08fb43ca:
 
     # ha "The Tubloshi have reached a verdict."
-    ha "Os Tubloshi chegara a um veredito."
+    ha "Os Tubloshi chegaram a um veredito."
 
 # game/episode024.rpy:319
 translate portuguese ep024_tubloshi_agreement_c1fdaf03:
@@ -1060,7 +1060,7 @@ translate portuguese ep024_tubloshi_agreement_aca77ffa_1:
 translate portuguese ep024_tubloshi_agreement_ebdd5257:
 
     # ha "We will keep a comms channel open for any inquiries or directions you might have."
-    ha "Não teremos um canal aberto para quaisquer perguntas ou instruções que tiverem."
+    ha "Manteremos um canal aberto para quaisquer perguntas ou instruções que tiverem."
 
 # game/episode024.rpy:371
 translate portuguese ep024_tubloshi_agreement_0ee7adfb:
@@ -1276,7 +1276,7 @@ translate portuguese ep024_tubloshi_agreement_fcdef2f2:
 translate portuguese ep024_tubloshi_agreement_a989ae1c:
 
     # "After informing the Tubloshi of our new heading, Céline set course to Uailea."
-    "Depois que informamos os Tubloshi do nosso novo curso para Uailea."
+    "Depois de informarmos os Tubloshi do nosso novo curso, Céline traçou a rota para Uailea."
 
 # game/episode024.rpy:428
 translate portuguese ep024_hannah_f7973127:
@@ -1324,7 +1324,7 @@ translate portuguese ep024_hannah_4e8c7062:
 translate portuguese ep024_hannah_4a6a4976:
 
     # "I followed Hannah through the bowels of the Tubloshi warship until we reached her private quarters."
-    "Eu segui Hannah pela nave de guerra dos Tubloshi ate chegar nos aposentos dela."
+    "Eu segui Hannah pela nave de guerra dos Tubloshi até chegar nos aposentos dela."
 
 # game/episode024.rpy:445
 translate portuguese ep024_hannah_1a74d9bb:
@@ -1444,7 +1444,7 @@ translate portuguese ep024_hannah_106d4499:
 translate portuguese ep024_hannah_52c7b361:
 
     # ha "I tried for months to reach you, but my messages never arrived."
-    ha "Eu passei meses tentando falar com você, mas as  minhas mensagens nunca chegavam."
+    ha "Eu passei meses tentando falar com você, mas as minhas mensagens nunca chegavam."
 
 # game/episode024.rpy:474
 translate portuguese ep024_hannah_a090bea3:
@@ -1474,19 +1474,19 @@ translate portuguese ep024_hannah_7f6b1596:
 translate portuguese ep024_hannah_8b8a2425:
 
     # ha "We’ve just returned from a long campaign deep inside Gapilr territory."
-    ha "A gente tinha acabado de voltar de uma campanha longa dentro do território dos Gailpr."
+    ha "A gente tinha acabado de voltar de uma campanha longa dentro do território dos Gapilr."
 
 # game/episode024.rpy:481
 translate portuguese ep024_hannah_c34e4ec8:
 
     # ha "As you might know, the Gapilr are infamous for their xenophobia."
-    ha "Como você sabe, os Gailpr são infames pela sua xenofobia."
+    ha "Como você sabe, os Gapilr são infames pela sua xenofobia."
 
 # game/episode024.rpy:482
 translate portuguese ep024_hannah_772bc253:
 
     # ha "Any non-Gapilr species is shot on sight, and the chances of seeing you again while in Gapilr territory were very slim."
-    ha "Eles atiram em qualquer espécie que não seja Gailpr, e as chances de te ver de novo em território Gailpr bem pequenas."
+    ha "Eles atiram em qualquer espécie que não seja Gapilr, e as chances de te ver de novo em território Gailpr eram bem pequenas."
 
 # game/episode024.rpy:483
 translate portuguese ep024_hannah_65decd24:
@@ -1528,7 +1528,7 @@ translate portuguese ep024_hannah_ce50a678:
 translate portuguese ep024_hannah_256e0c02:
 
     # ha "It’s supposedly more efficient."
-    ha "Dizem que mais é eficiente"
+    ha "Dizem que é mais eficiente."
 
 # game/episode024.rpy:492
 translate portuguese ep024_hannah_4ed3d0ba:
@@ -1588,7 +1588,7 @@ translate portuguese ep024_hannah_d471daf7:
 translate portuguese ep024_hannah_e375f746:
 
     # c "I will take my responsibility."
-    c "Eu vou  aceitar minha responsabilidade."
+    c "Eu vou aceitar minha responsabilidade."
 
 # game/episode024.rpy:505
 translate portuguese ep024_hannah_be28edc7:
@@ -1666,7 +1666,7 @@ translate portuguese ep024_hannah_164e34a5:
 translate portuguese ep024_hannah_1e0dd8ad:
 
     # "I could hear Hannah crying as the door slid closed."
-    "Dá para ouvir a Hannah chorando quando as portas se fecharam."
+    "Deu para ouvir a Hannah chorando quando a porta se fechou."
 
 # game/episode024.rpy:523
 translate portuguese ep024_hannah_0aa27963:
@@ -1714,7 +1714,7 @@ translate portuguese ep024_hannah_d6c04b21:
 translate portuguese ep024_hannah_8c8080b9:
 
     # ha "I want to hear all about it."
-    ha "Eu quero ouvir tudinho."
+    ha "Me conta tudinho."
 
 # game/episode024.rpy:534
 translate portuguese ep024_hannah_3f8cf74f:
@@ -1726,7 +1726,7 @@ translate portuguese ep024_hannah_3f8cf74f:
 translate portuguese ep024_hannah_59fe9738:
 
     # "She pawed at my shirt, but I had to take her hand and stop her."
-    "Ela pegou na minha camisa, mas eu tive que tirar a mão dela."
+    "Ela pegou na minha camisa, mas eu tive que tirar sua mão e impedir isso."
 
 # game/episode024.rpy:536
 translate portuguese ep024_hannah_ea2b69e7:
@@ -1750,7 +1750,7 @@ translate portuguese ep024_hannah_90ca8a0a:
 translate portuguese ep024_hannah_37cd9dfe:
 
     # c "I’ve made a promise to someone I love."
-    c "Eu prometi uma pessoa que amo."
+    c "Eu prometi a uma pessoa que amo."
 
 # game/episode024.rpy:541
 translate portuguese ep024_hannah_8e166d61:
@@ -1768,7 +1768,7 @@ translate portuguese ep024_hannah_a027db01:
 translate portuguese ep024_hannah_2389393d:
 
     # ha "Why did you come back to my room then?"
-    ha "Então porque veio para o meu quarto?"
+    ha "Então por que veio para o meu quarto?"
 
 # game/episode024.rpy:545
 translate portuguese ep024_hannah_d010545c:
@@ -1822,7 +1822,7 @@ translate portuguese ep024_hannah_e73494e2:
 translate portuguese ep024_hannah_d7aa6482:
 
     # c "I wanted to do that the moment I saw you."
-    c "Eu estava querendo fazer  isso na hora que eu te vi."
+    c "Eu estava querendo fazer isso na hora que eu te vi."
 
 # game/episode024.rpy:562
 translate portuguese ep024_hannah_c5a32e91:
@@ -1840,7 +1840,7 @@ translate portuguese ep024_hannah_27851ff7:
 translate portuguese ep024_hannah_ae9e479d:
 
     # c "So much has happened since I last saw you."
-    c "Aconteceu tanta coisa desde que  a gente se viu."
+    c "Aconteceu tanta coisa desde que a gente se viu."
 
 # game/episode024.rpy:566
 translate portuguese ep024_hannah_95708ff1:
@@ -1858,7 +1858,7 @@ translate portuguese ep024_hannah_1fe2e969:
 translate portuguese ep024_hannah_6a2d884e:
 
     # ha "And we’re not in a hurry, because the Tubloshi have just returned from a long campaign deep inside Gapilr territory."
-    ha "E não estamos com pressa, os Tubloshi acabaram de voltar de uma campanha longa bem fundo no território dos Gailpr."
+    ha "E não estamos com pressa, os Tubloshi acabaram de voltar de uma campanha longa bem fundo no território dos Gapilr."
 
 # game/episode024.rpy:569
 translate portuguese ep024_hannah_8fad738a:
@@ -1870,7 +1870,7 @@ translate portuguese ep024_hannah_8fad738a:
 translate portuguese ep024_hannah_ca39f3e6:
 
     # ha "We were there for so long, I thought I’d never see another human being again."
-    ha "Ficamos tanto tempo lá que achei que nunca mais viria outro humano."
+    ha "Ficamos tanto tempo lá que achei que nunca mais veria outro ser humano."
 
 # game/episode024.rpy:573
 translate portuguese ep024_hannah_1dbe00a5:
@@ -1936,7 +1936,7 @@ translate portuguese ep024_hannah_541f423e:
 translate portuguese ep024_hannah_bb1fe40e:
 
     # ha "So I think your proposal will go over well with the rest of the warriors."
-    ha "Então acho que a sua proposta ser aceita tranquila pelo resto dos guerreiros."
+    ha "Então acho que a sua o resto dos guerreiros vai aceitar sua proposta sem problema."
 
 # game/episode024.rpy:594
 translate portuguese ep024_hannah_435ba5c2:
@@ -1954,7 +1954,7 @@ translate portuguese ep024_hannah_0aeb7fea:
 translate portuguese ep024_hannah_63b62949:
 
     # ha "In that case, it’s just a matter of taking a shuttle to the other ship when we want to meet."
-    ha "Nesse caso, é só questão de  pegar um transporte para outra nave quando a gente quiser se encontrar."
+    ha "Nesse caso, é só questão de pegar um transporte para outra nave quando a gente quiser se encontrar."
 
 # game/episode024.rpy:597
 translate portuguese ep024_hannah_e0d4e590:
@@ -2020,7 +2020,7 @@ translate portuguese ep024_uailea_13b298c2:
 translate portuguese ep024_uailea_90feca06:
 
     # "The Rhenkoy capital looked quite different when we went out for a stroll."
-    "A capital Rhenkoy estava bem diferente quando vamos caminhar."
+    "A capital Rhenkoy estava bem diferente quando fomos caminhar."
 
 # game/episode024.rpy:626
 translate portuguese ep024_uailea_506af255:
@@ -2038,13 +2038,13 @@ translate portuguese ep024_uailea_4d2fc95b:
 translate portuguese ep024_uailea_5316d325:
 
     # zi "Yes, the Council finally approved a lot of overdue maintenance."
-    zi "sim, o Conselho finalmente aprovou muita manutenção que já era para ter sido feita."
+    zi "Sim, o Conselho finalmente aprovou muita manutenção que já era para ter sido feita."
 
 # game/episode024.rpy:630
 translate portuguese ep024_uailea_b31c45bb:
 
     # zi "People have been complaining for years, but the Nkoy finally voted in favor after being deadlocked for so long."
-    zi "As pessoas já estavam reclamando faz tempo, mas as Nkoy finalmente voltaram a favor, depois de um bom tempo de indecisão."
+    zi "As pessoas já estavam reclamando faz tempo. Mas depois de um bom tempo de indecisão, as Nkoy finalmente votaram a favor."
 
 # game/episode024.rpy:631
 translate portuguese ep024_uailea_e2ea2432:
@@ -2062,13 +2062,13 @@ translate portuguese ep024_uailea_7cdc14bd:
 translate portuguese ep024_uailea_f5c46100:
 
     # c "I hope they’re not too busy to handle our request for help, in that case."
-    c "Nesse caso Espero que não estejam ocupadas demais para cuidar do nosso pedido de ajuda."
+    c "Nesse caso, espero que não estejam ocupadas demais para cuidar do nosso pedido de ajuda."
 
 # game/episode024.rpy:634
 translate portuguese ep024_uailea_bd7a4bb1:
 
     # zi "I’m sure they’re not too busy for something like that."
-    zi "Imagino que eu não gostar ocupadas para algo assim."
+    zi "Imagino que não estão ocupadas demais para algo assim."
 
 # game/episode024.rpy:637
 translate portuguese ep024_uailea_b4d13737:
@@ -2164,7 +2164,7 @@ translate portuguese ep024_uailea_58f5b829:
 translate portuguese ep024_uailea_70f464a7:
 
     # zi "I’ll file our request at the Council, and I hope we’ll have an answer in a few days."
-    zi "Vou fazer o pedido ao Conselho, espero ter uma respostas dentro de alguns dias."
+    zi "Vou fazer o pedido ao Conselho, espero ter uma resposta dentro de alguns dias."
 
 # game/episode024.rpy:659
 translate portuguese ep024_uailea_517b2470:
@@ -2194,7 +2194,7 @@ translate portuguese ep024_uailea_rhedia_41f44719:
 translate portuguese ep024_uailea_rhedia_2a50a53f:
 
     # rh "I hope your stay with us is to your liking so far?"
-    rh "Espero que teja gostando de sua estadia aqui?"
+    rh "Espero que esteja gostando de sua estadia aqui?"
 
 # game/episode024.rpy:668
 translate portuguese ep024_uailea_rhedia_fee8c54c:
@@ -2224,13 +2224,13 @@ translate portuguese ep024_uailea_rhedia_2e411744:
 translate portuguese ep024_uailea_rhedia_f6dabdde:
 
     # rh "We will talk more of this during the Council session."
-    rh "Vamos conversar mais  durante a sessão do Conselho."
+    rh "Vamos conversar mais durante a sessão do Conselho."
 
 # game/episode024.rpy:674
 translate portuguese ep024_uailea_rhedia_af89e6ef:
 
     # rh "A session is planned very soon, and I’m sorry for the long wait, but we are very busy shaping the future of Uailea."
-    rh "A sessão deve acontecer em breve, me desculpe pela longa espera. Mas estamos muito ocupadas planejando do futuro de Uailea."
+    rh "A sessão deve acontecer em breve, e desculpe pela longa espera. Mas estamos muito ocupadas planejando o futuro de Uailea."
 
 # game/episode024.rpy:675
 translate portuguese ep024_uailea_rhedia_55cee9e4:
@@ -2326,7 +2326,7 @@ translate portuguese ep024_uailea_rhedia_15f26050:
 translate portuguese ep024_uailea_rhedia_eb0a06c9:
 
     # rh "On the other hand, more and more information about the corruption of the Council of Nkoy and Arlya’s role in it is coming to light."
-    rh "Por outro lado, cada vez mais informação sobre a corrupção do Conselho de Nkoy e da influência da Arlya ficou mais à tona."
+    rh "Por outro lado, está surgindo cada vez mais informação sobre a corrupção do Conselho de Nkoy e da influência da Arlya."
 
 # game/episode024.rpy:697
 translate portuguese ep024_uailea_rhedia_bed52dc3:
@@ -2362,7 +2362,7 @@ translate portuguese ep024_uailea_rhedia_c0f363fd:
 translate portuguese ep024_uailea_rhedia_88fb1e09:
 
     # "Rhedia left the apartment and I began to feel more hopeful than before we set foot on Uailea."
-    "Rhedia saiu do apartamento e eu comecei a ficar mais esperançoso que antes de botamos os pés em Uailea."
+    "Rhedia saiu do apartamento e eu comecei a ficar mais esperançoso que antes de botarmos os pés em Uailea."
 
 # game/episode024.rpy:708
 translate portuguese ep024_uailea_arlya_017e8cd7:
@@ -2518,7 +2518,7 @@ translate portuguese ep024_uailea_arlya_f4ffab66:
 translate portuguese ep024_uailea_arlya_011ea9f8:
 
     # arl "Our agreement will be witnessed and filed with the League of Dipoturn to ensure it’s legally binding and that the Council will be none the wiser."
-    arl "Não osso acordo será testemunhado e peticionado com a Liga de Dipoturn para certificar que é um documento legal e que o Conselho não vai fazer ideia."
+    arl "Nosso acordo será testemunhado e registrado com Liga de Dipoturn para certificar que é um documento legal e que o Conselho não vai fazer ideia."
 
 # game/episode024.rpy:744
 translate portuguese ep024_uailea_arlya_950daf31:
@@ -2638,7 +2638,7 @@ translate portuguese ep024_uailea_arlya_bribe_0307612a:
 translate portuguese ep024_uailea_arlya_bribe_eb3452d0:
 
     # man "I will witness the signing and a copy of the document, and the recording will be stored in the Vault of Dipoturn."
-    man "E testemunharei a assinatura e uma cópia do documento, e a gravação será guardada no Cofre de Dipoturn."
+    man "Eu testemunharei a assinatura e uma cópia do documento, e a gravação será guardada no Cofre de Dipoturn."
 
 # game/episode024.rpy:775
 translate portuguese ep024_uailea_arlya_bribe_90897e30:
@@ -2650,7 +2650,7 @@ translate portuguese ep024_uailea_arlya_bribe_90897e30:
 translate portuguese ep024_uailea_arlya_bribe_24f2842b:
 
     # man "Failure to honor the terms of the agreement will result in disciplinary action courtesy of the League of Dipoturn and any associates."
-    man "O descumprimento dos termos de acordo resultará em Ação disciplinar a cortesia da Liga de Dipoturn e seus associados."
+    man "O descumprimento dos termos de acordo resultará em ação disciplinar, cortesia da Liga de Dipoturn e seus associados."
 
 # game/episode024.rpy:779
 translate portuguese ep024_uailea_arlya_bribe_d0b4789f:
@@ -2698,7 +2698,7 @@ translate portuguese ep024_uailea_arlya_bribe_359e3689:
 translate portuguese ep024_uailea_arlya_bribe_a754028c:
 
     # "The android left me, and I was alone again."
-    "O Android foi embora, me deixando sozinho novamente."
+    "O androide foi embora, me deixando sozinho novamente."
 
 # game/episode024.rpy:788
 translate portuguese ep024_uailea_arlya_bribe_53f02089:
@@ -2794,7 +2794,7 @@ translate portuguese ep024_uailea_council_73d0143d:
 translate portuguese ep024_uailea_council_330e1759:
 
     # rh "On the matter of providing diplomatic services to a Coalition against the aggression of the Sovereignty, the Council has reached a verdict."
-    rh "Sobre o assunto de prover serviços diplomáticos a uma Aliança contra a agressão da Soberania, o conselho chegou a um veredito."
+    rh "Sobre o assunto de prover serviços diplomáticos a uma Aliança contra a agressão da Soberania, o Conselho chegou a um veredito."
 
 # game/episode024.rpy:814
 translate portuguese ep024_uailea_council_944f9e24:
@@ -2902,7 +2902,7 @@ translate portuguese ep024_uailea_council_68b6cf4f:
 translate portuguese ep024_uailea_council_f7d69d1b:
 
     # c "Allying ourselves with an outcast seems to have paid off in the end."
-    c "Parece que no final, aliar com uma excluída acabou dando certo."
+    c "No final das contas, uma aliança com uma exilada acabou dando certo."
 
 # game/episode024.rpy:837
 translate portuguese ep024_uailea_council_ebfcb5c0:
@@ -2926,7 +2926,7 @@ translate portuguese ep024_uailea_council_5723e9cd:
 translate portuguese ep024_uailea_council_f44dd42f:
 
     # "One day after the visit of the representative of the League of Dipoturn, the Council invited us to join them."
-    "Um dia depois da visita do representante da Liga de Dipoturn, o Conselho nos convidou para conversar,"
+    "Um dia depois da visita do representante da Liga de Dipoturn, o Conselho nos convidou para conversar."
 
 # game/episode024.rpy:846
 translate portuguese ep024_uailea_council_7766e056:
@@ -2980,7 +2980,7 @@ translate portuguese ep024_uailea_council_dc834bcc:
 translate portuguese ep024_uailea_council_d22de38e:
 
     # arl "It is not in the best interest of the Rhenkoy to become part of this conflict, and we will therefore remain neutral in this conflict."
-    arl "Não é melhor para as Nkoy participar deste conflito, sendo assim seremos parte neutra."
+    arl "Não é do interesse das Rhenkoy participar deste conflito. Sendo assim, permaneceremos parte neutra."
 
 # game/episode024.rpy:860
 translate portuguese ep024_uailea_council_209fe013:
@@ -3034,7 +3034,7 @@ translate portuguese ep024_uailea_council_e97e627a:
 translate portuguese ep024_uailea_council_fcc5255f:
 
     # zi "You’re seriously quoting a dissident fundamentalist as gospel now?"
-    zi "É sério que você está citando um fundamentalista rebelde como se fosse escritura?"
+    zi "É sério que você está citando uma fundamentalista rebelde como se fosse escritura?"
 
 # game/episode024.rpy:873
 translate portuguese ep024_uailea_council_4a5e48f6:
@@ -3070,7 +3070,7 @@ translate portuguese ep024_uailea_council_38adc7ce:
 translate portuguese ep024_uailea_council_c75788ef:
 
     # zi "They’re so shortsighted!"
-    zi "Elas são tão míopes!"
+    zi "Elas não enxergam um palmo na frente do nariz!"
 
 # game/episode024.rpy:886
 translate portuguese ep024_uailea_council_6d073341:
@@ -3124,7 +3124,7 @@ translate portuguese ep024_uailea_council_1f0c1c31:
 translate portuguese ep024_uailea_council_f3a94386:
 
     # na "The diplomatic skills of the Rhenkoy aren’t easily replicated, but there must be other options we can explore."
-    na "As habilidades diplomáticas das Rhenkoy que não podem ser facilmente replicadas, mas deve ter outras opções que podemos explorar."
+    na "As habilidades diplomáticas das Rhenkoy não podem ser facilmente replicadas, mas deve ter outras opções que podemos explorar."
 
 # game/episode024.rpy:900
 translate portuguese ep024_uailea_council_d6f079c4:
@@ -3340,7 +3340,7 @@ translate portuguese ep024_uailea_rhedia_crisis_7b86c60b:
 translate portuguese ep024_uailea_rhedia_crisis_9c75e6f1:
 
     # rh "Yes, we have received ransom demands from an organization based in Sharard this morning."
-    rh "Sim, recebemos exigências de resgate de organização de Sharard hoje de manhã."
+    rh "Sim, recebemos exigências de resgate de uma organização de Sharard hoje de manhã."
 
 # game/episode024.rpy:954
 translate portuguese ep024_uailea_rhedia_crisis_8b7bddcc:
@@ -3352,7 +3352,7 @@ translate portuguese ep024_uailea_rhedia_crisis_8b7bddcc:
 translate portuguese ep024_uailea_rhedia_crisis_32061787:
 
     # rh "Sharard has always been a base of power for Nkoy Arlya, and many of her followers still live there."
-    rh "Sharard sempre foi um lugar influente da Nkoy Arlya, e muitas de sua seguidoras ainda moram lá."
+    rh "Sharard sempre foi um lugar influente da Nkoy Arlya, e muitas de suas seguidoras ainda moram lá."
 
 # game/episode024.rpy:957
 translate portuguese ep024_uailea_rhedia_crisis_f9fccc7f:
@@ -3388,7 +3388,7 @@ translate portuguese ep024_uailea_rhedia_crisis_730660fd:
 translate portuguese ep024_uailea_rhedia_crisis_fa62fe38:
 
     # rh "Treating their hostages fairly is still in their best interest."
-    rh "E de interesse delas tratar bem as suas reféns."
+    rh "Ainda é de interesse delas tratar bem as suas reféns."
 
 # game/episode024.rpy:964
 translate portuguese ep024_uailea_rhedia_crisis_a90ac1ec:
@@ -3472,7 +3472,7 @@ translate portuguese ep024_uailea_rhedia_crisis_ce0d7edf:
 translate portuguese ep024_uailea_rhedia_crisis_3105e8d0:
 
     # rh "The fact that you are not formally tied to the Council of Nkoy will make it easier for us to deny any involvement."
-    rh "O fato que oficialmente você não faz parte do Conselho de Nkoy deixará mais fácil negarmos qualquer envolvimento."
+    rh "O fato de que oficialmente você não faz parte do Conselho de Nkoy deixará mais fácil negarmos qualquer envolvimento."
 
 # game/episode024.rpy:982
 translate portuguese ep024_uailea_rhedia_crisis_538fe4f3:
@@ -3490,7 +3490,7 @@ translate portuguese ep024_uailea_rhedia_crisis_6a141c12:
 translate portuguese ep024_uailea_rhedia_crisis_3da9da50:
 
     # rh "I’m not saying it won’t be a problem, but it will be a problem we can manage."
-    rh "Não estou dizendo que não seria um problema, mas seria um problema que podemos lidar."
+    rh "Não estou dizendo que não seria um problema, mas seria um problema com o qual podemos lidar."
 
 # game/episode024.rpy:986
 translate portuguese ep024_uailea_rhedia_crisis_28d15c8b:
@@ -3718,7 +3718,7 @@ translate portuguese ep024_uailea_ziv_14108021:
 translate portuguese ep024_uailea_ziv_30e7b2db:
 
     # c "Did they agree to come with us?"
-    c "Elas concordaram vir com a gente?"
+    c "Elas aceitaram vir com a gente?"
 
 # game/episode024.rpy:1043
 translate portuguese ep024_uailea_ziv_b584cbd2:
@@ -3736,7 +3736,7 @@ translate portuguese ep024_uailea_ziv_4eef07fb:
 translate portuguese ep024_uailea_ziv_ca7e1816:
 
     # zi "Rhedia and her dissidents got a show trial and were then sent to a holding facility near Sharard."
-    zi "Rhedia e suas rebeldes tiveram um julgamento de mentira que foram enviadas para um centro de detenção em Sharard."
+    zi "Rhedia e suas rebeldes tiveram um julgamento de mentira e foram enviadas para um centro de detenção em Sharard."
 
 # game/episode024.rpy:1047
 translate portuguese ep024_uailea_ziv_59893090:
@@ -3754,13 +3754,13 @@ translate portuguese ep024_uailea_ziv_179b6aff:
 translate portuguese ep024_uailea_ziv_ca33e566:
 
     # zi "A prison would mean that Rhedia would have visitation rights and other privileges."
-    zi "Uma prisão significa que Rhedia teria direito a visita e outras privilégios."
+    zi "Uma prisão significa que Rhedia teria direito a visita e outros privilégios."
 
 # game/episode024.rpy:1050
 translate portuguese ep024_uailea_ziv_e26f13d2:
 
     # c "And the Council agreed to move Rhedia there, without any official oversight?"
-    c "E o conselho concordou em levar a Rhedia lá, sem qualquer fiscalização?"
+    c "E o Conselho concordou em levar a Rhedia lá, sem qualquer fiscalização?"
 
 # game/episode024.rpy:1052
 translate portuguese ep024_uailea_ziv_e73ba1e5:
@@ -3790,7 +3790,7 @@ translate portuguese ep024_uailea_ziv_dc96cf73:
 translate portuguese ep024_uailea_ziv_db81f7d5:
 
     # c "But how does knowing where Rhedia is captured help us?"
-    c "Mas como que saber onde é Não Rhedia está sendo mantida ajuda a gente?"
+    c "Mas como que saber onde a Rhedia está sendo mantida ajuda a gente?"
 
 # game/episode024.rpy:1059
 translate portuguese ep024_uailea_ziv_f0992543:
@@ -3868,7 +3868,7 @@ translate portuguese ep024_uailea_ziv_82700ba2:
 translate portuguese ep024_uailea_ziv_4789d6ab:
 
     # c "If that facility were to become public knowledge it would be a publicity nightmare?"
-    c "E se esse prédio fosse de conhecimento público seria um pesadelo de publicidade?"
+    c "E se esse prédio fosse de conhecimento público seria um escândalo público?"
 
 # game/episode024.rpy:1079
 translate portuguese ep024_uailea_ziv_f79996b0:
@@ -3880,7 +3880,7 @@ translate portuguese ep024_uailea_ziv_f79996b0:
 translate portuguese ep024_uailea_ziv_a643c9d7:
 
     # zi "Something she can’t afford as she’s still asserting her grip on the Council."
-    zi "Ela não pode ajudar com isso enquanto ainda está tentando consolidar sua influência sobre o Conselho."
+    zi "Ela não pode se dar a esse luxo enquanto ainda estiver tentando consolidar sua influência sobre o Conselho."
 
 # game/episode024.rpy:1081
 translate portuguese ep024_uailea_ziv_4a7a060d:
@@ -4012,7 +4012,7 @@ translate portuguese ep024_sharard_4e829ffa:
 translate portuguese ep024_sharard_a0a0d85e:
 
     # "Ziv, Aven, Lilly, Kit, Jade and I flew an unmarked shuttle provided by Special Ops to Sharard."
-    "Eu, Ziv, Aven, Lilly, Kit, e Jade fomos até Sharard numa nave de transporte escondido dado pelas Operações Especiais."
+    "Eu, Ziv, Aven, Lilly, Kit, e Jade fomos até Sharard numa nave de transporte camuflada cedida pelas Operações Especiais."
 
 # game/episode024.rpy:1116
 translate portuguese ep024_sharard_39f61cf5:
@@ -4186,7 +4186,7 @@ translate portuguese ep024_sharard_ff167699:
 translate portuguese ep024_sharard_65d69a72:
 
     # ki "All clear."
-    ki "Não rem ninguém."
+    ki "Não tem ninguém."
 
 # game/episode024.rpy:1154
 translate portuguese ep024_sharard_066bba35:
@@ -4348,13 +4348,13 @@ translate portuguese ep024_sharard_5e69efd3:
 translate portuguese ep024_sharard_6e838121:
 
     # c "So there are two levels of Rhenkoy separating us from them?"
-    c "Então tem dois andares de Rhenkoy entre a gente elas?"
+    c "Então tem dois andares de Rhenkoy entre a gente e elas?"
 
 # game/episode024.rpy:1193
 translate portuguese ep024_sharard_8228ae96:
 
     # c "So there are two levels of Rhenkoy separating us from Rhedia?"
-    c "Então tem dois andares de Rhenkoy entre a gente a Rhedia?"
+    c "Então tem dois andares de Rhenkoy entre a gente e a Rhedia?"
 
 # game/episode024.rpy:1194
 translate portuguese ep024_sharard_6fae616a:
@@ -4378,13 +4378,13 @@ translate portuguese ep024_sharard_bfa54833:
 translate portuguese ep024_sharard_e7bc106e:
 
     # j "Yes, I think so."
-    j "Acho que tem."
+    j "Acho que dá."
 
 # game/episode024.rpy:1199
 translate portuguese ep024_sharard_c62fd425:
 
     # j "The area where we are now was used as a living space before."
-    j "Elas moravam essa área aqui antes."
+    j "Elas moravam nessa área aqui antes."
 
 # game/episode024.rpy:1200
 translate portuguese ep024_sharard_616d45d0:
@@ -4492,7 +4492,7 @@ translate portuguese ep024_sharard_adb89ae0:
 translate portuguese ep024_sharard_cb1f186b:
 
     # "Securing the lines to our harnesses, the crew initiated the ascent, and we were yanked several feet in the air, passing by two floors."
-    "Prendendo as cordas nos cintos, começamos a subir, puxados bem alto e passando por dois andares. "
+    "Prendendo as cordas nos cintos, começamos a subir, puxados bem alto e passando por dois andares."
 
 # game/episode024.rpy:1227
 translate portuguese ep024_sharard_f9f2b0f6:
@@ -4558,7 +4558,7 @@ translate portuguese ep024_sharard_01f2248f:
 translate portuguese ep024_sharard_a9f3b83b:
 
     # j "Three of you are going to guide Rhedia here and start getting them to the bottom floor."
-    j "Três de vocês vão ter que trazer Rhedia até aqui e começar a descer até o andar de baixo."
+    j "Três de vocês vão ter que trazer a Rhedia até aqui e começar a descer até o andar de baixo."
 
 # game/episode024.rpy:1242
 translate portuguese ep024_sharard_fc651851:
@@ -4594,7 +4594,7 @@ translate portuguese ep024_sharard_c20c9ad2:
 translate portuguese ep024_sharard_d9c91f90:
 
     # "As Jade kneeled down to get better aim, the floor creaked."
-    "Na hora que Jade se ajoelhou para conseguir virar melhor, o chão fez um barulho."
+    "Na hora que Jade se ajoelhou para conseguir mirar melhor, o chão fez um barulho."
 
 # game/episode024.rpy:1251
 translate portuguese ep024_sharard_5d58bb15:
@@ -4624,7 +4624,7 @@ translate portuguese ep024_sharard_55d47531:
 translate portuguese ep024_sharard_c60c4f51:
 
     # c "Two down, five to go."
-    c "Duas já foram, falta cinco."
+    c "Duas já foram, faltam cinco."
 
 # game/episode024.rpy:1260
 translate portuguese ep024_sharard_f515acfc:
@@ -4690,7 +4690,7 @@ translate portuguese ep024_sharard_4893b2a3:
 translate portuguese ep024_sharard_f75b8701:
 
     # "One was able to voice her surprise, before the grenade exploded in a puff of sedative."
-    "Uma conseguiu gritar em surpresa, dá granada explodiu com uma fumaça sedativa."
+    "Uma conseguiu gritar em surpresa, antes da granada explodir com uma nuvem de sedativos."
 
 # game/episode024.rpy:1276
 translate portuguese ep024_sharard_c4a1bd0c:
@@ -4798,7 +4798,7 @@ translate portuguese ep024_sharard_7cefe421:
 translate portuguese ep024_sharard_879677fa:
 
     # "With the hostages following us, we made our way back to the caved-in room, Lilly, Aven and Kit giving us cover."
-    "Com as reféns seguindo, voltamos até a sala do desabamento, com Lilly e Aven e Kit dando cobertura."
+    "Com as reféns seguindo, voltamos até a sala do desabamento, com Lilly, Aven e Kit dando cobertura."
 
 # game/episode024.rpy:1303
 translate portuguese ep024_sharard_6ea71a70:
@@ -4870,7 +4870,7 @@ translate portuguese ep024_sharard_3534ad2d:
 translate portuguese ep024_sharard_824d2099:
 
     # "Members of the Special Ops team were already waiting for us to receive the diplomats."
-    "Membros ads Operações Especiais já estavam nos esperando para receber as diplomatas."
+    "Membros das Operações Especiais já estavam nos esperando para receber as diplomatas."
 
 # game/episode024.rpy:1319
 translate portuguese ep024_sharard_bc521552:
@@ -5002,7 +5002,7 @@ translate portuguese ep024_sharard_7537f193:
 translate portuguese ep024_sharard_6ea71a70_1:
 
     # "Attaching the lines to our harnesses again, we were ready for our descent."
-    "Prendemos as cordas nos cintos novamente fomos descer."
+    "Prendemos as cordas de volta nos cintos e fomos descer."
 
 # game/episode024.rpy:1351
 translate portuguese ep024_sharard_ef912c5a_1:
@@ -5080,7 +5080,7 @@ translate portuguese ep024_sharard_945af355:
 translate portuguese ep024_sharard_338a6bab:
 
     # rh "I have every confidence she was planning on doing so, but not before my reputation was tarnished and my death would have been a mere blip in the news cycle."
-    rh "Eu acredito plenamente que ela estava planejando fazer isso, mas só depois de a ruim na minha reputação, aí a minha morte nem seria notícia."
+    rh "Eu acredito plenamente que ela estava planejando fazer isso, mas só depois de arruinar a minha reputação, aí a minha morte nem seria notícia."
 
 # game/episode024.rpy:1371
 translate portuguese ep024_sharard_f6083752:
@@ -5098,7 +5098,7 @@ translate portuguese ep024_sharard_23a9231f:
 translate portuguese ep024_sharard_638397df:
 
     # rh "But I guess you haven’t come to my aid just out of the goodness of your hearts."
-    rh "Mas imagino que não tenho vindo me ajudar só para fazer o bem."
+    rh "Mas imagino que não tenham vindo me ajudar só para fazer o bem."
 
 # game/episode024.rpy:1375
 translate portuguese ep024_sharard_4c7c17c6:
@@ -5146,7 +5146,7 @@ translate portuguese ep024_sharard_41a85fc5:
 translate portuguese ep024_sharard_7f07fc82:
 
     # zi "Is it safe for you to remain on Uailea, Nkoy Rhedia?"
-    zi "É seguro que volte a Uailea, Nkoy Rhedia?"
+    zi "Nkoy Rhedia, é seguro que fique em Uailea?"
 
 # game/episode024.rpy:1388
 translate portuguese ep024_sharard_92b00b73:
@@ -5188,7 +5188,7 @@ translate portuguese ep024_sharard_b9deee49:
 translate portuguese ep024_sharard_7f3454bb:
 
     # rh "Could I use the shuttle comms for a second?"
-    rh "Posso usar o comunicador da nave em um instante?"
+    rh "Posso usar o comunicador da nave um instante?"
 
 # game/episode024.rpy:1397
 translate portuguese ep024_sharard_b3d3e123:
@@ -5206,7 +5206,7 @@ translate portuguese ep024_sharard_a324b409:
 translate portuguese ep024_sharard_e600be3f:
 
     # rh "Yes, my followers are on their way and will be here any minute."
-    rh "Sim, As minhas seguidoras já estão a caminho, já devem estar chegando."
+    rh "Sim, as minhas seguidoras já estão a caminho, já devem estar chegando."
 
 # game/episode024.rpy:1401
 translate portuguese ep024_sharard_09ef8c13:
@@ -5422,7 +5422,7 @@ translate portuguese ep024_uailea_departure_6294542d:
 translate portuguese ep024_uailea_departure_4ac807e5:
 
     # "After a few hours, the greatship containing the Rhenkoy diplomats joined us."
-    "Algumas horas depois, a nave mãe com as diplomatas Rhenkoy apareceram."
+    "Algumas horas depois, a nave mãe com as diplomatas Rhenkoy apareceu."
 
 # game/episode024.rpy:1451
 translate portuguese ep024_uailea_departure_1204ae86:
@@ -5536,13 +5536,13 @@ translate portuguese ep024_uailea_jade_b2cececb:
 translate portuguese ep024_uailea_jade_5a60b0be:
 
     # c "Understandable, since it was something you’ve wanted for a long time."
-    c "Faz sentido, er algo que você estava querendo faz tempo."
+    c "Faz sentido, você já estava querendo isso faz tempo."
 
 # game/episode024.rpy:1486
 translate portuguese ep024_uailea_jade_9f64a2bd:
 
     # j "Yes."
-    j "É."
+    j "Sim."
 
 # game/episode024.rpy:1487
 translate portuguese ep024_uailea_jade_10cd9f46:
@@ -5596,7 +5596,7 @@ translate portuguese ep024_uailea_jade_9fbf1f60:
 translate portuguese ep024_uailea_jade_63b81781:
 
     # j "I hope our child will grow up in peace."
-    j "Espero que nossa criança crescer em paz."
+    j "Espero que nossa criança cresça em paz."
 
 # game/episode024.rpy:1500
 translate portuguese ep024_uailea_jade_90fc3d6e:
@@ -5782,7 +5782,7 @@ translate portuguese ep024_hannah_sex_2808ae34:
 translate portuguese ep024_hannah_sex_006d0439:
 
     # "She was a sight to behold, her toned body on full display."
-    "Ela estava linda,s eu corpo escultural à mostra."
+    "Ela estava linda, seu corpo escultural à mostra."
 
 # game/episode024.rpy:1558
 translate portuguese ep024_hannah_sex_7537b205:
@@ -5812,7 +5812,7 @@ translate portuguese ep024_hannah_sex_fb0518ae:
 translate portuguese ep024_hannah_sex_43405383:
 
     # "Resting my hand on her head, I admired her pert ass and the curve of her back."
-    "Deixando a mão na cabeça dela, admirando sua bundinha firme e a curva de suas costas."
+    "Deixando a mão na cabeça dela, admirei sua bundinha firme e a curva de suas costas."
 
 # game/episode024.rpy:1571
 translate portuguese ep024_hannah_sex_c73ccc97:
@@ -5890,7 +5890,7 @@ translate portuguese ep024_hannah_sex_2ffad896:
 translate portuguese ep024_hannah_sex_64c6c310:
 
     # c "I’d forgotten how tight you were."
-    c "Tinha esquecido com você era apertada."
+    c "Tinha esquecido como você era apertada."
 
 # game/episode024.rpy:1595
 translate portuguese ep024_hannah_sex_e455b3fc:
@@ -5938,7 +5938,7 @@ translate portuguese ep024_hannah_sex_5daa55e4:
 translate portuguese ep024_hannah_sex_97c54328:
 
     # "I wanted to bury my cock deep inside her tight wet cunt and remain in that perfect moment of bliss."
-    "Eu queria meter bem fundo dessa bocetinha apertada e ficar nesse momento perfeito de êxtase."
+    "Eu queria meter bem fundo nessa bocetinha apertada e ficar nesse momento perfeito de êxtase."
 
 # game/episode024.rpy:1612
 translate portuguese ep024_hannah_sex_fbce4d6b:
@@ -6064,7 +6064,7 @@ translate portuguese ep024_hannah_sex_605bdba9:
 translate portuguese ep024_hannah_sex_f0219027:
 
     # ha "Yes, [p_name_short], give it to me!"
-    ha "Isso, [p_name_short] goza para mim!"
+    ha "Isso, [p_name_short], goza para mim!"
 
 # game/episode024.rpy:1657
 translate portuguese ep024_hannah_sex_0b096506:
@@ -6094,7 +6094,7 @@ translate portuguese ep024_hannah_sex_fe77dc10:
 translate portuguese ep024_hannah_sex_614555ac:
 
     # ha "There’s so much!"
-    ha "Nossa, quanta coisa!"
+    ha "Tanto leitinho!"
 
 # game/episode024.rpy:1667
 translate portuguese ep024_hannah_sex_29fd1c20:
@@ -6376,7 +6376,7 @@ translate portuguese ep024_th_j_ve_sex_e7e52a22:
 translate portuguese ep024_th_j_ve_sex_da3cf3ee:
 
     # th "Maybe I’ll have you drained long before they arrive..."
-    th "Talvez eu te canse bem antes de elas aparecerem..."
+    th "Talvez eu te seque todinho antes de elas aparecerem..."
 
 # game/episode024.rpy:1781
 translate portuguese ep024_th_j_ve_sex_e239d8cb:
@@ -6412,7 +6412,7 @@ translate portuguese ep024_th_j_ve_sex_b6f7bb9a:
 translate portuguese ep024_th_j_ve_sex_e573dcb6:
 
     # th "You’re going to cum before you know it."
-    th "Você vai gozar antes que que perceba."
+    th "Você vai gozar antes que perceba."
 
 # game/episode024.rpy:1790
 translate portuguese ep024_th_j_ve_sex_ee7decc2:
@@ -6508,7 +6508,7 @@ translate portuguese ep024_th_j_ve_sex_c46d1ea1:
 translate portuguese ep024_th_j_ve_sex_88096d00:
 
     # th "No, no!{w} Not yet, please!"
-    th "Não, não!{w} ainda não, por favor!"
+    th "Não, não!{w} Ainda não, por favor!"
 
 # game/episode024.rpy:1821
 translate portuguese ep024_th_j_ve_sex_80b99d7b:
@@ -6520,7 +6520,7 @@ translate portuguese ep024_th_j_ve_sex_80b99d7b:
 translate portuguese ep024_th_j_ve_sex_85b2e7a1:
 
     # th "You guys have such a weird kink going on."
-    th "Vocês tem uma tara bem esquisita."
+    th "Vocês têm uma tara bem esquisita."
 
 # game/episode024.rpy:1823
 translate portuguese ep024_th_j_ve_sex_f3fbd0e7:
@@ -6574,7 +6574,7 @@ translate portuguese ep024_th_j_ve_sex_fbb3578c:
 translate portuguese ep024_th_j_ve_sex_f7d34963:
 
     # "Jade displayed her considerable cocksucking talents, while Thyia fingered herself as she watched us."
-    "Jade mostrou seu super talento de chupar pau, enquanto Thyia se dedava enquanto assistia."
+    "Jade mostrou que é muito talentosa em chupar pau, enquanto Thyia se dedava nos assistindo."
 
 # game/episode024.rpy:1837
 translate portuguese ep024_th_j_ve_sex_ac65dc7c:
@@ -6652,7 +6652,7 @@ translate portuguese ep024_th_j_ve_sex_dfabace6:
 translate portuguese ep024_th_j_ve_sex_f4455a0b:
 
     # j "You feel so big inside me, master!"
-    j "Ai mestre, tão gostoso!"
+    j "Ai mestre, tão grande aqui dentro de mim!"
 
 # game/episode024.rpy:1856
 translate portuguese ep024_th_j_ve_sex_da1a86f7:
@@ -6676,7 +6676,7 @@ translate portuguese ep024_th_j_ve_sex_8e1bee30:
 translate portuguese ep024_th_j_ve_sex_dfa2fd6c:
 
     # j "Oh yes!{w} Yes!"
-    j "Aiih, isso! Mhmm!"
+    j "Aiih, isso!{w} Mhmm!"
 
 # game/episode024.rpy:1862
 translate portuguese ep024_th_j_ve_sex_b1c1e187:
@@ -6880,7 +6880,7 @@ translate portuguese ep024_th_j_ve_sex_4bf304b5:
 translate portuguese ep024_th_j_ve_sex_dbb13aea_1:
 
     # "She guided my cock inside her pussy and moaned softly as I hit her deep."
-    "Ela guiou meu até a sua boceta e soltou um leve gemido quando cheguei fundo."
+    "Ela guiou pau meu até a boceta e soltou um leve gemido quando cheguei fundo."
 
 # game/episode024.rpy:1908
 translate portuguese ep024_th_j_ve_sex_572909c3:
@@ -6946,7 +6946,7 @@ translate portuguese ep024_th_j_ve_sex_cc5ff261:
 translate portuguese ep024_th_j_ve_sex_6d3d9599:
 
     # c "At this rate, I’ve filled you up in minutes, and there’ll be nothing left for Vess..."
-    c "A essa altura vou te encher todinha em questão de minutos, não vai sobrar nada para a Vess..."
+    c "Nesse ritmo, vou te encher todinha em questão de minutos, não vai sobrar nada para a Vess..."
 
 # game/episode024.rpy:1923
 translate portuguese ep024_th_j_ve_sex_047ad2fb_1:
@@ -7078,7 +7078,7 @@ translate portuguese ep024_th_j_ve_sex_1a879b8d:
 translate portuguese ep024_th_j_ve_sex_36d2cdfd:
 
     # j "You might get some too."
-    j "Talvez você também vai levar."
+    j "Talvez você também leve."
 
 # game/episode024.rpy:1960
 translate portuguese ep024_th_j_ve_sex_aaeea3c5:
@@ -7090,7 +7090,7 @@ translate portuguese ep024_th_j_ve_sex_aaeea3c5:
 translate portuguese ep024_th_j_ve_sex_1b376251:
 
     # th "Don’t you think Vess should have a taste?"
-    th "Não acha que a Vess devia dar  uma provadinha?"
+    th "Não acha que a Vess devia dar uma provadinha?"
 
 # game/episode024.rpy:1963
 translate portuguese ep024_th_j_ve_sex_fd6ccbde:
@@ -7222,7 +7222,7 @@ translate portuguese ep024_th_j_ve_sex_b89b0a02_1:
 translate portuguese ep024_th_j_ve_sex_04c0148e_1:
 
     # c "She should get naked first."
-    c "Ela precisa tirar a roupa primeiro antes."
+    c "Ela precisa tirar a roupa primeiro."
 
 # game/episode024.rpy:1993
 translate portuguese ep024_th_j_ve_sex_1a879b8d_1:
@@ -7234,7 +7234,7 @@ translate portuguese ep024_th_j_ve_sex_1a879b8d_1:
 translate portuguese ep024_th_j_ve_sex_36d2cdfd_1:
 
     # j "You might get some too."
-    j "Talvez você também vai levar."
+    j "Talvez você também leve."
 
 # game/episode024.rpy:1996
 translate portuguese ep024_th_j_ve_sex_aaeea3c5_1:
@@ -7462,7 +7462,7 @@ translate portuguese ep024_th_j_ve_sex_20029e61:
 translate portuguese ep024_th_j_ve_sex_5081b3d1:
 
     # "In response to Thyia’s comments, I began to fuck Vess harder."
-    "Em resposta ao comentários da Thyia, comecei a foder Vess com mais força."
+    "Em respostas ao comentários da Thyia, comecei a foder Vess com mais força."
 
 # game/episode024.rpy:2051
 translate portuguese ep024_th_j_ve_sex_32bed35f:
@@ -7924,7 +7924,7 @@ translate portuguese ep024_th_j_ve_sex_10b9e7df:
 translate portuguese ep024_th_j_ve_sex_07573457_2:
 
     # "Vess gagged repeatedly, but soldiered on, her tongue covering the tip of my dick with her warm saliva."
-    "Vess se engasgou várias vezes mas continuou, sua língua cobrindo a cabeça do meu  pau com saliva quente."
+    "Vess se engasgou várias vezes mas continuou, sua língua cobrindo a cabeça do meu pau com saliva quente."
 
 # game/episode024.rpy:2157
 translate portuguese ep024_th_j_ve_sex_4dd0dd87_2:
@@ -7948,7 +7948,7 @@ translate portuguese ep024_th_j_ve_sex_8ed89f6b:
 translate portuguese ep024_th_j_ve_sex_0aeb9ce6:
 
     # j "Why don’t you offer your pussy to him and see what happens?"
-    j "Por que não oferece a sua você para ver o que acontece?"
+    j "Por que não oferece a sua boceta para ver o que acontece?"
 
 # game/episode024.rpy:2164
 translate portuguese ep024_th_j_ve_sex_750fdc15:
@@ -7984,7 +7984,7 @@ translate portuguese ep024_th_j_ve_sex_2d238b88_2:
 translate portuguese ep024_th_j_ve_sex_31c9202f_2:
 
     # c "Damn, I didn’t realize how wet you really were."
-    c "Caramba,, não sabia que você estava ensopada assim."
+    c "Caramba, não sabia que você estava ensopada assim."
 
 # game/episode024.rpy:2171
 translate portuguese ep024_th_j_ve_sex_d172da84_1:
@@ -8242,7 +8242,7 @@ translate portuguese ep024_th_j_ve_sex_5751360e:
 translate portuguese ep024_th_j_ve_sex_936d1281:
 
     # "As Thyia looked at us jealously, I pumped hot spurts of cum inside Vess."
-    "Jade olhava com inveja enquanto enchia a Vess de gozo."
+    "Thyia olhava com inveja enquanto enchia a Vess de gozo."
 
 # game/episode024.rpy:2248
 translate portuguese ep024_th_j_ve_sex_4fa26fe3:
@@ -8254,13 +8254,13 @@ translate portuguese ep024_th_j_ve_sex_4fa26fe3:
 translate portuguese ep024_th_j_ve_sex_408ed50d:
 
     # "A trickle of seed pulsed out of her slit as soon as I dislodged my dick."
-    "Um fio de sêmen derramou de sua assim que eu removi meu pau."
+    "Um fio de sêmen escorreu de sua boceta assim que eu removi meu pau."
 
 # game/episode024.rpy:2254
 translate portuguese ep024_th_j_ve_sex_58e55cd3:
 
     # "Jade deserved my load, so I pulled out of Vess and pulled Jade toward me."
-    "Jade merecia a gozada, então tirei meu  pau da  Vess e puxei Jade até mim."
+    "Jade merecia a gozada, então tirei meu pau da Vess e puxei Jade até mim."
 
 # game/episode024.rpy:2256
 translate portuguese ep024_th_j_ve_sex_9cdf3780:
@@ -8398,7 +8398,7 @@ translate portuguese ep024_th_j_ve_sex_f7c1f6a2:
 translate portuguese ep024_th_j_ve_sex_9e72a8c5:
 
     # th "Please put a baby inside me, [p_name_short]!"
-    th "Por favor põe um bebê dentro de mim, [p_name_short]!"
+    th "Por favor, põe um bebê dentro de mim, [p_name_short]!"
 
 # game/episode024.rpy:2295
 translate portuguese ep024_th_j_ve_sex_e992507b:
@@ -8422,7 +8422,7 @@ translate portuguese ep024_th_j_ve_sex_87e1d0d2:
 translate portuguese ep024_th_j_ve_sex_4d54f7a3:
 
     # "Balls deep inside her, I became undone and I pumped hot spurts of cum into her."
-    "Enterrado até as bolas, gozei vários jatos de gozo quente nela."
+    "Enterrado até as bolas, jorrei vários jatos de gozo quente nela."
 
 # game/episode024.rpy:2300
 translate portuguese ep024_th_j_ve_sex_6ec73669:
@@ -8440,7 +8440,7 @@ translate portuguese ep024_th_j_ve_sex_fe7a5693:
 translate portuguese ep024_th_j_ve_sex_568b1fab:
 
     # "It took a good while for the cum to ooze out of her slit after I pulled out of her cunt."
-    "Demorou um bom tempo para terminar de escorrer o sêmen dela depois que saí da sua boceta."
+    "Demorou um bom tempo para terminar de escorrer o sêmen de dentro dela depois que tirei o pau da sua boceta."
 
 # game/episode024.rpy:2316
 translate portuguese ep024_th_j_ve_sex_89f94e25:
@@ -8458,7 +8458,7 @@ translate portuguese ep024_th_j_ve_sex_fc7cbbc5:
 translate portuguese ep024_th_j_ve_sex_8a6999ec:
 
     # c "Lie down in front of me."
-    c "Deita de frente para mim."
+    c "Deita na minha frente."
 
 # game/episode024.rpy:2322
 translate portuguese ep024_th_j_ve_sex_9f2b4682:
@@ -8674,13 +8674,13 @@ translate portuguese ep024_th_j_ve_sex_384d51b6_1:
 translate portuguese ep024_th_j_ve_sex_c1164004:
 
     # j "I guess we should go before anyone misses us."
-    j "Acho melhor ir ver se alguém precisa da gente."
+    j "Acho melhor ir antes que sintam falta da gente."
 
 # game/episode024.rpy:2408
 translate portuguese ep024_th_j_ve_sex_351b85c4:
 
     # ve "I guess we should go before anyone misses us."
-    ve "Acho melhor ir ver se alguém precisa de nós."
+    ve "Acho melhor ir antes que sintam falta de nós."
 
 # game/episode024.rpy:2410
 translate portuguese ep024_th_j_ve_sex_37c6463c:
@@ -8814,7 +8814,7 @@ translate portuguese strings:
 
     # game/episode024.rpy:497
     old "A xenophobic species at war with the Tubloshi.."
-    new "Uma espécie de xenofóbica em guerra com os Tubloshi."
+    new "Uma espécie xenofóbica em guerra com os Tubloshi."
 
     # game/episode024.rpy:809
     old "Organizations"
@@ -8895,7 +8895,7 @@ translate portuguese ep024_sharard_644178bb:
 translate portuguese ep024_tubloshi_7c512ba1:
 
     # ha "We are surprised you would contact us again and suspect a higher purpose behind your call."
-    ha "Estamos surpresos por ter nos contactado novamente, e suspeitamos um propósito maior por trás disso."
+    ha "Estamos surpresos por ter nos contactado novamente, e suspeitamos de um propósito maior por trás disso."
 
 # game/episode024.rpy:226
 translate portuguese ep024_tubloshi_1e1bbf91:
@@ -8925,7 +8925,7 @@ translate portuguese ep024_uailea_council_6cbb36bf:
 translate portuguese ep024_uailea_council_4ecfd6fb:
 
     # arl "It is not in the best interest of the Rhenkoy to become part of this conflict, and we will therefore remain neutral in it."
-    arl "Não é melhor para as Nkoy participar deste conflito, sendo assim seremos parte neutra."
+    arl "Não é do interesse das Rhenkoy participar deste conflito, sendo assim seremos parte neutra."
 
 # game/episode024.rpy:1034
 translate portuguese ep024_uailea_rhedia_crisis_2507f9f6:
@@ -8973,7 +8973,7 @@ translate portuguese ep024_sharard_e700477d:
 translate portuguese ep024_uailea_departure_e4b10942:
 
     # c "I take it you had no trouble getting off Uailea?"
-    c "Imgino que não teve problemas em sair de Uailea?"
+    c "Imagino que não teve problemas em sair de Uailea?"
 
 # game/episode024.rpy:2046
 translate portuguese ep024_th_j_ve_sex_09ad9174_1:
@@ -8993,149 +8993,149 @@ translate portuguese strings:
 translate portuguese ep024_hannah_28f4f7f9_1:
 
     # ha "I am, nothing much has changed to be honest."
-    ha ""
+    ha "Sim. Sinceramente, não mudou muita coisa."
 
 # game/episode024.rpy:612
 translate portuguese ep024_hannah_27f8ed19_1:
 
     # c "Well, I wish I could say the same."
-    c ""
+    c "Bom, eu queria poder dizer o mesmo."
 
 # game/episode024.rpy:613
 translate portuguese ep024_hannah_4211b7aa_1:
 
     # c "Quite a lot has happened since we last saw each other."
-    c ""
+    c "Muita coisa aconteceu desde a última vez que a gente se viu."
 
 # game/episode024.rpy:615
 translate portuguese ep024_hannah_d6c04b21_1:
 
     # "Hannah stepped in closer as I talked, until our bodies were nearly touching."
-    ""
+    "Hannah chegou mais perto enquanto eu falava, até nossos corpos estarem quase se tocando."
 
 # game/episode024.rpy:616
 translate portuguese ep024_hannah_8c8080b9_1:
 
     # ha "I want to hear all about it."
-    ha ""
+    ha "Me conta tudinho."
 
 # game/episode024.rpy:617
 translate portuguese ep024_hannah_3f8cf74f_1:
 
     # ha "But there’s something I’d like to do first."
-    ha ""
+    ha "Mas tem uma coisa que eu quero fazer antes."
 
 # game/episode024.rpy:618
 translate portuguese ep024_hannah_59fe9738_1:
 
     # "She pawed at my shirt, but I had to take her hand and stop her."
-    ""
+    "Ela pegou na minha camisa, mas eu tive que tirar sua mão e impedir isso."
 
 # game/episode024.rpy:619
 translate portuguese ep024_hannah_ea2b69e7_1:
 
     # c "I’m sorry, Hannah, but I can’t do this."
-    c ""
+    c "Desculpa, Hannah, não posso fazer isso."
 
 # game/episode024.rpy:621
 translate portuguese ep024_hannah_16ea41d1_1:
 
     # ha "Why?"
-    ha ""
+    ha "Por quê?"
 
 # game/episode024.rpy:622
 translate portuguese ep024_hannah_90ca8a0a_1:
 
     # c "As I said, a lot has happened."
-    c ""
+    c "Como eu disse, aconteceu muita coisa."
 
 # game/episode024.rpy:624
 translate portuguese ep024_hannah_37cd9dfe_1:
 
     # c "I’ve made a promise to someone I love."
-    c ""
+    c "Eu prometi a uma pessoa que amo."
 
 # game/episode024.rpy:625
 translate portuguese ep024_hannah_8e166d61_1:
 
     # c "I don’t want to break that promise."
-    c ""
+    c "Não quero quebrar essa promessa."
 
 # game/episode024.rpy:627
 translate portuguese ep024_hannah_a027db01_1:
 
     # ha "How noble..."
-    ha ""
+    ha "Que nobre..."
 
 # game/episode024.rpy:629
 translate portuguese ep024_hannah_3b95d89c:
 
     # c "I’m not the same person as I was before, Hannah."
-    c ""
+    c "Eu não sou a mesma pessoa de antes."
 
 # game/episode024.rpy:630
 translate portuguese ep024_hannah_2389393d_1:
 
     # ha "Why did you come back to my room then?"
-    ha ""
+    ha "Então por que veio para o meu quarto?"
 
 # game/episode024.rpy:631
 translate portuguese ep024_hannah_d010545c_1:
 
     # c "I just wanted to talk, two friends catching up."
-    c ""
+    c "Só queria conversar, tipo dois amigos botando o papo em dia."
 
 # game/episode024.rpy:633
 translate portuguese ep024_hannah_ed880052_1:
 
     # ha "And I wanted to fuck."
-    ha ""
+    ha "E eu queria transar."
 
 # game/episode024.rpy:634
 translate portuguese ep024_hannah_cac1ede2_1:
 
     # ha "Guess we both won’t be getting our way."
-    ha ""
+    ha "Então ninguém vai conseguir o que queria."
 
 # game/episode024.rpy:635
 translate portuguese ep024_hannah_ab0c4a93_1:
 
     # c "Hannah-"
-    c ""
+    c "Hannah-"
 
 # game/episode024.rpy:637
 translate portuguese ep024_hannah_26c75057_1:
 
     # ha "Just go, [p_name]."
-    ha ""
+    ha "Vai, [p_name]."
 
 # game/episode024.rpy:639
 translate portuguese ep024_hannah_be3fe603_1:
 
     # ha "I’d like to be alone."
-    ha ""
+    ha "Quero ficar sozinha."
 
 # game/episode024.rpy:641
 translate portuguese ep024_hannah_c2883965_1:
 
     # "I left Hannah and went back to Ziv and Aven to wait on the Tubloshi verdict."
-    ""
+    "Eu deixei Hannah e voltei para Ziv e Aven para esperar o veredito dos Tubloshi."
 
 # game/episode024.rpy:1329
 translate portuguese ep024_sharard_756dded1:
 
     # j "The building manager is quite livid about it."
-    j ""
+    j "A gerente está bem irritada."
 
 translate portuguese strings:
 
     # game/episode024.rpy:590
     old "Kiss her"
-    new ""
+    new "Beijá-la"
 
     # game/episode024.rpy:608
     old "Keep your distance"
-    new ""
+    new "Manter distância"
 
 # TODO: Translation updated at 2026-10-29 12:17
 
@@ -9143,5 +9143,5 @@ translate portuguese strings:
 translate portuguese ep024_hannah_sex_da0ac3b6:
 
     # "I wanted to bury my cock deep inside her tight, wet cunt and remain in that perfect moment of bliss."
-    ""
+    "Eu queria meter bem fundo nessa bocetinha apertada e ficar nesse momento perfeito de êxtase."
 
